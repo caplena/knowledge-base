@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "Changelog",
+      "uri": "docs/01-Changelog.md"
+    },
+    {
+      "type": "divider",
+      "title": "V2"
+    },
+    {
+      "type": "item",
+      "title": "Sentiment Topics",
+      "uri": "docs/02-V2.md"
+    },
+    {
+      "type": "divider",
+      "title": "Projects"
+    }
+}
