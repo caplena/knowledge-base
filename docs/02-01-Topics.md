@@ -22,11 +22,11 @@ Topics have slightly different properties, depending if *topic sentiment* is ena
 
 Property | New in v2 | AI relevant 🤖* | Meaning 
 ---------|----------|---------|---------
-| **[Label](#Label)** | | ✅ |  A concise summary of what you associate with a topic. |
-| **[Topic Sentiment](#Topic_Sentiment)** | ✅ | ✅ | If this topic has a *positive, negative and neutral* version.  |
-| **[Sentiment Labels](#Sentiment_Labels)** | ✅ | ✅ | Optional sentiment-specific topic labels. |
-| [Description](#Description) |  | | Optional long-form description or examples. |
-| [Code](#Code) |  |  | Optional unique, numeric identifier for your topics.|
+| **[Label](#label)** | | ✅ |  A concise summary of what you associate with a topic. |
+| **[Topic Sentiment](#topic-sentiment)** | ✅ | ✅ | If this topic has a *positive, negative and neutral* version.  |
+| **[Sentiment Labels](#sentiment-Labels)** | ✅ | ✅ | Optional sentiment-specific topic labels. |
+| [Description](#description) |  | | Optional long-form description or examples. |
+| [Code](#code) |  |  | Optional unique, numeric identifier for your topics.|
 
 <!-- theme: info -->
 
