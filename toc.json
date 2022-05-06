@@ -12,7 +12,12 @@
     {
       "type": "item",
       "title": "What's new",
-      "uri": "docs/02-V2.md"
+      "uri": "docs/02-00-Overview.md"
+    },
+    {
+      "type": "item",
+      "title": "Sentiment Topics",
+      "uri": "docs/02-01-Topics.md"
     },
     {
       "type": "divider",

@@ -1,0 +1,104 @@
+# Sentiment Topics
+
+**Topics**, also known as *codes, themes, classes or labels* by some, summarize what is mentioned in your text comments. Topics can have different sentiments:
+
+| Positive | Neutral  | Negative  |
+|---|---|---|
+| <img src="images/topic_positive.png" style="width:170px;"/> | <img src="images/topic_neutral.png" style="width:170px;"/> |  <img src="images/topic_negative.png" style="width:170px;"/> |
+
+This means you only have to create **one** topic for all three sentiment attitudes from - the AI will then automatically assign the correct one.
+
+*Note: It is completely optional to enable sentiment on topics, you can also continue to use them without sentiment*.
+
+## Topic Properties
+
+Topics have slightly different properties, depending if *topic sentiment* is enabled or not:
+
+| *With* topic sentiment | *Without* topic sentiment |
+|---|---|
+| <img src="images/topic_with_sentiment.png" style="width:325px;"/> | <img src="images/topic_wo_sentiment.png" style="width:325px;"/> |
+
+Property | New in v2 | AI relevant 🤖* | Meaning 
+---------|----------|---------|---------
+| **[Label](#Label)** | | ✅ |  A concise summary of what you associate with a topic. |
+| **[Topic Sentiment](#Topic_Sentiment)** | ✅ | ✅ | If this topic has a *positive, negative and neutral* version.  |
+| **[Sentiment Labels](#Sentiment_Labels)** | ✅ | ✅ | Optional sentiment-specific topic labels. |
+| [Description](#Description) |  | | Optional long-form description or examples. |
+| [Code](#Code) |  |  | Optional unique, numeric identifier for your topics.|
+
+<!-- theme: info -->
+
+> ***AI-relevant 🤖** means the property is considered by the AI during training and when assigning codes.
+
+### Category
+
+A category is a set of topics which are referring to the same overarching theme. A category could be for example `Customer Service`.
+
+*The category is AI-relevant 🤖*.
+
+### Label
+
+Concise meaning of the topic. This is what's displayed on the topic chips and is used by our AI to assign topics to texts. A good topic name should be short while still conveying the meaning of the topic in plain text. Examples for topic names are `Staff friendlyness` or `Shipping Fees`.
+
+*The label is AI-relevant 🤖*.
+
+### Topic Sentiment
+
+If the AI should distinguish between *positive, negative and neutral* versions of this topic. For most topics you will want this to be enabled, but there are topics like `Not relevant` or `Don't know` where topic sentiment does not make sense.
+
+*The topic sentiment setting is AI-relevant 🤖*.
+
+<!-- theme: warning -->
+> #### Disabling & enabling topic sentiment
+>
+> When disabling the topic sentiment, the sentiment will be discarded from the topic in all rows. **This action is non-reversible:** If you activate the sentiment again, rows which have already been reviewed will not get the topic sentiment back, but will show a `neutral` sentiment for this topic instead.
+>
+>For rows which haven't been reviewed yet, the AI will start differentiating between the sentiment versions as soon as you enable the topic sentiment.
+
+### Sentiment Labels
+
+Optional sentiment-specific topic labels, which are displayed on topic chips and charts instead of the topic name itself. 
+*Example:* `Friendly` / `Unfriendly` for topic name `Friendliness`. <br>Only available if topic-sentiment is enabled.
+
+*The sentiment labels are AI-relevant 🤖*.
+
+### Description
+
+Longer description of the copic for reference. This field is not used by our AI to assign the topic, therefore make sure that the essence of the description is contained in the topic label & category.
+
+### Code
+
+Unique numerical identifier for a specific code. This can be used to visualize and compare across studies or to trigger predefined actions based on the assigned code. You can chose the ID if you want to, otherwise we automatically assign one.
+
+### Deprecation of Keywords
+
+We have decided to deprecate the current version of keywords. The reason for this is that we saw a majority of people using them suboptimally, resulting in **a lower quality of output and more effort** for them.
+
+**What does deprecation mean:** Keywords are disabled by default when switching to v2, thus being ignored by the AI. If you are sure your usage of them made sense and is important to your projects, please reach out to our support team *indicating an example project where you need them*, and we will see if it makes sense to keep them activated for you.
+
+<!-- theme: success -->
+
+> #### New keyword feature in the pipeline
+>
+> We are planning to roll out a new version of keywords going forward: Unlike the previous version of keywords which were *interpreted* by the AI, the new keywords will act as *exact matches* and also support *regular expressions*.
+> 
+> Use-cases for these new keywords could be matching phone numbers or matching different brand names to a company.
+>
+> Reach out to our support team if you're interested in an early preview.
+
+## Migration Guide
+
+### Converting v1 projects to v2
+
+**First of all**: You are not required to convert your projects to use sentiment topics. All previous functionality is still available.
+
+TODO: To make use of the new sentiment feature...
+
+
+<!-- theme: warning -->
+> #### Inheriting projects
+>
+> If you have multiple projects inheriting from each other and still show the old projects in your trend charts, please wait with migrating to the new structure for now.
+
+
+
