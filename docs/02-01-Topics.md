@@ -4,7 +4,7 @@
 
 | Positive | Neutral  | Negative  |
 |---|---|---|
-| <img src="images/topic_positive.png" style="width:170px;"/> | <img src="images/topic_neutral.png" style="width:170px;"/> |  <img src="images/topic_negative.png" style="width:170px;"/> |
+| <img src="./images/topic_positive.png" style="width:170px;"/> | <img src="images/topic_neutral.png" style="width:170px;"/> |  <img src="images/topic_negative.png" style="width:170px;"/> |
 
 This means you only have to create **one** topic for all three sentiment attitudes from - the AI will then automatically assign the correct one.
 
