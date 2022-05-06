@@ -1,10 +1,12 @@
 # Sentiment Topics
 
+
+
 **Topics**, also known as *codes, themes, classes or labels* by some, summarize what is mentioned in your text comments. Topics can have different sentiments:
 
 | Positive | Neutral  | Negative  |
 |---|---|---|
-| <img src="./images/topic_positive.png" style="width:170px;"/> | <img src="images/topic_neutral.png" style="width:170px;"/> |  <img src="images/topic_negative.png" style="width:170px;"/> |
+| <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_positive.png" style="width:170px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_neutral.png" style="width:170px;"/> |  <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_negative.png" style="width:170px;"/> |
 
 This means you only have to create **one** topic for all three sentiment attitudes from - the AI will then automatically assign the correct one.
 
@@ -16,7 +18,7 @@ Topics have slightly different properties, depending if *topic sentiment* is ena
 
 | *With* topic sentiment | *Without* topic sentiment |
 |---|---|
-| <img src="images/topic_with_sentiment.png" style="width:325px;"/> | <img src="images/topic_wo_sentiment.png" style="width:325px;"/> |
+| <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_with_sentiment.png" style="width:325px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_wo_sentiment.png" style="width:325px;"/> |
 
 Property | New in v2 | AI relevant 🤖* | Meaning 
 ---------|----------|---------|---------
