@@ -14,7 +14,7 @@ This means you only have to create **one** topic for all three sentiment attitud
 
 <div style="display:flex; align-items: center">
 <div>Codes without sentiment don't have any indicator:</div>
-<img src="images/topic_no_code.png" style="width:100px;"/>
+<img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_no_code.png" style="width:100px;"/>
 </div>
 
 
