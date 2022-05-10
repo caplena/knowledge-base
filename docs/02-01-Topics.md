@@ -12,13 +12,19 @@ This means you only have to create **one** topic for all three sentiment attitud
 
 *Note: It is completely optional to enable sentiment on topics, you can also continue to use them without sentiment*.
 
+<div style="display:flex; align-items: center">
+<div>Codes without sentiment don't have any indicator:</div>
+<img src="images/topic_no_code.png" style="width:100px;"/>
+</div>
+
+
 ## Topic Properties
 
 Topics have slightly different properties, depending if *topic sentiment* is enabled or not:
 
 | *With* topic sentiment | *Without* topic sentiment |
 |---|---|
-| <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_with_sentiment.png" style="width:325px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_wo_sentiment.png" style="width:325px;"/> |
+| <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_with_sentiment.png" style="width:330px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_wo_sentiment.png" style="width:330px;"/> |
 
 Property | New in v2 | AI relevant 🤖* | Meaning 
 ---------|----------|---------|---------
