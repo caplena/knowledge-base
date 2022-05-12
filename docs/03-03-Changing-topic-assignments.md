@@ -25,4 +25,4 @@ A row is automatically marked as *reviewed* when you change anything on the topi
 
 In some cases you might want to perform bulk operations on multiple rows at once. To do this, either select multiple rows by clicking them while holding down the `shift` key. To select all rows that match a certain condition, filter for those rows first and then click the `Select all rows` link on the top right of the row browser.
 
-As soon as multiple rows have been selected, the bulk editing menu opens in the sidebar 
+As soon as multiple rows have been selected, the bulk editing menu opens in the sidebar.

@@ -4,15 +4,20 @@
       "type": "item",
       "title": "Changelog",
       "uri": "docs/01-Changelog.md"
-    },
-    {
-      "type": "divider",
-      "title": "V2"
     }, */
     {
+      "type": "divider",
+      "title": "v2"
+    },
+    {
       "type": "item",
-      "title": "V2 Changes",
-      "uri": "docs/02-00-Overview.md"
+      "title": "Changes in v2",
+      "uri": "docs/02-00-V2-changes.md"
+    },
+    {
+      "type": "item",
+      "title": "Migration Guide",
+      "uri": "docs/02-01-Migration-guide.md"
     },
     {
       "type": "divider",
@@ -45,6 +50,11 @@
           "type": "item",
           "title": "Changing Topic Assignments",
           "uri": "docs/03-03-Changing-topic-assignments.md"
+        },
+        {
+          "type": "item",
+          "title": "Export",
+          "uri": "docs/03-04-Export.md"
         }
       ]
     }

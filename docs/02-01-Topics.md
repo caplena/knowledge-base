@@ -1,12 +1,18 @@
 # Sentiment Topics
 
+* [Overview](#overview)
+* [Topic Properties](#topic-properties)
 
+
+*Check out the [🚀 Migration Guide](docs/01-01-Migration-guide.md) to learn how to convert existing projects to make use of sentiment topics.*
+
+## Overview
 
 **Topics**, also known as *codes, themes, classes or labels* by some, summarize what is mentioned in your text comments. Topics can have different sentiments:
 
 | Positive | Neutral  | Negative  |
 |---|---|---|
-| <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_positive.png" style="width:170px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_neutral.png" style="width:170px;"/> |  <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_negative.png" style="width:170px;"/> |
+| <img src="images/topic_positive.png" style="width:170px;"/> | <img src="images/topic_neutral.png" style="width:170px;"/> |  <img src="images/topic_negative.png" style="width:170px;"/> |
 
 This means you only have to create **one** topic for all three sentiment attitudes from - the AI will then automatically assign the correct one.
 
@@ -14,9 +20,8 @@ This means you only have to create **one** topic for all three sentiment attitud
 
 <div style="display:flex; align-items: center">
 <div>Codes without sentiment don't have any indicator:</div>
-<img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_no_code.png" style="width:100px;"/>
+<img src="images/topic_no_code.png" style="width:100px;"/>
 </div>
-
 
 ## Topic Properties
 
@@ -24,7 +29,7 @@ Topics have slightly different properties, depending if *topic sentiment* is ena
 
 | *With* topic sentiment | *Without* topic sentiment |
 |---|---|
-| <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_with_sentiment.png" style="width:330px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_wo_sentiment.png" style="width:330px;"/> |
+| <img src="images/topic_with_sentiment.png" style="width:330px;"/> | <img src="images/topic_wo_sentiment.png" style="width:330px;"/> |
 
 Property | New in v2 | AI relevant 🤖* | Meaning 
 ---------|----------|---------|---------
@@ -93,20 +98,6 @@ We have decided to deprecate the current version of keywords. The reason for thi
 > Use-cases for these new keywords could be matching phone numbers or matching different brand names to a company.
 >
 > Reach out to our support team if you're interested in an early preview.
-
-## Migration Guide
-
-### Converting v1 projects to v2
-
-**First of all**: You are not required to convert your projects to use sentiment topics. All previous functionality is still available.
-
-TODO: To make use of the new sentiment feature...
-
-
-<!-- theme: warning -->
-> #### Inheriting projects
->
-> If you have multiple projects inheriting from each other and still show the old projects in your trend charts, please wait with migrating to the new structure for now.
 
 
 

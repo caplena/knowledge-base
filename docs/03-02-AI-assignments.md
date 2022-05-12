@@ -16,7 +16,7 @@ Caplena's AI automatically assigns the appropriate topics from your topic-tree t
 ### Understanding of Topics
 
 The AI does *not* work like a keyword matching algorithm. Instead it tries to *understand* the topics. This means you don't have to add a lot of synonyms, it already knows that `Overpriced` and `Too expensive` mean the same thing.
-See [Topic Properties](docs/02-01-Topics.md#topic-properties) to understand which topic properties are relevant for the AI.
+See [Topic Properties](02-01-Topics.md#topic-properties) to understand which topic properties are relevant for the AI.
 
 ### Model Architecture
 

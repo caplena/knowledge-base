@@ -6,9 +6,11 @@ Codes are now called **topics**. And they can now have different sentiments:
 
 | Positive | Neutral  | Negative  |
 |---|---|---|
-| <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_positive.png" style="width:170px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_neutral.png" style="width:170px;"/> |  <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_negative.png" style="width:170px;"/> |
+| <img src="images/topic_positive.png" style="width:170px;"/> | <img src="images/topic_neutral.png" style="width:170px;"/> |  <img src="images/topic_negative.png" style="width:170px;"/> |
 
-[👉 Learn more.](docs/02-01-Topics.md)
+[👉 Learn more.](docs/02-01-Topics.md) on how topics work.
+
+Check out the [🚀 Migration Guide](docs/01-01-Migration-guide.md) to see how to make use of sentiment topics in existing projects.
 
 ## New Coding View
 
