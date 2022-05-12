@@ -15,20 +15,20 @@ Caplena's AI automatically assigns the appropriate topics from your topic-tree t
 
 ### Understanding of Topics
 
-The AI does *not* work like a keyword matching algorithm. Instead it tries to *understand* the topics. This means you don't have to add a lot of synonyms, it already knows that `Overpriced` and `Too expensive` mean the same thing.
+The AI does *not* work like a keyword matching algorithm. Instead, it tries to *understand* the topics. This means you don't have to add a lot of synonyms, it already knows that `Overpriced` and `Too expensive` mean the same thing.
 See [Topic Properties](02-01-Topics.md#topic-properties) to understand which topic properties are relevant for the AI.
 
 ### Model Architecture
 
-This is of course part of our secret sauce and nothing we can share publicliy 🙊. What we can say is that we make use of a heavily modified Transformer architecture. For the technically interested, check out [this article](https://jalammar.github.io/illustrated-transformer/) on transformers.
+This is of course part of our secret sauce and nothing we can share publicly 🙊. What we can say is that we make use of a heavily modified Transformer architecture. For the technically interested, check out [this article](https://jalammar.github.io/illustrated-transformer/) on transformers.
 
 ### AI Training
 
-Our AI is trained in a three step process:
+Our AI is trained in a three-step process:
 
-1. **Pretraining:** First we pretrain it on a massive amount of unstructured data, basically a dump of the internet. From this the AI learns a basic language understanding including things like synonyms, antonyms and negations.
+1. **Pretraining:** First we pretrain it on a massive amount of unstructured data, basically a dump of the internet. From this the AI learns a basic language understanding including things like synonyms, antonyms, and negations.
 2. **Training on Caplena's data:** The second, crucial step is to train it on the millions of rows of hand-reviewed data that we have on Caplena.
-3. ***(Optional)* Fine-tuning:** Finally you can fine-tune the AI on a small amount of your specific data, to nudge it into the right direction.
+3. ***(Optional)* Fine-tuning:** Finally, you can fine-tune the AI on a small amount of your specific data, to nudge it into the right direction.
 
 ## Fine-Tuning
 
@@ -37,7 +37,7 @@ To fine-tune the AI on your specific data, simply review a sample of your data. 
 ### Focus Mode
 
 The most efficient way to fine-tune your data is by activating the focus mode 🤓. This mode does a couple of things:
-* Sort the rows by **AI certainty**: This means that you will first be shown the texts where the AI ist *most unsure* on its assignments. By reviewing and potentially correcting these assignments first, the AI is learns much more efficiently.<br>This technique is also known as *active learning*.
+* Sort the rows by **AI certainty**: This means that you will first be shown the texts where the AI is *most unsure* on its assignments. By reviewing and potentially correcting these assignments first, the AI learns much more efficiently.<br>This technique is also known as *active learning*.
 * Filter for non-reviewed rows only, as you do not want to look at these rows again.
 * Hide any potential distractions, so you can fully focus on the current row you're looking at.
 
@@ -49,25 +49,25 @@ As you review rows, a counter will indicate when the next AI update will be trig
 
 The "distance" between updates gets larger as trainings become more computationally expensive and the incremental amount of information gained from a review decreases with the amount of data.
 
-*Note:* [Bulk assigments](03-03-Changing-topic-assignments.md#bulk-assign) only count as a single review.
+*Note:* [Bulk assignments](03-03-Changing-topic-assignments.md#bulk-assignment) only count as a single review.
 
 ![AI Update](images/ai-next-update.png)
 
 
 #### 2. When changing Topics
 
-If any of the [AI-relevant topic properties](02-01-Topics.md#topic-properties) are changed, the AI will be fine-tuned again. In some cases a delay of 30-60 seconds is applied before starting the update.
+If any of the [AI-relevant topic properties](02-01-Topics.md#topic-properties) are changed, the AI will be fine-tuned again. In some cases, a delay of 30-60 seconds is applied before starting the update.
 
 ### When is the AI fine-tuned enough?
 
 You can decide when you are satisfied with fine-tuning. We recommend using a combination of a qualitative check and consulting the AI score to make this decision.
 
 <!-- theme: info -->
-> As a rule of thumb we often recommend to review about 20% of the rows but not more than 300, whichever is lower.
+> As a rule of thumb, we often recommend to review about 20% of the rows but not more than 300, whichever is lower.
 
 ### AI Score
 
-The AI score indicates how well **your reviewed topic assignments match the AI's auto-assigments.** For the score to become available, you need to have reviewed at least 50 rows.
+The AI score indicates how well **your reviewed topic assignments match the AI's auto-assignments.** For the score to become available, you need to have reviewed at least 50 rows.
 
 #### What is a good score?
 
@@ -87,7 +87,7 @@ For text classification, accuracy is often not a very good measure. If datasets 
 
 #### How do you measure the score?
 
-When training our machine learning model, we leave out a part of the data you have reviewed. Scoring is then done on the left out data.
+When training our machine learning model, we leave out a part of the data you have reviewed. Scoring is then done on the left-out data.
 
 Technically speaking the score represents the weighted F1 over all topics.
 

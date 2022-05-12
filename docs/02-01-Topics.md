@@ -4,7 +4,7 @@
 * [Topic Properties](#topic-properties)
 
 
-*Check out the [🚀 Migration Guide](docs/01-01-Migration-guide.md) to learn how to convert existing projects to make use of sentiment topics.*
+*Check out the [🚀 Migration Guide](02-01-Migration-guide.md) to learn how to convert existing projects to make use of sentiment topics.*
 
 ## Overview
 
@@ -14,9 +14,11 @@
 |---|---|---|
 | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_positive.png" style="width:170px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_neutral.png" style="width:170px;"/> |  <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_negative.png" style="width:170px;"/> |
 
-This means you only have to create **one** topic for all three sentiment attitudes from - the AI will then automatically assign the correct one.
+This means you must only create **one** topic for all three sentiment attitudes from - the AI will then automatically assign the correct one.
 
-*Note: It is completely optional to enable sentiment on topics, you can also continue to use them without sentiment*.
+<!-- theme: info -->
+
+> Note: It is completely optional to enable sentiment on topics, you can also continue to use them without sentiment.
 
 <div style="display:flex; align-items: center">
 <div>Codes without sentiment don't have any indicator:</div>
@@ -25,7 +27,7 @@ This means you only have to create **one** topic for all three sentiment attitud
 
 ## Topic Properties
 
-Topics have slightly different properties, depending if *topic sentiment* is enabled or not:
+Topics have slightly different properties, depending on if *topic sentiment* is enabled or not:
 
 | *With* topic sentiment | *Without* topic sentiment |
 |---|---|
@@ -51,7 +53,7 @@ A category is a set of topics which are referring to the same overarching theme.
 
 ### Label
 
-Concise meaning of the topic. This is what's displayed on the topic chips and is used by our AI to assign topics to texts. A good topic name should be short while still conveying the meaning of the topic in plain text. Examples for topic names are `Staff friendlyness` or `Shipping Fees`.
+Concise meaning of the topic. This is what's displayed on the topic chips and is used by our AI to assign topics to texts. A good topic name should be short while still conveying the meaning of the topic in plain text. Examples for topic names are `Staff friendliness` or `Shipping Fees`.
 
 *The label is AI-relevant 🤖*.
 
@@ -64,7 +66,7 @@ If the AI should distinguish between *positive, negative and neutral* versions o
 <!-- theme: warning -->
 > #### Disabling & enabling topic sentiment
 >
-> When disabling the topic sentiment, the sentiment will be discarded from the topic in all rows. **This action is non-reversible:** If you activate the sentiment again, rows which have already been reviewed will not get the topic sentiment back, but will show a `neutral` sentiment for this topic instead.
+> When disabling the topic sentiment, the sentiment will be discarded from the topic in all rows. **This action is non-reversible:** If you activate the sentiment again, rows which have already been reviewed will not get the topic sentiment back but will show a `neutral` sentiment for this topic instead.
 >
 >For rows which haven't been reviewed yet, the AI will start differentiating between the sentiment versions as soon as you enable the topic sentiment.
 
@@ -77,15 +79,15 @@ Optional sentiment-specific topic labels, which are displayed on topic chips and
 
 ### Description
 
-Longer description of the copic for reference. This field is not used by our AI to assign the topic, therefore make sure that the essence of the description is contained in the topic label & category.
+Longer description of the topic for reference. This field is not used by our AI to assign the topic, therefore make sure that the essence of the description is contained in the topic label & category.
 
 ### Code
 
-Unique numerical identifier for a specific code. This can be used to visualize and compare across studies or to trigger predefined actions based on the assigned code. You can chose the ID if you want to, otherwise we automatically assign one.
+Unique numerical identifier for a specific code. This can be used to visualize and compare across studies or to trigger predefined actions based on the assigned code. You can choose the ID if you want to, otherwise we automatically assign one.
 
 ### Deprecation of Keywords
 
-We have decided to deprecate the current version of keywords. The reason for this is that we saw a majority of people using them suboptimally, resulting in **a lower quality of output and more effort** for them.
+We have decided to deprecate the current version of keywords. The reason for this is that we saw most people using them in a suboptimal way, resulting in **a lower quality of output and more effort** for them.
 
 **What does deprecation mean:** Keywords are disabled by default when switching to v2, thus being ignored by the AI. If you are sure your usage of them made sense and is important to your projects, please reach out to our support team *indicating an example project where you need them*, and we will see if it makes sense to keep them activated for you.
 

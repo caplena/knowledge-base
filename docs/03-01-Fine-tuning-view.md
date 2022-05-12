@@ -45,7 +45,7 @@ The overall sentiment of the text can be either *positive, neutral or negative*.
 
 ![Row](images/sentiments.png)
 
-It is computed automatically and cannot be adjusted manually. However, when sentiment-entabled topics are assigned to the text, the overall sentiment is adapted accordingly.
+It is computed automatically and cannot be adjusted manually. However, when sentiment-enabled topics are assigned to the text, the overall sentiment is adapted accordingly.
 
 ### 5. Reviewed State
 
@@ -61,12 +61,12 @@ To edit the topics of multiple rows at once, click this checkbox or hold shift a
 
 ### 8. Duplicates
 
-If this icon is shown, it means the text of this row is exactly the same as one or more other rows. The number besides the icon indicates how many exact duplicates are present in the project. The duplicates are based on the translated text, if translations are enabled.
+If this icon is shown, it means the text of this row is identical to one or more other rows. The number besides the icon indicates how many exact duplicates are present in the project. The duplicates are based on the translated text if translations are enabled.
 
-By default, duplicates are assigned the same topics and are also marked as *reviewed*, when you review one of them. To disable this behaviour, adjust the duplicates grouping setting in the [view options](#view-options).
+By default, duplicates are assigned the same topics and are also marked as *reviewed*, when you review one of them. To disable this behavior, adjust the duplicates grouping setting in the [view options](#view-options).
 
 <!-- theme: info -->
-> Duplicate grouping may be *temporarily disabled* if specific filters are applied (e.g. when filtering for other columns in your data), to prevent confusing behaviour. A notification is shown on the top right whenever this is the case.
+> Duplicate grouping may be *temporarily disabled* if specific filters are applied (e.g. when filtering for other columns in your data), to prevent confusing behavior. A notification is shown on the top right whenever this is the case.
 
 ### 9. See Original Text
 
@@ -76,29 +76,29 @@ See also translations. [TODO]
 
 ## Filters
 
-Add filters to only show a subset of all rows. Filters are also applied to exports triggered from this view, see [this article](03-04-Export.md)].
+Add filters to only show a subset of all rows. Filters are also applied to exports triggered from this view, see [this article](03-04-Export.md).
 
 ![Filters](images/filters.png)
 
 ## View Options
 
 The view options allow you to specify a couple of settings which define the appearance of your data:
-* **Display additional columns:** Which additional data columns from your project to show below the text. See also [Other Columns](#other-columns).
-* **Group identical responses:** If enabled (default), duplicate texts are only shown once. [Learn more](#duplicates).
-* **Show Translations:** If enabled, the translations are shown instead of the original text. This is the default, if translations were enabled for the project when importing the data. See also [TODO].
+* **Display additional columns:** Which additional data columns from your project to show below the text. See also [Other Columns](#3-other-columns).
+* **Group identical responses:** If enabled (default), duplicate texts are only shown once. [Learn more](#8-duplicates).
+* **Show Translations:** If enabled, the translations are shown instead of the original text. This is the default if translations were enabled for the project when importing the data. See also [TODO].
 
 
 ## Export
 
-See [Export](03-05-Export.md).
+See [Export](03-04-Export.md).
 
 
 ## Topic Editor
 
-In the topic editor you can edit exiting topics, merge them or add new ones. Click on a topic to edit it or drag it onto another one to see the merge options. To learn more about how topics work, see also [Topics.](02-01-Topics.md)
+In the topic editor you can edit exiting topics, merge them, or add new ones. Click on a topic to edit it or drag it onto another one to see the merge options. To learn more about how topics work, see also [Topics.](02-01-Topics.md)
 
 <!-- theme: info -->
-> Whenever topics are changed or added this triggers an AI update. See also [AI Topic Assigmnents](02-01-Topics.md).
+> Whenever topics are changed or added, this triggers an AI update. See also [AI Topic Assignments](03-02-AI-assignments.md#when-is-the-ai-updated).
 
 ## AI Score
 
