@@ -2,6 +2,8 @@
 
 As the name suggests, this view lets you fine-tune the AI towards your specific needs, by reviewing a small portion of your data. The view also allows **modifying topics, filtering and exporting the data**.
 
+## Overview
+
 ![Fine-tuning view](images/fine-tuning-view.png)
 
 1. [Rows](#rows)
@@ -31,7 +33,7 @@ Here you see which topics have been assigned to the row. In this example we have
 * `Rates` with a positive sentiment, belonging to the category `PRICING`
 * `Unlimited Date` without sentiment, belonging to the category `PLAN`
 
-Topics are auto-assigned by the AI (see [TODO] on how AI updates work) or can be manually changed by clicking on the row.
+Topics are auto-assigned by the AI (see [this article](03-02-AI-assignments.md) on how AI updates work) or can be manually changed by clicking on the row.
 
 ### 3. Other Columns
 
@@ -55,7 +57,7 @@ This is the index of the row in the project you uploaded / imported into Caplena
 
 ### 7. Bulk Select Checkbox
 
-To edit the topics of multiple rows at once, click this checkbox or hold shift and select multiple rows. See [TODO].
+To edit the topics of multiple rows at once, click this checkbox or hold shift and select multiple rows. See also [here](03-03-Changing-topic-assignments.md#bulk-assignment).
 
 ### 8. Duplicates
 
@@ -74,8 +76,7 @@ See also translations. [TODO]
 
 ## Filters
 
-
-Add filters to only show a subset of all rows. Filters are also applied to exports triggered from this view, see [TODO].
+Add filters to only show a subset of all rows. Filters are also applied to exports triggered from this view, see [this article](03-04-Export.md)].
 
 ![Filters](images/filters.png)
 
@@ -89,19 +90,19 @@ The view options allow you to specify a couple of settings which define the appe
 
 ## Export
 
-See [Export](docs/03-05-Export.md).
+See [Export](03-05-Export.md).
 
 
 ## Topic Editor
 
-In the topic editor you can edit exiting topics, merge them or add new ones. Click on a topic to edit it or drag it onto another one to see the merge options. To learn more about how topics work, see also [Topics.](docs/02-01-Topics.md)
+In the topic editor you can edit exiting topics, merge them or add new ones. Click on a topic to edit it or drag it onto another one to see the merge options. To learn more about how topics work, see also [Topics.](02-01-Topics.md)
 
 <!-- theme: info -->
-> Whenever topics are changed or added this triggers an AI update. See also [AI Topic Assigmnents](docs/02-01-Topics.md).
+> Whenever topics are changed or added this triggers an AI update. See also [AI Topic Assigmnents](02-01-Topics.md).
 
 ## AI Score
 
-See [AI Score](docs/02-01-Topics.md#ai-score).
+See [AI Score](03-02-AI-assignments.md#ai-score).
 
 ## Result Chart
 

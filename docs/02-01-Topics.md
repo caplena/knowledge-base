@@ -12,7 +12,7 @@
 
 | Positive | Neutral  | Negative  |
 |---|---|---|
-| <img src="images/topic_positive.png" style="width:170px;"/> | <img src="images/topic_neutral.png" style="width:170px;"/> |  <img src="images/topic_negative.png" style="width:170px;"/> |
+| <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_positive.png" style="width:170px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_neutral.png" style="width:170px;"/> |  <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_negative.png" style="width:170px;"/> |
 
 This means you only have to create **one** topic for all three sentiment attitudes from - the AI will then automatically assign the correct one.
 
@@ -20,7 +20,7 @@ This means you only have to create **one** topic for all three sentiment attitud
 
 <div style="display:flex; align-items: center">
 <div>Codes without sentiment don't have any indicator:</div>
-<img src="images/topic_no_code.png" style="width:100px;"/>
+<img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_no_code.png" style="width:100px;"/>
 </div>
 
 ## Topic Properties
@@ -29,7 +29,7 @@ Topics have slightly different properties, depending if *topic sentiment* is ena
 
 | *With* topic sentiment | *Without* topic sentiment |
 |---|---|
-| <img src="images/topic_with_sentiment.png" style="width:330px;"/> | <img src="images/topic_wo_sentiment.png" style="width:330px;"/> |
+| <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_with_sentiment.png" style="width:330px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_wo_sentiment.png" style="width:330px;"/> |
 
 Property | New in v2 | AI relevant 🤖* | Meaning 
 ---------|----------|---------|---------

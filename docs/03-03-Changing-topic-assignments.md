@@ -19,7 +19,7 @@ A row is automatically marked as *reviewed* when you change anything on the topi
 
 <!-- theme: info -->
 
-> The purpose of reviewing rows is to fine-tune the AI, see [Fine-Tuning](docs/03-02-AI-assignments.md#fine-tuning).
+> The purpose of reviewing rows is to fine-tune the AI, see [Fine-Tuning](03-02-AI-assignments.md#fine-tuning).
 
 ## Bulk Assignment
 

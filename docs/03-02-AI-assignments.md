@@ -32,7 +32,7 @@ Our AI is trained in a three step process:
 
 ## Fine-Tuning
 
-To fine-tune the AI on your specific data, simply review a sample of your data. Reviewing means going over the rows and either confirming the AI's assignments or changing them to meet your preference. See [TODO]
+To fine-tune the AI on your specific data, simply review a sample of your data. Reviewing means going over the rows and either confirming the AI's assignments or changing them to meet your preference. See [this article](03-03-Changing-topic-assignments.md#reviewing-a-row) on how review rows.
 
 ### Focus Mode
 
@@ -49,14 +49,14 @@ As you review rows, a counter will indicate when the next AI update will be trig
 
 The "distance" between updates gets larger as trainings become more computationally expensive and the incremental amount of information gained from a review decreases with the amount of data.
 
-*Note:* Bulk assigments [TODO] only count as a single review.
+*Note:* [Bulk assigments](03-03-Changing-topic-assignments.md#bulk-assign) only count as a single review.
 
 ![AI Update](images/ai-next-update.png)
 
 
 #### 2. When changing Topics
 
-If any of the [AI-relevant topic properties](docs/02-01-Topics.md#topic-properties) are changed, the AI will be fine-tuned again. In some cases a delay of 30-60 seconds is applied before starting the update.
+If any of the [AI-relevant topic properties](02-01-Topics.md#topic-properties) are changed, the AI will be fine-tuned again. In some cases a delay of 30-60 seconds is applied before starting the update.
 
 ### When is the AI fine-tuned enough?
 
