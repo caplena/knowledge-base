@@ -8,8 +8,7 @@ Codes are now called **topics**. And they can now have different sentiments:
 |---|---|---|
 | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_positive.png" style="width:170px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_neutral.png" style="width:170px;"/> |  <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_negative.png" style="width:170px;"/> |
 
-[👉 Learn more.
-](docs/02-01-Topics.md)
+[👉 Learn more.](docs/02-01-Topics.md)
 
 ## New Coding View
 

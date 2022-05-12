@@ -1,6 +1,6 @@
 {
   "items": [
-    {
+    /* {
       "type": "item",
       "title": "Changelog",
       "uri": "docs/01-Changelog.md"
@@ -8,20 +8,45 @@
     {
       "type": "divider",
       "title": "V2"
-    },
+    }, */
     {
       "type": "item",
-      "title": "What's new",
+      "title": "V2 Changes",
       "uri": "docs/02-00-Overview.md"
     },
     {
+      "type": "divider",
+      "title": "Concepts"
+    },
+    {
       "type": "item",
-      "title": "Sentiment Topics",
+      "title": "Topics",
       "uri": "docs/02-01-Topics.md"
     },
     {
       "type": "divider",
-      "title": "Projects"
+      "title": "Pages"
+    },
+    {
+      "type": "group",
+      "title": "Fine-Tuning view",
+      "items": [
+        {
+          "type": "item",
+          "title": "Overview",
+          "uri": "docs/03-01-Fine-tuning-view.md"
+        },
+        {
+          "type": "item",
+          "title": "AI assignments",
+          "uri": "docs/03-02-AI-assignments.md"
+        },
+        {
+          "type": "item",
+          "title": "Changing Topic Assignments",
+          "uri": "docs/03-03-Changing-topic-assignments.md"
+        }
+      ]
     }
   ]
 }
