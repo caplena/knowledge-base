@@ -47,6 +47,16 @@ The overall sentiment of the text can be either *positive, neutral or negative*.
 
 It is computed automatically and cannot be adjusted manually. However, when sentiment-enabled topics are assigned to the text, the overall sentiment is adapted accordingly.
 
+Given at least one sentiment-enabled topic is present, the formula for the sentiment is:
+
+```
+sentiment_sum = sum_over_topics(1 if topic is positive | 0 if topic is neutral | -1 if topic is negative)
+sentiment_average = sentiment_sum / number_of_topics
+if (sentiment_average > 0.33) return 'positive'
+if (sentiment_average < -0.33) return 'negative'
+else return 'neutral'
+```
+
 ### 5. Reviewed State
 
 The checkbox indicates this row has been set as reviewed. Reviewed rows are not modified by the AI anymore but are used as training data for the AI when fine-tuning. When analyzing, visualizing or exporting the data, it is not relevant if a row has been reviewed or not.
