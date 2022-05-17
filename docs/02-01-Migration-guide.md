@@ -2,6 +2,7 @@
 
 **First of all**: You are not required to convert your projects to use sentiment topics. All previous functionality is still available.
 
+
 ### Converting Topics to Sentiment Topics
 
 To make use of the new functionality, convert your non-sentiment topics to sentiment topics:

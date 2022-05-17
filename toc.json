@@ -30,11 +30,11 @@
     },
     {
       "type": "divider",
-      "title": "Pages"
+      "title": "Features"
     },
     {
       "type": "group",
-      "title": "Fine-Tuning view",
+      "title": "Fine-Tuning",
       "items": [
         {
           "type": "item",
