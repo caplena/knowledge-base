@@ -26,3 +26,4 @@ Using this option, you can simply drag and drop your data file into the import b
 
 Here's a short video showing and explaining the multiple batch data import for larger projects.
 
+![Bildschirmfoto 2021-12-30 um 12.20.58.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/8vfvULBcOSI)
