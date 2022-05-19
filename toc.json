@@ -65,7 +65,12 @@
         {
           "type": "item",
           "title": "Import data",
-          "uri": "docs/02-01-Import-Data.md"
+          "uri": "docs/04-01-Import-Data.md"
+        },
+                {
+          "type": "item",
+          "title": "Limits / warnings",
+          "uri": "docs/04-02-Limits-and-Warnings.md"
         }
       ]
     }
