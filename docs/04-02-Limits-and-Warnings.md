@@ -22,4 +22,4 @@ We also recommend to keep projects below 200'000 rows (respondents) but do not e
 3. At most 30 Characters for the Category Name
 
 ## User limits
-Your plan may limit the number of users your organization can have, upgrade your subscription to increase the number of possible users: [https://caplena.com/app/account/subscription](https://caplena.com/app/account/subscription).
+Your plan may limit the number of users your organization can have, upgrade your [subscription](https://caplena.com/app/account/subscription) to increase the number of possible users.
