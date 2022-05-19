@@ -35,3 +35,9 @@ Currently available sources for customer reviews are as follows:
 ![Bildschirmfoto 2021-12-23 um 18.40.48.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/xFxzejlsvsQ)
 
 For each external data source you will find a guideline on how to identify the reviews that you would like to analyze. In most cases it is as simple as copying the URL, just click on any of the logos in your [Upload](https://caplena.com/app/upload) section and follow the steps behind it.
+
+Please also have a look at our more detailed article on our integrations feature: [More details on Integrations](TO DO Link to article)
+
+The following tutorials show the Integrations features in practice:
+- A case study comparing two meditation apps - [Click here](https://blog.caplena.com/2021/08/25/headspace-vs-calm-a-comparative-analysis-of-customer-reviews/)
+- Tutorial walk-through taking the Netflix app as an example - [Click here](https://blog.caplena.com/2020/05/06/walk-through-analyzing-open-ended-feedback-a-3-step-video-tutorial-on-netflix-app-reviews/)
