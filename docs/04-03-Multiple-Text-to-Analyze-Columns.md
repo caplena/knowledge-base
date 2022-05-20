@@ -23,6 +23,9 @@ Using this approach makes only sense when you have your data organized like in t
 
 Despite having all questions within one project, the actual analysis will take place on an individual text level. All text columns / questions will be shown when accessing your project.
 
-There are exceptions when the data layout is not or cannot be arranged as single row for each respondent. One example are employee surveys, where you often want to avoid being able to trace a set of answers back to specific individuals. In such cases, each question / feedback / text to analyze should be uploaded individually.
+<!-- theme: warning -->
+> #### Exceptions!
+>
+> There are exceptions when the data layout is not or cannot be arranged as single row for each respondent. One example are employee surveys, where you often want to avoid being able to trace a set of answers back to specific individuals. In such cases, each question / feedback / text to analyze should be uploaded individually.
 
 
