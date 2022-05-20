@@ -21,8 +21,8 @@ The example below includes two open-ended questions as well as a number of auxil
 
 Using this approach makes only sense when you have your data organized like in the example above, i.e., in one sheet in which each row represents one respondent.
 
-Despite having all questions within one project, the actual analysis will take place on a question level. When accessing your project you can enter the analysis of each question of the project.
+Despite having all questions within one project, the actual analysis will take place on an individual text level. All text columns / questions will be shown when accessing your project.
 
-There are exceptions when the data layout is not or cannot be arranged as single row for each respondent. One example are employee surveys, where you often want to avoid being able to trace a set of answers back to specific individuals. In such cases, each question / feedback / text to be analyzed should be uploaded individually.
+There are exceptions when the data layout is not or cannot be arranged as single row for each respondent. One example are employee surveys, where you often want to avoid being able to trace a set of answers back to specific individuals. In such cases, each question / feedback / text to analyze should be uploaded individually.
 
 
