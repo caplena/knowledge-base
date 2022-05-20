@@ -64,7 +64,7 @@
       "items": [
         {
           "type": "item",
-          "title": "Import data",
+          "title": "Import Data",
           "uri": "docs/04-01-Import-Data.md"
         },
         {
@@ -76,6 +76,11 @@
           "type": "item",
           "title": "Multiple Columns with Text to Analyze in one Project",
           "uri": "docs/04-03-Multiple-Text-to-Analyze-Columns.md"
+        },
+        {
+          "type": "item",
+          "title": "Additional Data Columns (Non-Text)",
+          "uri": "docs/04-04-Additional-Data-Columns.md"
         }
       ]
     }
