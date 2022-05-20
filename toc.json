@@ -60,16 +60,21 @@
     },
         {
       "type": "group",
-      "title": "Data import and preparation",
+      "title": "Data Import and Preparation",
       "items": [
         {
           "type": "item",
           "title": "Import data",
           "uri": "docs/04-01-Import-Data.md"
         },
-                {
+        {
           "type": "item",
-          "title": "Limits / warnings",
+          "title": "Limits / Warnings",
+          "uri": "docs/04-02-Limits-and-Warnings.md"
+        },
+        {
+          "type": "item",
+          "title": "Multiple Columns with Text to Analyze in one Project",
           "uri": "docs/04-02-Limits-and-Warnings.md"
         }
       ]
