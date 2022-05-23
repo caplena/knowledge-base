@@ -19,7 +19,7 @@ When conducting a survey, you will probably have all results in one sheet. Every
 #### Social Media Data Example:
 A social media dataset will usually have one column containing the text you want to evaluate, so you would have one column with text to analyze in Caplena's terms. But there will probably be further columns with additional information like user, timestamps or the like.
 
-## What is Text to Analyze (Column)?
+## What is Text to Analyze?
 Text to analyze is text data in a column of your data file that you wish to analyze with Caplena. So in our example data, we would have two text to analyze columns, with three text comments each. The other two columns are not text to analyze columns, but can be displayed when fine-tuning or used as filters or segments when creating charts and dashboards.
 
 ![file-XIQK4zVen1.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/dniurPW2JAA)
