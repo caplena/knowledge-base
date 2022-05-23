@@ -64,23 +64,28 @@
       "items": [
         {
           "type": "item",
+          "title": "Data Structure: Project, Text to Analyze, Rows etc.",
+          "uri": "docs/04-01-Data-Structure.md"
+        },
+        {
+          "type": "item",
           "title": "Import Data",
-          "uri": "docs/04-01-Import-Data.md"
+          "uri": "docs/04-02-Import-Data.md"
         },
         {
           "type": "item",
           "title": "Limits / Warnings",
-          "uri": "docs/04-02-Limits-and-Warnings.md"
-        },
-        {
-          "type": "item",
-          "title": "Multiple Columns with Text to Analyze in one Project",
-          "uri": "docs/04-03-Multiple-Text-to-Analyze-Columns.md"
+          "uri": "docs/04-03-Limits-and-Warnings.md"
         },
         {
           "type": "item",
           "title": "Additional Data Columns (Non-Text)",
           "uri": "docs/04-04-Additional-Data-Columns.md"
+        },
+        {
+          "type": "item",
+          "title": "Multiple Columns with Text to Analyze in one Project",
+          "uri": "docs/04-05-Multiple-Text-to-Analyze-Columns.md"
         }
       ]
     }
