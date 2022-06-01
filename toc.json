@@ -107,6 +107,11 @@
           "type": "item",
           "title": "How Automatic Translation Works",
           "uri": "docs/05-03-Automatic-Translation.md"
+        },
+        {
+          "type": "item",
+          "title": "Anonymize sensitive text (PII removal)",
+          "uri": "docs/05-04-Anonymize-text-comments.md"
         }
       ]  
     }
