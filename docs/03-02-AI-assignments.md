@@ -15,7 +15,7 @@ Caplena's AI automatically assigns the appropriate topics from your topic-tree t
 
 ### Understanding of Topics
 
-The AI does *not* work like a keyword matching algorithm. Instead, it tries to *understand* the topics. This means you don't have to add a lot of synonyms, it already knows that `Overpriced` and `Too expensive` mean the same thing.
+The AI does *not* work like a keyword matching algorithm. Instead, it attempts to *understand* the topics. This means you don't have to add any synonyms, it already knows that `Overpriced` and `Too expensive` mean the same thing.
 See [Topic Properties](02-01-Topics.md#topic-properties) to understand which topic properties are relevant for the AI.
 
 ### Model Architecture
@@ -96,7 +96,7 @@ Technically speaking the score represents the weighted F1 over all topics.
 
 Before focusing purely on the score, be sure to also check the topic assignments for a few rows qualitatively. Sometimes even a low numeric score can still lead to qualitatively good results. To improve the score, there are a few strategies:
 
-* **Streamline your topic tree:** A very large number of topics is more difficult to learn than when having fewer. As humans would, the AI will also make more mistakes distinguishing between similar / not well differentiated topics.
+* **Streamline your topic collection:** A very large number of topics is more difficult to assign than when having fewer. As humans would, the AI will also make more mistakes distinguishing between similar / not well differentiated topics.
 * **Optimize topic labels:** The AI takes the topic & category labels into account. Therefore, make sure the topic labels are meaningful and not too abstract.
 * **Review more rows:** The more examples the AI has to learn from, the better it will become. If you have "historical" data which already has topics assigned but is not uploaded to Caplena yet, contact support to help you ingest that into your account.
 
