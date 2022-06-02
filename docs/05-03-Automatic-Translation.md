@@ -64,7 +64,7 @@ All charts are interactive. By clicking on a chart element such as a bar or tile
 
 ![Bildschirmfoto 2022-06-02 um 11.05.38.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/SBF5iOsdxVA)
 
-## Data Export
+### Data Export
 
 When exporting the data, translations will be included by default. Using the "Advanced options" you can change the column position of the translated text or exclude it from the export file.
 
