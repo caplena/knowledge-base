@@ -2,7 +2,7 @@
 stoplight-id: m3j25nsa9fe3k
 ---
 
-# Appending Additional Data to an Existing Project
+# Appending Additional Text to Analyze to an Existing Project
 
 You may have already started or finished the coding for your project, but you would like to add more data, be it from a new or previous wave or from an additional market and the like.
 
