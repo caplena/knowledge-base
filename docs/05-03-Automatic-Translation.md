@@ -49,7 +49,7 @@ Specifying the source language for answers is possible during upload, see [here]
 
 We allow to view and export both translated and the original texts in our app. Available options depend on the view:
 
-**Fine-Tuning View**
+### Fine-Tuning View
 
 Both translated and original text is visible. Switch between displaying source or translated text using the "See original" / "See translated" function on the bottom right of each text to analzye. Translated text is shown as default.
 
@@ -58,13 +58,13 @@ Both translated and original text is visible. Switch between displaying source o
 ![Bildschirmfoto 2022-06-02 um 10.20.34.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/xrAX6JO6pPk)
 
 
-**Visualizations**
+### Visualizations
 
 All charts are interactive. By clicking on a chart element such as a bar or tile the verbatim browser will open, allowing you to see all texts behind the selected topic. Translations can be enabled / disabled at the top of the text browser window. The source language can be seen when hovering over the translation icon on front of the text.
 
 ![Bildschirmfoto 2022-06-02 um 11.05.38.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/SBF5iOsdxVA)
 
-**Data export**
+## Data Export
 
 When exporting the data, translations will be included by default. Using the "Advanced options" you can change the column position of the translated text or exclude it from the export file.
 
