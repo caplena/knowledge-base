@@ -86,6 +86,11 @@
           "type": "item",
           "title": "Multiple Columns of Text to Analyze in one Project",
           "uri": "docs/04-05-Multiple-Text-to-Analyze-Columns.md"
+        },
+        {
+          "type": "item",
+          "title": "Appending Additional Text to Analyze to an Existing Project",
+          "uri": "docs/04-06-Appending-Additional-Data.md"
         }
       ]
     },
