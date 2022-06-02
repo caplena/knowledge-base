@@ -60,7 +60,7 @@ Both translated and original text is visible. Switch between displaying source o
 
 ### Visualizations
 
-All charts are interactive. By clicking on a chart element such as a bar or tile the verbatim browser will open, allowing you to see all texts behind the selected topic. Translations can be enabled / disabled at the top of the text browser window. The source language can be seen when hovering over the translation icon on front of the text.
+All charts are interactive. By clicking on a chart element such as a bar or tile the verbatim browser will open, allowing you to see all texts behind the selected topic. Translations can be enabled / disabled at the top of the row browser window. The source language can be seen when hovering over the translation icon on front of the text.
 
 ![Bildschirmfoto 2022-06-02 um 11.05.38.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/SBF5iOsdxVA)
 
