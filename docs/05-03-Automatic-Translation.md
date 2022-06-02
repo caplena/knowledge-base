@@ -36,7 +36,7 @@ DeepL is a newish player with very good translation quality, however only a limi
 If you choose DeepL and you supply the source language during upload with languages that are not supported by DeepL, we will use DeepL for supported languages (and for empty source language) and fallback to Google Translated for the languages that are only supported by Google Translate. For a list of supported languages, see below.
 
 ## I know how the source language for each of my answers, how can I specify that?
-Specifying the source language for answers is possible during upload, [see here](TODO Text Link to Chapter Above) for information on how to upload with source language and its implications. You can of course also supply the source language when uploading via API by populating the  `source_language` attribute of your answers.
+Specifying the source language for answers is possible during upload, see [here](05-03-Automatic-Translation.md##How-is-the-source-language-determined-?). for information on how to upload with source language and its implications. You can of course also supply the source language when uploading via API by populating the  `source_language` attribute of your answers.
 
 ## Where can I see the translated texts?
 
