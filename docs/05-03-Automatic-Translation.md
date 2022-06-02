@@ -30,10 +30,10 @@ Fees for automatic translation services are already included in your subscriptio
 
 We strongly recommend turning on automatic translations in the following cases:
 
-1. You have a multilingual study with different languages in the same dataset (e.g. the codebook is in English but responses are in Chinese, English, German, etc.);
-2. Your survey is in a language that is not supported by Caplena (see [supported languages](https://caplena.com/en/supported-languages/));
-3. You need your codebook to be in a different language than the verbatims;
-4. You don't speak the language the responses are in and thus require translations 🙂.
+1. You have a multilingual text to analyze with different languages in the same dataset (e.g. the topic collection will be in English but the texts are in Chinese, English, German, etc.);
+2. Your text to analyze is in a language that is not supported by Caplena (see [supported languages](https://caplena.com/en/supported-languages/));
+3. You need your topic collection to be in a different language than the text to analyze;
+4. You don't speak the language the texts to analyze are in and thus require translations 🙂.
 
 ## How do I chose between Google Translate and DeepL?
 
@@ -64,9 +64,9 @@ All charts are interactive. By clicking on a chart element such as a bar or tile
 
 ![Bildschirmfoto 2022-06-02 um 11.05.38.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/SBF5iOsdxVA)
 
-## Can I export the translated texts?
+**Data export**
 
-Yes you can. When exporting the data, translations will be included by default. Using the "Advanced options" you can change the column position of the translated text or exclude it from the export file.
+When exporting the data, translations will be included by default. Using the "Advanced options" you can change the column position of the translated text or exclude it from the export file.
 
 ![Bildschirmfoto 2022-06-02 um 11.16.48.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/fpyzxNInwko)
 
