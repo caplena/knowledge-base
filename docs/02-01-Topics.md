@@ -4,7 +4,7 @@
 * [Topic Properties](#topic-properties)
 
 
-*Check out the [🚀 Migration Guide](02-01-Migration-guide.md) to learn how to convert existing projects to make use of sentiment topics.*
+*Check out the [🚀 Migration Guide](02-01-Migration-guide.md) to learn how to convert existing projects to make use of sentiment topics.* 
 
 ## Overview
 

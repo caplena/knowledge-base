@@ -1,10 +1,10 @@
-# Fine-tuning View
+# Data View
 
-As the name suggests, this view lets you fine-tune the AI towards your specific needs, by reviewing a small portion of your data. The view also allows **modifying topics, filtering and exporting the data**.
+As the name suggests, this view lets you view the data and, more importantly, **fine-tune the AI** towards your specific needs, by reviewing a small portion of your data. The view also allows **modifying topics, filtering and exporting the data**.
 
 ## Overview
 
-![Fine-tuning view](images/fine-tuning-view.png)
+![Data view](images/fine-tuning-view.png)
 
 1. [Rows](#rows)
 2. [Filters](#filters)
