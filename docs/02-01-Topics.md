@@ -39,11 +39,11 @@ Property | New in v2 | AI relevant 🤖* | Meaning
 | **[Topic Sentiment](#topic-sentiment)** | ✅ | ✅ | If this topic has a *positive, negative and neutral* version.  |
 | **[Sentiment Labels](#sentiment-Labels)** | ✅ | ✅ | Optional sentiment-specific topic labels. |
 | [Description](#description) |  | | Optional long-form description or examples. |
-| [Code](#code) |  |  | Optional unique, numeric identifier for your topics.|
+| [Code](#code) |  |  | Optional unique, numeric identifier for the topic & sentiment.|
 
 <!-- theme: info -->
 
-> ***AI-relevant 🤖** means the property is considered by the AI during training and when assigning codes.
+> ***AI-relevant 🤖** means the property is considered by the AI during training and when assigning topics.
 
 ### Category
 
@@ -72,7 +72,7 @@ If the AI should distinguish between *positive, negative and neutral* versions o
 
 ### Sentiment Labels
 
-Optional sentiment-specific topic labels, which are displayed on topic chips and charts instead of the topic name itself. 
+Optional sentiment-specific topic labels, which are displayed on topic chips and charts instead of the topic label   itself. 
 *Example:* `Friendly` / `Unfriendly` for topic name `Friendliness`. <br>Only available if topic-sentiment is enabled.
 
 *The sentiment labels are AI-relevant 🤖*.
@@ -83,7 +83,7 @@ Longer description of the topic for reference. This field is not used by our AI 
 
 ### Code
 
-Unique numerical identifier for a specific code. This can be used to visualize and compare across studies or to trigger predefined actions based on the assigned code. You can choose the ID if you want to, otherwise we automatically assign one.
+Unique numerical identifier for a specific topic and its sentiment. This can be used to visualize and compare across studies or to trigger predefined actions based on the assigned topic and its sentiment. You can choose the code if you want to, otherwise we automatically assign one.
 
 ### Deprecation of Keywords
 

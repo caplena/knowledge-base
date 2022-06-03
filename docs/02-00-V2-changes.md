@@ -19,7 +19,7 @@ Check out the [🚀 Migration Guide](02-01-Migration-guide.md) to see how to mak
 
 ## New Fine-Tuning View
 
-We have completely redone the view where you can fine-tune the AI. Besides a better UI we haveimplemented a myriad of new features and improvements, including:
+We have completely redone the view where you can fine-tune the AI. Besides a better UI we have implemented a myriad of new features and improvements, including:
 * More powerful filtering
 * Improved bulk editing
 * Displaying more data, i.e. other columns of your project

@@ -89,10 +89,41 @@
         },
         {
           "type": "item",
-          "title": "Multiple Columns with Text to Analyze in one Project",
+          "title": "Multiple Columns of Text to Analyze in one Project",
           "uri": "docs/04-05-Multiple-Text-to-Analyze-Columns.md"
+        },
+        {
+          "type": "item",
+          "title": "Appending Additional Text to Analyze to an Existing Project",
+          "uri": "docs/04-06-Appending-Additional-Data.md"
         }
       ]
+    },
+            {
+      "type": "group",
+      "title": "Languages and Translations",
+      "items": [
+        {
+          "type": "item",
+          "title": "Supported Languages",
+          "uri": "docs/05-01-Languages-Supported.md"
+        },
+        {
+          "type": "item",
+          "title": "Language for the Topic Collection",
+          "uri": "docs/05-02-Topic-Collection-Language.md"
+        },
+        {
+          "type": "item",
+          "title": "How Automatic Translation Works",
+          "uri": "docs/05-03-Automatic-Translation.md"
+        },
+        {
+          "type": "item",
+          "title": "Anonymize sensitive text (PII removal)",
+          "uri": "docs/05-04-Anonymize-text-comments.md"
+        }
+      ]  
     }
   ]
 }
