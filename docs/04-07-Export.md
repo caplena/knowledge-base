@@ -8,7 +8,7 @@ To download your data, hit the *export* button on the top right of the page.
 
 ![Export](images/export.png)
 
-Exports respect the [filters](03-01-Fine-tuning-view.md#filters) that you have applied - only the rows matching the current filters will be exported. To export all rows, simply clear any applied fields.
+When exporting from the [fine-tuning view](docs/06-01-Fine-tuning-view.md), the generated export will respect the [filters](docs/06-01-Fine-tuning-view.md#filters) that you have applied - only the rows matching the current filters will be exported. To export all rows, simply clear any applied fields.
 
 There are two options for exporting your data:
 

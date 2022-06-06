@@ -1,10 +1,15 @@
+---
+stoplight-id: 136b79897741e
+---
+
 # Sentiment Topics
 
 * [Overview](#overview)
 * [Topic Properties](#topic-properties)
 
 
-*Check out the [🚀 Migration Guide](02-01-Migration-guide.md) to learn how to convert existing projects to make use of sentiment topics.* 
+<!-- theme: info -->
+> Check out the [🚀 Migration Guide](02-02-V2-changes.md#migration-guide) to learn how to convert existing projects to make use of sentiment topics.
 
 ## Overview
 

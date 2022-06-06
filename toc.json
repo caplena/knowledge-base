@@ -26,17 +26,17 @@
     {
       "type": "item",
       "title": "Data Structure: Project, Text to Analyze, Rows etc.",
-      "uri": "docs/04-01-Data-Structure.md"
+      "uri": "docs/03-00-Data-Structure.md"
     },
     {
       "type": "item",
       "title": "Topics",
-      "uri": "docs/02-01-Topics.md"
+      "uri": "docs/03-01-Topics.md"
     },
     {
       "type": "item",
       "title": "Limits / Warnings",
-      "uri": "docs/04-03-Limits-and-Warnings.md"
+      "uri": "docs/03-04-Limits-and-Warnings.md"
     },
     {
       "type": "divider",
