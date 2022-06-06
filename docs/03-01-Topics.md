@@ -9,7 +9,7 @@ stoplight-id: 136b79897741e
 
 
 <!-- theme: info -->
-> Check out the [🚀 Migration Guide](02-02-V2-changes.md#migration-guide) to learn how to convert existing projects to make use of sentiment topics.
+> Check out the [🚀 Migration Guide](02-00-V2-changes.md#migration-guide) to learn how to convert existing projects to make use of sentiment topics.
 
 ## Overview
 

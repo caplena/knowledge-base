@@ -16,7 +16,7 @@ Caplena's AI automatically assigns the appropriate topics from your topic-tree t
 ### Understanding of Topics
 
 The AI does *not* work like a keyword matching algorithm. Instead, it attempts to *understand* the topics. This means you don't have to add any synonyms, it already knows that `Overpriced` and `Too expensive` mean the same thing.
-See [Topic Properties](03-01-Topics.md#topic-properties) to understand which topic properties are relevant for the AI.
+See [topic properties](03-01-Topics.md#topic-properties) to understand which topic properties are relevant for the AI.
 
 For sentiment-enabled topics, only *one sentiment version* is assigned at the time, i.e. a row cannot have the `positive` and `negative` version of a topic at the same time.
 
@@ -36,4 +36,4 @@ Our AI is trained in a three-step process:
 
 ## Fine-Tuning
 
-To fine-tune the AI on your specific data, simply review a sample of your data. Reviewing means going over the rows and either confirming the AI's assignments or changing them to meet your preference. See [this article](docs/06-01-Fine-tuning-view.md#fine-tuning) on how this works in detail.
+To fine-tune the AI on your specific data, simply review a sample of your data. Reviewing means going over the rows and either confirming the AI's assignments or changing them to meet your preference. See [this article](06-01-Fine-tuning-view.md#fine-tuning) on how this works in detail.
