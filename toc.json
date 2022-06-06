@@ -12,21 +12,16 @@
     }, */
     {
       "type": "divider",
-      "title": "v2"
+      "title": "📺 News"
     },
     {
       "type": "item",
-      "title": "Changes in v2",
+      "title": "Caplena v2",
       "uri": "docs/02-00-V2-changes.md"
     },
     {
-      "type": "item",
-      "title": "Migration Guide",
-      "uri": "docs/02-01-Migration-guide.md"
-    },
-    {
       "type": "divider",
-      "title": "Concepts"
+      "title": "📚 Concepts"
     },
     {
       "type": "item",
@@ -45,37 +40,11 @@
     },
     {
       "type": "divider",
-      "title": "Features"
+      "title": "🕹 Features"
     },
     {
       "type": "group",
-      "title": "Data View",
-      "items": [
-        {
-          "type": "item",
-          "title": "Overview",
-          "uri": "docs/03-01-Fine-tuning-view.md"
-        },
-        {
-          "type": "item",
-          "title": "AI Topic Assignments",
-          "uri": "docs/03-02-AI-assignments.md"
-        },
-        {
-          "type": "item",
-          "title": "Changing Topic Assignments",
-          "uri": "docs/03-03-Changing-topic-assignments.md"
-        },
-        {
-          "type": "item",
-          "title": "Export",
-          "uri": "docs/03-04-Export.md"
-        }
-      ]
-    },
-        {
-      "type": "group",
-      "title": "Data Import and Preparation",
+      "title": "Data Import & Export",
       "items": [
         {
           "type": "item",
@@ -96,10 +65,31 @@
           "type": "item",
           "title": "Appending Additional Text to Analyze to an Existing Project",
           "uri": "docs/04-06-Appending-Additional-Data.md"
+        },
+        {
+          "type": "item",
+          "title": "Export",
+          "uri": "docs/04-07-Export.md"
         }
       ]
     },
-            {
+    {
+      "type": "group",
+      "title": "Topic Assignments",
+      "items": [
+        {
+          "type": "item",
+          "title": "Fine Tuning View",
+          "uri": "docs/06-01-Fine-tuning-view.md"
+        },
+        {
+          "type": "item",
+          "title": "AI Topic Assignments",
+          "uri": "docs/06-02-AI-assignments.md"
+        }
+      ]
+    },
+    {
       "type": "group",
       "title": "Languages and Translations",
       "items": [

@@ -1,3 +1,7 @@
+---
+stoplight-id: aee4d8f8e8d2f
+---
+
 # AI Topic Assignments
 
 ![Topic Assignments](images/ai-topic-assignments.png)
@@ -32,14 +36,11 @@ Our AI is trained in a three-step process:
 
 ## Fine-Tuning
 
-To fine-tune the AI on your specific data, simply review a sample of your data. Reviewing means going over the rows and either confirming the AI's assignments or changing them to meet your preference. See [this article](03-03-Changing-topic-assignments.md#reviewing-a-row) on how review rows.
+To fine-tune the AI on your specific data, simply review a sample of your data. Reviewing means going over the rows and either confirming the AI's assignments or changing them to meet your preference. See [this article](03-02-AI-assignments.md#fine-tuning) on how review rows.
 
 ### Focus Mode
 
-The most efficient way to fine-tune your data is by activating the focus mode 🤓. This mode does a couple of things:
-* Sort the rows by **AI certainty**: This means that you will first be shown the texts where the AI is *most unsure* on its assignments. By reviewing and potentially correcting these assignments first, the AI learns much more efficiently.<br>This technique is also known as *active learning*.
-* Filter for non-reviewed rows only, as you do not want to look at these rows again.
-* Hide any potential distractions, so you can fully focus on the current row you're looking at.
+The most efficient way to fine-tune your data is by activating the [focus mode](03-02-AI-assignments.md#focus-mode).
 
 ### When is the AI updated?
 
