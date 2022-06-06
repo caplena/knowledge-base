@@ -46,7 +46,12 @@ Over time the rules grew ever more complex, and the moment of deduction became u
 
 ### API v2
 
-[TODO]
+Our new Caplena v2 API supports topic sentiment plus a myriad of improvements including:
+* Extensive filtering capabilities on results and user-provided additional variables
+* Ability to fully define the schema of the data along with user-provided references for easier identification
+* Simplified output format directly returning topics and sentiment
+* Editing and deleting of rows and projects
+* Ability to handle large projects > 200k rows
 
 ## Migration Guide
 
