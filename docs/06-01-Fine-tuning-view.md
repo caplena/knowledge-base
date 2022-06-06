@@ -21,7 +21,7 @@ As the name suggests fine-tune the AI towards your specific needs, by reviewing 
   * [Topic Editor](#topic-editor)
   * [AI Score](#ai-score)
   * [Result Chart](#result-chart)
-  * [Statistics](#statistics)
+  * [Statistics & Number of Rows](#statistics-number-of-rows)
 
 
 ## Fine-Tuning
@@ -252,6 +252,11 @@ See [AI Score](#ai-score).
 
 Get a live overview of the current distribution of topics. [TODO Screenshot]
 
-### Statistics
+### Statistics & Number of Rows
 
-See some stats on your project.
+See some core statistics of this column / project.
+
+<!-- theme: info -->
+> A common question is why the number of rows stated in the statistics **doesn't match the number** shown in the bottom left of the row browser or the top right *Select all rows* link.
+> 
+> The reason for these potential discrepancies are [duplicates](#8-duplicates), which are *hidden* by default in the row browser (thus resulting in a lower number of rows) but *are* counted in the `Statistics` section. Grouping of duplicates can be disabled in the [view options](#view-options).
