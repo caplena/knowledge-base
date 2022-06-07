@@ -114,6 +114,11 @@
           "uri": "docs/05-04-Anonymize-text-comments.md"
         }
       ]  
+    },
+    {
+      "type": "item",
+      "title": "Third Party Services",
+      "uri": "docs/10-Third-Party-Services.md"
     }
   ]
 }
