@@ -6,9 +6,9 @@ stoplight-id: h02tt3n85mzkd
 
 This section includes the following key tompics:
 
-* [Free Trial](#Free-Trial)
-* [Subscriptions](#Subscriptions)
-* [Credits](#Credits)
+* [Free Trial](#free-trial)
+* [Subscriptions](#subscriptions)
+* [Credits](#credits)
 
 ## Free Trial
 
