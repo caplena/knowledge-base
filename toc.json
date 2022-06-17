@@ -78,8 +78,13 @@
         },
         {
           "type": "item",
-          "title": "Export",
+          "title": "Export Data",
           "uri": "docs/04-08-Export.md"
+        },
+        {
+          "type": "item",
+          "title": "Langauges & Translations",
+          "uri": "docs/04-09-Languages-Supported.md"
         }
       ]
     },
