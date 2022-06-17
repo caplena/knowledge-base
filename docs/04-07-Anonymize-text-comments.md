@@ -1,4 +1,3 @@
-
 ---
 stoplight-id: hzrjzb1fw3n55
 ---
