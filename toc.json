@@ -39,6 +39,11 @@
       "uri": "docs/03-04-Limits-and-Warnings.md"
     },
     {
+      "type": "item",
+      "title": "Trial Phase, Subscriptions & Credits",
+      "uri": "docs/03-05-Subscriptions-and-Billing.md"
+    },
+    {
       "type": "divider",
       "title": "🕹 Features"
     },
