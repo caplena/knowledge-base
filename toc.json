@@ -53,8 +53,13 @@
       "items": [
         {
           "type": "item",
-          "title": "Import Data",
-          "uri": "docs/04-02-Import-Data.md"
+          "title": "Import Data and Project Start",
+          "uri": "docs/04-01-Import-Data.md"
+        },
+        {
+          "type": "item",
+          "title": "Languages & Translations",
+          "uri": "docs/04-02-Languages-Supported.md"
         },
         {
           "type": "item",
@@ -80,11 +85,6 @@
           "type": "item",
           "title": "Export Data",
           "uri": "docs/04-08-Export.md"
-        },
-        {
-          "type": "item",
-          "title": "Langauges & Translations",
-          "uri": "docs/04-09-Languages-Supported.md"
         }
       ]
     },
@@ -141,32 +141,7 @@
         }
       ]
     },
-    {
-      "type": "group",
-      "title": "Languages and Translations",
-      "items": [
-        {
-          "type": "item",
-          "title": "Supported Languages",
-          "uri": "docs/05-01-Languages-Supported.md"
-        },
-        {
-          "type": "item",
-          "title": "Language for the Topic Collection",
-          "uri": "docs/05-02-Topic-Collection-Language.md"
-        },
-        {
-          "type": "item",
-          "title": "How Automatic Translation Works",
-          "uri": "docs/05-03-Automatic-Translation.md"
-        },
-        {
-          "type": "item",
-          "title": "Anonymize sensitive text (PII removal)",
-          "uri": "docs/05-04-Anonymize-text-comments.md"
-        }
-      ]  
-    },
+
     {
       "type": "item",
       "title": "Third Party Services",
