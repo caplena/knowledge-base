@@ -12,27 +12,26 @@ This section includes the following key tompics:
 
 ## Free Trial
 
-**Can I try Caplena out?**
-
+### Can I try Caplena out?
 Yes you can! 😃 We will offer you a free trial to test Caplena with your own data.
 
-**Is the trial for free?** 
+### Is the trial for free? 
 
 **Yes** it is! 😎
 
-**Ok, I would like to test, how can I start?**
+### Ok, I would like to test, how can I start?
 
 You can either start your trial on your own by registering at [caplena.com](caplena.com), or you can first book a quick (30 min.) demo [here](https://savvycal.com/misel/chat). After the call / demo we will  setup your trial account and you're ready to go.
 
-**Can my colleagues also try Caplena?**
+### Can my colleagues also try Caplena?
 
 Of course. You are able to invite up to 10 colleagues to join your team. You can also specify and manage their access roles.
 
-**Can I test with my own data?**
+### Can I test with my own data?
 
 Yes, during your trial you can also upload your own data within the platform. We support different file formats, such as Excel, CSV, SPSS or JSON data. You will receive 5'000 credits for the test. Please refer to this [help article](TO DO LINK TO ARTICLE) about credits for more information.
 
-**I have already coded data, can I reuse that?**
+### I have already coded data, can I reuse that?
 
 Yes, you can send us your already coded data before the trial and we will ingest it into your account. You can use it to automatically tag new projects or evaluate the quality of Caplena's algorithm. Plus, you can reuse already created codebooks.
 
