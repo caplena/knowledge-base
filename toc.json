@@ -101,11 +101,6 @@
           "type": "item",
           "title": "AI Topic Assignments",
           "uri": "docs/06-02-AI-assignments.md"
-        },
-        {
-          "type": "item",
-          "title": "AI Quality Score Explained",
-          "uri": "docs/06-03-Model-Score-Explained.md"
         }
       ]
     },

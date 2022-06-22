@@ -2,7 +2,7 @@
 stoplight-id: yeahnapfw5cqq
 ---
 
-# How to Create Charts and what Chart Types are Available
+# Charting with Caplena
 
 In the cockpit view of any of your projects the data will be visualized by default in form of a chart. However, you can create, edit, and save your individual set of charts based on our chart library. You can download the individual charts, or you can use them to create dashboards to turn your data into a story and share them among your colleagues and clients.
 
@@ -18,7 +18,7 @@ By default, the data will be shown as bar chart. Other chart types can be select
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/yEil514fXRw)
 
-## Four Charts to Visualize Your Results
+## Charts Available
 
 With the following set of charts, you can visualize your coded results and begin telling your story. 
 
