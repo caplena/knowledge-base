@@ -55,7 +55,7 @@ Your bill will always be issued **at the beginning of your subscription cycle**.
 
 ### How do credits fit in my subscription?
 
-In Caplena's world, **credits are your currency** to use Caplena's services. Check out our help [article on credits](TO DO LINK CREDITS) to see how they work.
+In Caplena's world, **credits are your currency** to use Caplena's services. Check out our [article on credits](#Credits) to see how they work.
 
 One credit corresponds to the analysis or download of one text / feedback response. Each subscription comes with 1'500 credits per subscription month. These monthly credits are expiring at the end of the subscription month if not used. In addition, you can **top-up** your account with **non-expiring credits**. These are only deducted from your account when you use them.
 
