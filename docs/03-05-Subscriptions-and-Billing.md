@@ -29,7 +29,7 @@ Of course. You are able to invite up to 10 colleagues to join your team. You can
 
 ### Can I test with my own data?
 
-Yes, during your trial you can also upload your own data within the platform. We support different file formats, such as Excel, CSV, SPSS or JSON data. You will receive 5'000 credits for the test. Please refer to this [help article](TO DO LINK TO ARTICLE) about credits for more information.
+Yes, during your trial you can also upload your own data within the platform. We support different file formats, such as Excel, CSV, SPSS or JSON data. You will receive 5'000 credits for the test. Please refer to this [article](#credits) about credits for more information.
 
 ### I have already coded data, can I reuse that?
 
