@@ -2,7 +2,7 @@
 stoplight-id: hzrjzb1fw3n55
 ---
 
-# Anonymize-text-comments
+# Anonymize Text Comments
 
 Caplena can automatically remove the following personal identifiable information (PII) from all text comments:
 <br><ul class='mt-1 mb-1'><li>Name</li><li>Address</li><li>Email</li><li>Phone Number</li><li>Bank Account</li><li>Credit Card</li><li>Passport Number</li><li>Username</li><li>Password</li><li>Other numerical PII like Healthcare Numbers etc.</li></ul>

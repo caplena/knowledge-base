@@ -2,7 +2,7 @@
 stoplight-id: befab1a9dd1a7
 ---
 
-# Export
+# Export Data / Results
 
 To download your data, hit the *export* button on the top right of the page.
 

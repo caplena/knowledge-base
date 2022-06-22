@@ -53,8 +53,13 @@
       "items": [
         {
           "type": "item",
-          "title": "Import Data",
-          "uri": "docs/04-02-Import-Data.md"
+          "title": "Import Data and Project Start",
+          "uri": "docs/04-01-Import-Data.md"
+        },
+        {
+          "type": "item",
+          "title": "Languages & Translations",
+          "uri": "docs/04-02-Languages-Supported.md"
         },
         {
           "type": "item",
@@ -63,18 +68,23 @@
         },
         {
           "type": "item",
-          "title": "Multiple Columns of Text to Analyze in one Project",
+          "title": "Multiple Columns of Text in one Project",
           "uri": "docs/04-05-Multiple-Text-to-Analyze-Columns.md"
         },
         {
           "type": "item",
-          "title": "Appending Additional Text to Analyze to an Existing Project",
+          "title": "Appending Additional Text to an Existing Project",
           "uri": "docs/04-06-Appending-Additional-Data.md"
         },
         {
           "type": "item",
-          "title": "Export",
-          "uri": "docs/04-07-Export.md"
+          "title": "Anonymize Text Comments",
+          "uri": "docs/04-07-Anonymize-text-comments.md"
+        },
+        {
+          "type": "item",
+          "title": "Export Data",
+          "uri": "docs/04-08-Export.md"
         }
       ]
     },
@@ -91,35 +101,47 @@
           "type": "item",
           "title": "AI Topic Assignments",
           "uri": "docs/06-02-AI-assignments.md"
+        },
+        {
+          "type": "item",
+          "title": "AI Quality Score Explained",
+          "uri": "docs/06-03-Model-Score-Explained.md"
         }
       ]
     },
-    {
+        {
       "type": "group",
-      "title": "Languages and Translations",
+      "title": "Visualization: Charts and Dashboards",
       "items": [
         {
           "type": "item",
-          "title": "Supported Languages",
-          "uri": "docs/05-01-Languages-Supported.md"
+          "title": "Creating Charts",
+          "uri": "docs/07-01-Creating-Charts.md"
         },
         {
           "type": "item",
-          "title": "Language for the Topic Collection",
-          "uri": "docs/05-02-Topic-Collection-Language.md"
+          "title": "Creating Dashboards",
+          "uri": "docs/07-02-Creating-Dashboards.md"
         },
         {
           "type": "item",
-          "title": "How Automatic Translation Works",
-          "uri": "docs/05-03-Automatic-Translation.md"
-        },
-        {
-          "type": "item",
-          "title": "Anonymize sensitive text (PII removal)",
-          "uri": "docs/05-04-Anonymize-text-comments.md"
+          "title": "Chart Values Explained",
+          "uri": "docs/07-03-Chart-Values-Explained.md"
         }
-      ]  
+      ]
     },
+            {
+      "type": "group",
+      "title": "User & Team Management",
+      "items": [
+        {
+          "type": "item",
+          "title": "Users, Roles & Teams",
+          "uri": "docs/08-01-Teams-and-Users.md"
+        }
+      ]
+    },
+
     {
       "type": "item",
       "title": "Third Party Services",
