@@ -44,6 +44,11 @@
       "uri": "docs/03-05-Subscriptions-and-Billing.md"
     },
     {
+      "type": "item",
+      "title": "Caplena Login",
+      "uri": "docs/03-06-Login-to-Caplena.md"
+    },
+    {
       "type": "divider",
       "title": "🕹 Features"
     },
