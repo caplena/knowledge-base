@@ -2,7 +2,7 @@
 stoplight-id: xfv1e8owutgpr
 ---
 
-# All about our Dashboards
+# Dashboards in Caplena
 
 Dashboards allow you to visually report your data and research findings. In a dashboard you can combine and prioritize different data selections from a single question, from several questions within one projects as well as across all projects of your project library.
 
@@ -33,7 +33,7 @@ Dashboard creation starts on a blank whiteboard-type screen that you can populat
 
 Lets have a look at each of the three elements individually and how they can be used.
 
-### Existing charts
+### Existing Charts
 
 By clicking on Existing Charts you will go straight to your chart library where you can select any chart that you have created before. When the chart appears in your dashboard you can change size and position with your mouse and you can also edit the chart content - the screenshot below shows you where to do that.
 
@@ -56,14 +56,14 @@ The following example shows two text boxes, one acts as a heading to mark a dash
 
 ![Bildschirmfoto 2022-02-03 um 18.14.32.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/Q67MZl57ghc)
 
-### Verbatim sample
+### Verbatim Sample
 This feature allows you to show open-ended responses from a particular question. You can also apply filters to show a particular code or category overall or within a particular segment, i.e. the most frequent code / category or a code / category which is under particular observation within your organization filtered by country, location, business unit or else.
 
 The following example shows all open ended comments that fall into the most frequent code. Each response will be shown together with the assigned code and you can scroll through all responses that match the filter.
 
 ![Bildschirmfoto 2022-06-13 um 19.09.28.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/6d4RUphluas)
 
-## How to use Filters to look at Specific Sub-Groups of Your Data
+## How to Use Filters
 
 You can apply filters to any individual chart allowing you to look at a specific sample selection. The available filters are defined by the data that you have uploaded together with your open-ended questions. However, in case there are variables missing that you would like to use for your analysis, with our Add or replace additional columns function, you can easily add further variables to your data. Click here for a help article explaining how to upload additional data columns.
 
@@ -83,7 +83,7 @@ In the example below the dashboard is filtered by a single variable ("1 selected
 
 Filters can be removed by clicking the circled cross on the left of the filter.
 
-## Share Dashboards within and outside Your Organization
+## Dashboard Sharing
 
 Dashboards are accessible by other Caplena users within your organization depending on their role and permission. 
 
@@ -91,10 +91,10 @@ However, you can also share your dashboards via shareable link with anyone; inde
 
 ![Bildschirmfoto 2022-02-04 um 12.17.27.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/cXr1ZWE9lVU)
 
-Once the shareable link is enabled, you can copy the URL of the dashboard by clicking on Copy URL. Here you have two options:
+Once the shareable link is enabled, you can copy the URL of the dashboard by clicking on *Copy URL*. Here you have two options:
 
-- Copy shareable URL: Sharing the dashboard as it is.
-- Copy shareable URL with filters: Sharing the dashboard with any filter you may have applied, so that the recipient can see the filtered data. The recipient will be able to turn off the filters and look at the entire data as well.
+- **Copy shareable URL**: Sharing the dashboard as it is.
+- **Copy shareable URL with filters**: Sharing the dashboard with any filter you may have applied, so that the recipient can see the filtered data. The recipient will be able to turn off the filters and look at the entire data as well.
 
 ![Bildschirmfoto 2022-02-04 um 12.20.28.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/RB8xmseMvOw)
 
