@@ -2,7 +2,7 @@
 stoplight-id: h02tt3n85mzkd
 ---
 
-# Trial Phase, Subscriptions & Billing
+# Trial, Subscriptions, Credits
 
 This section includes the following key tompics:
 
@@ -29,7 +29,7 @@ Of course. You are able to invite up to 10 colleagues to join your team. You can
 
 ### Can I test with my own data?
 
-Yes, during your trial you can also upload your own data within the platform. We support different file formats, such as Excel, CSV, SPSS or JSON data. You will receive 5'000 credits for the test. Please refer to this [help article](TO DO LINK TO ARTICLE) about credits for more information.
+Yes, during your trial you can also upload your own data within the platform. We support different file formats, such as Excel, CSV, SPSS or JSON data. You will receive 5'000 credits for the test. Please refer to this [article](#credits) about credits for more information.
 
 ### I have already coded data, can I reuse that?
 
@@ -55,7 +55,7 @@ Your bill will always be issued **at the beginning of your subscription cycle**.
 
 ### How do credits fit in my subscription?
 
-In Caplena's world, **credits are your currency** to use Caplena's services. Check out our help [article on credits](TO DO LINK CREDITS) to see how they work.
+In Caplena's world, **credits are your currency** to use Caplena's services. Check out our [article on credits](#credits) to see how they work.
 
 One credit corresponds to the analysis or download of one text / feedback response. Each subscription comes with 1'500 credits per subscription month. These monthly credits are expiring at the end of the subscription month if not used. In addition, you can **top-up** your account with **non-expiring credits**. These are only deducted from your account when you use them.
 

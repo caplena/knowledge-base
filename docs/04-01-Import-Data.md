@@ -4,7 +4,7 @@ stoplight-id: 85eh1l8jcavy0
 
 # Data import options
 
-Importing data into the Caplena platform is the first step to start a new project. After clicking on the "New Project" or "Import Data" button you will be able to choose between three data import options.
+Importing data into the Caplena platform is the first step to start a new project. After clicking on the *New Project* or *Import Data* button you will be able to choose between three data import options.
 
 ![Bildschirmfoto 2021-12-23 um 17.22.31.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/DN2RldFYw80)
 
@@ -36,7 +36,7 @@ Currently available sources for customer reviews are as follows:
 
 For each external data source you will find a guideline on how to identify the reviews that you would like to analyze. In most cases it is as simple as copying the URL, just click on any of the logos in your [Upload](https://caplena.com/app/upload) section and follow the steps behind it.
 
-Please also have a look at our more detailed article on our integrations feature: [More details on Integrations](TO DO Link to article)
+Please also have a look at our more detailed article on our integrations feature: [Integrations in Detail](docs/04-09-Integrations-in-Detail.md)
 
 The following tutorials show the Integrations features in practice:
 - A case study comparing two meditation apps - [Click here](https://blog.caplena.com/2021/08/25/headspace-vs-calm-a-comparative-analysis-of-customer-reviews/)

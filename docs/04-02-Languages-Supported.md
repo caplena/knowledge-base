@@ -71,7 +71,7 @@ We allow to view and export both translated and the original texts in our app. A
 
 ### Fine-Tuning View
 
-Both translated and original text is visible. Switch between displaying source or translated text using the "See original" / "See translated" function on the bottom right of each text to analzye. Translated text is shown as default.
+Both translated and original text is visible. Switch between displaying source or translated text using the *See original* / *See translated* function on the bottom right of each text to analzye. Translated text is shown as default.
 
 ![Bildschirmfoto 2022-06-02 um 10.19.15.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/OpwsyWRyg1w)
 

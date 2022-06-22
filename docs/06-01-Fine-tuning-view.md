@@ -127,9 +127,9 @@ Before focusing purely on the score, be sure to also check the topic assignments
 
 * **Streamline your topic collection:** A very large number of topics is more difficult to assign than when having fewer. As humans would, the AI will also make more mistakes distinguishing between similar / not well differentiated topics.
 * **Optimize topic labels:** The AI takes the topic & category labels into account. Therefore, make sure the topic labels are meaningful and not too abstract.
-* **Review more rows:** The more examples the AI has to learn from, the better it will become. If you have "historical" data which already has topics assigned but is not uploaded to Caplena yet, contact support to help you ingest that into your account.
+* **Review more rows:** The more examples the AI has to learn from, the better it will become. If you have "historical" data which already has topics assigned but is not uploaded to Caplena yet, contact [support](support@caplena.com) to help you ingest that into your account.
 
-For enterprise customers we are also happy to have one of our language specialists look into your data, just contact support.
+For enterprise customers we are also happy to have one of our language specialists look into your data, just contact [support](support@caplena.com).
 
 
 ## User Interface

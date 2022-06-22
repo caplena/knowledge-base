@@ -25,7 +25,7 @@
     },
     {
       "type": "item",
-      "title": "Data Structure: Project, Text to Analyze, Rows etc.",
+      "title": "Data Structure",
       "uri": "docs/03-00-Data-Structure.md"
     },
     {
@@ -40,8 +40,13 @@
     },
     {
       "type": "item",
-      "title": "Trial Phase, Subscriptions & Credits",
+      "title": "Trial, Subscriptions, Credits",
       "uri": "docs/03-05-Subscriptions-and-Billing.md"
+    },
+    {
+      "type": "item",
+      "title": "Caplena Login",
+      "uri": "docs/03-06-Login-to-Caplena.md"
     },
     {
       "type": "divider",
@@ -101,11 +106,6 @@
           "type": "item",
           "title": "AI Topic Assignments",
           "uri": "docs/06-02-AI-assignments.md"
-        },
-        {
-          "type": "item",
-          "title": "AI Quality Score Explained",
-          "uri": "docs/06-03-Model-Score-Explained.md"
         }
       ]
     },
