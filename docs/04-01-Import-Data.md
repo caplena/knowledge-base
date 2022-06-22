@@ -4,7 +4,7 @@ stoplight-id: 85eh1l8jcavy0
 
 # Data import options
 
-Importing data into the Caplena platform is the first step to start a new project. After clicking on the "New Project" or "Import Data" button you will be able to choose between three data import options.
+Importing data into the Caplena platform is the first step to start a new project. After clicking on the *New Project* or *Import Data* button you will be able to choose between three data import options.
 
 ![Bildschirmfoto 2021-12-23 um 17.22.31.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/DN2RldFYw80)
 
