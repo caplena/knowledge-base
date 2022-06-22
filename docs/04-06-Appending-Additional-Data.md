@@ -2,15 +2,15 @@
 stoplight-id: m3j25nsa9fe3k
 ---
 
-# Appending Additional Text to Analyze to an Existing Project
+# Appending Additional Rows to an Existing Project
 
-You may have already started or finished the coding for your project, but you would like to add more data, be it from a new or previous wave or from an additional market and the like.
+You may have already started or finished the analysis for your project, but you would like to add more data, be it from a new or previous wave or from an additional market and the like.
 
-At any point in time, you can add new data to your project by using the "Upload further answers" feature that you will find at the top menu when selecting your project from the [Project View](https://caplena.com/app/projects).
+You can add new data to your project any time by using the "Upload further answers" feature that you will find at the top menu when selecting your project from the [Project View](https://caplena.com/app/projects).
 
 ![Bildschirmfoto 2021-12-30 um 12.20.58 v2.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/sTNZT74J4I0)
 
-Provided your existing data has already been analyzed, i.e., a codebook was applied, the newly added data will be automatically assigned with codes based on the existing codebook.
+Provided your existing data has already been analyzed, i.e., topic collection was applied, the newly added data will be automatically assigned with topics based on the existing topic collection.
 
 This procedure can be repeated as many times as you wish.
 
