@@ -12,7 +12,7 @@ In case you are analyzing the answers to a single open-ended question from a sur
 
 ## Multiple Texts to Analyze
 
-When analyzing survey data, you might have more than one open-ended question in your questionnaire. In such cases, you do not have to create several individual projects to analyze them across different individual projects, you can import your data all at once as a single file.
+When analyzing survey data, you might have more than one open-ended question in your questionnaire. In such cases, you do not have to create several individual projects to analyze them across different individual projects. Instead, you can import your data all at once as a single file.
 
 The example below includes two open-ended questions as well as several auxiliary variables for analytical purposes.
 
