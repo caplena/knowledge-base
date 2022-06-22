@@ -21,7 +21,7 @@ We enforce some reasonable limits on the data to ensure smooth processing on our
 
 
 ### Limits on Topics & Categories
-1. A maximum of 150 Topics
+1. A maximum of 133 Topics with sentiment enabled
 2. Not more than 50 Characters for the Topic label (put examples and lengthy descriptions in the Topic Description instead)
 3. At most 30 Characters for the Category Name
 
