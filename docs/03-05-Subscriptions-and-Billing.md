@@ -2,7 +2,7 @@
 stoplight-id: h02tt3n85mzkd
 ---
 
-# Trial Phase, Subscriptions & Billing
+# Trial, Subscriptions, Credits
 
 This section includes the following key tompics:
 
