@@ -13,6 +13,9 @@ An integration item is a resource that contains answers to be analyzed (e.g. rev
 
 To make the distinction between integrations and integration items more clear, let us consider an example where we are trying to compare what customers think about different gaming consoles. For this, we create a new Amazon integration that contains two integration items, namely the reviews for the PlayStation 5 and Xbox Series X consoles. Out of this integration, a single project that containing the reviews for both consoles is created - as can bee seen in the image below.
 
+![Bildschirmfoto 2022-07-01 um 20.05.24.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/nZs8T4AMjk0)
+
+
 ## Synchronization
 
 One of the biggest advantages of using integrations is the synchronization feature. With synchronization enabled, new answers submitted to an integration item will be uploaded to the respective project automatically. You can choose between three different synchronization intervals (daily, weekly or monthly) or even disable the synchronization completely. 
@@ -50,9 +53,7 @@ In general, you should try to specify the address to the venue as detailed as po
 
 ![Bildschirmfoto 2022-07-01 um 20.01.52.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/laX2mNByrWE)
 
-`WERK 8, Dornacherstrasse 192, 4053 Basel, Switzerland`
-
-`The Newark Museum of Art, 49 Washington St, Newark, NJ 07102, United States`
+`WERK 8, Dornacherstrasse 192, 4053 Basel, Switzerland` _`The Newark Museum of Art, 49 Washington St, Newark, NJ 07102, United States`_
 
 `Kunsteisbahn Margarethen, Im Margarethenpark 10, 4053 Basel, Switzerland`
 
