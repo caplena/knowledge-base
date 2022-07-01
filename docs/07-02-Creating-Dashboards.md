@@ -6,14 +6,14 @@ stoplight-id: xfv1e8owutgpr
 
 Dashboards allow you to visually report your data and research findings. In a dashboard you can combine and prioritize different data selections from a single question, from several questions within one projects as well as across all projects of your project library.
 
-The key topics of this article are:
+**The key topics of this article are:**
 
 - How to create and access dashboards
 - What dashboard elements are available and how to use them
 - How to use filters to look at specific sub-groups of your data
 - How to share dashboards within and outside your organization
 
-How to Create and Access Dashboards
+## Create and Access Dashboards
 
 Dashboards can be created and accessed from the *Cockpit* within a single project or from your dashboard library where all dashboards across all your projects are stored.
 
@@ -25,7 +25,7 @@ You can access your dashboard library, where all your dashboards across all your
 
 ![Bildschirmfoto 2022-02-03 um 16.36.39.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/OcxXKZ6z7Q4)
 
-## Starting from Scratch - What Dashboard Elements are Available and How to use Them
+## Dashboard Elements
 
 Dashboard creation starts on a blank whiteboard-type screen that you can populate easily with data and text elements. When you click on any blank space on your dashboard, you can chose between the following three dashboard elements.
 
