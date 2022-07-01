@@ -2,7 +2,7 @@
 stoplight-id: x01t4byil59qi
 ---
 
-# Multiple Text Columns in one Project
+# Multiple Text in one Project
 
 When starting a project, you have either a single column with text to analyze or you have several text columns in one row. The latter is often true when analyzing survey data with several open-ended questions.
 
