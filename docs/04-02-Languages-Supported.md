@@ -2,7 +2,9 @@
 stoplight-id: 8l4bcrf260ng2
 ---
 
-# Supported Languages
+# Languages and Translations
+
+## Supported Languages
 Caplena supports a range of languages out of the box, check out [this list](https://caplena.com/en/supported-languages/) for details.
 
 Caplena works best on languages for which we have a lot of data, specifically Western European languages. This doesn't mean other languages won't work at all, but such datasets might need a bit more manual fine-tuning from your side.
@@ -10,7 +12,7 @@ Caplena works best on languages for which we have a lot of data, specifically We
 ## Automated Translations
 You can enable [AI translations](#automated-translations) with the click of a button. Through that functionality, the application will work on practically any language.
 
-# Topic Collection Language
+## Topic Collection Language
 
 Caplena is inherently multilingual and it can work with topic collection / code books in any language. Also, the topic collection doesn't necessarily have to be in the same language as the answers.
 
