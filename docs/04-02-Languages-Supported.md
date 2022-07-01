@@ -9,7 +9,7 @@ Caplena supports a range of languages out of the box, check out [this list](http
 
 Caplena works best on languages for which we have a lot of data, specifically Western European languages. This doesn't mean other languages won't work at all, but such datasets might need a bit more manual fine-tuning from your side.
 
-## Automated Translations
+## Auto-Translation
 You can enable [AI translations](#automated-translations) with the click of a button. Through that functionality, the application will work on practically any language.
 
 ## Topic Collection Language
@@ -22,19 +22,19 @@ When translations are enabled, we suggest writing the topic collection in the la
 
 The language of the topic collection will also be the language shown as labels when creating charts.
 
-# Automatic Translations
+## Automatic Translations
 
-## Enable Auto-Translations
+### Enable Auto-Translations
 
 During upload, choose Yes on the Automatic Translation select menu.
 
 ![Bildschirmfoto 2022-05-27 um 12.04.50.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/wgjJucn9BUQ)
 
-## Main Language
+### Main Language
 
 They are translated to the main language selected during upload. We strongly recommend to set this to the same language you'll create your topic collection in.
 
-## Language Determination
+### Language Determination
 
 By default, the source language is detected automatically for every answer. The text will be translated only if it is not already in the main language. If you already know the source language of your responses you can supply this information in the upload by adding a column with [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO\_639-1\_codes). We will recognise such columns automatically during upload and utilise the supplied source language instead of the automatic detection.
 
@@ -42,11 +42,11 @@ By default, the source language is detected automatically for every answer. The 
 
 You can also have empty cells in your source language columns, for these rows we will then apply the automatic detection.
 
-## Auto-Translation Costs?
+### Auto-Translation Costs?
 
 Fees for automatic translation services are already included in your subscription and your Ad-Hoc credits, no additional charges incur for translations.
 
-## When to use Auto-Translation
+### When to use Auto-Translation
 
 We strongly recommend turning on automatic translations in the following cases:
 
@@ -55,21 +55,21 @@ We strongly recommend turning on automatic translations in the following cases:
 3. You need your topic collection to be in a different language than the text to analyze;
 4. You don't speak the language the texts to analyze are in and thus require translations 🙂.
 
-## Google Translate or DeepL?
+### Google Translate or DeepL?
 
 DeepL is a newish player with very good translation quality, however only a limited set of languages is supported (click on "Supported languages" during the upload process to learn more). Anecdotally, we've found DeepL to yield a bit better results both with automatic and manual coding. If you choose DeepL and have texts in non-supported languages, you'll get nonsensical answers since DeepL will try to detect the language but fails to do so. It then takes the "closest" language - which will be completely off. We thus recommend Google Translate for studies with non-supported languages.
 
 If you choose DeepL and you supply the source language during upload with languages that are not supported by DeepL, we will use DeepL for supported languages (and for empty source language) and fallback to Google Translated for the languages that are only supported by Google Translate. For a list of supported languages, see below.
 
-## Specify the Source Language
+### Specify the Source Language
 
 Specifying the source language for answers is possible during upload, see [here](05-03-Automatic-Translation.md#How-is-the-source-language-determined?) for information on how to upload with source language and its implications. You can of course also supply the source language when uploading via API by populating the `source_language` attribute of your answers.
 
-## Visibility of Translated Texts
+### Visibility of Translated Texts
 
 We allow to view and export both translated and the original texts in our app. Available options depend on the view:
 
-### Fine-Tuning View
+#### Fine-Tuning View
 
 Both translated and original text is visible. Switch between displaying source or translated text using the *See original* / *See translated* function on the bottom right of each text to analzye. Translated text is shown as default.
 
@@ -78,19 +78,19 @@ Both translated and original text is visible. Switch between displaying source o
 ![Bildschirmfoto 2022-06-02 um 10.20.34.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/xrAX6JO6pPk)
 
 
-### Visualizations
+#### Visualizations
 
 All charts are interactive. By clicking on a chart element such as a bar or tile the verbatim browser will open, allowing you to see all texts behind the selected topic. Translations can be enabled / disabled at the top of the row browser window. The source language can be seen when hovering over the translation icon on front of the text.
 
 ![Bildschirmfoto 2022-06-02 um 11.05.38.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/SBF5iOsdxVA)
 
-### Data Export
+#### Data Export
 
 When exporting the data, translations will be included by default. Using the "Advanced options" you can change the column position of the translated text or exclude it from the export file.
 
 ![Bildschirmfoto 2022-06-02 um 11.16.48.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/fpyzxNInwko)
 
-## Language-support
+## Supported Languages
 
 Language | Google-Translate | DeepL
 ---------|----------|---------
