@@ -42,7 +42,7 @@ By default, the source language is detected automatically for every answer. The 
 
 You can also have empty cells in your source language columns, for these rows we will then apply the automatic detection.
 
-### Auto-Translation Costs?
+### Does it cost anaything?
 
 Fees for automatic translation services are already included in your subscription and your Ad-Hoc credits, no additional charges incur for translations.
 
