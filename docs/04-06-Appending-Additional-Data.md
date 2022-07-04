@@ -2,7 +2,7 @@
 stoplight-id: m3j25nsa9fe3k
 ---
 
-# Appending Additional Rows to an Existing Project
+# Additional Data for an Existing Project
 
 You may have already started or finished the analysis for your project, but you would like to add more data, be it from a new or previous wave or from an additional market and the like.
 
@@ -14,15 +14,15 @@ Provided your existing data has already been analyzed, i.e., topic collection wa
 
 This procedure can be repeated as many times as you wish.
 
-## Data structure
+## Data Structure
 
 The additional data should be arranged in the same way as the original data, i.e., it should have the **same number of data columns** and they should be **arranged in the same order**. The data rows can be in any order.
 
 ## Auto-Translation
 
-In case you would like to use our auto-translation feature, please **enable it when you initially create your project**. It is not possible to enable this feature retrospectively when uploading additional data to an existing project with no auto-translation enabled.
+In case you would like to use our auto-translation feature, please **enable it when you initially create your project**. It is not possible to enable this feature retrospectively when uploading additional data to an existing project with no auto-translation enabled. Learn more about [auto translation](04-02-Languages-Supported.md#automatic-translations).
 
-## How duplicate rows are handled
+## Handling of Duplicate-Rows
 
 A row of data is considered to be a duplicate if all values in all columns are exactly equal. By default, duplicates will be ignored and not be imported. However, in case you would like to disable this feature, you can simply turn of the *Skip existing* function in the *Match your data* view (see screen shot below).
 

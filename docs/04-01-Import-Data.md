@@ -6,7 +6,8 @@ stoplight-id: 85eh1l8jcavy0
 
 Importing data into the Caplena platform is the first step to start a new project. After clicking on the *New Project* or *Import Data* button you will be able to choose between three data import options.
 
-![Bildschirmfoto 2021-12-23 um 17.22.31.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/DN2RldFYw80)
+![Bildschirmfoto 2022-07-01 um 20.09.55.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/XPVSgepPBtE)
+
 
 ## Upload a file
 
@@ -23,16 +24,18 @@ Together with your text to analyze you can upload additional data columns with t
 ## Direct Input
 You can also enter or copy your data directly into the upload window. The lines will be separated by pressing enter. When copying the data directly from Excel or a similar application, the data will be line-separated automatically.
 
-![Bildschirmfoto 2021-12-23 um 18.33.14.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/w0aKo4dzhfQ)
+![Bildschirmfoto 2022-07-01 um 20.10.46.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/07h8s0WTwwo)
+
 
 ## Integrations
 The third and last option to import data to analyse with Caplena is the direct integration of external data sources, which are mainly customer reviews from various customer review websites, such as Amazon, Trustpilot, Google Maps etc.
 
 Here you can select reviews for one or several products, services, locations (shops, restaurants, hotels, etc.) or software applications by copying the URL or a similar unique identifier to start with the data import.
 
-Currently available sources for customer reviews are as follows:
+Currently available sources for customer reviews / integrations are as follows:
 
-![Bildschirmfoto 2021-12-23 um 18.40.48.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/xFxzejlsvsQ)
+![Bildschirmfoto 2022-07-01 um 20.10.23.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/AHcDoFsiVgg)
+
 
 For each external data source you will find a guideline on how to identify the reviews that you would like to analyze. In most cases it is as simple as copying the URL, just click on any of the logos in your [Upload](https://caplena.com/app/upload) section and follow the steps behind it.
 

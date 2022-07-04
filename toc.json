@@ -130,18 +130,11 @@
         }
       ]
     },
-            {
-      "type": "group",
-      "title": "User & Team Management",
-      "items": [
-        {
-          "type": "item",
-          "title": "Users, Roles & Teams",
-          "uri": "docs/08-01-Teams-and-Users.md"
-        }
-      ]
+    {
+      "type": "item",
+      "title": "Users & Team Management",
+      "uri": "docs/08-01-Teams-and-Users.md"
     },
-
     {
       "type": "item",
       "title": "Third Party Services",
