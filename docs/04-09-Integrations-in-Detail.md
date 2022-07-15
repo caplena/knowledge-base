@@ -116,6 +116,63 @@ The `hl` parameter defines the language of the reviews. If you do not set this p
   `https://play.google.com/store/books/details/Tzu_Sun_The_Art_of_War?id=WeHsAQAAQBAJ`  
   `https://play.google.com/store/books/details/James_S_A_Corey_Babylon_s_Ashes?id=MzA9CgAAQBAJ` 
 
+### Amazon
 
-  
-   
+As of right now, we support five different Amazon stores, namely `amazon.com`, `amazon.fr`, `amazon.de`, `amazon.it` and `amazon.co.uk`. In addition, we support two different URL formats, one with and one without name.
+
+Country Identifiers: `com`, `fr`, `de`, `it` or `co.uk`
+
+Input Format: 
+
+- with name: `https://www.amazon.<country>/<name>/dp/<identifier>`
+- without name: `https://www.amazon.<country>/dp/<identifier>`
+
+**Examples:**
+
+- with name:  
+
+  `https://www.amazon.com/First-Years-Stack-Up-Cups/dp/B00005C5H4/`  
+  `https://www.amazon.fr/Nero-Giardini-P805261D-Sneakers-Femme/dp/B08V5KPJVN`  
+  `https://www.amazon.de/Colgate-Charcoal-Whitening-Zahnpasta-Zahnbürste/dp/B088VCM63D`  
+  `https://www.amazon.it/Ray-Ban-0RB3447N-Occhiali-Crystal-Grad-Blue/dp/B076VNZK4V`  
+  `https://www.amazon.co.uk/Pinch-Nom-Everyday-Light-Slimming/dp/1529026407`
+
+- without name:
+
+  `https://www.amazon.com/dp/B00WBJGUA2`  
+  `https://www.amazon.fr/dp/B01N9BU4Y7`  
+  `https://www.amazon.de/dp/B086DKVS1P`  
+  `https://www.amazon.it/dp/B07NQDHC7S`  
+  `https://www.amazon.co.uk/dp/B08KGTW3CV`  
+
+### G2
+
+Input Format: `https://www.g2.com/products/<name>/reviews`
+
+**Examples:**
+
+`https://www.g2.com/products/clickup/reviews`  
+`https://www.g2.com/products/dotpeek/reviews`  
+`https://www.g2.com/products/sentry/reviews`
+
+
+### Capterra
+
+Input Format: `https://www.capterra.com/p/<identifier>/<name>/`
+
+**Examples:**
+
+`https://www.capterra.com/p/46497/QuickBooks/`  
+`https://www.capterra.com/p/177841/NetSuite/`  
+`https://www.capterra.com/p/138689/Booqable/`
+
+
+### Yelp
+
+Input Format: `https://www.yelp.com/biz/<name>`
+
+**Examples:**
+
+`https://www.yelp.com/biz/franchia-vegan-cafe-new-york`  
+`https://www.yelp.com/biz/tibits-basel`  
+`https://www.yelp.com/biz/brandenburger-tor-berlin`
