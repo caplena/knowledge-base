@@ -100,9 +100,9 @@ The `hl` parameter defines the language of the reviews. If you do not set this p
 
 - Apps
 
-  `https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss&hl=de`
-  `https://play.google.com/store/apps/details?id=org.coursera.android`
-  `https://play.google.com/store/apps/details?id=com.pluralsight`  
+  `https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss&hl=de`  
+  `https://play.google.com/store/apps/details?id=org.coursera.android`  
+  `https://play.google.com/store/apps/details?id=com.pluralsight`
 
 - Movies
 
