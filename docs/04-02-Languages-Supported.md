@@ -94,33 +94,33 @@ When exporting the data, translations will be included by default. Using the "Ad
 
 Language | Google-Translate | DeepL
 ---------|----------|---------
- English | ✓ | ✓
- German  | ✓ | ✓
- French  | ✓ | ✓
- Spanish  | ✓ | ✓
- Portuguese  | ✓ | ✓
- Italian  | ✓ | ✓
- Dutch  | ✓ | ✓
- Polish  | ✓ | ✓
- Russian  | ✓ | ✓
- Japanese  | ✓ | ✓
+ Bulgarian  | ✓ | ✓
  Chinese (Simplified)  | ✓ | ✓
  Chinese (Traditional)  | ✓ | 
- Bulgarian  | ✓ | ✓
  Czech  | ✓ | ✓
  Danish  | ✓ | ✓
- Greek  | ✓ | ✓
+ Dutch  | ✓ | ✓
+ English | ✓ | ✓
  Estonian  | ✓ | ✓
  Finnish  | ✓ | ✓
+ French  | ✓ | ✓
+ German  | ✓ | ✓
+ Greek  | ✓ | ✓
  Hungarian  | ✓ | ✓
- Lithuanian  | ✓ | ✓
+ Indionesean  | ✓ | ✓
+ Italian  | ✓ | ✓
+ Japanese  | ✓ | ✓
  Latvian  | ✓ | ✓
+ Lithuanian  | ✓ | ✓
+ Polish  | ✓ | ✓
+ Portuguese  | ✓ | ✓
  Romanian  | ✓ | ✓
+ Russian  | ✓ | ✓
  Slovak  | ✓ | ✓
  Slovenian  | ✓ | ✓
+ Spanish  | ✓ | ✓
  Swedish  | ✓ | ✓
  Turksih  | ✓ | ✓
- Indionesean  | ✓ | ✓
  Punjabi  | ✓ | 
  Vietnamese  | ✓ | 
  Albanian  | ✓ | 
