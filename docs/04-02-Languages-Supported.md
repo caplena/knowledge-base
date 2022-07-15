@@ -14,13 +14,13 @@ You can enable [AI translations](#automated-translations) with the click of a bu
 
 ## Topic Collection Language
 
-Caplena is inherently multilingual and it can work with topic collection / code books in any language. Also, the topic collection doesn't necessarily have to be in the same language as the answers.
+Caplena is inherently multilingual and it can work with topic collections in any language and the topics do not necessarily have to be in the same language as the answers.
 
-However, for performance reasons we strongly recommend to create the topic collection in the same language as most of the answers in your project. If most answers are in English, the topic collection should be in English too. If your data spans across multiple projects, we also recommend creating the topic collection in the same language as most of the answers.
+However, for performance reasons we strongly recommend to create your topics in the same language as most of the answers in your project. If most answers are in English, the topics should be in English too. If your data spans across multiple projects, we also recommend using the same language as most of the answers.
 
-When translations are enabled, we suggest writing the topic collection in the language the responses were translated to (either English or German). This ensures optimal results and helps us to improve the service.
+When translations are enabled, we suggest writing the topics in the language the responses were translated to (either English or German etc.). This ensures optimal results and helps us to improve the service.
 
-The language of the topic collection will also be the language shown as labels when creating charts.
+The language selected as main topic language will also be the language shown as labels when creating charts.
 
 ## Automatic Translations
 
