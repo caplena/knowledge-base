@@ -63,7 +63,7 @@ If you choose DeepL and you supply the source language during upload with langua
 
 ### Specify the Source Language
 
-Specifying the source language for answers is possible during upload, see [here](05-03-Automatic-Translation.md#How-is-the-source-language-determined?) for information on how to upload with source language and its implications. You can of course also supply the source language when uploading via API by populating the `source_language` attribute of your answers.
+The source language can be determined and specified during data upload, see [here](#language -determination) for information on how to upload with source language and its implications. You can of course also supply the source language when uploading via API by populating the `source_language` attribute of your answers.
 
 ### Visibility of Translated Texts
 
