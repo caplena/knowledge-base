@@ -53,7 +53,69 @@ In general, you should try to specify the address to the venue as detailed as po
 
 ![Bildschirmfoto 2022-07-01 um 20.01.52.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/laX2mNByrWE)
 
-`WERK 8, Dornacherstrasse 192, 4053 Basel, Switzerland` _`The Newark Museum of Art, 49 Washington St, Newark, NJ 07102, United States`_
+**Examples:**
 
+`WERK 8, Dornacherstrasse 192, 4053 Basel, Switzerland`  
+`The Newark Museum of Art, 49 Washington St, Newark, NJ 07102, United States`  
 `Kunsteisbahn Margarethen, Im Margarethenpark 10, 4053 Basel, Switzerland`
 
+### Trustpilot
+
+Input Format: `https://www.trustpilot.com/review/<domain>`
+
+**Examples:**
+
+`https://www.trustpilot.com/review/buzzsprout.com`  
+`https://www.trustpilot.com/review/www.smtp2go.com`  
+`https://www.trustpilot.com/review/cyberghostvpn.com`
+
+### Apple App Store
+
+Input Format: 
+
+- Default Region (US): `https://apps.apple.com/app/<name>/<identifier>`
+- Custom Region: `https://apps.apple.com/<region>/app/<name>/<identifier>`
+   - Supported regions: `ca`, `at`, `it`, `us`, `au`, `fr`, `ch`, `mx`, `es`, `de`
+
+**Examples:**
+
+`https://apps.apple.com/app/1password-7-password-manager/id1333542190`  
+`https://apps.apple.com/app/omnigraffle-7/id1142578753`  
+`https://apps.apple.com/app/bear/id1091189122`  
+`https://apps.apple.com/de/app/fifa-soccer/id1094930513`  
+
+### Google Play Store
+
+Our integration for Google Play Store support fetching reviews for apps, books and even movies. Depending on what type of resource you want to fetch, a different input format is being used. Google Play Store displays different reviews depending on the language set in the URL.
+
+Input Format:
+
+- Apps: `https://play.google.com/store/apps/details?id=<app-bundle>&hl=(fr|de|en|it|es|pl|nl)`
+- Movies: `https://play.google.com/store/movies/details/<name>?id=<identifier>`
+- Books: `https://play.google.com/store/books/details/<name>/?id=<identifier>`
+
+The `hl` parameter defines the language of the reviews. If you do not set this parameter, value en is used. Note that the language is not reliable and reviews in other languages may appear. To fetch all reviews that exist for a given project you need to add a separate URL for every value of `hl`.
+
+**Examples**:
+
+- Apps
+
+  `https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss&hl=de`
+  `https://play.google.com/store/apps/details?id=org.coursera.android`
+  `https://play.google.com/store/apps/details?id=com.pluralsight`  
+
+- Movies
+
+  `https://play.google.com/store/movies/details/Fast_Furious_8?id=s60g2-Fxfn4`
+  `https://play.google.com/store/movies/details/Wolf_of_Wall_Street?id=SpIJBP8XtXk`  
+  `https://play.google.com/store/movies/details/Bohemian_Rhapsody?id=myGzyVRZhzU`
+
+- Books
+
+  `https://play.google.com/store/books/details/Albert_Einstein_The_World_as_I_See_It?id=Y_9kDwAAQBAJ`  
+  `https://play.google.com/store/books/details/Tzu_Sun_The_Art_of_War?id=WeHsAQAAQBAJ`  
+  `https://play.google.com/store/books/details/James_S_A_Corey_Babylon_s_Ashes?id=MzA9CgAAQBAJ` 
+
+
+  
+   
