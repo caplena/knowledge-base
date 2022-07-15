@@ -98,20 +98,20 @@ The `hl` parameter defines the language of the reviews. If you do not set this p
 
 **Examples**:
 
-- Apps
-`https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss&hl=de`  
-`https://play.google.com/store/apps/details?id=org.coursera.android`  
-`https://play.google.com/store/apps/details?id=com.pluralsight`
+- Apps  
+  `https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss&hl=de`  
+  `https://play.google.com/store/apps/details?id=org.coursera.android`  
+  `https://play.google.com/store/apps/details?id=com.pluralsight`  
 
-- Movies
-`https://play.google.com/store/movies/details/Fast_Furious_8?id=s60g2-Fxfn4`  
-`https://play.google.com/store/movies/details/Wolf_of_Wall_Street?id=SpIJBP8XtXk`  
-`https://play.google.com/store/movies/details/Bohemian_Rhapsody?id=myGzyVRZhzU`
+- Movies  
+  `https://play.google.com/store/movies/details/Fast_Furious_8?id=s60g2-Fxfn4`  
+  `https://play.google.com/store/movies/details/Wolf_of_Wall_Street?id=SpIJBP8XtXk`  
+  `https://play.google.com/store/movies/details/Bohemian_Rhapsody?id=myGzyVRZhzU`
 
-- Books
-`https://play.google.com/store/books/details/Albert_Einstein_The_World_as_I_See_It?id=Y_9kDwAAQBAJ`  
-`https://play.google.com/store/books/details/Tzu_Sun_The_Art_of_War?id=WeHsAQAAQBAJ`  
-`https://play.google.com/store/books/details/James_S_A_Corey_Babylon_s_Ashes?id=MzA9CgAAQBAJ` 
+- Books  
+  `https://play.google.com/store/books/details/Albert_Einstein_The_World_as_I_See_It?id=Y_9kDwAAQBAJ`  
+  `https://play.google.com/store/books/details/Tzu_Sun_The_Art_of_War?id=WeHsAQAAQBAJ`  
+  `https://play.google.com/store/books/details/James_S_A_Corey_Babylon_s_Ashes?id=MzA9CgAAQBAJ` 
 
 ### Amazon
 
