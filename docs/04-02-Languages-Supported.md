@@ -119,6 +119,8 @@ Language | Google-Translate | DeepL
  Slovak  | ✓ | ✓
  Slovenian  | ✓ | ✓
  Swedish  | ✓ | ✓
+ Turksih  | ✓ | ✓
+ Indionesean  | ✓ | ✓
  Punjabi  | ✓ | 
  Vietnamese  | ✓ | 
  Albanian  | ✓ | 
