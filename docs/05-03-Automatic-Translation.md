@@ -14,7 +14,7 @@ During upload, choose Yes on the Automatic Translation select menu.
 
 They are translated to the main language selected during upload. We strongly recommend to set this to the same language you'll create your topic collection in.
 
-## How is the source language determined?
+## Determine the Source Language
 
 By default, the source language is detected automatically for every answer. The text will be translated only if it is not already in the main language. If you already know the source language of your responses you can supply this information in the upload by adding a column with [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO\_639-1\_codes). We will recognise such columns automatically during upload and utilise the supplied source language instead of the automatic detection.
 
@@ -43,7 +43,7 @@ If you choose DeepL and you supply the source language during upload with langua
 
 ## I know how the source language for each of my answers, how can I specify that?
 
-Specifying the source language for answers is possible during upload, see [here](05-03-Automatic-Translation.md#How-is-the-source-language-determined?) for information on how to upload with source language and its implications. You can of course also supply the source language when uploading via API by populating the `source_language` attribute of your answers.
+Specifying the source language for answers is possible during upload, see [here](#determine-the source-language) for information on how to upload with source language and its implications. You can of course also supply the source language when uploading via API by populating the `source_language` attribute of your answers.
 
 ## Where can I see the translated texts?
 
