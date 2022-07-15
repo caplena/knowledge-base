@@ -121,12 +121,12 @@ Language | Google-Translate | DeepL
  Spanish  | ✓ | ✓
  Swedish  | ✓ | ✓
  Turksih  | ✓ | ✓
- Punjabi  | ✓ | 
- Vietnamese  | ✓ | 
- Albanian  | ✓ | 
- Thai  | ✓ | 
- Malay  | ✓ | 
- Arabic  | ✓ | 
  Afrikaans  | ✓ | 
+ Albanian  | ✓ | 
+ Arabic  | ✓ | 
+ Malay  | ✓ | 
+ Punjabi  | ✓ | 
+ Thai  | ✓ | 
+ Vietnamese  | ✓ |
  ...more  |[Google Language Support](https://cloud.google.com/translate/docs/languages) | 
 
