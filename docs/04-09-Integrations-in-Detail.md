@@ -47,7 +47,7 @@ As of right now, our integrations feature allows you to import and synchronize r
 
 Input Format: `<name>, <address>, <country>`
 
-In general, you should try to specify the address to the venue as detailed as possible by combining the name, address and country. For example, let us consider the WERK 8 restaurant as shown in the image. We should end up with the following input: 
+In general, you should try to specify the address to the venue as detailed as possible by combining the name, address and country. For example, let us consider the *WERK 8* restaurant as shown in the image. We should end up with the following input: 
 
 `WERK 8, Dornacherstrasse 192, 4053 Basel, Switzerland`
 
