@@ -127,15 +127,13 @@ Input Format:
 **Examples:**
 
 - with name:  
-
   `https://www.amazon.com/First-Years-Stack-Up-Cups/dp/B00005C5H4/`  
   `https://www.amazon.fr/Nero-Giardini-P805261D-Sneakers-Femme/dp/B08V5KPJVN`  
   `https://www.amazon.de/Colgate-Charcoal-Whitening-Zahnpasta-Zahnbürste/dp/B088VCM63D`  
   `https://www.amazon.it/Ray-Ban-0RB3447N-Occhiali-Crystal-Grad-Blue/dp/B076VNZK4V`  
   `https://www.amazon.co.uk/Pinch-Nom-Everyday-Light-Slimming/dp/1529026407`
 
-- without name:
-
+- without name:  
   `https://www.amazon.com/dp/B00WBJGUA2`  
   `https://www.amazon.fr/dp/B01N9BU4Y7`  
   `https://www.amazon.de/dp/B086DKVS1P`  
