@@ -6,14 +6,14 @@ stoplight-id: fgz27i31b0aij
 
 ## Purpose 
 
-Credits are Caplena's currency. You can use credits to pay for the analysis of your data. When buying a subscription or non-expiring credits, your account is filled up with credits that can be used instantly for analysing your text data.
+Credits are Caplena's **currency**. You can use credits to pay for the analysis of your data. When buying a subscription or non-expiring credits, your account is filled up with credits that can be used instantly for analysing your text data.
 
 ## Number of Required Credits
 
 Every text comment (i.e. one cell in Excel) costs one credit. Only the text elements in your text to analyze columns (the one's that you select during upload) will cost you credits. You can have as many other columns (e.g. numerical data, segments, demograhic variables etc.) as you like, they won't be charged. Empty rows or cells containing values you defined as [dummy](#Dummy-Variables) values will not be charged.
 
-- **Example**: A project with 1 question from a survey or a review from a review-website and 4 rows costs 4 credits.
-- **Example**: A project with 2 questions from a survey and 4 rows costs 8 credits.
+- **Example**: A project with 1 text column to analyze (e.g. 1 question from a survey) and 4 rows costs 4 credits.
+- **Example**: A project with 2 text columns to analyze (e.g. 2 questions or the title and the content of a review) and 4 rows costs 8 credits.
 
 ### Credits for Semi-Open Questions
 
