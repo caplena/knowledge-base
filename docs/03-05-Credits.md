@@ -15,11 +15,11 @@ Every text comment (i.e. one cell in Excel) costs one credit. Only the text elem
 - **Example**: A project with 1 text column to analyze (e.g. 1 question from a survey) and 4 rows costs 4 credits.
 - **Example**: A project with 2 text columns to analyze (e.g. 2 questions or the title and the content of a review) and 4 rows costs 8 credits.
 
-### Credits for Semi-Open Questions
+### Fully- vs. Semi-Open
 
 A text to analyze will cost the same, no matter if it is a semi-open text or fully-open one. But if you merge multiple semi-open texts into one, it will only count as one column.
 
-### When are credits deducted?
+### Credit Deduction Time
 
 Credits are deducted **on upload**.
 
@@ -30,7 +30,7 @@ Credits are deducted **on upload**.
 >
 > For honest mistakes on upload, we are accommodating in reimbursing the credits, at least in part (minus potential translation costs which we directly pay to third parties).
 
-### Changing & downloading data
+### Effect of Changes
 
 Every row will **only be billed once**. You can change, visualize, or  download the data and even restart the analysis as often as you like.
 
@@ -42,7 +42,7 @@ By default we do not count empty rows towards your credits. If you have addition
 
 You can track your credit usage on your [account page](https://caplena.com/app/account) (you need to be logged in to view this).
 
-### Credits within Organizations
+### Credits in Organizations
 
 If you are part of an organization, the root user of your organization is the one that will be billed for the credits that you use.
 
