@@ -60,7 +60,7 @@ One credit corresponds to the analysis or download of one text / feedback respon
 
 If you have non-expiring as well as monthly credits in your account, the system will try to use up your monthly credits **before** touching the non-expiring ones.
 
-### Upgrading Your Subscription
+### Upgrading
 
 You can **upgrade your subscription at any point in your [account page](https://caplena.com/app/account/subscription)**, which will instantaneously unlock your new set of features. Your subscription cycle will not be changed. If you wish to downgrade your subscription, you can also do this in your [account page](https://caplena.com/app/account/subscription) as well. The changes will apply immediately as well and you will be charged pro-rata for the cheaper subscription.
 
