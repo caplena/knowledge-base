@@ -40,17 +40,22 @@
     },
     {
       "type": "item",
-      "title": "Trial, Subscriptions, Credits",
-      "uri": "docs/03-05-Subscriptions-and-Billing.md"
+      "title": "Credits",
+      "uri": "docs/03-05-Credits.md"
     },
     {
       "type": "item",
-      "title": "Caplena Login",
-      "uri": "docs/03-06-Login-to-Caplena.md"
+      "title": "Trial & Subscriptions",
+      "uri": "docs/03-06-Subscriptions.md"
     },
     {
       "type": "divider",
       "title": "🕹 Features"
+    },
+    {
+      "type": "item",
+      "title": "Login",
+      "uri": "docs/04-00-Login.md"
     },
     {
       "type": "group",

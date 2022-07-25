@@ -2,13 +2,12 @@
 stoplight-id: h02tt3n85mzkd
 ---
 
-# Trial, Subscriptions, Credits
+# Trial & Subscriptions
 
 This section includes the following key tompics:
 
 * [Free Trial](#free-trial)
 * [Subscriptions](#subscriptions)
-* [Credits](#credits)
 
 ## Free Trial
 
@@ -29,7 +28,7 @@ Of course. You are able to invite up to 10 colleagues to join your team. You can
 
 ### Can I test with my own data?
 
-Yes, during your trial you can also upload your own data within the platform. We support different file formats, such as Excel, CSV, SPSS or JSON data. You will receive 5'000 credits for the test. Please refer to this [article](#credits) about credits for more information.
+Yes, during your trial you can also upload your own data within the platform. We support different file formats, such as Excel, CSV, SPSS or JSON data. You will receive 5'000 credits for the test. Please refer to this [article](03-05-Credits.md) about credits for more information.
 
 ### I have already coded data, can I reuse that?
 
@@ -55,7 +54,7 @@ Your bill will always be issued **at the beginning of your subscription cycle**.
 
 ### How do credits fit in my subscription?
 
-In Caplena's world, **credits are your currency** to use Caplena's services. Check out our [article on credits](#credits) to see how they work.
+In Caplena's world, **credits are your currency** to use Caplena's services. Check out our [article on credits](03-05-Credits.md) to see how they work.
 
 One credit corresponds to the analysis or download of one text / feedback response. Each subscription comes with 1'500 credits per subscription month. These monthly credits are expiring at the end of the subscription month if not used. In addition, you can **top-up** your account with **non-expiring credits**. These are only deducted from your account when you use them.
 
@@ -72,51 +71,3 @@ We hope it will never come to that! 🙂 But if you wish to cancel your subscrip
 ### Do I need a subscription for the managed service?
 
 No you don't. Our managed service is setup as a separate stand-alone offering. Please refer to our [managed service page](https://caplena.com/en/managed/) for more information.
-
-## Credits
-
-### What are credits for?
-
-Credits are Caplena's currency. You can use credits to pay for the analysis of your data. When buying a subscription or non-expiring credits, your account is filled up with credits that can be used instantly for analysing your text data.
-
-### How many credits will I be charged?
-
-Every text element (i.e. one cell in Excel) costs one credit. Only the text elements in your text to analyze columns (the one's that you select during upload) will cost you credits. You can have as many other columns as auxiliary columns (e.g. numerical data, segments, demograhic variables etc.) as you like, they won't be charged. Empty rows will not be charged.
-
-- **Example**: A project with 1 question from a survey or a review from a review-website and 4 rows costs 4 credits.
-- **Example**: A project with 2 questions from a survey and 4 rows costs 8 credits.
-
-### How much credits do semi-open / list questions cost?
-
-A text to analyze will cost the same, no matter if it is a semi-open text or fully-open one. But if you merge multiple semi-open texts into one, it will only count as one question.
-
-### When are credits deducted?
-
-Credits will be deducted when the data will be uploaded.
-
-For all new projects or when appending rows to existing projects, **credits will be billed on upload immediately**.
-
-<!-- theme: info -->
-
-> #### What about testing & mistakes?
-> For this purpose, everyone gets a free trial. Furthermore, there are two demo projects in every account, which of course don't incur any costs. For other experiments just upload small datasets.
->
-> For honest mistakes on upload, we are accommodating in reimbursing the credits, at least in part (minus potential translation costs which we directly pay to third parties).
-
-### Will I be billed again when changing data and downloading it again?
-
-No, every row will only be billed once. You can change, visualize and download the data as often as you like.
-
-### I have dummy-variables in my data, will I be charged for these?
-
-By default we do not count empty rows towards your credits. If you have additional dummy data in your files (e.g. -99 representing empty responses), you can define up to three dummy-values on your [account page](https://caplena.com/app/account) which will not be counted in subsequent uploads.
-
-### Where can I see how my credits were used?
-
-You can track your credit usage on your [account page](https://caplena.com/app/account) (you need to be logged in to view this).
-
-### I am part of an organization, how do credits work then?
-
-If you are part of an organization, the root user of your organization is the one that will be billed for the credits that you use.
-
-
