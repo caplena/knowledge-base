@@ -71,7 +71,7 @@ To make use of the new functionality, convert your non-sentiment topics to senti
 5. Make sure the *sentiment labels* are correct. The *neutral* label can either be left empty (if it is the same as the topic label, it does not make sense to populate it).
 6. Hit merge
 
-In case there are rows marked as "reviewed" with the topic you are planning to merge, the review status needs to be changed first to allow enabaling topic level sentiment. Use the filter to select the topics and click on "Select all (number of rows with the topic)". The "Bulk assign" window will open on the right. Under "Row review status" you enable the toggle to "Unreviewed" and you can start the process decribed above.
+In case **there are rows marked as "reviewed" with the topic you are planning to merge**, the review status needs to be changed first to allow enabaling topic level sentiment. Use the filter to select the topics and click on "Select all (number of rows with the topic)". The "Bulk assign" window will open on the right. Under "Row review status" you enable the toggle to "Unreviewed" and you can start the process decribed above.
 
 <!-- theme: info -->
 > The codes (numerical IDs) are copied from your previous topics and will thus stay consistent.
