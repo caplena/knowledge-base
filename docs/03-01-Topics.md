@@ -68,6 +68,10 @@ If the AI should distinguish between *positive, negative and neutral* versions o
 
 *The topic sentiment setting is AI-relevant 🤖*.
 
+> In case **there are rows marked as "reviewed" with the topic you are planning to merge**, the review status needs to be changed first to allow enabling topic level sentiment.
+>
+> Use the filter to select the topic and click on "Select all (number of rows with the topic)". The "Bulk assign" window will open on the right. Under "Row review status" you enable the toggle to "Unreviewed" and then you will be able to set topic sentiment.
+
 <!-- theme: warning -->
 > #### Disabling & enabling topic sentiment
 >
