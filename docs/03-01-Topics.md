@@ -73,11 +73,21 @@ If the AI should distinguish between *positive, negative and neutral* versions o
 > Use the filter to select the topic and click on "Select all (number of rows with the topic)". The "Bulk assign" window will open on the right. Under "Row review status" you enable the toggle to "Unreviewed" and then you will be able to set topic sentiment.
 
 <!-- theme: warning -->
-> #### Disabling & enabling topic sentiment
+> #### Disabling topic sentiment
 >
-> When disabling the topic sentiment, the sentiment will be discarded from the topic in all rows. **This action is non-reversible:** If you activate the sentiment again, rows which have already been reviewed will not get the topic sentiment back but will show a `neutral` sentiment for this topic instead.
+> When disabling the topic sentiment, the sentiment will be discarded from the topic in all rows. **This action is non-reversible**.
+
+
+<!-- theme: warning -->
+> #### Enabling topic sentiment
 >
->For rows which haven't been reviewed yet, the AI will start differentiating between the sentiment versions as soon as you enable the topic sentiment.
+> The sentiment can only be enabled for topics **without any reviewed rows**. 
+>
+> Note: **Merging** multiple non-sentiment topics into a sentiment topics is always possible, even with reviewed rows.
+>
+> https://www.youtube.com/watch?v=Fma9N8cNi78
+>
+> When activated, the AI will start differentiating between the sentiment versions.
 
 ### Sentiment Labels
 
