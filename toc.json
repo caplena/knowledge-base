@@ -63,23 +63,8 @@
       "items": [
         {
           "type": "item",
-          "title": "Import Data and Project Start",
+          "title": "Data Import",
           "uri": "docs/04-01-Import-Data.md"
-        },
-        {
-          "type": "item",
-          "title": "Additional Data Columns (Non-Text)",
-          "uri": "docs/04-04-Additional-Data-Columns.md"
-        },
-        {
-          "type": "item",
-          "title": "Multiple Columns of Text in one Project",
-          "uri": "docs/04-05-Multiple-Text-to-Analyze-Columns.md"
-        },
-        {
-          "type": "item",
-          "title": "Appending Additional Rows",
-          "uri": "docs/04-06-Appending-Additional-Data.md"
         },
         {
           "type": "item",
