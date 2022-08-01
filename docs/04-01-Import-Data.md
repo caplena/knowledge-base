@@ -82,7 +82,7 @@ The additional data should be arranged in the same way as the original data, i.e
 
 In case you would like to use our auto-translation feature, please **enable it when you initially create your project**. It is not possible to enable this feature retrospectively when uploading additional data to an existing project with no auto-translation enabled. Learn more about [auto translation](04-02-Languages-Supported.md#automatic-translations).
 
-### Handling of Duplicate-Rows
+### Duplicate Row Handling
 
 A row of data is considered to be a duplicate if all values in all columns are exactly equal. By default, duplicates will be ignored and not be imported. However, in case you would like to disable this feature, you can simply turn of the *Skip existing* function in the *Match your data* view (see screen shot below).
 
@@ -90,7 +90,7 @@ A row of data is considered to be a duplicate if all values in all columns are e
 
 ![Bildschirmfoto 2022-01-03 um 16.29.09.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/6zKTyTsgu4Y)
 
-## Non-Text Data Usage
+## Leverage Non-Text Data
 When uploading a project to Caplena, all columns you do not select to be processed as text, will be treated as additional columns and uploaded to the platform nevertheless.
 
 This data could be metadata of the respondent (age, gender, customer segment, country, etc.), an ID column for later identification in the export, or responses to closed-questions such as a likelihood to recommend question (NPS score).
