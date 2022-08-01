@@ -99,7 +99,7 @@ This data could be metadata of the respondent (age, gender, customer segment, co
 
 > To benefit most from Caplena, we recommend adding as many relevant additional columns as possible.
 
-### Visualization - Charts & Dashboards
+### Visualization
 
 Text
 
