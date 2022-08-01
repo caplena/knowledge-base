@@ -4,6 +4,11 @@ stoplight-id: 85eh1l8jcavy0
 
 # Data Import
 
+* [Three Data Import Options](#import-options)
+* [Projects with multiple Text Columns](#multiple-text-columns)
+* [Adding more Text Data to an existing Project](#multiple-text-columns)
+* [Leverage and visualize Non-Text-Data](#leverage-non-text-data)
+
 ## Import Options
 Importing data into the Caplena platform is the first step to start a new project. After clicking on the *New Project* or *Import Data* button you will be able to choose between three data import options.
 
