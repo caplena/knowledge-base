@@ -106,7 +106,17 @@ Non-Text data will be displayed and can be used at different stages of the analy
 
 > To benefit most from Caplena, we recommend adding as many relevant additional columns as possible.
 
-### Visualization
+### View Options
 
-Text
+Once you click on a text in the *Fine-Tuning View* you will see your uploaded non-text data on the right.
+
+![Bildschirmfoto 2022-08-01 um 17.55.10.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/WR9GdzgJeH0)
+
+You can also use the little cog wheel at the top right of the text display and select any of these variables to be shown underneath the text.
+
+![Bildschirmfoto 2022-08-01 um 18.02.50.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/r98kKwQhPCQ)
+
+
+### Filters
+
 
