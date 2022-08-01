@@ -2,23 +2,23 @@
 stoplight-id: 85eh1l8jcavy0
 ---
 
-# Data import options
+# Data Import
 
 Importing data into the Caplena platform is the first step to start a new project. After clicking on the *New Project* or *Import Data* button you will be able to choose between three data import options.
 
 ![Bildschirmfoto 2022-07-01 um 20.09.55.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/XPVSgepPBtE)
 
 
-## Upload a file
+## Upload a File
 
 Using this option, you can simply drag and drop your data file into the import box or browse to the location of your file. The currently supported data formats for this import option are: .xls, .xlsx, .csv, .txt, .spss and .sav.
 
-### Data structure
+### Data Structure
 The data should be arranged in columns and rows, where the rows include the indiviudal records such as respondends, reviews or social media feedback.
 
 The first row of the data file will be treated as the column header or title. In case you have the description of your data columns across several rows, e.g., the variable name in the first row and a description the second, you should delete one of these rows or merge them into a single row.
 
-### Additional data
+### Additional Data
 Together with your text to analyze you can upload additional data columns with text and / or numerical data, such as age, gender, NPS-scores etc. These additional data columns will not be analyzed as text and you will not be charged for them. However, we recommend uploading additional data columns as you can use them as segmentation or filter variable and they can also be display besides your text when fine-tuning.
 
 ## Direct Input
