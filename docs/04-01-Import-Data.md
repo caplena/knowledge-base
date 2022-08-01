@@ -62,7 +62,7 @@ Using this approach makes only sense when you have your data organized like in t
 
 Despite having all questions within one project, the actual analysis will take place on an individual text level. All text columns / questions will be shown when accessing your project.
 
-## Additional Data for an Existing Project
+## Add More Text-Data
 
 You may have already started or finished the analysis for your project, but you would like to add more data, be it from a new or previous wave or from an additional market and the like.
 
