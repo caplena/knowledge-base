@@ -45,12 +45,10 @@ The following tutorials show the Integrations features in practice:
 # Multiple Text Columns
 When starting a project, you have either a single column with text to analyze or you have several text columns in one row. The latter is often true when analyzing survey data with several open-ended questions.
 
-## A Single Text Column
-
+## A Single Column
 In case you are analyzing the answers to a single open-ended question from a survey, reviews from a customer review website (such as Google Maps, Apple App Store, Amazon, etc.) or social media feedback, you will have a project with a single text-column. Thus, you simply upload your open-ended data together with your auxiliary data columns (these can be any additional variables such as ID, ratings, demographics, dates, countries, etc.) that you like to use for analysis, filtering, and segmentation.
 
-## Multiple Text Columns
-
+## Multiple Columns
 When analyzing survey data, you might have more than one open-ended question in your questionnaire. In such cases, you do not have to create several individual projects to analyze them across different individual projects. Instead, you can import your data all at once as a single file.
 
 The example below includes two open-ended questions as well as several auxiliary variables for analytical purposes.
