@@ -127,7 +127,7 @@ The "Standard Fields" at the top of the filter menu are filters that are based o
 
 ### Segments
 
-Additionally uploaded data can be used to create segments to analyze specifc types of respondents based on the variables available. In the example below, the results are shown by smart phone brand.
+Additionally uploaded data can be used to create segments to analyze specific types of respondents based on the variables available. In the example below, the results are shown by smart phone brand.
 
 ![Bildschirmfoto 2022-08-01 um 18.23.30.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/AsT34EriE4M)
 
