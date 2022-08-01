@@ -90,7 +90,7 @@ A row of data is considered to be a duplicate if all values in all columns are e
 
 ![Bildschirmfoto 2022-01-03 um 16.29.09.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/6zKTyTsgu4Y)
 
-## Additional Data Columns (Non-Text)
+## Non-Text Data Usage
 When uploading a project to Caplena, all columns you do not select to be processed as text, will be treated as additional columns and uploaded to the platform nevertheless.
 
 This data could be metadata of the respondent (age, gender, customer segment, country, etc.), an ID column for later identification in the export, or responses to closed-questions such as a likelihood to recommend question (NPS score).
@@ -99,7 +99,7 @@ This data could be metadata of the respondent (age, gender, customer segment, co
 
 > To benefit most from Caplena, we recommend adding as many relevant additional columns as possible.
 
-### Leveraging Additional Columns in the Visualizations (Charts)
+### Visualization - Charts & Dashboards
 
 Text
 
