@@ -100,11 +100,11 @@ When uploading a project to Caplena, all columns you do not select to be process
 
 This data could be metadata of the respondent (age, gender, customer segment, country, etc.), an ID column for later identification in the export file, or responses to closed-questions such as a likelihood to recommend question (NPS score).
 
+Non-Text data will be displayed and can be used at different stages of the analysis process, e.g., to be shown together with the text data during fine-tuning, in the row browser when reading the text behind specific topics and of course for your charts and dashboards to segment and filter the results.
+
 <!-- theme: info -->
 
 > To benefit most from Caplena, we recommend adding as many relevant additional columns as possible.
-
-Non-Text data will be displayed and can be used at different stages of the analysis process, e.g., to be shown together with the text data during fine-tuning, in the row browser when reading the text behind specific topics and of course for your charts and dashboards to segment and filter the results.
 
 ### Visualization
 
