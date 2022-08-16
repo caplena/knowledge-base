@@ -59,7 +59,7 @@ We strongly recommend turning on automatic translations in the following cases:
 
 DeepL is a newish player with very good translation quality, however only a limited set of languages is supported (click on "Supported languages" during the upload process to learn more). Anecdotally, we've found DeepL to yield a bit better results both with automatic and manual coding. If you choose DeepL and have texts in non-supported languages, you'll get nonsensical answers since DeepL will try to detect the language but fails to do so. It then takes the "closest" language - which will be completely off. We thus recommend Google Translate for studies with non-supported languages.
 
-If you choose DeepL and you supply the source language during upload with languages that are not supported by DeepL, we will use DeepL for supported languages (and for empty source language) and fallback to Google Translated for the languages that are only supported by Google Translate. For a list of supported languages, see below.
+If you choose DeepL and *you supply the source language during upload* we will use DeepL for supported languages (and for empty source language) and fallback to Google Translated for the languages that are only supported by Google Translate. For a list of supported languages, see below.
 
 ### Source Language
 
