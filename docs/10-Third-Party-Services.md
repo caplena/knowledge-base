@@ -17,9 +17,45 @@ Some of the below-mentioned services are crucial for the operation of our platfo
 
 ## Google Cloud
 
-Google Cloud is our **server infrastructure provider**. While in theory they have access to all our data, their privacy policy forbids them to evaluate, make use or retain this data in any way. It is worth noting that the privacy standards of Google Cloud are not comparable to those of consumer oriented Google services, like search or ads. In the former they act as hardware provider, catering towards enterprises, governments and corporations that have strict privacy requirements, compared to the latter, in which their business model consists of offering free services by making use of user data.
+Google Cloud is our **server infrastructure provider**. While in theory they have access to all our data, their privacy policy forbids them to evaluate, make use or retain this data in any way. Google Cloud is considered one of the 3 leading cloud providers with clients in all regions and industries.
 
-We rely exclusively on data-center regions **within the EU**, specifically the data is stored in the Netherlands.
+*Data Processing Location:* Netherlands.
+
+*Legal Address:* Google Cloud EMEA Limited, 70 Sir John Rogerson’s Quay, Dublin 2, Ireland
+
+## DeepL
+
+Translation service, only when explicitly selected (by activating translations).
+
+* **Has access to:** The text columns (the ones selected during upload) of projects where translation are activated and DeepL is chosen as translation service.
+* **Does not have access to:** Your name, email or any other data.
+
+*Data Processing Location:* Finland.
+
+*Legal Address:* DeepL SE, Maarweg 165, 50825 Cologne, Germany
+
+
+## Segment
+
+Customer data platform, which we use to route specific pieces of information to the other mentioned subprocessors.
+
+* **Has access to:** Your name, email address, metadata on which pages you have visited and actions you have performed on the platform.
+* **Does not have access to:** Any of the data you process on Caplena.
+
+*Data Processing Location:* Ireland / EU
+
+*Legal Address:* Twilio Germany GmbH, Rosenheimer Str. 143C, 81671 München
+
+## Customer.io
+
+Automated messaging & email platform.
+
+* **Has access to:** Your name, email address, metadata on which pages you have visited and actions you have performed on the platform.
+* **Does not have access to:** Any of the data you process on Caplena.
+
+*Data Processing Location*: USA
+
+*Legal Address:* 921 SW Washington St No 820, Portland, Oregon, 97205, United States
 
 ## Intercom
 
@@ -28,7 +64,27 @@ Powers our chat and the help center.
 * **Has access to:** Your name, email address, the content of the messages you write through the chat widgets and metadata on which pages you visited on Caplena.
 * **Does not have access to:** Any of the data you process on Caplena.
 
-Userpilot
+*Data Processing Location:* USA
+
+*Legal Address:* Intercom, 55 2nd Street, 4th Floor, San Francisco, CA 94105
+
+## Stripe
+
+Stripe is our payments processor. They are one of the most respected and well known players in this industry, enabling us to be PCI DSS compliant.
+
+* **Has access to:** Your payment information (including credit card details, to which we do not have access and which we do not store on Caplena), address, name, invoice items and partially browsing behaviour on Caplena.
+* **Does not have access to:** Any of the data you process on Caplena.
+
+*Legal Address*: Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland
+
+## Close
+
+Our CRM tool.
+
+* **Has access to:** Your name, email address and conversations you have had with our team.
+* **Does not have access to:** Any of the data you process on Caplena.
+
+## Userpilot
 
 Powers our tutorials and feature highlights. 
 
@@ -58,47 +114,3 @@ Enables us to understand how our ads from Linkedin perform. The insights tag is 
 
 * **Has access to:** Metadata on your which public pages you have visited.
 * **Does not have access to:** Pages you visit in the app, your name, email or any other data.
-
-## Google Translate
-
-Translation service, only when explicitly selected (by activating translations).
-
-* **Has access to:** The text columns (the ones selected during upload) of projects where translation are activated and Google Translate is chosen as translation service.
-* **Does not have access to:** Your name, email or any other data.
-
-## DeepL
-
-Translation service, only when explicitly selected (by activating translations).
-
-* **Has access to:** The text columns (the ones selected during upload) of projects where translation are activated and DeepL is chosen as translation service.
-* **Does not have access to:** Your name, email or any other data.
-
-## Segment
-
-Customer data platform, which we use to route specific pieces of information to the other mentioned subprocessors.
-
-* **Has access to:** Your name, email address, metadata on which pages you have visited and actions you have performed on the platform.
-* **Does not have access to:** Any of the data you process on Caplena.
-
-## Customer.io
-
-Automated messaging & email platform.
-
-* **Has access to:** Your name, email address, metadata on which pages you have visited and actions you have performed on the platform.
-* **Does not have access to:** Any of the data you process on Caplena.
-
-
-## Close
-
-Our CRM tool.
-
-* **Has access to:** Your name, email address and conversations you have had with our team.
-* **Does not have access to:** Any of the data you process on Caplena.
-
-
-## Stripe
-
-Stripe is our payments processor. They are one of the most respected and well known players in this industry, enabling us to be PCI DSS compliant.
-
-* **Has access to:** Your payment information (including credit card details, to which we do not have access and which we do not store on Caplena), address, name, invoice items and partially browsing behaviour on Caplena.
-* **Does not have access to:** Any of the data you process on Caplena.
