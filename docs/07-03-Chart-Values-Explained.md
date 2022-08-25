@@ -4,7 +4,7 @@ stoplight-id: 9jt98mwlpcfy9
 
 # Chart Values Explained
 
-**The sum across all topics within a category can be higher than the total count of that category - here is the reason why**
+**The sum across all topics within a category can be higher than the total count of that category - here is the reason why.**
 
 All chart values and percentages are counted and calculated on a respondent level.
 
