@@ -31,7 +31,7 @@ All these charts are **interactive**, which means you can **click on the topics 
 
 All **charts are connected to the data**, meaning they are **always based on the latest coding status**. In case you make any changes to your data, all related charts will be instantly updated.
 
-### Bar chart: The Working Horse
+### The Working Horse
 
 This is a highly flexible chart type that can be used for a single question or different questions combined. With this chart you can show total results as well as comparisons between sub-sets or different segments.
 
@@ -39,7 +39,7 @@ The following example from a NPS survey shows the coded results broken into the 
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/pkumNCMyvzA)
 
-### Line & Pie Chart: To show Trends
+### Show and Monitor Trends
 
 The main use case for this chart is to show how your data changes over time. This could be a great choice when comparing different survey waves or in the case of continuously collected data from customer feedback systems or when collecting customer reviews from websites such as Amazon, Google Maps, Apple Store etc. using our [Integrations feature](04-09-Integrations-in-Detail.md).
 
@@ -47,7 +47,7 @@ The following chart shows an example of Amazon reviews of a Bluetooth speaker. I
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/JplgNTMRUlE)
 
-### Treemap: Hierachical Distribution
+### Hierachical Distribution
 
 The treemap provides an intuitive overview of the distribution of each category and its individual codes.
 
