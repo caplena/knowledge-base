@@ -39,7 +39,7 @@ The following example from a NPS survey shows the coded results broken into the 
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/pkumNCMyvzA)
 
-### Line & Pie Chart: To show Trends over Time
+### Line & Pie Chart: To show Trends
 
 The main use case for this chart is to show how your data changes over time. This could be a great choice when comparing different survey waves or in the case of continuously collected data from customer feedback systems or when collecting customer reviews from websites such as Amazon, Google Maps, Apple Store etc. using our [Integrations feature](04-09-Integrations-in-Detail.md).
 
@@ -53,19 +53,19 @@ The treemap provides an intuitive overview of the distribution of each category 
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/AzoRzPW1nc4)
 
-### Relationship Graph: Visualization of the Co-Occurance of Topics
+### Relationship Graph
 
 With the relationship graph you can innovatively analyze and visualize which codes have a strong relationship, i.e., which codes occur frequently together with the feedback of the customers.
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/daPqnjEEmBI)
 
-## Two Chart Types for Visualizing and Analyzing Scores
+## Visualizing Scores
 
 With the following two chart types you can include and visualize your numerical data, most commonly scores, such as NPS, CSAT or similar types of averages.
 
 ### Score Chart
 
-The score chart shows the average score and the distribution of the values. In the example below, the NPS is shown with the distribution across the three NPS groups, i.e., Promoters, Passives and Detractors. Of course, this can be applied to any other score such as CSAT scores or the average star ratings when using our (Integrations feature)[LINK to INTEGRATIONS].
+The score chart shows the average score and the distribution of the values. In the example below, the NPS is shown with the distribution across the three NPS groups, i.e., Promoters, Passives and Detractors. Of course, this can be applied to any other score such as CSAT scores or the average star ratings when using our [Integrations feature](04-09-Integrations-in-Detail.md).
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/ARGq3wCA6HI)
 
