@@ -47,7 +47,7 @@ By clicking on Existing Charts you will go straight to your chart library where 
 
 All charts are **interactive**, which means that **you can click on any chart element to see which texts lie behind the topics or categories** and a mouse-over shows you details on sample size, full data labels etc.
 
-If you would like to learn more about charts and charting with Caplena, please click (here)[Charting Article LINK] for a detailed article.
+If you would like to learn more about charts and charting with Caplena, please click [here](07-01-Creating-Charts.md) for a detailed article.
 
 ### Text Elements
 Text elements can be used to structure your dashboard or to add interpretations. For your texts you can choose between a bold type face for headings or short texts and a non-bold type face for longer interpretations and explanations. The color of font and background can be changed with a seamless color pallet, but you can also enter RGB codes to match your company's color scheme.
