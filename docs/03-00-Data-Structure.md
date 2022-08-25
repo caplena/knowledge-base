@@ -6,7 +6,7 @@ stoplight-id: ezyy60tig7uzy
 
 ## Project
 
-A Project is the highest-level object at Caplena. It is somewhat equivalent to a Sheet in Excel.
+A Project is the highest-level object at Caplena. It is somewhat equivalent to a sheet in Excel.
 
 ![file-dxIlK1wDyy.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/NJX61i3WtD8)
 
