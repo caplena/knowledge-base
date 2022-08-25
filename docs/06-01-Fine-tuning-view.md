@@ -211,7 +211,7 @@ By default, duplicates are assigned the same topics and are also marked as *revi
 
 If translations are enabled, you can toggle between the translated text and the original one with this button. To define which text should be shown for all rows, open the [view options](#view-options).
 
-See also translations. [TODO]
+See [here](09-01-Languages.md) for more information on how translations work.
 
 ### Filters
 
