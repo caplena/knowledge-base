@@ -69,7 +69,7 @@ The score chart shows the average score and the distribution of the values. In t
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/ARGq3wCA6HI)
 
-### Driver Analysis: Scatter Chart
+### Driver Analysis
 
 Using driver analysis you can measure a **topic’s impact on customer satisfaction**, whether it is on the NPS, CSAT or your custom build customer satisfaction or loyalty score.
 
@@ -81,7 +81,7 @@ Any **topic that appears in the upper right of scatter chart has a high positive
 
 For further reading about our driver analysis follow the link to one of our recent blog posts: [Chart of the Month: Driver Chart](https://blog.caplena.com/2021/08/31/chart-of-the-month-driver-chart/).
 
-## Manage and find Your Chart Collection
+## Manage Your Chart Collection
 
 Charts that you have created and saved can be accessed via the Cockpit of the project where the chart was created and stored or you can access any chart across all your projects form the chart list that you can reached via the Main Menu.
 
