@@ -57,7 +57,7 @@ The following example shows two text boxes, one acts as a heading to mark a dash
 ![Bildschirmfoto 2022-02-03 um 18.14.32.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/Q67MZl57ghc)
 
 ### Verbatim Sample
-This feature allows you to show open-ended responses from a particular question. You can also apply filters to show a particular code or category overall or within a particular segment, i.e. the most frequent code / category or a code / category which is under particular observation within your organization filtered by country, location, business unit or else.
+This feature allows you to show the open-ended text. You can also apply filters to show a particular topics overall or by particular segments, i.e. the most frequent topic / category or a topic / category which is under particular observation within your organization filtered by country, location, business unit or else.
 
 The following example shows all open ended comments that fall into the most frequent code. Each response will be shown together with the assigned code and you can scroll through all responses that match the filter.
 
