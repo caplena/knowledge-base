@@ -250,7 +250,10 @@ See [AI Score](#ai-score).
 
 ### Result Chart
 
-Get a live overview of the current distribution of topics. [TODO Screenshot]
+Get a live overview of the current distribution of topics.
+
+![Bildschirmfoto 2022-08-25 um 19.26.16.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/VWz14Em7Wpk)
+
 
 ### Statistics & Number of Rows
 
