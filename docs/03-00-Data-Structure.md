@@ -35,7 +35,7 @@ A *row* is the same as what it is in Excel: A row of data 😊. When appending a
 ![file-LC26J78XDb.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/SNEbdlgED5U)
 
 ## Additional / auxiliary columns
-*Additional or auxiliary columns* (we treat those as synonyms) are the additional data columns that you do not select as text to analyze during upload. They will be uploaded nevertheless, but you will not be able to analyze them as text and you will also [not be billed for them](03-05-Subscriptions-and-Billing.md#credits). But you can use them in charts or display them besides your text in the coding view.
+*Additional or auxiliary columns* (we treat those as synonyms) are the additional data columns that you do not select as text to analyze during upload. They will be uploaded nevertheless, but you will not be able to analyze them as text and you will also [not be billed for them](03-05-Subscriptions.md#credits). But you can use them in charts or display them besides your text in the coding view.
 
 ![file-Lg6Pbi0JXy.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/gWJOSOLELKc)
 
