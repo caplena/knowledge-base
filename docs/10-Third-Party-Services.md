@@ -10,12 +10,13 @@ Some of the below-mentioned services are crucial for the operation of our platfo
 
 
 <!-- theme: info -->
-> We are extremely transparent in regards to which third party services we rely on, also if they perform minor auxiliary services. 
+> We are very transparent in regards to which third party services we rely on, also if they perform minor auxiliary services. 
 >
 > It is important to note that **the only subprocessor** that potentially has full access to the data you upload is **Google Cloud**. With most other services we only share usage information, which may include your name and email.
 
+## Service with (partial) access to PII
 
-## Google Cloud
+### Google Cloud
 
 Google Cloud is our **server infrastructure provider**. While in theory they have access to all our data, their privacy policy forbids them to evaluate, make use or retain this data in any way. Google Cloud is considered one of the 3 leading cloud providers with clients in all regions and industries.
 
@@ -23,7 +24,7 @@ Google Cloud is our **server infrastructure provider**. While in theory they hav
 
 *Legal Address:* Google Cloud EMEA Limited, 70 Sir John Rogerson’s Quay, Dublin 2, Ireland
 
-## DeepL
+### DeepL
 
 Translation service, only when explicitly selected (by activating translations).
 
@@ -35,7 +36,7 @@ Translation service, only when explicitly selected (by activating translations).
 *Legal Address:* DeepL SE, Maarweg 165, 50825 Cologne, Germany
 
 
-## Segment
+### Segment
 
 Customer data platform, which we use to route specific pieces of information to the other mentioned subprocessors.
 
@@ -46,7 +47,7 @@ Customer data platform, which we use to route specific pieces of information to 
 
 *Legal Address:* Twilio Germany GmbH, Rosenheimer Str. 143C, 81671 München
 
-## Customer.io
+### Customer.io
 
 Automated messaging & email platform.
 
@@ -57,7 +58,7 @@ Automated messaging & email platform.
 
 *Legal Address:* 921 SW Washington St No 820, Portland, Oregon, 97205, United States
 
-## Intercom
+### Intercom
 
 Powers our chat and the help center.
 
@@ -68,7 +69,7 @@ Powers our chat and the help center.
 
 *Legal Address:* Intercom, 55 2nd Street, 4th Floor, San Francisco, CA 94105
 
-## Stripe
+### Stripe
 
 Stripe is our payments processor. They are one of the most respected and well known players in this industry, enabling us to be PCI DSS compliant.
 
@@ -77,21 +78,7 @@ Stripe is our payments processor. They are one of the most respected and well kn
 
 *Legal Address*: Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland
 
-## Close
-
-Our CRM tool.
-
-* **Has access to:** Your name, email address and conversations you have had with our team.
-* **Does not have access to:** Any of the data you process on Caplena.
-
-## Userpilot
-
-Powers our tutorials and feature highlights. 
-
-* **Has access to:** Your name and metadata on which pages you visited on Caplena.
-* **Does not have access to:** Any of the data you process on Caplena.
-
-## Logrocket
+### Logrocket
 
 Enables us to find bugs and support users.
 
@@ -101,14 +88,30 @@ Enables us to find bugs and support users.
 <!-- theme: info -->
 > You can opt-out from being tracked by logrocket in your account page.
 
-## Google Analytics
+### Close
+
+Our CRM tool.
+
+* **Has access to:** Your name, email address and conversations you have had with our team.
+* **Does not have access to:** Any of the data you process on Caplena.
+
+## Service without access to PII
+
+### Userpilot
+
+Powers our tutorials and feature highlights. 
+
+* **Has access to:** Metadata on your which pages you have visited, your anonymous user id, your type of subscription and your browser vendor & OS.
+* **Does not have access to:** Any of the data you process on Caplena.
+
+### Google Analytics
 
 Enables us to understand the behaviour of users. 
 
 * **Has access to:** Metadata on your which pages you have visited, your browser type and version, device type, your location and through which channel you accessed Caplena.
 * **Does not have access to:** Your name, email or any other data.
 
-## Linkedin Insights Tag
+### Linkedin Insights Tag
 
 Enables us to understand how our ads from Linkedin perform. The insights tag is only loaded on public pages, not in the App itself.
 
