@@ -41,7 +41,7 @@ The following example from a NPS survey shows the coded results broken into the 
 
 ### Line & Pie Chart: To show Trends over Time
 
-The main use case for this chart is to show how your data changes over time. This could be a great choice when comparing different survey waves or in the case of continuously collected data from customer feedback systems or when collecting customer reviews from websites such as Amazon, Google Maps, Apple Store etc. using our (Integrations feature)[LINK to INTEGRATIONS].
+The main use case for this chart is to show how your data changes over time. This could be a great choice when comparing different survey waves or in the case of continuously collected data from customer feedback systems or when collecting customer reviews from websites such as Amazon, Google Maps, Apple Store etc. using our [Integrations feature](04-09-Integrations-in-Detail.md).
 
 The following chart shows an example of Amazon reviews of a Bluetooth speaker. In this case, the results are shown on a monthly basis.
 
