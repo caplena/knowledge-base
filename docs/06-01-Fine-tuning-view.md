@@ -154,7 +154,7 @@ Here the text to analyze is displayed, alongside the assigned topics.
 
 If translations have been activated for this project and set to be shown in the [view options](#view-options) (enabled by default, if project is translated), the translated text is shown here. To toggle to the source language version, click the *See original* button (element 9 in screenshot above).
 
-See also **TODO: Translations**
+[See here](#09-01-languages.md) for more information on how translations work.
 
 #### 2. Assigned Topics
 
