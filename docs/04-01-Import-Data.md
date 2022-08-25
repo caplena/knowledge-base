@@ -6,7 +6,7 @@ stoplight-id: 85eh1l8jcavy0
 
 * [Three Data Import Options](#import-options)
 * [Projects with multiple Text Columns](#multiple-text-columns)
-* [Adding more Text Data to an existing Project](#add-more-text-data)
+* [Add more Text Data to an existing Project](#add-more-text-data)
 * [Leverage and visualize Non-Text-Data](#leverage-non-text-data)
 
 ## Import Options
