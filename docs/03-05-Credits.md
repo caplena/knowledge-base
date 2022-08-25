@@ -8,7 +8,7 @@ Credits are Caplena's **currency**. You can use credits to pay for the analysis 
 
 ## Number of Credits Required
 
-Every text comment (i.e. one cell in Excel) costs one credit. Only the text elements in your text to analyze columns (the one's that you select during upload) will cost you credits. You can have as many other columns (e.g. numerical data, segments, demograhic variables etc.) as you like, they won't be charged. Empty rows or cells containing values you defined as [dummy](#Dummy-Variables) values will not be charged.
+Every text comment (i.e. one cell in Excel) costs one credit. Only the text elements in your text to analyze columns (the one's that you select during upload) will cost you credits. You can have as many other columns (e.g. numerical data, segments, demograhic variables etc.) as you like, they won't be charged. Empty rows or cells containing values you defined as [dummy](#dummy-variables) values will not be charged.
 
 - **Example**: A project with 1 text column to analyze (e.g. 1 question from a survey) and 4 rows costs 4 credits.
 - **Example**: A project with 2 text columns to analyze (e.g. 2 questions or the title and the content of a review) and 4 rows costs 8 credits.
