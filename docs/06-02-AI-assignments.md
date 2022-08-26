@@ -13,7 +13,7 @@ Caplena's AI automatically assigns the appropriate topics from your topic-tree t
 
 ## How the AI works
 
-For a detailed report on the our AI, plese download [our whitepaper](https://storage.googleapis.com/caplena-public/Whitepaper_Unveiling_the_tech_behind_the_worlds_most_accurate_customer_feedback_analysis_ai.pdf).
+For a detailed report on the our AI, please download [our whitepaper](https://storage.googleapis.com/caplena-public/Whitepaper_Unveiling_the_tech_behind_the_worlds_most_accurate_customer_feedback_analysis_ai.pdf).
 
 ### Understanding of Topics
 
