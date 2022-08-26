@@ -28,6 +28,8 @@ As the name suggests fine-tune the AI towards your specific needs, by reviewing 
 
 The purpose of fine-tuning is to nudge the AI into the right direction, by providing some additional **training data.** This process is called **reviewing** and achieved by either confirming the AIs topic assignments or changing them to match your expectations for a couple of rows.
 
+https://youtu.be/OyQjsKhHZAs
+
 <!-- theme: success -->
 
 > The recommended way to go about this is by using the **Focus Mode 🤓**. Alternatively you can also click on a specific row you want to edit, which will open the sidebar.
@@ -238,6 +240,8 @@ In the topic editor you can
 * edit topic properties, *by clicking on them*
 * merge or combine them to sentiment topics, *by dragging them onto each other*
 * add new topics or categories
+
+https://youtu.be/j3quiv6lTqE
 
 To learn more about how topics work, see also [Topics.](03-01-Topics.md)
 
