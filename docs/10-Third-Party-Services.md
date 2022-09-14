@@ -54,7 +54,7 @@ Automated messaging & email platform.
 * **Has access to:** Your name, email address, metadata on which pages you have visited and actions you have performed on the platform.
 * **Does not have access to:** Any of the data you process on Caplena.
 
-*Data Processing Location*: USA
+*Data Processing Location*: European Union
 
 *Legal Address:* 921 SW Washington St No 820, Portland, Oregon, 97205, United States
 
