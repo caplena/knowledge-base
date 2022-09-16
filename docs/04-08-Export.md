@@ -33,4 +33,4 @@ The summary shows the number of occurrences and frequency for each category, top
 
 ## Previous Exports
 
-For both export modes, previous downloads are available for download during [TODO] days after having been created.
+For both export modes, previous downloads are available for download during 7 days after having been created.
