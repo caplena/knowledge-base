@@ -42,20 +42,29 @@ Anonymization operates on the source text and is performed **before** translatio
 * Russian
 * Spanish
 * Arabic
-* Bulgarian
 * Bengali
+* Belarusian
+* Bulgarian
+* Burmese
 * Catalan
 * Croatian
 * Czech
 * Danish
 * Dutch
-* Greek
+* Estonian
 * Finnish
+* Greek
 * Hebrew
 * Hindi
 * Hungarian
+* Icelandic
+* Indonesian
+* Khmer
 * Latvian
 * Lithuanian
+* Luxembourgish
+* Malay
+* Moldovian
 * Norwegian (Bokmål)
 * Persian (Farsi)
 * Polish
@@ -64,7 +73,11 @@ Anonymization operates on the source text and is performed **before** translatio
 * Slovenian
 * Swedish
 * Tagalog
+* Thai
 * Turkish
 * Ukrainian
+* Vietnamese
+* Mandarin (simplified)
+* Japanese
 
 Texts in other languages will be not or only partially anonymized. We'll add more languages in upcoming releases.
