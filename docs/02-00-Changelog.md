@@ -1,7 +1,18 @@
 ---
 stoplight-id: 7d800a323b890
 ---
-
 # Changelog
+---
+## 2022-11-09
 
-The beginning of an awesome article...
+### Charting & Dashboards
+* Simplified Relationship Graph for Topics with sentiment
+* Enabled Excel Export for Relationship Graph
+* Fixed date filtering on "All Time"
+* Enabled embedding Dashboards as iFrames in other applications
+
+### Integrations and Upload
+* Fixed issues with Review integrations
+* Improved handling of multiple columns with language identifiers
+* For the anonymization feature: Added additional languages (including Thai and Japanse) plus improved the accuracy on existing languages.
+---
