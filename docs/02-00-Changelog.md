@@ -20,6 +20,7 @@ stoplight-id: 7d800a323b890
 ## 2022-11-15
 
 * Fixed incorrect relative impact values in Driver Chart Excel export with sentiment topics
+* Fixed counts in NPS Gauge chart being incorrectly displayed if scoring ranges had no matching rows
 * Performance improvements for bulk update
 
 ---
