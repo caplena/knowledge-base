@@ -16,3 +16,10 @@ stoplight-id: 7d800a323b890
 * Improved handling of multiple columns with language identifiers
 * For the anonymization feature: Added additional languages (including Thai and Japanse) plus improved the accuracy on existing languages.
 ---
+
+## 2022-11-15
+
+* Fixed incorrect relative impact values in Driver Chart Excel export with sentiment topics
+* Performance improvements for bulk update
+
+---
