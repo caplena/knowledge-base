@@ -24,3 +24,10 @@ stoplight-id: 7d800a323b890
 * Performance improvements for bulk update
 
 ---
+
+## 2022-11-18
+
+### Charting & Dashboards
+* Added segment size indication "(n=...)"
+* Fixed issue with bar labels remaining visible when deselecting series from the legend
+* Fixed coloring issue in driver chart
