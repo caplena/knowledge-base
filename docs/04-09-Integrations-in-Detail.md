@@ -18,9 +18,9 @@ To make the distinction between integrations and integration items more clear, l
 
 ## Synchronization
 
-One of the biggest advantages of using integrations is the synchronization feature. With synchronization enabled, new answers submitted to an integration item will be uploaded to the respective project automatically. You can choose between three different synchronization intervals (daily, weekly or monthly) or even disable the synchronization completely. 
+One of the biggest advantages of using integrations is the synchronization feature. With synchronization enabled, new answers submitted to an integration item will be uploaded to the respective project automatically.
 
-The sync process is always triggered at 2:00 AM UTC, and can take anywhere from a few minutes to a few hours to complete successfully. It is also possible to change the synchronization interval directly from the project settings, making it possible to disable the feature when not needed. Please note that due to technical limitations, re-enabling synchronization after it has been disabled for more than 40 days is not possible for all review platforms supported by us. 
+The sync process is always triggered at 2:00 AM UTC, and can take anywhere from a few minutes to a few hours to complete successfully. The synchronization can be disabled within the project settings, but please be aware that due to technical limitations, re-enabling synchronization after it has been disabled for more than 5 days is not possible for all review platforms supported by us. 
 
 Coming back to our gaming console comparison; assuming that daily sync is enabled, new reviews for both the PlayStation 5 and Xbox Series X will be imported into the respective Caplena project every single day without any manual user interaction.
 
