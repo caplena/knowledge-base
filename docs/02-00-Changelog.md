@@ -31,3 +31,7 @@ stoplight-id: 7d800a323b890
 * Added segment size indication "(n=...)"
 * Fixed issue with bar labels remaining visible when deselecting series from the legend
 * Fixed coloring issue in driver chart
+
+## 2022-12-11
+
+* New comparison bar chart allowing exploring differences between segments and the overall value
