@@ -71,6 +71,7 @@ Anonymization operates on the source text and is performed **before** translatio
 * Romanian
 * Slovak
 * Slovenian
+* Swahili
 * Swedish
 * Tagalog
 * Thai
