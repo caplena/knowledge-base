@@ -35,3 +35,9 @@ stoplight-id: 7d800a323b890
 ## 2022-12-11
 
 * New comparison bar chart allowing exploring differences between segments and the overall value
+
+## 2022-12-22
+
+* Added Admin role to Business and Freelance plans. The Admin role allows inviting new users to Caplena and managing the subscription
+* Additional chart previews are now available in the question cockpit
+* Simplified "Organize" step in Upload and clarified credit deduction
