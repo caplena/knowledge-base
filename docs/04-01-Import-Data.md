@@ -142,7 +142,7 @@ In the **main menu, "Chart settings", you can create and build any individual se
 
 Including date columns in your uploads enables you to use Caplena for trend analysis and date filtering. 
 
-### Import
+### Date Import
 
 If you're using our integrations for online reviews or survey collection tools you don't need to worry about date detection so you can skip this section as it is automatically imported and detected. If you're uploading files you need to make sure that the date format is accepted. In order to be  recognized as date column, your values need to match one of the following formats:
 
