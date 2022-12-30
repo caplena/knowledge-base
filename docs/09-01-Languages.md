@@ -24,7 +24,7 @@ The language selected as main topic language will also be the language shown as 
 
 ## Auto-Translation in Detail
 
-### Enable Auto-Translations
+### Enable Auto-Translation
 
 During upload, choose "Yes" on the Automatic Translation select menu.
 
