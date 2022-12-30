@@ -86,7 +86,7 @@ The additional data should be arranged in the same way as the original data, i.e
 
 ### Auto-Translation
 
-In case you would like to use our auto-translation feature, please **enable it when you initially create your project**. It is not possible to enable this feature retrospectively when uploading additional data to an existing project with no auto-translation enabled. Learn more about [auto translation](04-02-Languages-Supported.md#automatic-translations).
+In case you would like to use our auto-translation feature, please **enable it when you initially create your project**. It is not possible to enable this feature retrospectively when uploading additional data to an existing project with no auto-translation enabled. Learn more about [auto translation](04-02-Languages-Supported.md#auto-translations-in-detail).
 
 ### Duplicate Row Handling
 
