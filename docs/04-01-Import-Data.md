@@ -8,6 +8,7 @@ stoplight-id: 85eh1l8jcavy0
 * [Projects with multiple Text Columns](#multiple-text-columns)
 * [Add more Text Data to an existing Project](#add-more-text-data)
 * [Leverage and visualize Non-Text-Data](#leverage-non-text-data)
+* [Date Support](#date-support)
 
 ## Import Options
 Importing data into the Caplena platform is the first step to start a new project. After clicking on the *New Project* or *Import Data* button you will be able to choose between three data import options.
@@ -137,5 +138,46 @@ In the **main menu, "Chart settings", you can create and build any individual se
 
 ![Bildschirmfoto 2022-08-01 um 18.36.00.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/iXEyaXPCh8E)
 
+## Date Support
 
+Including date columns in your uploads enables you to use Caplena for trend analysis and date filtering. 
+
+### Import
+
+If you're using our integrations for online reviews or survey collection tools you don't need to worry about date detection so you can skip this section as it is automatically imported and detected. If you're uploading files you need to make sure that the date format is accepted. In order to be  recognized as date column, your values need to match one of the following formats:
+
+- YYYY-MM-DD, i.e. "2022-01-30" (aka ISO Format)
+- DD.MM.YYYY, i.e. "1.30.2022" or "01.03.2022"
+- DD/MM/YYYY, i.e. "1/30/2022" or "01/30/2022"
+
+**Other formats may be supported**, check the sample data in the "Organize" step to verify that it was recognized correctly:
+
+![grafik.png](../assets/images/grafik.png)
+
+During import, all values of date columns will be normalized to ISO Format (YYYY-MM-DD) no matter which source format the values had. Timestamps will be parsed as well if available as can be seen in the second column in above screenshot.
+
+Note that american-style dates like **MM/DD/YYYY are not supported**, convert to day-first before upload.
+
+### Date Charts
+
+If a date column is present in your data, you can use special date charts to visualize trends in your data. Charts that operate on date are identifiable by a small calendar icon. Currently only the Date Line & Pie chart supports date. Use the radio buttons in the Chart Setup to switch between different aggregation levels (i.e. Years or Months).
+
+![Bildschirmfoto 2022-12-30 um 12.08.54.png](<../assets/images/Bildschirmfoto 2022-12-30 um 12.08.54.png>)
+
+### Filtering in charts and dashboards
+
+Two kinds of filters are available for charts and dashboards that behave fundamentally differently:
+
+ 
+#### Dynamic date ranges
+
+Selecting one of the dynamic date ranges like "This month" will filter for date values of the current month when viewing the chart. If the filter is saved with the chart then opening the same chart a month later will show different data as the current month has changed. The same applies to the rest of the options in the list:
+
+![grafik.png](../assets/images/grafik-3.png)
+
+#### Fixed date ranges ("Custom Period")
+
+For these filters, you select a specific date range from a calendar (i.e. 1st of January 2022 until 12th of February 2022). If you store the chart with the filter applied, the filtered date range will always remain the same.
+
+![grafik.png](../assets/images/grafik-4.png)
 
