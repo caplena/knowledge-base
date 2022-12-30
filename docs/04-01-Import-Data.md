@@ -109,7 +109,7 @@ Non-Text data will be displayed and can be used at different stages of the analy
 
 ### View Options
 
-Once you click on a text in the [*Fine-Tuning View*](docs/06-01-Fine-tuning-view.md) you will see your uploaded non-text data on the right.
+Once you click on a text in the [*Fine-Tuning View*](06-01-Fine-tuning-view.md) you will see your uploaded non-text data on the right.
 
 ![Bildschirmfoto 2022-08-01 um 17.55.10.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/WR9GdzgJeH0)
 
