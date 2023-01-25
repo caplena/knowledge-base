@@ -79,7 +79,7 @@ Any **topic that appears in the upper right of scatter chart has a high positive
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/Zi54YaJetGA)
 
-For further reading about our driver analysis follow the link to one of our recent blog posts: [Chart of the Month: Driver Chart](https://blog.caplena.com/2021/08/31/chart-of-the-month-driver-chart/).
+For further reading about our driver analysis follow the link to one of our recent blog posts: [Chart of the Month: Driver Chart](https://caplena.com/blog/what-is-a-driver-chart/).
 
 ## Manage Your Chart Collection
 
