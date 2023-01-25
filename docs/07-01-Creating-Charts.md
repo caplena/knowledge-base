@@ -73,9 +73,9 @@ The score chart shows the average score and the distribution of the values. In t
 
 Using driver analysis you can measure a **topic’s impact on customer satisfaction**, whether it is on the NPS, CSAT or your custom build customer satisfaction or loyalty score.
 
-Our **in-build driver analysis is based on a multiple regression analysis** for measuring the relative impact of each individual score on the target variable, i.e., the score of choice. The **relative impact of the code is shown on the x-axis**, meaning that the further on the right a code occurs on the scatter chart the higher is its impact on the satisfaction score. The **y-axis shows the frequency of how often a topic was mentioned**.
+Our **in-build driver analysis is based on a multiple regression analysis** for measuring the relative impact of each individual category or topic on a score (NPS, CSAT, star rating, etc.). The **relative impact of the topic on that score is shown on the x-axis**, meaning that the further on the right a topic occurs on the scatter chart the higher is its impact on the score. The **y-axis shows the frequency of how often a topic was mentioned**.
 
-Any **topic that appears in the upper right of scatter chart has a high positive impact** on the customer satisfaction score and matters to many - these aspects can be considered key strengths. **Topics occurring on the upper left also matter to many, but have a negative impact** on the score, thus can be considered key weaknesses. This chart can be a very effective tool to determine your future actions, i.e., ensure that you maintain your strengths and improve where your product or service is currently considered weak.
+Any **topic that appears in the upper right of scatter chart has a high positive impact** on the customer satisfaction score and matters to many (mentioned by many) - these aspects can be considered key strengths. **Topics occurring on the upper left also matter to many, but have a negative impact** on the score, thus can be considered key weaknesses. This chart can be a very effective tool to determine your future actions, i.e., ensure that you maintain your strengths and improve where your product or service is currently considered weak.
 
 ![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/Zi54YaJetGA)
 
