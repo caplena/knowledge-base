@@ -77,7 +77,8 @@ Our **in-build driver analysis is based on a multiple regression analysis** for 
 
 Any **topic that appears in the upper right of scatter chart has a high positive impact** on the customer satisfaction score and matters to many (mentioned by many) - these aspects can be considered key strengths. **Topics occurring on the upper left also matter to many, but have a negative impact** on the score, thus can be considered key weaknesses. This chart can be a very effective tool to determine your future actions, i.e., ensure that you maintain your strengths and improve where your product or service is currently considered weak.
 
-![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/Zi54YaJetGA)
+![Bildschirmfoto 2023-01-25 um 16.23.50.png](<../assets/images/Bildschirmfoto 2023-01-25 um 16.23.50.png>)
+
 
 For further reading about our driver analysis follow the link to one of our recent blog posts: [Chart of the Month: Driver Chart](https://caplena.com/blog/what-is-a-driver-chart/).
 
