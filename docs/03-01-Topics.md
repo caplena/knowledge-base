@@ -104,21 +104,23 @@ Longer description of the topic for reference. This field is not used by our AI 
 
 Unique numerical identifier for a specific topic and its sentiment. This can be used to visualize and compare across studies or to trigger predefined actions based on the assigned topic and its sentiment. You can choose the code if you want to, otherwise we automatically assign one.
 
-### Deprecation of Keywords
+### Keywords
 
-We have decided to deprecate the current version of keywords. The reason for this is that we saw most people using them in a suboptimal way, resulting in **a lower quality of output and more effort** for them.
+Keywords are not available by default, as our AI is designed to **learn from examples rather than rules**. This is a much more efficient process than defining various synonyms manually as keywords.
 
-**What does deprecation mean:** Keywords are disabled by default when switching to v2, thus being ignored by the AI. If you are sure your usage of them made sense and is important to your projects, please reach out to our support team *indicating an example project where you need them*, and we will see if it makes sense to keep them activated for you.
+However, if you have a use-case which justifies the usage of keywords, our support can enable them for you. Please note that when enabled, keywords behave as **exact matches**.
 
-<!-- theme: success -->
+<!-- theme: info -->
 
-> #### New keyword feature in the pipeline
+> Example: The keyword `we` would match the word `however`. You should therefore limit yourself to very few, specific keywords, that the AI couldn't pick up otherwise.
+
+An additional feature of keywords are *regular expressions* (or regexes): You may add these kinds of expressions to a keyword within slashes, to look for specific character combinations. 
+
+<!-- theme: info -->
+
+> Example: The keyword `/[0-9 ]{6,10}/` would match rows that contain a consecutive sequence of 6-10 digits or whitespaces and could be a primitive template for finding phone numbers.
 >
-> We are planning to roll out a new version of keywords going forward: Unlike the previous version of keywords which were *interpreted* by the AI, the new keywords will act as *exact matches* and also support *regular expressions*.
-> 
-> Use-cases for these new keywords could be matching phone numbers or matching different brand names to a company.
->
-> Reach out to our support team if you're interested in an early preview.
+> *Note: This would also match a row with only 6 consecutive whitespaces.*
 
 
 
