@@ -3,6 +3,53 @@ stoplight-id: 7d800a323b890
 ---
 # Changelog
 ---
+
+## 2023-01-27
+
+### Charting & Dashboards
+
+* Fixed issue in dashboard filtering via shareable link
+* Resolved problems with saving colors and custom scoring ranges in charts
+* Re-enabled filtering "Verbatim Sample" in dashboards
+* Fixed Date Line&Pie Chart legend problems
+
+### Upload and Export
+* Added handling of carriage return in Excel uploads (leading to _X000D_ in the text)
+* Enforcing limit of 200'000 maximum rows downloadable via v1 API
+
+---
+
+## 2022-12-22
+
+* Added Admin role to Business and Freelance plans. The Admin role allows inviting new users to Caplena and managing the subscription
+* Additional chart previews are now available in the question cockpit
+* Simplified "Organize" step in Upload and clarified credit deduction
+
+---
+
+## 2022-12-11
+
+* New comparison bar chart allowing exploring differences between segments and the overall value
+
+---
+
+## 2022-11-18
+
+### Charting & Dashboards
+* Added segment size indication "(n=...)"
+* Fixed issue with bar labels remaining visible when deselecting series from the legend
+* Fixed coloring issue in driver chart
+
+---
+
+## 2022-11-15
+
+* Fixed incorrect relative impact values in Driver Chart Excel export with sentiment topics
+* Fixed counts in NPS Gauge chart being incorrectly displayed if scoring ranges had no matching rows
+* Performance improvements for bulk update
+
+---
+
 ## 2022-11-09
 
 ### Charting & Dashboards
@@ -15,29 +62,6 @@ stoplight-id: 7d800a323b890
 * Fixed issues with Review integrations
 * Improved handling of multiple columns with language identifiers
 * For the anonymization feature: Added additional languages (including Thai and Japanse) plus improved the accuracy on existing languages.
----
 
-## 2022-11-15
 
-* Fixed incorrect relative impact values in Driver Chart Excel export with sentiment topics
-* Fixed counts in NPS Gauge chart being incorrectly displayed if scoring ranges had no matching rows
-* Performance improvements for bulk update
 
----
-
-## 2022-11-18
-
-### Charting & Dashboards
-* Added segment size indication "(n=...)"
-* Fixed issue with bar labels remaining visible when deselecting series from the legend
-* Fixed coloring issue in driver chart
-
-## 2022-12-11
-
-* New comparison bar chart allowing exploring differences between segments and the overall value
-
-## 2022-12-22
-
-* Added Admin role to Business and Freelance plans. The Admin role allows inviting new users to Caplena and managing the subscription
-* Additional chart previews are now available in the question cockpit
-* Simplified "Organize" step in Upload and clarified credit deduction
