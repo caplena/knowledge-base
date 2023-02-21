@@ -122,6 +122,11 @@
           "type": "item",
           "title": "Chart Values Explained",
           "uri": "docs/07-03-Chart-Values-Explained.md"
+        },
+        {
+          "type": "item",
+          "title": "Correlation Metrics",
+          "uri": "docs/07-04-Correlation-Metrics.md"
         }
       ]
     },
