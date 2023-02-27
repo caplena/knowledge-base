@@ -4,6 +4,18 @@ stoplight-id: 7d800a323b890
 # Changelog
 ---
 
+## 2023-02-27
+
+## Charting & Dashboards
+
+* Improved filtering for multiple select
+* Added sample size indication to all charts
+* Enable copying additional values from chart row browser
+
+## Topic assignment
+
+* Adjusted behaviour of topic selection dropdown for long text with many topics
+
 ## 2023-01-27
 
 ### Charting & Dashboards
