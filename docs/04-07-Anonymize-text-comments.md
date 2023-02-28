@@ -33,17 +33,9 @@ The anonymization process takes place right after the upload onto the Caplena se
 ## Languages and Translations
 
 Anonymization operates on the source text and is performed **before** translation. This means that if the source text was anonymized, the translated text will be anonymized too. However, not all languages are supported for anonymization. Here's a list of supported languages:
-* English
-* French
-* German
-* Italian
-* Korean
-* Portuguese
-* Russian
-* Spanish
 * Arabic
-* Bengali
 * Belarusian
+* Bengali
 * Bulgarian
 * Burmese
 * Catalan
@@ -51,26 +43,36 @@ Anonymization operates on the source text and is performed **before** translatio
 * Czech
 * Danish
 * Dutch
+* English
 * Estonian
 * Finnish
+* French
+* German
 * Greek
 * Hebrew
 * Hindi
 * Hungarian
 * Icelandic
 * Indonesian
+* Italian
+* Japanese
 * Khmer
+* Korean
 * Latvian
 * Lithuanian
 * Luxembourgish
 * Malay
+* Mandarin (simplified)
 * Moldovian
 * Norwegian (Bokmål)
 * Persian (Farsi)
 * Polish
+* Portuguese
 * Romanian
+* Russian
 * Slovak
 * Slovenian
+* Spanish
 * Swahili
 * Swedish
 * Tagalog
@@ -78,7 +80,5 @@ Anonymization operates on the source text and is performed **before** translatio
 * Turkish
 * Ukrainian
 * Vietnamese
-* Mandarin (simplified)
-* Japanese
 
 Texts in other languages will be not or only partially anonymized. We'll add more languages in upcoming releases.
