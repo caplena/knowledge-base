@@ -117,7 +117,7 @@ The `hl` parameter defines the language of the reviews. If you do not set this p
 
 As of right now, we support five different Amazon stores, namely `amazon.com`, `amazon.fr`, `amazon.de`, `amazon.it` and `amazon.co.uk`. In addition, we support two different URL formats, one with and one without name.
 
-Country Identifiers: `com`, `fr`, `de`, `it` or `co.uk`
+Country Identifiers: `com`, `fr`, `de`, `it`, `co.uk`, `es`, `ca`, `com.au`, `in`, and `co.jp`
 
 Input Format: 
 
