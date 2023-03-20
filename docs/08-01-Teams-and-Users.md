@@ -28,7 +28,7 @@ There are two special classes of users, whose permissions cannot be changed:
 
 To change the role of a user, navigate to your account page and click the "Team" section. Then choose a new role from the dropdown for the user.
 
-![file-PAxK0uGU7C.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/sgP0EXlLSrA)
+![Bildschirmfoto 2023-03-20 um 09.46.47.png](<../assets/images/Bildschirmfoto 2023-03-20 um 09.46.47.png>)
 
 ## Changing Project-Specific Permissions
 
