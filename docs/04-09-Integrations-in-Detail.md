@@ -121,8 +121,10 @@ Country Identifiers: `com`, `fr`, `de`, `it`, `co.uk`, `es`, `ca`, `com.au`, `in
 
 Input Format: 
 
-- with name: `https://www.amazon.<country>/<name>/dp/<identifier>`
-- without name: `https://www.amazon.<country>/dp/<identifier>`
+- with name: `https://www.amazon.<country>/<name>/dp/<ASIN>`
+- without name: `https://www.amazon.<country>/dp/<ASIN>`
+
+The Amazon Standard Identification Number or [ASIN](https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number) is the unique product identfier used by Amazon.
 
 **Examples:**
 
