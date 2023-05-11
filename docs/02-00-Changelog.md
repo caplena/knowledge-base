@@ -4,6 +4,16 @@ stoplight-id: 7d800a323b890
 # Changelog
 ---
 
+## 2023-05-11
+
+### Charting & Dashboarding
+
+* Performance improvements on large dashboards
+* Fixed filters for charts with data from multiple projects
+
+### API
+* Sunset of v1 API
+
 ## 2023-04-21
 
 ### Charting & Dashboarding
