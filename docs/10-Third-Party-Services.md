@@ -24,6 +24,17 @@ Google Cloud is our **server infrastructure provider**. While in theory they hav
 
 *Legal Address:* Google Cloud EMEA Limited, 70 Sir John Rogerson’s Quay, Dublin 2, Ireland
 
+### Datadog
+
+Application performance & security monitoring.
+
+* **Has access to:** The raw requests, SQL queries and application traces. All data on Datadog is ephemeral.
+* **Does not have access to:** The stored data in structured form.
+
+*Data Processing Location:* EU
+
+*Legal Address:* 620 8th Ave, 45th Fl, New York, NY 10018 USA.
+
 ### DeepL
 
 Translation service, only when explicitly selected (by activating translations).
