@@ -11,6 +11,17 @@ Once a chart was saved and added into a dashboard, you can click on any chart el
 
 ![Summary Feature.gif](<../assets/images/Summary Feature.gif>)
 
+## Ideas and potential Use Cases
+
+- **Sentiment deep-dive:** Filter the chart by sentiment to explore the delights / pain points within a category or topic, e.g. create a summary across those customers unhappy with a certain feature or service.
+- **NPS deep-dive:** Similar as above, but on a chart segmented by detractors and promotors to summarize their perception on any category or topic.
+- **Topic deep-dive:**: Although a topic should and will express the open text content behind it, a more detailed summary can shed more lights into the topic abstraction across numerous answers.
+
+The following example shows the **summary of the topic "Price"** from the perspective of the *Detractors* from an NPS survey for mobile phone providers:
+
+![Bildschirmfoto 2023-06-15 um 18.01.24.png](<../assets/images/Bildschirmfoto 2023-06-15 um 18.01.24.png>)
+
+
 ## How to enable the Summary Feature
 Currently the feature is in the beta testing phase, and you are most welcome to participate. Please follow this [link](https://caplena.typeform.com/to/naEkEWAq) and we will enable it for your organization.
 
