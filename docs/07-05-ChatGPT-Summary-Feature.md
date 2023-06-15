@@ -19,8 +19,7 @@ Once a chart was saved and added into a dashboard, you can click on any chart el
 
 The following example shows the **summary of the topic "Price"** from the perspective of the *Detractors* from an NPS survey for mobile phone providers:
 
-![Bildschirmfoto 2023-06-15 um 18.01.24.png](<../assets/images/Bildschirmfoto 2023-06-15 um 18.01.24.png>)
-
+![Bildschirmfoto 2023-06-15 um 18.11.44.png](<../assets/images/Bildschirmfoto 2023-06-15 um 18.11.44.png>)
 
 ## How to enable the Summary Feature
 Currently the feature is in the beta testing phase, and you are most welcome to participate. Please follow this [link](https://caplena.typeform.com/to/naEkEWAq) and we will enable it for your organization.
