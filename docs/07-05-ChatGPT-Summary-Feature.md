@@ -7,7 +7,7 @@ With this feature you are able to **create a bite-sized summary of any category-
 
 The feature is available on any Caplena dashboard - provided the feature is [enabled](#your-data-and-chatgpt).
 
-Once a chart was saved and added into a dashboard, you can click on any chart element and the *Row Browser* will open. At the top right within the *Row Browser* you will find the **"See Summary"** button. A simple click will produce a summary based on all or a suitable selection of the open texts behind it.
+Once a chart was saved and added into a dashboard, you can click on any chart element and the *Row Browser* will open. At the top right within the *Row Browser* you will find the **"See Summary"** button. A simple click will produce a summary based on all or a suitable selection of the open text data behind it.
 
 ![Summary Feature.gif](<../assets/images/Summary Feature.gif>)
 
