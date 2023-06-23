@@ -4,6 +4,15 @@ stoplight-id: 7d800a323b890
 # Changelog
 ---
 
+## 2023-06-23
+
+### Charting & Dashboarding
+* Fixed issues with weighting in NPS gauge chart
+
+### Upload
+* Improved DeepL translation by automatically falling back to Google Translate for languages not supported by DeepL
+
+
 ## 2023-05-11
 
 ### Charting & Dashboarding
@@ -21,7 +30,7 @@ stoplight-id: 7d800a323b890
 * Added additional date filters for last 3 months and last 12 months
 * Improve filtering display in row browser
 
-## Upload
+### Upload
 
 * Fixed required credits display for review and other integrations
 * Improved stability of qualtrics integration
