@@ -98,7 +98,7 @@ You can decide when you are satisfied with fine-tuning. We recommend using a com
 
 ### AI Score
 
-The AI score indicates how well **your reviewed topic assignments match the AI's auto-assignments.** For the score to become available, you need to have reviewed at least 50 rows.
+The AI score indicates how well **your reviewed topic assignments match the AI's auto-assignments.**
 
 #### What is a good score?
 
