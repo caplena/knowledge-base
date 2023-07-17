@@ -4,6 +4,18 @@ stoplight-id: 7d800a323b890
 # Changelog
 ---
 
+## 2023-07-14
+
+### AI Quality Score revamped
+
+* Score is now available even without manual reviews
+* Fluctuates significantly less across AI updates
+
+### Summary feature
+
+* Extending number of rows considered in summarization 
+
+
 ## 2023-06-23
 
 ### Charting & Dashboarding
