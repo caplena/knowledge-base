@@ -107,6 +107,7 @@ The theoretical maximum score is 100, but this is never reached. A few benchmark
 * We had the same person (a coding professional) manually assign topics to all rows of a project **twice**. She achieved an overlap of the two iterations of around 90.
 * When two different people manually assign topics to the same survey, they usually achieve an overlap score in the 70s to 80s, but sometimes it drops even to 60 when there are overlapping topics or ambiguity in the rows.
 * When aiming for *"human-level"* performance, it makes sense to aim at a score in the 70s. However, for many applications (such as getting a reliable distribution), a lower score is already sufficient – given there are enough samples.
+* A complete naive model that just randomly guesses achieves an AI score of around 4 or 5, **not 50**. 
 
 #### Why is there no score for some topics?
 
