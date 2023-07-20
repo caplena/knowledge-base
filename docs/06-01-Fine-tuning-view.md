@@ -119,7 +119,7 @@ For text classification, accuracy is often not a very good measure. If datasets 
 
 #### How do you measure the score?
 
-Under the hood, the model does not only assign topics to the rows, but it also forcast a certainty measure for those predictions. We can estimate the AI score starting from such certaintly measures.
+Under the hood, the model does not only assign topics to the rows, but it also forcast a certainty measure for those predictions. We can estimate the AI score starting from such certainty measures.
 
 Technically speaking the score represents the weighted F1 over all topics.
 
