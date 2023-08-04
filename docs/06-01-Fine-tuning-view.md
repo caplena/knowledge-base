@@ -98,7 +98,7 @@ You can decide when you are satisfied with fine-tuning. We recommend using a com
 
 ### AI Score
 
-The AI score indicates how well **your reviewed topic assignments match the AI's auto-assignments.**
+The AI score indicates how indicates **how confident the AI is in its topic assignments.**
 
 #### What is a good score?
 
