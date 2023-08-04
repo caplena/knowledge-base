@@ -105,8 +105,9 @@ The AI score indicates how well **your reviewed topic assignments match the AI's
 The theoretical maximum score is 100, but this is never reached. A few benchmarks:
 
 * We had the same person (a coding professional) manually assign topics to all rows of a project **twice**. She achieved an overlap of the two iterations of around 90.
-* When two different people manually assign topics to the same survey, they usually achieve an overlap score in the 70s to 80s.
+* When two different people manually assign topics to the same survey, they usually achieve an overlap score in the 70s to 80s, but sometimes it drops even to 60 when there are overlapping topics or ambiguity in the rows.
 * When aiming for *"human-level"* performance, it makes sense to aim at a score in the 70s. However, for many applications (such as getting a reliable distribution), a lower score is already sufficient – given there are enough samples.
+* A naive model that just randomly guesses, achieves an AI score of around 4 or 5, **not 50**. 
 
 #### Why is there no score for some topics?
 
@@ -118,7 +119,7 @@ For text classification, accuracy is often not a very good measure. If datasets 
 
 #### How do you measure the score?
 
-When training our machine learning model, we leave out a part of the data you have reviewed. Scoring is then done on the left-out data.
+Under the hood, the model does not only assign topics to the rows, but it also forcast a certainty measure for those predictions. We can estimate the AI score starting from such certainty measures.
 
 Technically speaking the score represents the weighted F1 over all topics.
 
