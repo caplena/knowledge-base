@@ -3,6 +3,22 @@ stoplight-id: 7d800a323b890
 ---
 # Changelog
 ---
+## 2023-09-08
+
+### Upload
+* Improved accuracy of __source language detection__ in translation logic (resulting in better translations)
+* Fixed bug in qualtrics integration sending out multiple messages of integration succeeding/failing
+
+### Row deletion
+* Added capability to remove rows in the fine-tuning view
+
+
+### Account
+* Aggregating credit usage on daily basis to have cleaner usage statistics when importing via API
+
+
+
+
 
 ## 2023-07-14
 
