@@ -22,11 +22,11 @@ Once you are sure you want to go ahead you can click the red delete button at th
 
 You can also select individual records from the row browser on the left in the *Topic Assignment View*. You simply tick the box ahead of each record you would like to delete.
 
-To enable the delete option when selecting individual records the **grouping duplicates** function should be disabled. Please go to the **view option** feature to disable this function - just click on the little cog wheel at the top in the middle.
+To enable the delete option when selecting individual records, the **grouping duplicates** function should be disabled. Please go to the **view option** feature to disable this function - just click on the little cog wheel at the top in the middle.
 
 ![Bildschirmfoto 2023-09-19 um 12.20.23.png](<../assets/images/Bildschirmfoto 2023-09-19 um 12.20.23.png>)
 
-Once grouping duplicates is disabled you can select the rows for deletion. The **bulk assgin** feature will open immediately. The number of rows selected will be show in brackets next to **bilk assign* at the top of the menu.
+Once grouping duplicates is disabled you can select the rows for deletion. The **bulk assign** feature will open immediately. The number of rows selected will be show in brackets next to **bulk assign* at the top of the menu.
 
 Once you are sure you want to go ahead you can click the red delete button at the bottom of the menu.
 
