@@ -75,6 +75,11 @@
           "type": "item",
           "title": "Export Data",
           "uri": "docs/04-08-Export.md"
+        },
+        {
+          "type": "item",
+          "title": "Deletion of Data Rows",
+          "uri": "docs/04-10-Delete-Rows.md"
         }
       ]
     },
