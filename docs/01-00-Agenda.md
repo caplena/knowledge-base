@@ -4,7 +4,7 @@ stoplight-id: wktwlwivyiz40
 
 # How can we help you?
 
-[📺 News](02-00-changelog.md)
+[📺 News](02-00-Changelog.md)
 
 Find out what has changed recently
 
@@ -13,10 +13,10 @@ Find out what has changed recently
 Learn about different concepts, including:
 
 * [Data Structure](03-00-Data-Structure.md)
-* [Topics](03-01-topics.md)
-* [Limits & Warnings](03-04-limits-and-Wwrnings.md)
-* [Credits](docs/03-05-credits.md)
-* [Trials & Subscriptions](docs/03-06-subscriptions.md)
+* [Topics](03-01-Topics.md)
+* [Limits & Warnings](03-04-Limits-And-Warnings.md)
+* [Credits](03-05-Credits.md)
+* [Trials & Subscriptions](03-06-Subscriptions.md)
 
 
 [🕹 Features](02-00-Changelog.md)
