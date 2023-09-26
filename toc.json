@@ -7,6 +7,15 @@
     },
     {
       "type": "divider",
+      "title": "📖 Agenda"
+    },
+    {
+      "type": "item",
+      "title": "How can we help?",
+      "uri": "docs/01-00-Agenda.md"
+    },
+    {
+      "type": "divider",
       "title": "📺 News"
     },
     {
