@@ -6,7 +6,7 @@ stoplight-id: wktwlwivyiz40
 
 [📺 News](02-00-Changelog.md)
 
-Find out what has changed recently
+Find out what has changed recently.
 
 [📚 Concepts](02-00-Changelog.md)
 
@@ -20,8 +20,13 @@ Learn about different concepts, including:
 
 
 [🕹 Features](02-00-Changelog.md)
+* [Login](04-00-Login.md)
+* [Data Import & Export](04-01-Import-Data.md)
+* [Languages & Translations](09-01-Languages.md)
+* [Topic Assignment](06-02-AI-assignment.md)
+* [Visualization: Charts & Dashbiard](07-01-Creating-Charts.md)
 
-Learn how Caplena works, and find detailed descriptions of all the features.
+Discover how Caplena works and what features we offer, including:
 
-This includes
+[📁 Legacy & Archive](02-00-V2-Changes)
 
