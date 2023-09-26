@@ -10,7 +10,7 @@ Find out what has changed recently.
 
 [📚 Concepts](03-00-Data-Structure.md)
 
-Learn about different concepts, including:
+Learn about our concepts.
 
 * [Data Structure](03-00-Data-Structure.md)
 * [Topics](03-01-Topics.md)
@@ -21,7 +21,7 @@ Learn about different concepts, including:
 
 [🕹 Features](04-00-Login.md)
 
-Discover how Caplena works and what features we offer, including:
+Discover how Caplena works and what features we offer.
 * [Login](04-00-Login.md)
 * [Data Import & Export](04-01-Import-Data.md)
 * [Languages & Translations](09-01-Languages.md)
