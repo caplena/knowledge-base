@@ -6,15 +6,13 @@ stoplight-id: wktwlwivyiz40
 
 [📺 News](02-00-changelog.md)
 
-See what has changed recently
+Find out what has changed recently
 
 [📚 Concepts](02-00-Changelog.md)
 
-Learn about how Caplena is structured
+Learn about different concepts, including:
 
-This includes
-
-* [Data Structure](03-00-data-structure.md)
+* [Data Structure](03-00-Data-Structure.md)
 * [Topics](03-01-topics.md)
 * [Limits & Warnings](03-04-limits-and-Wwrnings.md)
 * [Credits](docs/03-05-credits.md)
