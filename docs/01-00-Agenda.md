@@ -8,7 +8,7 @@ stoplight-id: wktwlwivyiz40
 
 Find out what has changed recently.
 
-[📚 Concepts](02-00-Changelog.md)
+[📚 Concepts](03-00-Data-Structure.md)
 
 Learn about different concepts, including:
 
@@ -19,7 +19,7 @@ Learn about different concepts, including:
 * [Trials & Subscriptions](03-06-Subscriptions.md)
 
 
-[🕹 Features](02-00-Changelog.md)
+[🕹 Features](04-00-Login.md)
 * [Login](04-00-Login.md)
 * [Data Import & Export](04-01-Import-Data.md)
 * [Languages & Translations](09-01-Languages.md)
