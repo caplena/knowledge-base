@@ -23,7 +23,7 @@ Learn about different concepts, including:
 * [Login](04-00-Login.md)
 * [Data Import & Export](04-01-Import-Data.md)
 * [Languages & Translations](09-01-Languages.md)
-* [Topic Assignment](06-02-AI-assignment.md)
+* [Topic Assignment](06-01-Fine-Tuning-View.md)
 * [Visualization: Charts & Dashbiard](07-01-Creating-Charts.md)
 
 Discover how Caplena works and what features we offer, including:
