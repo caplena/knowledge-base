@@ -4,13 +4,13 @@ stoplight-id: wktwlwivyiz40
 
 # How can we help you?
 
-[📺 News](02-00-Changelog.md)
+## [📺 News](02-00-Changelog.md) 
 
-Find out what has changed recently.
+👉 Find out what has changed recently.
 
-[📚 Concepts](03-00-Data-Structure.md)
+## [📚 Concepts](03-00-Data-Structure.md)
 
-Learn about our concepts.
+👉 Learn about our concepts.
 
 * [Data Structure](03-00-Data-Structure.md)
 * [Topics](03-01-Topics.md)
@@ -19,14 +19,14 @@ Learn about our concepts.
 * [Trials & Subscriptions](03-06-Subscriptions.md)
 
 
-[🕹 Features](04-00-Login.md)
+## [🕹 Features](04-00-Login.md)
 
-Discover how Caplena works and what features we offer.
+👉 Discover how Caplena works and what features we offer.
 * [Login](04-00-Login.md)
 * [Data Import & Export](04-01-Import-Data.md)
 * [Languages & Translations](09-01-Languages.md)
 * [Topic Assignment](06-01-Fine-Tuning-View.md)
 * [Visualization: Charts & Dashbiard](07-01-Creating-Charts.md)
 
-[📁 Legacy & Archive](02-00-V2-Changes)
+## [📁 Legacy & Archive](02-00-V2-Changes)
 
