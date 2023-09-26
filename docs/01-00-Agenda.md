@@ -28,5 +28,6 @@ stoplight-id: wktwlwivyiz40
 * [Topic Assignment](06-01-Fine-Tuning-View.md)
 * [Visualization: Charts & Dashboard](07-01-Creating-Charts.md)
 
-## [📁 Legacy & Archive](02-00-V2-Changes)
+## [📁 Legacy & Archive](02-00-V2-Changes.md)
+
 
