@@ -14,7 +14,7 @@ stoplight-id: wktwlwivyiz40
 
 * [Data Structure](03-00-Data-Structure.md)
 * [Topics](03-01-Topics.md)
-* [Limits & Warnings](03-04-Limits-And-Warnings.md)
+* [Limits & Warnings](03-04-Limits-and-Warnings.md)
 * [Credits](03-05-Credits.md)
 * [Trials & Subscriptions](03-06-Subscriptions.md)
 
