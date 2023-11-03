@@ -4,7 +4,7 @@ stoplight-id: fgz27i31b0aij
 
 # Credits
 
-Credits are Caplena's **currency**. You can use credits to pay for the analysis of your data. When buying a subscription or non-expiring credits, your account is filled up with credits that can be used instantly for analysing your text data.
+Credits are Caplena's **currency**. You can use credits to pay for the analysis of your data. When buying a subscription your account is filled up with credits that can be used instantly for analysing your text data.
 
 ## Number of Credits Required
 
