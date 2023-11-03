@@ -9,18 +9,10 @@ This section includes the following key tompics:
 * [Free Trial](#free-trial)
 * [Subscriptions](#subscriptions)
 
-## Free Trial
+## Optional Free Trial
 
 ### Can I try Caplena out?
-Yes you can! 😃 We will offer you a free trial to test Caplena with your own data.
-
-### Is the trial for free?
-
-**Yes** it is! 😎
-
-### How can I start?
-
-You can either start your trial on your own by registering at [caplena.com](caplena.com), or you can first book a quick (30 min.) demo [here](https://savvycal.com/misel/chat). After the call / demo we will  setup your trial account and you're ready to go.
+We do offer the option of a free trial after your first demo or introductory call. During the free trial you can test Caplena with your own data. Please get in touch with our [sales team](https://caplena.com/en/register/) to set an appointment.
 
 ### Can my colleagues try?
 
@@ -38,19 +30,19 @@ Yes, you can send us your already coded data before the trial and we will ingest
 
 ### How it works
 
-Whatever you need, we have a [subscription that fits your needs](https://caplena.com/en/pricing). It is your **membership to Caplena's self service platform**. Our subscriptions **enable you to use different sets of features** on Caplena. If logged in, you can [view and change](https://caplena.com/app/account/subscription) your current subscription yourself.
+We are offering three types of [subscriptions that should fit your needs](https://caplena.com/en/pricing). A subscription is your membership to Caplena's self-service platform. Besides all the features your can use on your own, we are offering various levels of managed support to take care of an analyze your data. Let's discuss what is the most suitable level of cooperation!
 
 #### Duration
 
-When purchasing a subscription in [your account](https://caplena.com/app/account/subscription), you can choose between a **monthly** (with a monthly auto-renewal) or an **annual** (with an yearly auto-renewal) subscription cycle. Monthly contracts can be cancelled any time, so you could e.g. buy a subscription for one month only. With an annual subscription, the yearly amount is billed upfront.
+Any ubscriptions is on an annual basis.
 
 #### Three distinct Offers
 
-Our subscriptions **reflect the needs of our customers**. They are modular, building on each other and only differ in their features, that they unlock. Please refer to our [self-service pricing page](https://caplena.com/en/pricing) for a feature comparison.
+Our subscriptions **reflect the needs of our customers**. They are modular, building on each other and only differ in their features, that they unlock. Please refer to our [pricing page](https://caplena.com/en/pricing) for a feature comparison.
 
 #### Billing Schedule
 
-Your bill will always be issued **at the beginning of your subscription cycle**. E.g., if you setup a monthly subscription starting on May 4th, you will be billed at the 4th day of each month. With annual billing, you will be billed again in exactly one year after having subscribed to Caplena.
+Your bill will always be issued **at the beginning of your subscription cycle**.
 
 ### Credits
 
