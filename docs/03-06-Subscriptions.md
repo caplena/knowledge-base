@@ -32,15 +32,15 @@ Yes, during your trial you can also upload your own data within the platform. We
 
 We are offering three types of [subscriptions that should fit your needs](https://caplena.com/en/pricing). A subscription is your membership to Caplena's platform. Besides all the features you can use on your own, we are offering various levels of managed support to take care of an analyze your data. Let's discuss what is the most suitable level of cooperation!
 
-#### Duration
+### Duration
 
 Any subscription is on an annual basis.
 
-#### Three distinct Offers
+### Three distinct Offers
 
 Our subscriptions **reflect the needs of our customers**. They are modular, building on each other and only differ in their features, that they unlock. Please refer to our [pricing page](https://caplena.com/en/pricing) for a feature comparison.
 
-#### Billing Schedule
+### Billing Schedule
 
 Your invoice will always be issued **at the beginning of your subscription cycle**.
 
