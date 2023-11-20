@@ -30,6 +30,82 @@ To change the role of a user, navigate to your account page and click the "Team"
 
 ![Bildschirmfoto 2023-03-20 um 09.46.47.png](<../assets/images/Bildschirmfoto 2023-03-20 um 09.46.47.png>)
 
+### User Roles Available
+
+Six different roles are available, allowing you to tailor access levels for your teams and beyond.
+
+#### External Topic Assignment
+
+*No upload capability; No access to projects or Dashboards of others by default.*
+
+Detailed permissions: The user can
+* execute all actions on objects where they are the owner, e.g. on projects they uploaded themselves.
+
+#### Administrator
+*Access to the projects, questions and dashboards of all users; Team and subscription management permissions.*
+
+Detailed permissions: The user can
+* append rows to all projects of the organization.
+* delete all projects of the organization.
+* manage the subscription of the organization.
+* edit all projects of the organization.
+* download all projects of the organization.
+* view all projects of the organization.
+* inherit from all projects of the organization.
+* create new projects.
+* change permissions on all projects of the organization.
+* view all dashboards of the organization
+* edit and delete all dashboards of the organization
+* manage the team / accounts of the organisation
+* use the connected integrations (e.g. Qualtrics) of all users in the organization.
+* edit & delete the connected integrations (e.g. Qualtrics) of all users in the organization.
+* view additional (Meta-)data for individual rows in dashboards of the organization
+* execute all actions on objects where they are the owner, e.g. on projects they uploaded themselves.
+
+#### Full Data Access
+*Upload capability; Access to projects & dashboards of all team members.*
+
+Detailed permissions: The user can
+* append rows to all projects of the organization.
+* delete all projects of the organization.
+* edit all projects of the organization.
+* download all projects of the organization.
+* view all projects of the organization.
+* inherit from all projects of the organization.
+* create new projects.
+* change permissions on all projects of the organization.
+* view all dashboards of the organization
+* edit and delete all dashboards of the organization
+* use the connected integrations (e.g. Qualtrics) of all users in the organization
+* view additional (Meta-)data for individual rows in dashboards of the organization
+* execute all actions on objects where they are the owner, e.g. on projects they uploaded themselves.
+
+#### Project Manager
+*Upload capability; Only full access to projects created by oneself, but access to all topics collections and fine-tuned AI's from all team members.*
+
+Detailed permissions: The user can
+* create new projects.
+* inherit from all projects of the organization.
+* view additional (Meta-)data for individual rows in dashboards of the organization
+* execute all actions on objects where they are the owner, e.g. on projects they uploaded themselves.
+
+#### Internal analyst
+*No upload capability; Permission to edit and access projects of all team members, but no permission to download projects and no access to Dashboards of others.*
+Detailed permissions: The user can
+* edit all projects of the organization.
+* view all projects of the organization.
+* inherit from all projects of the organization.
+* view additional (Meta-)data for individual rows in dashboards of the organization
+* execute all actions on objects where they are the owner, e.g. on projects they uploaded themselves.
+
+#### Analyst
+*No upload capability; Permission to view and visualize projects of all team members, but no permission to edit no download any projects.*
+Detailed permissions: The user can
+* view all projects of the organization.
+* view additional (Meta-)data for individual rows in dashboards of the organization
+* view all dashboards of the organization
+* execute all actions on objects where they are the owner, e.g. on projects they uploaded themselves.
+
 ## Changing Project-Specific Permissions
 
 The per-project permissions can be defined when entering your project from the project list: Click on the project that you would like to edit and then click on the icon with two people from the *Project actions*.
