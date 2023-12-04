@@ -25,7 +25,7 @@ stoplight-id: wktwlwivyiz40
 * [Login](04-00-Login.md)
 * [Data Import & Export](04-01-Import-Data.md)
 * [Languages & Translations](09-01-Languages.md)
-* [Topic Assignment](06-01-Fine-Tuning-View.md)
+* [Topic Assignment](docs/06-01-Fine-tuning-view.md)
 * [Visualization: Charts & Dashboard](07-01-Creating-Charts.md)
 
 ## [📁 Legacy & Archive](02-00-V2-changes.md)
