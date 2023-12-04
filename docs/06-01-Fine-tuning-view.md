@@ -134,6 +134,32 @@ Before focusing purely on the score, be sure to also check the topic assignments
 
 For enterprise customers we are also happy to have one of our language specialists look into your data, just contact [support](support@caplena.com).
 
+#### How is the first score calculated and how can it be calculated without any involvement of a human?
+
+The AI score is an estimate of the model performance on a text to analyze column. To be precise we want to estimate the F1 score. 
+
+To compute the F1 score exactly one would need to have a “ground truth” to which compare the AI prediction. However, this would make the AI prediction useless. Thus the challenge is to make an estimate of the model accuracy without looking at labels.
+
+To make such estimate we exploit the fact that, under the hood, our AI does not output a binary prediction, but rather a certainty measure. Experiments on our data suggest that our model is well [calibrated](https://en.wikipedia.org/wiki/Probabilistic_classification#Probability_calibration), guaranteeing that among all of those predictions where the model has a confidence of `c` roughly the ratio of them which will be picked by a person is `c`. 
+
+A well calibrated model allows to compute the expected value of the number of true positive, false positives and false negatives. Thus allowing us to estimate the weighted F1 score. A more detailed description of the algorithm is at the end of this document.
+
+#### How can one trust that this is correct?
+
+It is impossible to have a guarantee that the F1 score is accurate. People could have a specific way of assigning topics that does not match the confidence of the model. Or the data itself might be so unusual (out of distribution) that the model appears confident even if it is wrong, since it has never seen similar data during the training. However, experiments with data from all our customers show that our prediction is usually spot-on. The cases where we overestimate the AI score by more than 10 points (critical error) are rare; less than 1%.
+
+#### Why and how does reviewing the categorizations lead to changes to the AI Score? 
+
+There are two reasons:
+
+* We consider reviewed rows of text as being correct. For instance, if all rows would be reviewed, you would achieve an AI score of 100. However, if only 1% of the rows are reviewed this would not be very impactful.
+* Through the human reviews the model will be fine-tuned, and predictions will run on this basis, yielding a different, ideally a better and better, AI score. This is particularly the case when the reviews are done correctly and consistently. The model will understand the context better and better, resulting in a higher confidence level in its predictions, thus yielding higher AI score.
+
+#### Why don’t we use the human reviews to compute AI score?
+
+This is what we were doing in the past. While this seems to be the most natural thing to do, there are some important drawbacks.
+* After reviewing we fine-tune the model on the reviewed data. Thus, we would of course see a very high alignment between the humanly reviewed data and the fine-tuned AI data. However, this would not be representative of the real performance. To address this bias, we would need to split the reviewed data in training and validation. However, if the validation set is large, we are wasting a lot of data for training, but if it was too small a set, we would get an imprecise AI score.
+* In “focus mode” you are specifically reviewing rows that are most challenging for the AI. Therefore, after reviewing we will not have a representative sample of the full dataset. In the past we would address this issue making a regression to estimate the F1 score also in the not reviewed rows. Experiments show that our new approach is superior and more precise. Furthermore, this needed a large number of rows to be reviewed to give a first estimate of the AI score, even though, in most instances, it was not needed.
 
 ## User Interface
 
