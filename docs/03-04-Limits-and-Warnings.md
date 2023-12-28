@@ -14,11 +14,6 @@ We enforce some reasonable limits on the data to ensure smooth processing on our
 3. Max 150 MB File Size (SPSS, CSV, etc.) for upload, 30 MB for Excel files
 4. At most 200'000 rows per uploaded file
 
-<!-- theme: warning -->
-
-> *Note for v1 API users:* Our v1 supports a maximum of 200'000 rows per project, otherwise the download will fail. Split up your project per year/month/week if it exceeds the recommended size when still using the v1 or **switch to our v2**.
-
-
 
 ### Topic Limits
 1. A maximum of **133 sentiment-enabled topics**. Without sentiment up to 400 topics are supported. For semi-open columns this limit can be increased upon request.
