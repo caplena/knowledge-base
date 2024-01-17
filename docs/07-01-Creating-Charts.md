@@ -99,3 +99,27 @@ To return to the project Cockpit from the chart settings, you can simply use the
 ![Bildschirmfoto 2022-01-21 um 15.49.08.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/7ZoKjJZFivc)
 
 Otherwise, you can always go back to your project using the *Main Menu* where you select Projects to return to your project list.
+
+
+## Downloading Charts
+Downloading a chart to your computer is simple. You have two options:
+
+### Download Chart as Image:
+When you click the "Download Chart" icon, you can choose between two file formats either PNG or SVG, giving you the freedom to customize its size.
+
+![Bildschirmfoto 2024-01-17 um 12.45.29.png](<../assets/images/Bildschirmfoto 2024-01-17 um 12.45.29.png>)
+
+Feel free to adjust it to your liking! Additionally, you can add your personal touch by changing the background in the Chart Settings:
+
+![Bildschirmfoto 2024-01-17 um 12.47.22.png](<../assets/images/Bildschirmfoto 2024-01-17 um 12.47.22.png>)
+
+### Download the Chart Data
+Alternatively, you also have the option to download an unformatted Excel file that includes both percentages and absolute numbers. This makes it a breeze to copy the data right into your charting software. This can be particularly helpful when creating a chart with segments and when you apply filters, as you will have the raw data for your specific selection.
+
+![Bildschirmfoto 2024-01-17 um 12.51.07.png](<../assets/images/Bildschirmfoto 2024-01-17 um 12.51.07.png>)
+
+
+
+
+
+
