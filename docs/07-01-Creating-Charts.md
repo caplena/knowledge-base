@@ -116,7 +116,7 @@ Feel free to adjust it to your liking! Additionally, you can add your personal t
 ### Download the Chart Data
 Alternatively, you also have the option to download an unformatted Excel file that includes both percentages and absolute numbers. This makes it a breeze to copy the data right into your charting software. This can be particularly helpful when creating a chart with segments and when you apply filters, as you will have the raw data for your specific selection.
 
-![Bildschirmfoto 2024-01-17 um 12.51.07.png](<../assets/images/Bildschirmfoto 2024-01-17 um 12.51.07.png>)
+![Bildschirmfoto 2024-01-17 um 12.53.41.png](<../assets/images/Bildschirmfoto 2024-01-17 um 12.53.41.png>)
 
 
 
