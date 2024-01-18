@@ -14,7 +14,7 @@ A Project is the highest-level object at Caplena. It is somewhat equivalent to a
 When conducting a survey, you will probably have all results in one sheet. Every row then represents one respondent, every column to either a question or some additional data, like identifier, demographics etc.
 
 #### NPS Feedback Example:
-[NPS questionnaires](https://blog.caplena.com/2019/07/22/5-keys-to-effectively-measuring-and-utilizing-nps/) will obviously have a column containing the score (an auxiliary column in Caplena's terms) and often one column containing the open-ended feedback. There might also be multiple questions, e.g. "What did you like..." and "What did you dislike", although we recommend asking only a single question in most cases.
+[NPS questionnaires](https://caplena.com/blog/how-to-measure-nps-net-promoter-score/) will obviously have a column containing the score (an auxiliary column in Caplena's terms) and often one column containing the open-ended feedback. There might also be multiple questions, e.g. "What did you like..." and "What did you dislike", although we recommend asking only a single question in most cases.
 
 #### Social Media Data Example:
 A social media dataset will usually have one column containing the text you want to evaluate, so you would have one column with text to analyze in Caplena's terms. But there will probably be further columns with additional information like user, timestamps or the like.
