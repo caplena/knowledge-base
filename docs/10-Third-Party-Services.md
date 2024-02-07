@@ -48,7 +48,7 @@ Translation service, only when explicitly selected (by activating translations).
 
 ### Azure OpenAI Service 
 
-Azure OpenAI Service is our provider for access to OpenAI’s language models (incl. ChatGPT). 
+Azure OpenAI Service (by Microsoft) is our provider for access to OpenAI’s language models (incl. ChatGPT). 
 
 * **Has access to:** For some functionality of the application, Azure OpenAI Service will have access to project data, including text comments and topic collections. 
 
