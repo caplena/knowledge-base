@@ -46,6 +46,17 @@ Translation service, only when explicitly selected (by activating translations).
 
 *Legal Address:* DeepL SE, Maarweg 165, 50825 Cologne, Germany
 
+### Azure OpenAI Service 
+
+Azure OpenAI Service is our provider for access to OpenAI’s language models (incl. ChatGPT). 
+
+* **Has access to:** For some functionality of the application, Azure OpenAI Service will have access to project data, including text comments and topic collections. 
+
+* **Does not have access to:** Your name, email, and user data. The data will NOT be available to OpenAI and will NOT be used to improve OpenAI or Microsoft products and models.  
+
+*Data Processing Location: European Union*
+
+*Legal Address: Microsoft Corporation, 925 Fourth Avenue, Suite 2900, Seattle, Washington 98104, US*
 
 ### Segment
 
