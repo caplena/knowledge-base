@@ -96,7 +96,64 @@ A row of data is considered to be a duplicate if all values in all columns are e
 
 ![Bildschirmfoto 2022-01-03 um 16.29.09.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/6zKTyTsgu4Y)
 
-## Leverage Non-Text Data
+## Add or Replace Additional Columns
+Sometimes, during project work, you may find the need to
+
+* add additional data columns
+* update existing data within the additional columns
+* delete additional columns imported initially
+
+This can be achieved using the **Add or replace additional columns** feature which is part of the *Project Actions* (the icon showing a pair of scissors), the menu at the top right when opening any project from the *Project List*.
+
+![Bildschirmfoto 2024-02-08 um 16.37.00.png](<../assets/images/Bildschirmfoto 2024-02-08 um 16.37.00.png>)
+
+<!-- theme: info -->
+
+> Note: This feature concerns any additional column. Text columns to analyze will not be affected!
+
+**In short the feature / process works as follows.**
+
+1. Make your changes offline in the original data file
+2. Select the “Add or replace” feature from the *Project Actions*
+3. Drop your file
+4. Check and confirm changes in the *Match Columns* view
+
+The individual steps in detail.
+
+### Data File Preparation
+Use the data file you used for your initial import and make the required changes in that same file, i.e., delete columns, add columns, or make changes to any of the additional columns.
+
+Make sure that the data is in the same order as it is on the platform. If in doubt or in case you have already added several waves of data, you can always export the file from the platform and make the changes in that file. This ensures you have all the data in one file and the records are in the same order as in Caplena.
+
+**Follow these steps when using a file exported from Caplena.**
+
+* Delete all coding information and metadata (such as review status, text highlight information, etc.) as well as the two nested rows at the top that indicate the column sections.
+* Also remove the text to analyze column, the text columns will not be effected.
+
+The file in which you will do your changes should only contain the additional columns in the order of initial import.
+
+![Bildschirmfoto 2024-02-08 um 16.13.35.png](<../assets/images/Bildschirmfoto 2024-02-08 um 16.13.35.png>)
+
+Apply your changes to this file.
+
+<!-- theme: warning -->
+> #### Check numerical columns when exporting Excel files
+>
+> When exporting data in Excel format it can happen that epmpty cells in numerical columns are filled with a place holder such as #NUM or #ZAHL. Please check and replace with an empty value before the re-import. This can be avoided when exporting the data in CSV format.
+
+### File Import
+Navigate to your *Project List* and open the project which you would like to change. Select **Add or replace** from the *Project Actions* and drop the file with the changes. 
+
+After dropping the file the *Match Columns* screen will allow you to review your changes before being applied. The Summary at the bottom right will show the number of
+* Columns present previously  and in new file
+* Columns not present anymore in new file
+* New columns
+
+Move your mouse overt the information icon next to each of the three items and the column names will be shown.
+
+When the proposed changes match your expectation click on **Replace & Save**, the blue button on the bottom right. Your data file will be imported, and the changes will be applied. You will be able to see and use the changed set of additional columns as filter and for segmentation.
+
+## Leverage Additonal Columns / Non-Text Data
 When uploading a project to Caplena, all columns you do not select to be processed as text, will be treated as additional columns and uploaded to the platform nevertheless.
 
 This data could be metadata of the respondent (age, gender, customer segment, country, etc.), an ID column for later identification in the export file, or responses to closed-questions such as a likelihood to recommend question (NPS score).
