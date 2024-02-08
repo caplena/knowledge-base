@@ -103,13 +103,13 @@ Sometimes, during project work, you may find the need to
 * update existing data within the additional columns
 * delete additional columns imported initially
 
-This can be achieved using the **Add or replace additional columns** feature which is part of the *Project Actions* (the icon showing a pair of scissors), the menu at the top right when opening any project from the *Project List*.
+This can be achieved using the **add or replace additional columns** feature which is part of the *Project Actions* (the icon showing a pair of scissors), the menu at the top right when opening any project from the *Project List*.
 
 ![Bildschirmfoto 2024-02-08 um 16.37.00.png](<../assets/images/Bildschirmfoto 2024-02-08 um 16.37.00.png>)
 
 <!-- theme: info -->
 
-> Note: This feature concerns any additional column. Text columns to analyze will not be affected!
+> Note: This feature concerns any additional column, i.e., the columns that can be used as filter and for segmentations. Text columns will not be affected!
 
 **In short the feature / process works as follows.**
 
@@ -142,7 +142,7 @@ Apply your changes to this file.
 > When exporting data in Excel format it can happen that epmpty cells in numerical columns are filled with a place holder such as #NUM or #ZAHL. Please check and replace with an empty value before the re-import. This can be avoided when exporting the data in CSV format.
 
 ### File Import
-Navigate to your *Project List* and open the project which you would like to change. Select **Add or replace** from the *Project Actions* and drop the file with the changes. 
+Navigate to your *Project List* and open the project which you would like to change. Select **add or replace** from the *Project Actions* and drop the file with the changes. 
 
 After dropping the file the *Match Columns* screen will allow you to review your changes before being applied. The Summary at the bottom right will show the number of
 * Columns present previously  and in new file
