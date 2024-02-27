@@ -236,6 +236,9 @@ By default, duplicates are assigned the same topics and are also marked as *revi
 <!-- theme: info -->
 > Duplicate grouping may be *temporarily disabled* if specific filters are applied (e.g. when filtering for other columns in your data), to prevent confusing behavior. A notification is shown on the top right whenever this is the case.
 
+<!-- theme: info -->
+>If you assign two duplicates to different topics, grouping will be automatically disabled for all mentions of that verbatim.
+
 #### 9. See Original Text
 
 If translations are enabled, you can toggle between the translated text and the original one with this button. To define which text should be shown for all rows, open the [view options](#view-options).
