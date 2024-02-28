@@ -1,7 +1,7 @@
 ---
 stoplight-id: befab1a9dd1a7
 ---
-
+asdfasdf
 # Export Data / Results
 
 Exporting your analyzed data is easy, and you can find the option in three places in the app.
