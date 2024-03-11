@@ -26,9 +26,10 @@ The language selected as main topic language will also be the language shown as 
 
 ### Enable Auto-Translation
 
-During upload, choose "Yes" on the Automatic Translation select menu.
+In the project setting switch on the toggle to enable the translations of your text. You can chose between DeepL and Google Translate.
 
-![Bildschirmfoto 2022-05-27 um 12.04.50.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/wgjJucn9BUQ)
+![Bildschirmfoto 2024-03-11 um 16.41.45.png](<../assets/images/Bildschirmfoto 2024-03-11 um 16.41.45.png>)
+
 
 ### Main Language
 
