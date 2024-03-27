@@ -82,6 +82,28 @@ Any **topic that appears in the upper right of scatter chart has a high positive
 
 For further reading about our driver analysis follow the link to one of our recent blog posts: [Chart of the Month: Driver Chart](https://caplena.com/blog/what-is-a-driver-chart/).
 
+## Changing Chart Colors
+
+You have the flexibility to change chart colors at various stages of the app. 
+
+The most effective way is to align the chart colors with the color of the topics for a consistent representation of each category. Simply go to Chart Settings and select Colors from the menu to modify the color of topics:
+
+![Topic Cplors.png](<../assets/images/Topic Cplors.png>)
+
+Within the topic assignment, you can change the color for a category by clicking on the colored dot next to its name. You have the option to select from the color palette or use RGB codes for a personalized palette:
+
+![Topic Assignment Colors.png](<../assets/images/Topic Assignment Colors.png>)
+
+For charts like the bar chart with segments, or those displaying scores or topic sentiment, you can customize colors for individual elements. Edit the segment and overwrite the color, or navigate to the color menu in other chart types to make the desired changes:
+
+![Colors.png](../assets/images/Colors.png)
+
+By following these steps, you can easily tailor the colors of your charts to suit your preferences and ensure a consistent visual representation across your analysis.
+
+We also offer the option to incorporate your brand's colors into the available color schemes. However, please note that this customization may entail an additional fee depending on your subscription level. If you're interested in this option, please reach out to our support team for further assistance.
+
+
+
 ## Manage Your Chart Collection
 
 Charts that you have created and saved can be accessed via the Cockpit of the project where the chart was created and stored or you can access any chart across all your projects form the chart list that you can reached via the Main Menu.
