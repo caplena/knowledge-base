@@ -86,7 +86,6 @@ If the AI should distinguish between *positive, negative and neutral* versions o
 > Note: **Merging** multiple non-sentiment topics into a sentiment topics is always possible, even with reviewed rows.
 >
 > https://www.youtube.com/watch?v=Fma9N8cNi78
->
 > When activated, the AI will start differentiating between the sentiment versions.
 
 ### Sentiment Labels
