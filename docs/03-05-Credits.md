@@ -44,5 +44,3 @@ You can track your credit usage on your [account page](https://caplena.com/app/a
 
 If you are part of an organization, the root user of your organization is the one that will be billed for the credits that you use.
 
-https://www.youtube.com/watch?v=Fma9N8cNi78
-
