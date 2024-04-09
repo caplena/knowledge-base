@@ -100,6 +100,18 @@ Stripe is our payments processor. They are one of the most respected and well kn
 
 *Legal Address*: Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland
 
+### PostHog 
+
+We use PostHog as our product analytics platform. 
+
+**Has access to**: Your name, email and IP address. Your detailed app usage on Caplena. Metadata about your projects are sent in case you've visited the respective pages, specifically name of projects, questions, charts and dashboards as well as the topics in your projects. 
+
+**Does not have access to**: The data you upload & process through Caplena. 
+
+*Data Processing Location:* Germany (EU) 
+
+*Legal Address:* PostHog Inc, 2261 Market Street #4008, San Francisco, CA 94114
+
 ### Logrocket
 
 Enables us to find bugs and support users.
@@ -139,3 +151,5 @@ Enables us to understand how our ads from Linkedin perform. The insights tag is 
 
 * **Has access to:** Metadata on your which public pages you have visited.
 * **Does not have access to:** Pages you visit in the app, your name, email or any other data.
+
+
