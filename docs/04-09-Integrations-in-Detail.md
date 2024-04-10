@@ -193,6 +193,7 @@ Our Brandwatch integration simplifies the process of importing social media quer
 
 
 4. **Importing Data:** With the setup complete, you can now import your data. Navigate to "Projects" in Caplena, click on "Import Data", and select Brandwatch from the integration list. Choose the account and query from which you'd like to import your data.
+
 ![Screenshot 2024-04-02 at 23.23.04 (1).png](<../assets/images/Screenshot 2024-04-02 at 23.23.04 (1).png>)
 
 
