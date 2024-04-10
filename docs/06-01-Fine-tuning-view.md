@@ -87,7 +87,11 @@ The "distance" between updates gets larger as trainings become more computationa
 
 #### 2. When changing Topics
 
-If any of the [AI-relevant topic properties](03-01-Topics.md#topic-properties) are changed, the AI will be fine-tuned again. In some cases, a delay of 30-60 seconds is applied before starting the update.
+If any of the [AI-relevant topic properties](03-01-Topics.md#topic-properties) are changed, the AI might be fine-tuned again. When you make changes to a topic within your project, it triggers a recalculation process. However, this process doesn't occur instantly. This delay is intentional to ensure efficiency and prevent excessive recalculations.
+
+The waiting time for recalculation after a change varies depending on the size of your project. It typically ranges between 15 seconds and 10 minutes.
+
+In practical terms, this means that after making changes to your project, it's advisable to wait for approximately 10 minutes before checking for updates. This gives the system sufficient time to process the changes and initiate the recalculation. If no updates are visible after this time, it's unlikely that there will be any in the future.
 
 ### When is the AI fine-tuned enough?
 
