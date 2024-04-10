@@ -179,14 +179,18 @@ Input Format: `https://www.yelp.com/biz/<name>`
 Our Brandwatch integration simplifies the process of importing social media query results directly into Caplena for analysis. Here's how you can set it up:
 
 1. **Accessing Account Settings:** Start by accessing your Caplena account settings. Navigate to "Integrations" and select Brandwatch.
+![Screenshot 2024-04-10 at 16.39.06.png](<../assets/images/Screenshot 2024-04-10 at 16.39.06.png>)
+
 
 
 2. **Adding Brandwatch Account:** Click on the "Add Account" button. Fill in the required details including the connection name, username, password, and your project name. **Please note** that you can find the project name in your Brandwatch account.
 
-![Screenshot 2024-04-10 at 15.05.47.png](<../assets/images/Screenshot 2024-04-10 at 15.05.47.png>)
+![Screenshot 2024-04-10 at 16.43.13.png](<../assets/images/Screenshot 2024-04-10 at 16.43.13.png>)
 
+3. **Connecting Account:** Once you've filled in the details, click on "Connect Account" to finalize the setup.
 
-3. **Collecting Account:** Once you've filled in the details, click on "Collect Account" to finalize the setup.
+![Screenshot 2024-04-10 at 16.26.38.png](<../assets/images/Screenshot 2024-04-10 at 16.26.38.png>)
+
 
 4. **Importing Data:** With the setup complete, you can now import your data. Navigate to "Projects" in Caplena, click on "Import Data", and select Brandwatch from the integration list. Choose the account and query from which you'd like to import your data.
 ![Screenshot 2024-04-02 at 23.23.04 (1).png](<../assets/images/Screenshot 2024-04-02 at 23.23.04 (1).png>)
