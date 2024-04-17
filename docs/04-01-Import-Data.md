@@ -113,6 +113,24 @@ Using this approach makes only sense when you have your data organized like in t
 
 Despite having all questions within one project, the actual analysis will take place on an individual text level. All text columns / questions will be shown when accessing your project.
 
+### Merging Columns
+
+In situations where you need to analyze text across several data cells (e.g., when several columns relate to the same answer), we recommend merging those answers in your data file before uploading them to Caplena.
+
+Follow these steps:
+
+- **Use Excel Function for Merging:** Utilize the Excel function =CONCATENATE(A2;B2), which merges the content of two cells into one.
+
+- **Include a Dividing Character:** To distinguish content sources, include a dividing character. For example, use =CONCATENATE(A2;" || ";B2), where the two pipe symbols (||) act as indicators for content origin.
+
+![Screenshot at Feb 01 17-43-49.png](<../assets/images/Screenshot at Feb 01 17-43-49.png>)
+
+- **Add All Columns to Merge:** Ensure you add all the cells you'd like to merge using the concatenate function.
+
+By consolidating information before uploading it to Caplena, you'll streamline the analysis process, making it more effective across all your fully open projects.
+
+
+
 ## Add More Text-Data
 
 You may have already started or finished the analysis for your project, but you would like to add more data, be it from a new or previous wave or from an additional market and the like.
