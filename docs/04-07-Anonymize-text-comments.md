@@ -20,7 +20,8 @@ Caplena can automatically remove the following personal identifiable information
 
 If your plan includes anonymization, you can toggle it with a checkbox in the Project settings during the upload process:
 
-![Screenshot 2022-06-01 at 15.29.47.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/blpNp6zjqw0)
+![Screenshot 2024-05-09 at 15.45.17.png](<../assets/images/Screenshot 2024-05-09 at 15.45.17.png>)
+
 
 Note that the anonymization process *cannot be undone* as only the anonymized data is stored on Caplena.
 
