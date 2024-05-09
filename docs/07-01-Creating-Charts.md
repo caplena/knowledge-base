@@ -14,9 +14,10 @@ You can create charts from the cockpit view of any of your projects. The chart m
 
 By clicking on the "New Chart" button you will be taken to the charting view, where you can choose the appropriate chart type, customize its layout, and filter your data.
 
-By default, the data will be shown as bar chart. Other chart types can be selected from the menu on the left. Currently there are **four different chart types available for the coded data and two chart types for visualizing and analyzing scores**, such as NPS, customer satisfaction or other averages.
+By default, the data will be shown as bar chart. Other chart types can be selected from the menu on the left. Currently there are **eight different chart types available for the coded data and two chart types for visualizing and analyzing scores**, such as NPS, customer satisfaction or other averages.
 
-![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/yEil514fXRw)
+![Screenshot 2024-05-09 at 16.02.50.png](<../assets/images/Screenshot 2024-05-09 at 16.02.50.png>)
+
 
 ## Charts Available
 
@@ -26,6 +27,8 @@ With the following set of charts, you can visualize your coded results and begin
 - Line & pie chart
 - Treemap
 - Relationship graph 
+- Sentiment bar chart
+- Comparison bar chart
 
 All these charts are **interactive**, which means you can **click on the topics and categories and you will see the data behind it**, i.e., the text on which the analysis is based.
 
@@ -37,27 +40,33 @@ This is a highly flexible chart type that can be used for a single question or d
 
 The following example from a NPS survey shows the coded results broken into the three NPS segments, i.e., comparing the answers between Detractors, Passives and Promoters.
 
-![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/pkumNCMyvzA)
+![Screenshot 2024-05-09 at 16.19.15.png](<../assets/images/Screenshot 2024-05-09 at 16-2.19.15.png>)
+
+
+
 
 ### Show and Monitor Trends
 
 The main use case for this chart is to show how your data changes over time. This could be a great choice when comparing different survey waves or in the case of continuously collected data from customer feedback systems or when collecting customer reviews from websites such as Amazon, Google Maps, Apple Store etc. using our [Integrations feature](04-09-Integrations-in-Detail.md).
 
-The following chart shows an example of Amazon reviews of a Bluetooth speaker. In this case, the results are shown on a monthly basis.
+The following chart shows an example of reviews of TV set brends. In this case, the results are shown on a monthly basis.
 
-![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/JplgNTMRUlE)
+![Screenshot 2024-05-09 at 16.43.56.png](<../assets/images/Screenshot 2024-05-09 at 16.43.56.png>)
+
 
 ### Hierachical Distribution
 
 The treemap provides an intuitive overview of the distribution of each category and its individual codes.
 
-![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/AzoRzPW1nc4)
+![Screenshot 2024-05-09 at 17.03.39.png](<../assets/images/Screenshot 2024-05-09 at 17.03.39.png>)
+
 
 ### Relationship Graph
 
 With the relationship graph you can innovatively analyze and visualize which codes have a strong relationship, i.e., which codes occur frequently together with the feedback of the customers.
 
-![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/daPqnjEEmBI)
+![Screenshot 2024-05-09 at 16.55.28.png](<../assets/images/Screenshot 2024-05-09 at 16.55.28.png>)
+
 
 ## Visualizing Scores
 
@@ -67,7 +76,8 @@ With the following two chart types you can include and visualize your numerical 
 
 The score chart shows the average score and the distribution of the values. In the example below, the NPS is shown with the distribution across the three NPS groups, i.e., Promoters, Passives and Detractors. Of course, this can be applied to any other score such as CSAT scores or the average star ratings when using our [Integrations feature](04-09-Integrations-in-Detail.md).
 
-![grafik.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/ARGq3wCA6HI)
+![Screenshot 2024-05-09 at 17.00.25.png](<../assets/images/Screenshot 2024-05-09 at 17.00.25.png>)
+
 
 ### Driver Analysis
 
