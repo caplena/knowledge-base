@@ -18,7 +18,7 @@ Caplena can automatically remove the following personal identifiable information
 * Healthcare Number
 * other numerical PII like computer MAC addresses
 
-If your plan includes anonymization, you can toggle it with a checkbox in the Project settings during the upload process:
+If your plan includes anonymization, you can toggle it on in the Project settings during the upload process:
 
 ![Screenshot 2024-05-09 at 15.45.17.png](<../assets/images/Screenshot 2024-05-09 at 15.45.17.png>)
 
