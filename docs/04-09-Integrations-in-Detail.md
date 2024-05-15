@@ -200,6 +200,53 @@ Here's a quick video demonstrating all the steps mentioned above:
 
 https://youtu.be/qEtocKmrBbY
 
+### Qualtrics
+
+Integrating Qualtrics with Caplena enables efficient analysis of qualitative data collected through Qualtrics surveys. This integration streamlines the entire process from data collection to insights generation, offering a comprehensive view of survey results.
+
+To connect Qualtrics with Caplena, follow these steps:
+1. **Access Account Settings**
+2. **Navigate to Integrations:** In the settings or account menu, locate the "Integrations" section.
+3. **Select Qualtrics Integration:** Choose Qualtrics from the list of available integrations
+
+![Screenshot 2024-05-13 at 17.16.25.png](<../assets/images/Screenshot 2024-05-13 at 17.16.25.png>)
+
+
+The next step would be to fill in the following fields:
+
+![Screenshot 2024-05-14 at 11.11.18.png](<../assets/images/Screenshot 2024-05-14 at 11.11.18.png>)
+
+- [ ] **Connection name** - The "Connection Name" is a label you assign to your integration setup for easy identification. Choose a name that makes sense to you and helps distinguish this specific integration from others you may have set up.
+
+- [ ] To locate **the API Key** for your Qualtrics account, follow these steps:
+
+1. Log in to your Qualtrics account.
+2. Navigate to Account Settings.
+3. Select "Qualtrics IDs" 
+4. Look for the API section, where you will find your API Key.
+
+- [ ] To find **the Datacenter information** for your Qualtrics account, follow these steps:
+1. Log in to your Qualtrics account.
+2. Go to Account Settings.
+3. Look for the "Qualtrics IDs" 
+4. You'll find the Datacenter under the User section
+
+![Screenshot 2024-05-14 at 12.10.57.png](<../assets/images/Screenshot 2024-05-14 at 12.10.57.png>)
+
+You are all set now. It´s time to create your project. Navigate to "Projects" in Caplena, click on "Import Data", and select Qualtrics from the integration list. 
+
+![Screenshot 2024-05-14 at 13.22.38.png](<../assets/images/Screenshot 2024-05-14 at 13.22.38.png>)
+
+Choose the account and survey from which you'd like to import your data.
+
+
+![Screenshot (28).png](<../assets/images/Screenshot (28).png>)
+
+
+
+
+
+
 
 
 
