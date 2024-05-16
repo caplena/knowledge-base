@@ -181,8 +181,6 @@ Our Brandwatch integration simplifies the process of importing social media quer
 1. **Accessing Account Settings:** Start by accessing your Caplena account settings. Navigate to "Integrations" and select Brandwatch.
 ![Screenshot 2024-04-10 at 16.39.06.png](<../assets/images/Screenshot 2024-04-10 at 16.39.06.png>)
 
-
-
 2. **Adding Brandwatch Account:** Click on the "Add Account" button. Fill in the required details including the connection name, username, password, and your project name. **Please note** that you can find the project name in your Brandwatch account.
 
 ![Screenshot 2024-04-10 at 16.43.13.png](<../assets/images/Screenshot 2024-04-10 at 16.43.13.png>)
@@ -206,8 +204,8 @@ Integrating Qualtrics with Caplena enables efficient analysis of qualitative dat
 
 To connect Qualtrics with Caplena, follow these steps:
 1. **Access Account Settings**
-2. **Navigate to Integrations:** In the settings or account menu, locate the "Integrations" section.
-3. **Select Qualtrics Integration:** Choose Qualtrics from the list of available integrations
+2. **Select Integrations** (at the bottom of the menu list)
+3. **Select Qualtrics** (from the list showing at the top right)
 
 ![Screenshot 2024-05-13 at 17.16.25.png](<../assets/images/Screenshot 2024-05-13 at 17.16.25.png>)
 
@@ -216,16 +214,16 @@ The next step would be to fill in the following fields:
 
 ![Screenshot 2024-05-14 at 11.11.18.png](<../assets/images/Screenshot 2024-05-14 at 11.11.18.png>)
 
-- [ ] **Connection name** - The "Connection Name" is a label you assign to your integration setup for easy identification. Choose a name that makes sense to you and helps distinguish this specific integration from others you may have set up.
+* **Connection name** - The "Connection Name" is a label you assign to your integration setup for easy identification. Choose a name that makes sense to you and helps distinguish this specific integration from others you may have set up.
 
-- [ ] To locate **the API Key** for your Qualtrics account, follow these steps:
+* To locate **the API Key** for your Qualtrics account, follow these steps:
 
 1. Log in to your Qualtrics account.
 2. Navigate to Account Settings.
 3. Select "Qualtrics IDs" 
 4. Look for the API section, where you will find your API Key.
 
-- [ ] To find **the Datacenter information** for your Qualtrics account, follow these steps:
+* To find **the Datacenter information** for your Qualtrics account, follow these steps:
 1. Log in to your Qualtrics account.
 2. Go to Account Settings.
 3. Look for the "Qualtrics IDs" 
@@ -233,7 +231,7 @@ The next step would be to fill in the following fields:
 
 ![Screenshot 2024-05-14 at 12.10.57.png](<../assets/images/Screenshot 2024-05-14 at 12.10.57.png>)
 
-You are all set now. It´s time to create your project. Navigate to "Projects" in Caplena, click on "Import Data", and select Qualtrics from the integration list. 
+You are all set now and you can create your project. Click on [Import Data / New Project](https://caplena.com/app/upload), and select Qualtrics from the list of integrations under "Connected Accounts".
 
 ![Screenshot 2024-05-14 at 13.22.38.png](<../assets/images/Screenshot 2024-05-14 at 13.22.38.png>)
 
