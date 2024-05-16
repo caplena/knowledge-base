@@ -67,6 +67,6 @@ Once the filter is selected, you change the name of the segment. Let’s say you
 
 In case the colors are not different, just click on Colors in the chart menu on the left and select “Segment” instead of Category or Topic.
 
-![Screenshot (36).png](<../assets/images/Screenshot (36).png>)
+![Screenshot (36).png](<../assets/images/Screenshot (36).png>) 
 
 
