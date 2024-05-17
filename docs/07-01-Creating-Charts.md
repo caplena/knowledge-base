@@ -124,7 +124,8 @@ When you select the bar chart from the chart library on the left, you will see t
 - **Categorical column** for a break for any column with labeled attributes.
 - **NPS column** to break the data by the three NPS groups (Promoters, Passives, and Detractors), just make sure the column with the likelihood to recommend was selected.
 
-![Picture 1.jpg](<../assets/images/Picture 1.jpg>)
+![Picture 1.png](<../assets/images/Picture 1.png>)
+
 
 
 
