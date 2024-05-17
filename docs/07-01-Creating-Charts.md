@@ -127,19 +127,19 @@ When you select the bar chart from the chart library on the left, you will see t
 ![Picture 1.png](<../assets/images/Picture 1.png>)
 
 
-
-
 <!-- theme: info -->
 >Segments can be edited!
 >To edit a segment, click at the little arrow next to “Chart Setup” at the top left, which will bring you to the “Chart Settings”. At the bottom left you will see your segments.
 
-![Screenshot (31).png](<../assets/images/Screenshot (31).png>)
+![Picture 1.png](<../assets/images/Picture 1-2.png>)
+
 
 To make any change to any of these segments you can click on the edit symbol at the right to the segment's name.
  Once in the segment, you can change the segment's name (as it will be shown in the legend) as well as the segment's properties, which in most cases will be one filter that you can open and amend your selection. 
  You can also click on “Add Filter” at the bottom right, to a segment built across various additional columns. Here you can also change the colors of your segments by “overwriting” the automatic selection.
 
-![Screenshot (32).png](<../assets/images/Screenshot (32).png>)
+![Picture 1.png](<../assets/images/Picture 1-3.png>)
+
 
 ### Option 2: Manual Creation of Segments
 
