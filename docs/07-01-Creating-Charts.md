@@ -104,8 +104,7 @@ Any additional variable can be used to slice and dice your data based on specifi
 >Example Scenario:
 >Suppose you want to analyze customer feedback by age, you can use the "Age" column as an additional variable to filter or segment and compare responses by different age brackets.
 
-![Screenshot 2024-05-16 at 13.30.59.png](<../assets/images/Screenshot 2024-05-16 at 13.30.59.png>)
-
+![Screenshot 2024-05-16 at 13.30.59.png](<../assets/images/Screenshot 2024-05-16 at 13-2.30.59.png>)
 
 
 ## Creating Charts with Segments
@@ -125,7 +124,8 @@ When you select the bar chart from the chart library on the left, you will see t
 - **Categorical column** for a break for any column with labeled attributes.
 - **NPS column** to break the data by the three NPS groups (Promoters, Passives, and Detractors), just make sure the column with the likelihood to recommend was selected.
 
-![Screenshot (30).png](<../assets/images/Screenshot (30).png>)
+![Screenshot (30).png](<../assets/images/Screenshot (30)-2.png>)
+
 
 <!-- theme: info -->
 >Segments can be edited!
