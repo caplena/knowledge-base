@@ -27,6 +27,8 @@ stoplight-id: wktwlwivyiz40
 * [Languages & Translations](09-01-Languages.md)
 * [Topic Assignment](06-01-Fine-tuning-view.md)
 * [Visualization: Charts & Dashboard](07-01-Creating-Charts.md)
+* [Segmentation](Segmentation.md)
+
 
 ## [📁 Legacy & Archive](02-00-V2-changes.md)
 
