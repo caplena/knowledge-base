@@ -23,6 +23,32 @@ The data should be arranged in columns and rows, where the rows include the indi
 
 The first row of the data file will be treated as the column header or title. In case you have the description of your data columns across several rows, e.g., the variable name in the first row and a description the second, you should delete one of these rows or merge them into a single row.
 
+![Screenshot 2024-06-26 at 13.11.44.png](<../assets/images/Screenshot 2024-06-26 at 13.11.44.png>)
+
+#### Organize your data
+
+Once you've uploaded your file, you'll be taken to a screen where you can organize your data. Here’s a quick guide on what you’ll see and how to manage your columns:
+
+**Left Side: Your Data Columns**
+
+- Column Names: All the columns from your file will be listed on the left. Each name corresponds to the header in your data file.
+- Data Preview: Below each column name, you can preview the first 5 records from your data.
+
+**Right Side: Column Types**
+- Column Types: On the right, you'll see the types of columns present in your file.
+- Interactive Selection: Feel free to click around and explore.
+- When you select an open-text column, you'll see all the columns the system detected for analysis. You can toggle these columns on or off depending on your project needs.
+
+You can analyze up to 25 open-ended columns in a single project. Toggle the columns on or off based on what you need for your analysis.
+
+**Summary Section**
+- A summary will show the number of rows and columns imported.
+- Below this, you’ll see the number of credits charged. Credits are our internal currency, and we charge one credit for each row of text in your file.
+
+![Screenshot 2024-06-26 at 14.10.38.png](<../assets/images/Screenshot 2024-06-26 at 14.10.38.png>)
+
+
+
 #### Ways to streamline your analysis process
 
 When importing your data into Caplena, you have several options to streamline your analysis process:
