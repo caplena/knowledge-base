@@ -67,7 +67,7 @@ Below, you'll find advanced settings:
 When importing your data into Caplena, you have several options to streamline your analysis process:
 
 
-- **Import Your Code Book (Topic Collection):** You can choose to import your code book directly into Caplena. This allows you to maintain consistency with your existing coding framework and ensures accurate analysis of your data.
+- **Import Your Topic Collection:** You can choose to import your topic collection directly into Caplena. This allows you to maintain consistency with your existing coding framework and ensures accurate analysis of your data.
 
 - **Use a Similar Project as a Basis:** If you've previously worked on similar projects in Caplena, you can utilize one of them as a basis for your new project. This can help you leverage existing structures and settings to expedite your current analysis process.
 
@@ -94,13 +94,13 @@ These templates are available in both English and German languages, providing fl
 
 ![Screenshot 2024-03-28 at 12.59.27.png](<../assets/images/Screenshot 2024-03-28 at 12.59.27.png>)
 
-And finally, if you click on **upload file**, you´ll be able to bring your external code book (topic collection) into the platform. Below you´ll find some information on the required format:
+And finally, if you click on **upload file**, you´ll be able to bring your external topic collection) into the platform. Below you´ll find some information on the required format:
 
- **Code book without sentiment:**
+ **Topic collection without sentiment:**
 
  ![Screenshot 2024-03-28 at 13.28.11.png](<../assets/images/Screenshot 2024-03-28 at 13.28.11.png>)
 
- **Code book with sentiment:**
+ **Topic collection with sentiment:**
 
  ![Screenshot 2024-04-10 at 10.45.07.png](<../assets/images/Screenshot 2024-04-10 at 10.45.07.png>)
 
