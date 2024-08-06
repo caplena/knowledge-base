@@ -1,5 +1,5 @@
 ---
-stoplight-id: hzrjzb1fw3n55
+stoplight-id: waiokjkj9al83
 ---
 
 # Anonymize Text Comments
@@ -18,10 +18,9 @@ Caplena can automatically remove the following personal identifiable information
 * Healthcare Number
 * other numerical PII like computer MAC addresses
 
-If your plan includes anonymization, you can toggle it on in the Project settings during the upload process:
+If your plan includes anonymization, you can toggle it with a checkbox in the Project settings during the upload process:
 
-![Screenshot 2024-05-09 at 15.45.17.png](<../assets/images/Screenshot 2024-05-09 at 15.45.17.png>)
-
+![Screenshot 2022-06-01 at 15.29.47.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/blpNp6zjqw0)
 
 Note that the anonymization process *cannot be undone* as only the anonymized data is stored on Caplena.
 
@@ -34,52 +33,61 @@ The anonymization process takes place right after the upload onto the Caplena se
 ## Languages and Translations
 
 Anonymization operates on the source text and is performed **before** translation. This means that if the source text was anonymized, the translated text will be anonymized too. However, not all languages are supported for anonymization. Here's a list of supported languages:
-* Arabic
-* Belarusian
-* Bengali
-* Bulgarian
-* Burmese
-* Catalan
-* Croatian
-* Czech
-* Danish
-* Dutch
-* English
-* Estonian
-* Finnish
-* French
-* German
-* Greek
-* Hebrew
-* Hindi
-* Hungarian
-* Icelandic
-* Indonesian
-* Italian
-* Japanese
-* Khmer
-* Korean
-* Latvian
-* Lithuanian
-* Luxembourgish
-* Malay
-* Mandarin (simplified)
-* Moldovian
-* Norwegian (Bokmål)
-* Persian (Farsi)
-* Polish
-* Portuguese
-* Romanian
-* Russian
-* Slovak
-* Slovenian
-* Spanish
-* Swahili
-* Swedish
-* Tagalog
-* Thai
-* Turkish
-* Ukrainian
-* Vietnamese
+
+| Language               | ISO Code  |
+|------------------------|-----------|
+| Afrikaans              | af        |
+| Arabic                 | ar        |
+| Bambara                | bm        |
+| Belarusian             | be        |
+| Bengali                | bn        |
+| Bulgarian              | bg        |
+| Burmese                | my        |
+| Cantonese (traditional)| zh-TW     |
+| Catalan                | ca        |
+| Croatian               | hr        |
+| Czech                  | cs        |
+| Danish                 | da        |
+| Dutch                  | nl        |
+| English                | en        |
+| Estonian               | et        |
+| Finnish                | fi        |
+| French                 | fr        |
+| Georgian               | ka        |
+| German                 | de        |
+| Greek                  | el        |
+| Hebrew                 | he        |
+| Hindi                  | hi        |
+| Hungarian              | hu        |
+| Icelandic              | is        |
+| Indonesian             | id        |
+| Italian                | it        |
+| Japanese               | ja        |
+| Khmer                  | km        |
+| Korean                 | ko        |
+| Latvian                | lv        |
+| Lithuanian             | lt        |
+| Luxembourgish          | lb        |
+| Malay                  | ms        |
+| Mandarin (simplified)  | zh-CN     |
+| Moldovan               | ro        |
+| Norwegian (Bokmål)     | nb        |
+| Persian (Farsi)        | fa        |
+| Polish                 | pl        |
+| Portuguese             | pt        |
+| Punjabi                | pa        |
+| Romanian               | ro        |
+| Russian                | ru        |
+| Slovak                 | sk        |
+| Slovenian              | sl        |
+| Spanish                | es        |
+| Swahili                | sw        |
+| Swedish                | sv        |
+| Tagalog                | tl        |
+| Tamil                  | ta        |
+| Thai                   | th        |
+| Turkish                | tr        |
+| Ukrainian              | uk        |
+| Vietnamese             | vi        |
 
 Texts in other languages will be not or only partially anonymized. We'll add more languages in upcoming releases.
