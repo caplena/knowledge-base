@@ -98,6 +98,11 @@
       "uri": "docs/09-01-Languages.md"
     },
     {
+      "type": "item",
+      "title": "Start Analysis / Topic Generation",
+      "uri": "docs/11-Start-the-Analysis.md"
+    },
+    {
       "type": "group",
       "title": "Topic Assignments",
       "items": [
