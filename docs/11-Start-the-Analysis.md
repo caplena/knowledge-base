@@ -2,7 +2,7 @@
 stoplight-id: 5ykfg42sjns9x
 ---
 
-# Start the Analysis
+# Start the Analysis / Initial Topic Generation
 Once your data is in the project, you can start the analysis. Here we will explain the inital start of the analyis, which includes the selecting whether start afresh or make use of existing topics as well as the inital topic generation process.
 
 Starting the analysis will be always the same process, no matter whether you imported a data file or whether you used an automatic import process such as review scraping (Google, Amazon, etc.), a connected account (Qualtrics, Zapier, etc.), or our API.
@@ -13,7 +13,7 @@ When you open your project, you will see the text columns for the analysis. In t
 
 ![Bildschirmfoto 2024-08-16 um 09.35.46.png](<../assets/images/Bildschirmfoto 2024-08-16 um 09.35.46.png>)
 
-## From Scratch or Previous Work / Templates?
+## From Scratch or not?
 
 On the first screen, you can choose whether you would like to start fresh or not. You will start fresh in case you analyze this type of open text for the first time, and the AI will go through your text data and generates the first categories and topics.
 
