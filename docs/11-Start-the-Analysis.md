@@ -8,7 +8,7 @@ Once your data is in the project, you can start the analysis. Here we will expla
 Starting the analysis will be always the same process, no matter whether you imported a data file or whether you used an automatic import process such as review scraping (Google, Amazon, etc.), a connected account (Qualtrics, Zapier, etc.), or our API.
 
 When you open your project, you will see the text columns for the analysis. In the example below, you see two text columns, "Reason" and "Improvement". The button underneath the name of the text column will either say
-* **Cockpit** - the inital analysis process / topic generation was done, and you can go straight into the project to keep working on it, add charts, or export data etc. This is the case for the first text column (Reason) of the example below.
+* **Cockpit** - the inital analysis process / topic generation was done, and you can go straight into the project to keep working on it, add charts, or export data etc. This is the case for the first text column (Reason) in the example below.
 * **Start Analysis** - in this case, you will enter the inital topic generation process. This is the case for the second text column (Improvement) in the example below.
 
 ![Bildschirmfoto 2024-08-16 um 09.35.46.png](<../assets/images/Bildschirmfoto 2024-08-16 um 09.35.46.png>)
