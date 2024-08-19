@@ -64,9 +64,6 @@ Please change the format of your external topic collection into the format shown
 
 By choosing the most suitable option based on your needs, you can optimize your workflow and enhance the efficiency of your analysis in Caplena.
 
-If you're analyzing open text data for the first time, follow these steps to get started:
 
-- Select "Yes" when asked if you want to start from scratch.
-
-- Let the AI do the work: The AI will automatically go through your text data and generate the initial categories and topics for you.
+## Topic Sentiment
 
