@@ -16,7 +16,7 @@ We enforce some reasonable limits on the data to ensure smooth processing on our
 
 
 ### Topic Limits
-1. A maximum of **133 sentiment-enabled topics**. Without sentiment up to 400 topics are supported. For semi-open columns this limit can be increased upon request.
+1. A maximum of **266 sentiment-enabled topics**. Without sentiment up to 800 topics are supported. For semi-open columns this limit can be increased upon request.
 2. Not more than 50 characters for the **topic label** (put examples and lengthy descriptions in the Topic Description instead).
 3. At most 30 characters for the **category** label.
 
