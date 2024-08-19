@@ -13,6 +13,8 @@ When you open your project, you will see the text columns for the analysis. In t
 
 ![Bildschirmfoto 2024-08-16 um 09.35.46.png](<../assets/images/Bildschirmfoto 2024-08-16 um 09.35.46.png>)
 
+Lets follow the "Start Analysis" option.
+
 ## From Scratch or not?
 
 On the first screen, you can choose whether you would like to start fresh or not. You will start fresh in case you analyze this type of open text for the first time, and the AI will go through your text data and generates the first categories and topics.
