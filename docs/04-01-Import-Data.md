@@ -61,55 +61,6 @@ Below, you'll find advanced settings:
 
 ![Screenshot 2024-06-26 at 14.29.46.png](<../assets/images/Screenshot 2024-06-26 at 14.29.46.png>)
 
-
-#### Ways to streamline your analysis process
-
-When importing your data into Caplena, you have several options to streamline your analysis process:
-
-
-- **Import Your Topic Collection:** You can choose to import your topic collection directly into Caplena. This allows you to maintain consistency with your existing coding framework and ensures accurate analysis of your data.
-
-- **Use a Similar Project as a Basis:** If you've previously worked on similar projects in Caplena, you can utilize one of them as a basis for your new project. This can help you leverage existing structures and settings to expedite your current analysis process.
-
-- **Apply Pre-made Templates:** Caplena offers a variety of pre-made templates tailored for different types of analyses. Applying one of these templates can save you time and effort while ensuring consistency in your analysis approach.
- To get started, simply click "no" when you see this screen. 
-
- ![Screenshot 2024-03-28 at 11.23.15.png](<../assets/images/Screenshot 2024-03-28 at 11.23.15.png>)
-
- This step will lead you through the options mentioned above:
-
- ![Screenshot 2024-03-28 at 11.24.59.png](<../assets/images/Screenshot 2024-03-28 at 11-2.24.59.png>)
-
-By clicking on **"Other Project,"** you'll gain access to a list of projects you've previously created on the platform. 
-
-From there, you can select a project similar to the one you're currently working on. Once you've identified the appropriate project, simply click on the "Inherit Topic Collection" button located on the right side of the screen. 
-
-This action will enable you to seamlessly transfer the topic collection from the selected project to your current one, ensuring consistency and efficiency in your analysis process:
-
-![Screenshot 2024-03-28 at 11.53.16.png](<../assets/images/Screenshot 2024-03-28 at 11-2.53.16.png>)
-
-By selecting the **"Template"** option, you'll be presented with a range of pre-made templates designed to cover common use cases such as NPS studies, Employee feedback, and more. 
-
-These templates are available in both English and German languages, providing flexibility to cater to diverse needs. Simply choose the template that best fits your requirements to streamline your project setup process:
-
-![Screenshot 2024-03-28 at 12.59.27.png](<../assets/images/Screenshot 2024-03-28 at 12.59.27.png>)
-
-And finally, if you click on **upload file**, you´ll be able to bring your external topic collection) into the platform. Below you´ll find some information on the required format:
-
- **Topic collection without sentiment:**
-
- ![Screenshot 2024-03-28 at 13.28.11.png](<../assets/images/Screenshot 2024-03-28 at 13.28.11.png>)
-
- **Topic collection with sentiment:**
-
- ![Screenshot 2024-04-10 at 10.45.07.png](<../assets/images/Screenshot 2024-04-10 at 10.45.07.png>)
-
-By choosing the most suitable option based on your needs, you can optimize your workflow and enhance the efficiency of your analysis in Caplena. 
-
-
-#### Additional Data
-Together with your text to analyze you can upload additional data columns with text and / or numerical data, such as age, gender, NPS-scores etc. These additional data columns will not be analyzed as text and you will not be charged for them. However, we recommend uploading additional data columns as you can use them as segmentation or filter variable and they can also be display besides your text when fine-tuning.
-
 ### Direct Input
 You can also enter or copy your data directly into the upload window. The lines will be separated by pressing enter. When copying the data directly from Excel or a similar application, the data will be line-separated automatically.
 
