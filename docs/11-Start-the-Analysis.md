@@ -103,5 +103,13 @@ After the AI generates the initial analysis structure for your project, you'll b
 
 ![Screenshot 2024-08-20 at 17.07.56.png](<../assets/images/Screenshot 2024-08-20 at 17.07.56.png>)
 
+ **Step 3: Finalize and Refine**
+
+- **Make final adjustments** to the structure if needed
+ - **Generate More Topics:** Click "Generate More Topics" to add more topics for specific categories or the entire project.
+
+ ![Screenshot 2024-08-20 at 17.42.18.png](<../assets/images/Screenshot 2024-08-20 at 17.42.18.png>)
+
+
 
 
