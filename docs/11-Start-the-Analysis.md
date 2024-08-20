@@ -79,4 +79,29 @@ If you´re not familiar with your data, click "View Rows" on the right side of t
 
 ![Screenshot 2024-08-20 at 16.04.48.png](<../assets/images/Screenshot 2024-08-20 at 16.04.48.png>)
 
+## Topic Generation
+
+After the AI generates the initial analysis structure for your project, you'll be taken to a screen where you can review and refine it.
+
+![Screenshot 2024-08-20 at 16.47.34.png](<../assets/images/Screenshot 2024-08-20 at 16.47.34.png>)
+
+ This structure is organized into two levels: categories and topics. Here’s what to do next:
+
+**Step 1: Review Categories**
+
+- **Rename:** If a category name doesn’t quite fit, feel free to rename it to something more suitable.
+- **Remove:** If a category doesn’t apply to your data, you can remove it entirely.
+- **Add:** If you think of another important category that the AI didn’t include, go ahead and add it manually.
+
+**Step 2: Check Topics**
+
+- **Apply the MECE Principle:** Ensure that topics are Mutually Exclusive, Collectively Exhaustive (MECE):
+1. **Mutually Exclusive:** Topics should not overlap. Each topic should represent a unique idea or theme.
+2. **Collectively Exhaustive:** Together, all topics should cover all possible aspects of the category, leaving no gaps
+
+- **Use AI Suggestions:** Look at the AI-generated suggestions on the right to remove potentially similar topics.
+
+![Screenshot 2024-08-20 at 17.07.56.png](<../assets/images/Screenshot 2024-08-20 at 17.07.56.png>)
+
+
 
