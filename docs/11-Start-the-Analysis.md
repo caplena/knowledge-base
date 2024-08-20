@@ -67,3 +67,16 @@ By choosing the most suitable option based on your needs, you can optimize your 
 
 ## Topic Sentiment
 
+When the system asks if your project contains sentiment, it’s important to understand what this means for your analysis.
+
+Sentiment refers to whether responses in your project are positive, negative, or neutral. This is often used in projects like NPS  studies or any other survey where feedback can range from positive to negative.
+
+- If your project involves responses that can express emotions, opinions, or feedback (such as customer or employee surveys where people might express satisfaction or dissatisfaction), you should select "Yes." 
+
+- If the responses are purely factual (such as improvement questions) and don’t express positive or negative feelings, you should select "No."
+
+If you´re not familiar with your data, click "View Rows" on the right side of the sentiment screen to preview your responses. 
+
+![Screenshot 2024-08-20 at 16.04.48.png](<../assets/images/Screenshot 2024-08-20 at 16.04.48.png>)
+
+
