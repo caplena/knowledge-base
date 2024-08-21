@@ -110,6 +110,13 @@ After the AI generates the initial analysis structure for your project, you'll b
 
  ![Screenshot 2024-08-20 at 17.42.18.png](<../assets/images/Screenshot 2024-08-20 at 17.42.18.png>)
 
+ <!-- theme: info -->
+
+> During each of the three stages, you'll see the Row Browser on the right-hand side. This tool is useful if you want to review the actual data in your project as you refine the structure.
+
+![Screenshot 2024-08-21 at 10.01.59.png](<../assets/images/Screenshot 2024-08-21 at 10.01.59.png>)
+
+
 
 
 
