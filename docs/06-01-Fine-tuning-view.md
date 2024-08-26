@@ -241,7 +241,7 @@ By default, duplicates are assigned the same topics and are also marked as *revi
 > Duplicate grouping may be *temporarily disabled* if specific filters are applied (e.g. when filtering for other columns in your data), to prevent confusing behavior. A notification is shown on the top right whenever this is the case.
 
 <!-- theme: info -->
->If you assign two duplicates to different topics, grouping will be automatically disabled for all mentions of that verbatim.
+> To ensure identical rows are grouped together in your analysis, make sure that all rows have the same status (e.g., all rows should be either reviewed or unreviewed) and have the same topic assigned. 
 
 #### 9. See Original Text
 
