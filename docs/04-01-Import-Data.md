@@ -2,18 +2,20 @@
 stoplight-id: 85eh1l8jcavy0
 ---
 
-# Data Import
+# Creating New Project
 
-* [Three Data Import Options](#import-options)
+* [Upload a File](#upload-file)
+* [Direct Input](#direct-input)
+* [Integrations](#integrations)
 * [Projects with multiple Text Columns](#multiple-text-columns)
-* [Add more Text Data to an existing Project](#add-more-text-data)
 * [Leverage and visualize Non-Text-Data](#leverage-non-text-data)
 * [Date Support](#date-support)
 
-## Import Options
+## Data Import
 Importing data into the Caplena platform is the first step to start a new project. After clicking on the *New Project* or *Import Data* button you will be able to choose between three data import options.
 
 ![Bildschirmfoto 2022-07-01 um 20.09.55.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/XPVSgepPBtE)
+
 
 ### Upload a File
 Using this option, you can simply drag and drop your data file into the import box or browse to the location of your file. The currently supported data formats for this import option are: .xls, .xlsx, .csv, .txt, .spss and .sav.
@@ -25,9 +27,13 @@ The first row of the data file will be treated as the column header or title. In
 
 ![Screenshot 2024-06-26 at 13.11.44.png](<../assets/images/Screenshot 2024-06-26 at 13.11.44.png>)
 
+
+
 #### Organize your data
 
 Once you've uploaded your file, you'll be taken to a screen where you can organize your data. Here’s a quick guide on what you’ll see and how to manage your columns:
+
+![Screenshot 2024-06-26 at 14.10.38.png](<../assets/images/Screenshot 2024-06-26 at 14.10.38.png>)
 
 **Left Side: Your Data Columns**
 
@@ -45,9 +51,10 @@ You can analyze up to 25 open-ended columns in a single project. Toggle the colu
 - A summary will show the number of rows and columns imported.
 - Below this, you’ll see the number of credits charged. Credits are our internal currency, and we charge one credit for each row of text in your file.
 
-![Screenshot 2024-06-26 at 14.10.38.png](<../assets/images/Screenshot 2024-06-26 at 14.10.38.png>)
 
 Once you've finished, click on "Continue to Settings" to configure project settings.
+
+![Screenshot 2024-06-26 at 14.29.46.png](<../assets/images/Screenshot 2024-06-26 at 14.29.46.png>)
 
 Here, you can:
 
@@ -59,7 +66,6 @@ Below, you'll find advanced settings:
 - Enable translations if you wish to translate your verbatims into another language.
 - Enable anonymization to remove personal identifiable information (PII) from all text comments.
 
-![Screenshot 2024-06-26 at 14.29.46.png](<../assets/images/Screenshot 2024-06-26 at 14.29.46.png>)
 
 ### Direct Input
 You can also enter or copy your data directly into the upload window. The lines will be separated by pressing enter. When copying the data directly from Excel or a similar application, the data will be line-separated automatically.
@@ -119,92 +125,6 @@ Follow these steps:
 
 By consolidating information before uploading it to Caplena, you'll streamline the analysis process, making it more effective across all your fully open projects.
 
-
-
-## Add More Text-Data
-
-You may have already started or finished the analysis for your project, but you would like to add more data, be it from a new or previous wave or from an additional market and the like.
-
-You can add new data to your project any time by using the *Upload further answers* feature that you will find at the top menu when selecting your project from the [Project View](https://caplena.com/app/projects).
-
-![Bildschirmfoto 2021-12-30 um 12.20.58 v2.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/sTNZT74J4I0)
-
-Provided your existing data has already been analyzed, i.e., topic collection was applied, the newly added data will be automatically assigned with topics based on the existing topic collection.
-
-This procedure can be repeated as many times as you wish.
-
-### Data Structure
-
-The additional data should be arranged in the same way as the original data, i.e., it should have the **same number of data columns** and they should be **arranged in the same order**. The data rows can be in any order.
-
-### Auto-Translation
-
-In case you would like to use our auto-translation feature, please **enable it when you initially create your project**. It is not possible to enable this feature retrospectively when uploading additional data to an existing project with no auto-translation enabled. Learn more about [auto translation](09-01-Languages.md#auto-translation-in-detail).
-
-### Duplicate Row Handling
-
-A row of data is considered to be a duplicate if all values in all columns are exactly equal. By default, duplicates will be ignored and not be imported. However, in case you would like to disable this feature, you can simply turn of the *Skip existing* function in the *Match your data* view (see screen shot below).
-
-**De-duplicate rows by ID-number**: Optionally, and as an alternative to the above, you can choose a column with unique values only (such as an ID-number) to identify already existing rows. If no ID column is selected, rows are identified following the rules described in the previous paragraph.
-
-![Bildschirmfoto 2022-01-03 um 16.29.09.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/6zKTyTsgu4Y)
-
-## Add or Replace Additional Columns
-Sometimes, during project work, you may find the need to
-
-* add additional data columns
-* update existing data within the additional columns
-* delete additional columns imported initially
-
-This can be achieved using the **add or replace additional columns** feature which is part of the *Project Actions* (the icon showing a pair of scissors), the menu at the top right when opening any project from the *Project List*.
-
-![Bildschirmfoto 2024-02-08 um 16.37.00.png](<../assets/images/Bildschirmfoto 2024-02-08 um 16.37.00.png>)
-
-<!-- theme: info -->
-
-> Note: This feature concerns any additional column, i.e., the columns that can be used as filter and for segmentations. Text columns will not be affected!
-
-**In short the feature / process works as follows.**
-
-1. Make your changes offline in the original data file
-2. Select the “Add or replace” feature from the *Project Actions*
-3. Drop your file
-4. Check and confirm changes in the *Match Columns* view
-
-The individual steps in detail.
-
-### Data File Preparation
-Use the data file you used for your initial import and make the required changes in that same file, i.e., delete columns, add columns, or make changes to any of the additional columns.
-
-Make sure that the data is in the same order as it is on the platform. If in doubt or in case you have already added several waves of data, you can always export the file from the platform and make the changes in that file. This ensures you have all the data in one file and the records are in the same order as in Caplena.
-
-**Follow these steps when using a file exported from Caplena.**
-
-* Delete all coding information and metadata (such as review status, text highlight information, etc.) as well as the two nested rows at the top that indicate the column sections.
-* Also remove the text to analyze column, the text columns will not be effected.
-
-The file in which you will do your changes should only contain the additional columns in the order of initial import.
-
-![Bildschirmfoto 2024-02-08 um 16.13.35.png](<../assets/images/Bildschirmfoto 2024-02-08 um 16.13.35.png>)
-
-Apply your changes to this file.
-
-<!-- theme: warning -->
-> #### Check numerical columns when exporting Excel files
->
-> When exporting data in Excel format it can happen that epmpty cells in numerical columns are filled with a place holder such as #NUM or #ZAHL. Please check and replace with an empty value before the re-import. This can be avoided when exporting the data in CSV format.
-
-### File Import
-Navigate to your *Project List* and open the project which you would like to change. Select **add or replace** from the *Project Actions* and drop the file with the changes. 
-
-After dropping the file the *Match Columns* screen will allow you to review your changes before being applied. The Summary at the bottom right will show the number of
-* Columns present previously  and in new file
-* Columns not present anymore in new file
-* New columns
-
-Move your mouse overt the information icon next to each of the three items and the column names will be shown.
-
-When the proposed changes match your expectation click on **Replace & Save**, the blue button on the bottom right. Your data file will be imported, and the changes will be applied. You will be able to see and use the changed set of additional columns as filter and for segmentation.
 
 ## Leverage Additonal Columns / Non-Text Data
 When uploading a project to Caplena, all columns you do not select to be processed as text, will be treated as additional columns and uploaded to the platform nevertheless.
@@ -268,26 +188,6 @@ During import, all values of date columns will be normalized to ISO Format (YYYY
 
 Note that american-style dates like **MM/DD/YYYY are not supported**, convert to day-first before upload.
 
-### Date Charts
-
-If a date column is present in your data, you can use special date charts to visualize trends in your data. Charts that operate on date are identifiable by a small calendar icon. Currently only the Date Line & Pie chart supports date. Use the radio buttons in the Chart Setup to switch between different aggregation levels (i.e. Years or Months).
-
-![Bildschirmfoto 2022-12-30 um 12.08.54.png](<../assets/images/Bildschirmfoto 2022-12-30 um 12.08.54.png>)
-
-### Filtering in charts and dashboards
-
-Two kinds of filters are available for charts and dashboards that behave fundamentally differently:
 
  
-#### Dynamic date ranges
-
-Selecting one of the dynamic date ranges like "This month" will filter for date values of the current month when viewing the chart. If the filter is saved with the chart then opening the same chart a month later will show different data as the current month has changed. The same applies to the rest of the options in the list:
-
-![grafik.png](../assets/images/grafik-3.png)
-
-#### Fixed date ranges ("Custom Period")
-
-For these filters, you select a specific date range from a calendar (i.e. 1st of January 2022 until 12th of February 2022). If you store the chart with the filter applied, the filtered date range will always remain the same.
-
-![grafik.png](../assets/images/grafik-4.png)
 
