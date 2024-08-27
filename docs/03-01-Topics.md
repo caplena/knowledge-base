@@ -8,7 +8,7 @@ stoplight-id: 136b79897741e
 * [Topics](#topics)
 * [Sentiment](#sentiment)
 
-## Category
+## Category 
 
 A category is a set of topics which are referring to the same overarching theme. A category could be for example `Customer Service`.
 
