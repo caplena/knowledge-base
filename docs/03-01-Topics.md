@@ -2,18 +2,38 @@
 stoplight-id: 136b79897741e
 ---
 
-# Sentiment Topics
+# Main Concepts
 
-* [Overview](#overview)
-* [Topic Properties](#topic-properties)
+* [Categories](#categories)
+* [Topics](#topics)
+* [Sentiment](#sentiment)
+
+## Category
+
+A category is a set of topics which are referring to the same overarching theme. A category could be for example `Customer Service`.
+
+*The category is AI-relevant 🤖*.
+
+![Screenshot 2024-08-27 at 15.17.16.png](<../assets/images/Screenshot 2024-08-27 at 15.17.16.png>)
 
 
-<!-- theme: info -->
-> Check out the [🚀 Migration Guide](02-00-V2-changes.md#migration-guide) to learn how to convert existing projects to make use of sentiment topics.
+## Topic
 
-## Overview
+**Topics**, also known as *codes, themes, classes or labels* by some, summarize what is mentioned in your text comments.
+![Screenshot 2024-08-27 at 15.20.34.png](<../assets/images/Screenshot 2024-08-27 at 15.20.34.png>)
 
-**Topics**, also known as *codes, themes, classes or labels* by some, summarize what is mentioned in your text comments. Topics can have different sentiments:
+### Topic Label
+
+Concise meaning of the topic. This is what's displayed on the topic chips and is used by our AI to assign topics to texts. A good topic name should be short while still conveying the meaning of the topic in plain text. Examples for topic names are `Staff friendliness` or `Shipping Fees`.
+
+*The label is AI-relevant 🤖*.
+
+### Topic Sentiment
+Sentiment refers to whether responses in your project are positive, negative, or neutral. This is often used in projects like NPS studies or any other survey where feedback can range from positive to negative.
+
+For instance, in customer feedback, Caplena might identify topics like "customer service," "product quality," and "pricing." The sentiment analysis then evaluates whether the feedback on each topic is positive, negative, or neutral. This helps you understand not just the overall sentiment but also how each aspect of your product or service is perceived by customers.
+
+
 
 | Positive | Neutral  | Negative  |
 |---|---|---|
@@ -30,7 +50,7 @@ This means you must only create **one** topic for all three sentiment attitudes 
 <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_no_code.png" style="width:100px;"/>
 </div>
 
-## Topic Properties
+### Topic Properties
 
 Topics have slightly different properties, depending on if *topic sentiment* is enabled or not:
 
@@ -38,8 +58,8 @@ Topics have slightly different properties, depending on if *topic sentiment* is 
 |---|---|
 | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_with_sentiment.png" style="width:330px;"/> | <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_wo_sentiment.png" style="width:330px;"/> |
 
-Property | New in v2 | AI relevant 🤖* | Meaning 
----------|----------|---------|---------
+
+
 | **[Label](#label)** | | ✅ |  A concise summary of what you associate with a topic. |
 | **[Topic Sentiment](#topic-sentiment)** | ✅ | ✅ | If this topic has a *positive, negative and neutral* version.  |
 | **[Sentiment Labels](#sentiment-Labels)** | ✅ | ✅ | Optional sentiment-specific topic labels. |
@@ -50,11 +70,7 @@ Property | New in v2 | AI relevant 🤖* | Meaning
 
 > ***AI-relevant 🤖** means the property is considered by the AI during training and when assigning topics.
 
-### Category
 
-A category is a set of topics which are referring to the same overarching theme. A category could be for example `Customer Service`.
-
-*The category is AI-relevant 🤖*.
 
 ### Label
 
