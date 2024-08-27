@@ -16,6 +16,10 @@ A category is a set of topics which are referring to the same overarching theme.
 
 ![Screenshot 2024-08-27 at 15.17.16.png](<../assets/images/Screenshot 2024-08-27 at 15.17.16.png>)
 
+<!-- theme: info -->
+
+> ***AI-relevant 🤖** means the property is considered by the AI during training and when assigning topics.
+
 
 ## Topic
 
@@ -50,6 +54,21 @@ This means you must only create **one** topic for all three sentiment attitudes 
 <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_no_code.png" style="width:100px;"/>
 </div>
 
+<!-- theme: warning -->
+> #### Enabling topic sentiment
+>
+> The sentiment can only be enabled for topics **without any reviewed rows**. 
+>
+> Note: **Merging** multiple non-sentiment topics into a sentiment topics is always possible, even with reviewed rows. Below you´ll find a video that outlines how to do that:
+>
+> https://www.youtube.com/watch?v=Fma9N8cNi78
+> When activated, the AI will start differentiating between the sentiment versions.
+
+<!-- theme: warning -->
+> #### Disabling topic sentiment
+>
+> When disabling the topic sentiment, the sentiment will be discarded from the topic in all rows. **This action is non-reversible**.
+
 ### Topic Properties
 
 Topics have slightly different properties, depending on if *topic sentiment* is enabled or not:
@@ -60,50 +79,6 @@ Topics have slightly different properties, depending on if *topic sentiment* is 
 
 
 
-| **[Label](#label)** | | ✅ |  A concise summary of what you associate with a topic. |
-| **[Topic Sentiment](#topic-sentiment)** | ✅ | ✅ | If this topic has a *positive, negative and neutral* version.  |
-| **[Sentiment Labels](#sentiment-Labels)** | ✅ | ✅ | Optional sentiment-specific topic labels. |
-| [Description](#description) |  | | Optional long-form description or examples. |
-| [Code](#code) |  |  | Optional unique, numeric identifier for the topic & sentiment.|
-
-<!-- theme: info -->
-
-> ***AI-relevant 🤖** means the property is considered by the AI during training and when assigning topics.
-
-
-
-### Label
-
-Concise meaning of the topic. This is what's displayed on the topic chips and is used by our AI to assign topics to texts. A good topic name should be short while still conveying the meaning of the topic in plain text. Examples for topic names are `Staff friendliness` or `Shipping Fees`.
-
-*The label is AI-relevant 🤖*.
-
-### Topic Sentiment
-
-If the AI should distinguish between *positive, negative and neutral* versions of this topic. For most topics you will want this to be enabled, but there are topics like `Not relevant` or `Don't know` where topic sentiment does not make sense.
-
-*The topic sentiment setting is AI-relevant 🤖*.
-
-> In case **there are rows marked as "reviewed" with the topic you are planning to merge**, the review status needs to be changed first to allow enabling topic level sentiment.
->
-> Use the filter to select the topic and click on "Select all (number of rows with the topic)". The "Bulk assign" window will open on the right. Under "Row review status" you enable the toggle to "Unreviewed" and then you will be able to set topic sentiment.
-
-<!-- theme: warning -->
-> #### Disabling topic sentiment
->
-> When disabling the topic sentiment, the sentiment will be discarded from the topic in all rows. **This action is non-reversible**.
-
-
-<!-- theme: warning -->
-> #### Enabling topic sentiment
->
-> The sentiment can only be enabled for topics **without any reviewed rows**. 
->
-> Note: **Merging** multiple non-sentiment topics into a sentiment topics is always possible, even with reviewed rows.
->
-> https://www.youtube.com/watch?v=Fma9N8cNi78
-> When activated, the AI will start differentiating between the sentiment versions.
-
 ### Sentiment Labels
 
 Optional sentiment-specific topic labels, which are displayed on topic chips and charts instead of the topic label   itself. 
@@ -111,13 +86,14 @@ Optional sentiment-specific topic labels, which are displayed on topic chips and
 
 *The sentiment labels are AI-relevant 🤖*.
 
+### Code
+
+Unique numerical identifier for a specific topic and its sentiment. This can be used to visualize and compare across studies or to trigger predefined actions based on the assigned topic and its sentiment. You can choose the code if you want to, otherwise we automatically assign one.
+
 ### Description
 
 Longer description of the topic for reference. This field is not used by our AI to assign the topic, therefore make sure that the essence of the description is contained in the topic label & category.
 
-### Code
-
-Unique numerical identifier for a specific topic and its sentiment. This can be used to visualize and compare across studies or to trigger predefined actions based on the assigned topic and its sentiment. You can choose the code if you want to, otherwise we automatically assign one.
 
 ### Keywords
 
