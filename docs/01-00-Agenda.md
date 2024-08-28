@@ -8,6 +8,8 @@ stoplight-id: wktwlwivyiz40
 
 👉 Find out what has changed recently.
 
+
+
 ## [📚 Concepts](03-00-Data-Structure.md)
 
 👉 Learn about our concepts.
