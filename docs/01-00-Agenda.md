@@ -24,10 +24,11 @@ stoplight-id: wktwlwivyiz40
 ## [🕹 Project Data](04-01-Import-Data.md)
 
 👉 Discover how Caplena works and what features we offer.
+
 * [Data Import (new Project) ](04-01-Import-Data.md)
-* [Languages & Translations](09-01-Languages.md)
-* [Topic Assignment](06-01-Fine-tuning-view.md)
-* [Visualization: Charts & Dashboard](07-01-Creating-Charts.md)
+* [Data Manipulations](12-Data-Manipulations.md)
+* [Project Settings](13-Project-Settings.md)
+
 
 
 
