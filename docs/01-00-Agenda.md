@@ -4,6 +4,9 @@ stoplight-id: wktwlwivyiz40
 
 # How can we help you?
 
+## [📚 FAQ](FAQ.md) 
+👉 Frequently asked questions & answers
+
 ## [📺 News](02-00-Changelog.md) 
 
 👉 Find out what has changed recently.
