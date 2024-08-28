@@ -10,8 +10,8 @@ stoplight-id: 85eh1l8jcavy0
 * [Projects with multiple Text Columns](#multiple-text-columns)
 * [Leverage and visualize Non-Text-Data](#leverage-non-text-data)
 * [Date Support](#date-support)
-* [Add More Text Data](#add more data)
-* [Add or Replace Additional Columns](#add additional columns)
+* [Add More Text Data](#add-more-data)
+* [Add or Replace Additional Columns](#add-additional-columns)
 
 
 ## Data Import
