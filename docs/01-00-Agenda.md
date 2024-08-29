@@ -28,6 +28,8 @@ stoplight-id: wktwlwivyiz40
 * [Data Import (new Project) ](04-01-Import-Data.md)
 * [Data Manipulations](12-Data-Manipulations.md)
 * [Project Settings](13-Project-Settings.md)
+* [Data Export](04-08-Export.md)
+
 
 
 
