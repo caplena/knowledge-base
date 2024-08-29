@@ -33,6 +33,11 @@
       "uri": "docs/03-00-Data-Structure.md"
     },
     {
+      "type": "item",
+      "title": "Main Concepts",
+      "uri": "docs/03-01-Topics.md"
+    },
+    {
       "type": "divider",
       "title": "🕹 Project Data"
     },
