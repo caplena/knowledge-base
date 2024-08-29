@@ -4,7 +4,7 @@ stoplight-id: 136b79897741e
 
 # Main Concepts
 
-* [Category](#categoriy)
+* [Category](#category)
 * [Topic](#topic)
 * [Topic Sentiment](#topic-sentiment)
 
