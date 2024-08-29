@@ -6,7 +6,7 @@ stoplight-id: 136b79897741e
 
 * [Category](#category)
 * [Topic](#topic)
-* [Topic Sentiment](#sentiment)
+* [Topic Sentiment](#topic-sentiment)
 
 ## Category 
 
@@ -32,7 +32,7 @@ Concise meaning of the topic. This is what's displayed on the topic chips and is
 
 *The label is AI-relevant 🤖*.
 
-### Topic Sentiment
+## Topic Sentiment
 Sentiment refers to whether responses in your project are positive, negative, or neutral. This is often used in projects like NPS studies or any other survey where feedback can range from positive to negative.
 
 For instance, in customer feedback, Caplena might identify topics like "customer service," "product quality," and "pricing." The sentiment analysis then evaluates whether the feedback on each topic is positive, negative, or neutral. This helps you understand not just the overall sentiment but also how each aspect of your product or service is perceived by customers.
