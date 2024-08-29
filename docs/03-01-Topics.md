@@ -37,7 +37,8 @@ A category is a set of topics which are referring to the same overarching theme.
 Concise meaning of the topic. This is what's displayed on the topic chips and is used by our AI to assign topics to texts. A good topic name should be short while still conveying the meaning of the topic in plain text. Examples for topic names are `Staff friendliness` or `Shipping Fees`.
 
 *The label is AI-relevant 🤖*.
-### Topic Sentiment
+
+## Topic Sentiment
 Sentiment refers to whether responses in your project are positive, negative, or neutral. This is often used in projects like NPS studies or any other survey where feedback can range from positive to negative.
 
 For instance, in customer feedback, Caplena might identify topics like "customer service," "product quality," and "pricing." The sentiment analysis then evaluates whether the feedback on each topic is positive, negative, or neutral. This helps you understand not just the overall sentiment but also how each aspect of your product or service is perceived by customers.
