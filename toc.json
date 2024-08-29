@@ -25,7 +25,7 @@
     },
     {
       "type": "divider",
-      "title": "📚 Main Concepts"
+      "title": "📚 Getting Started"
     },
     {
       "type": "item",
@@ -33,37 +33,12 @@
       "uri": "docs/03-00-Data-Structure.md"
     },
     {
-      "type": "item",
-      "title": "Main Concepts",
-      "uri": "docs/03-01-Topics.md"
-    },
-    {
-      "type": "item",
-      "title": "Limits / Warnings",
-      "uri": "docs/03-04-Limits-and-Warnings.md"
-    },
-    {
-      "type": "item",
-      "title": "Credits",
-      "uri": "docs/03-05-Credits.md"
-    },
-    {
-      "type": "item",
-      "title": "Trial & Subscriptions",
-      "uri": "docs/03-06-Subscriptions.md"
-    },
-    {
       "type": "divider",
-      "title": "🕹 Features"
-    },
-    {
-      "type": "item",
-      "title": "Login",
-      "uri": "docs/04-00-Login.md"
+      "title": "🕹 Project Data"
     },
     {
       "type": "group",
-      "title": "Data Import & Export",
+      "title": "Data Import (new Project)",
       "items": [
         {
           "type": "item",
