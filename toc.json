@@ -25,7 +25,7 @@
     },
     {
       "type": "divider",
-      "title": "📚 Concepts"
+      "title": "📚 Main Concepts"
     },
     {
       "type": "item",
@@ -34,7 +34,7 @@
     },
     {
       "type": "item",
-      "title": "Topics",
+      "title": "Main Concepts",
       "uri": "docs/03-01-Topics.md"
     },
     {
