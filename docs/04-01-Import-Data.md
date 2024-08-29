@@ -52,21 +52,6 @@ You can analyze up to 25 open-ended columns in a single project. Toggle the colu
 - Below this, you’ll see the number of credits charged. Credits are our internal currency, and we charge one credit for each row of text in your file.
 
 
-Once you've finished, click on "Continue to Settings" to configure project settings.
-
-![Screenshot 2024-06-26 at 14.29.46.png](<../assets/images/Screenshot 2024-06-26 at 14.29.46.png>)
-
-Here, you can:
-
-- Assign a name to your project.
-- Add tags for easy project sorting in the future.
-- Set the language for your topic collection.
-Below, you'll find advanced settings:
-
-- Enable translations if you wish to translate your verbatims into another language.
-- Enable anonymization to remove personal identifiable information (PII) from all text comments.
-
-
 ### Direct Input
 You can also enter or copy your data directly into the upload window. The lines will be separated by pressing enter. When copying the data directly from Excel or a similar application, the data will be line-separated automatically.
 
