@@ -57,18 +57,18 @@
         },
         {
           "type": "item",
-          "title": "Anonymization Feature",
-          "uri": "docs/04-07-Anonymize-text-comments.md"
+          "title": "Data Manipulations",
+          "uri": "docs/12-Data-Manipulations.md"
         },
         {
           "type": "item",
-          "title": "Export Data",
+          "title": "Project Settings",
+          "uri": "13-Project-Settings.md"
+        },
+        {
+          "type": "item",
+          "title": "Data Export",
           "uri": "docs/04-08-Export.md"
-        },
-        {
-          "type": "item",
-          "title": "Deletion of Data Rows",
-          "uri": "docs/04-10-Delete-Rows.md"
         }
       ]
     },
