@@ -73,12 +73,7 @@
       ]
     },
     {
-      "type": "item",
-      "title": "Languages & Translations",
-      "uri": "docs/09-01-Languages.md"
-    },
-    {
-      "type": "item",
+      "type": "divider",
       "title": "Start Analysis / Topic Generation",
       "uri": "docs/11-Start-the-Analysis.md"
     },
