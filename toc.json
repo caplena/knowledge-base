@@ -47,7 +47,7 @@
       "items": [
         {
           "type": "item",
-          "title": "Data Import",
+          "title": "Import options ",
           "uri": "docs/04-01-Import-Data.md"
         },
         {
@@ -74,7 +74,7 @@
     },
     {
       "type": "divider",
-      "title": "Start Analysis / Topic Generation",
+      "title": "Topic Assignment ",
       "uri": "docs/11-Start-the-Analysis.md"
     },
     {
