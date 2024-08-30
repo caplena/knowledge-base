@@ -41,13 +41,9 @@
       "type": "divider",
       "title": "🕹 Project Data"
     },
-    {
-      "type": "group",
-      "title": "Data Import (new Project)",
-      "items": [
-        {
+  {
           "type": "item",
-          "title": "Import options ",
+          "title": "Data Import (new Project) ",
           "uri": "docs/04-01-Import-Data.md"
         },
         {
