@@ -37,25 +37,24 @@
       "title": "Main Concepts",
       "uri": "docs/03-01-Topics.md"
     },
-  {
-          "type": "item",
-          "title": "Data Import (new Project) ",
-          "uri": "docs/04-01-Import-Data.md"
-        },
-       {
-          "type": "item",
-          "title": "Data Manipulations",
-          "uri": "docs/12-Data-Manipulations.md"
-        },
-        {
-          "type": "item",
-          "title": "Project Settings",
-          "uri": "docs/13-Project-Settings.md"
-        },
+    {
+      "type": "item",
+      "title": "Data Import (new Project)",
+      "uri": "docs/04-01-Import-Data.md"
+    },
+    {
+      "type": "item",
+      "title": "Data Manipulations",
+      "uri": "docs/12-Data-Manipulations.md"
+    },
+    {
+      "type": "item",
+      "title": "Project Settings",
+      "uri": "docs/13-Project-Settings.md"
+    },
     {
       "type": "divider",
-      "title": "Topic Assignment ",
-      "uri": "docs/11-Start-the-Analysis.md"
+      "title": "Topic Assignment"
     },
     {
       "type": "group",
@@ -73,7 +72,7 @@
         }
       ]
     },
-        {
+    {
       "type": "group",
       "title": "Visualization: Charts and Dashboards",
       "items": [
@@ -101,13 +100,14 @@
           "type": "item",
           "title": "ChatGPT-based Summary",
           "uri": "docs/07-05-ChatGPT-Summary-Feature.md"
-        },
-      
-       {
-          "type": "item",
-          "title": "Integrations in Detail",
-          "uri": "docs/04-09-Integrations-in-Detail.md"
-        },
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Integrations in Detail",
+      "uri": "docs/04-09-Integrations-in-Detail.md"
+    },
     {
       "type": "item",
       "title": "Users & Team Management",
