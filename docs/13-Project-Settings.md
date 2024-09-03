@@ -18,6 +18,18 @@ Below, you'll find advanced settings:
 - Enable translations if you wish to translate your verbatims into another language.
 - Enable anonymization to remove personal identifiable information (PII) from all text comments.
 
+## Main Language
+
+Main languageis the language in which you create your topic collection. You can choose from the supported languages in the list.
+![Screenshot 2024-09-03 at 10.38.33.png](<../assets/images/Screenshot 2024-09-03 at 10.38.33.png>)
+
+
+ Caplena supports multilingual topic collections, so your topics can be in any language, and they don't have to match the language of the answers. However, for optimal performance, it's recommended that your topics are in the same language as the majority of the answers in your project. For example, if most answers are in English, the topics should also be in English.
+
+If your data spans multiple projects, it's best to use the same language for topics across these projects. When translations are enabled, it's advisable to write the topics in the language into which the responses have been translated (e.g., English or German). This approach ensures optimal results and improves the service.
+
+Finally, the language you choose as the main topic language will also be used for chart labels.
+
 ## Anonymize Text Comments
 
 Caplena can automatically remove the following personal identifiable information (PII) from all text comments:
@@ -111,25 +123,25 @@ Texts in other languages will be not or only partially anonymized. We'll add mor
 
 
 ## Auto-Translation
-You can enable [automatic translation](#auto-translation-in-detail) with the click of a button. Through that functionality, the application will work on practically any language.
-
-## Topic Collection Language
-
-Caplena is inherently multilingual and it can work with topic collections in any language and the topics do not necessarily have to be in the same language as the answers.
-
-However, for performance reasons we strongly recommend to create your topics in the same language as most of the answers in your project. If most answers are in English, the topics should be in English too. If your data spans across multiple projects, we also recommend using the same language as most of the answers.
-
-When translations are enabled, we suggest writing the topics in the language the responses were translated to (either English or German etc.). This ensures optimal results and helps us to improve the service.
-
-The language selected as main topic language will also be the language shown as labels when creating charts.
-
-## Auto-Translation in Detail
-
-### Enable Auto-Translation
-
-In the project setting switch on the toggle to enable the translations of your text. You can chose between DeepL and Google Translate.
+You can enable [automatic translation](#auto-translation-in-detail) with the click of a button. Through that functionality, the application will work on practically any language. In the project setting switch on the toggle to enable the translations of your text. You can chose between DeepL and Google Translate.
 
 ![Bildschirmfoto 2024-03-11 um 16.41.45.png](<../assets/images/Bildschirmfoto 2024-03-11 um 16.41.45.png>)
+
+### When to use it?
+
+We strongly recommend turning on automatic translations in the following cases:
+
+1. You have a multilingual text to analyze with different languages in the same dataset (e.g. the topic collection will be in English but the texts are in Chinese, English, German, etc.);
+2. Your text to analyze is in a language that is not supported by Caplena (see [supported languages](https://caplena.com/en/supported-languages/));
+3. You need your topic collection to be in a different language than the text to analyze;
+4. You don't speak the language the texts to analyze are in and thus require translations 🙂.
+
+
+## Supported Languages
+
+Caplena supports a range of languages out of the box, check out [this list](https://caplena.com/en/supported-languages/) for details.
+
+Caplena works best on languages for which we have a lot of data, specifically Western European languages. This doesn't mean other languages won't work at all, but such datasets might need a bit more manual fine-tuning from your side.
 
 
 ### Main Language
@@ -148,20 +160,50 @@ You can also have empty cells in your source language columns, for these rows we
 
 Fees for automatic translation services are already included in your subscription and your Ad-Hoc credits, no additional charges incur for translations.
 
-### When to use it?
-
-We strongly recommend turning on automatic translations in the following cases:
-
-1. You have a multilingual text to analyze with different languages in the same dataset (e.g. the topic collection will be in English but the texts are in Chinese, English, German, etc.);
-2. Your text to analyze is in a language that is not supported by Caplena (see [supported languages](https://caplena.com/en/supported-languages/));
-3. You need your topic collection to be in a different language than the text to analyze;
-4. You don't speak the language the texts to analyze are in and thus require translations 🙂.
 
 ### Google Translate & DeepL
 
 DeepL is a newish player with very good translation quality, however only a limited set of languages is supported (click on "Supported languages" during the upload process to learn more). Anecdotally, we've found DeepL to yield a bit better results.
 
 If you choose DeepL we will use DeepL for supported languages and fallback to Google Translated for the languages that are only supported by Google Translate. For a list of supported languages, see below.
+
+Language | Google-Translate | DeepL
+---------|----------|---------
+ Bulgarian  | ✓ | ✓
+ Chinese (Simplified)  | ✓ | ✓
+ Chinese (Traditional)  | ✓ | 
+ Czech  | ✓ | ✓
+ Danish  | ✓ | ✓
+ Dutch  | ✓ | ✓
+ English | ✓ | ✓
+ Estonian  | ✓ | ✓
+ Finnish  | ✓ | ✓
+ French  | ✓ | ✓
+ German  | ✓ | ✓
+ Greek  | ✓ | ✓
+ Hungarian  | ✓ | ✓
+ Indionesean  | ✓ | ✓
+ Italian  | ✓ | ✓
+ Japanese  | ✓ | ✓
+ Latvian  | ✓ | ✓
+ Lithuanian  | ✓ | ✓
+ Polish  | ✓ | ✓
+ Portuguese  | ✓ | ✓
+ Romanian  | ✓ | ✓
+ Russian  | ✓ | ✓
+ Slovak  | ✓ | ✓
+ Slovenian  | ✓ | ✓
+ Spanish  | ✓ | ✓
+ Swedish  | ✓ | ✓
+ Turksih  | ✓ | ✓
+ Afrikaans  | ✓ | 
+ Albanian  | ✓ | 
+ Arabic  | ✓ | 
+ Malay  | ✓ | 
+ Punjabi  | ✓ | 
+ Thai  | ✓ | 
+ Vietnamese  | ✓ |
+ ...more  |[Google Language Support](https://cloud.google.com/translate/docs/languages) | 
 
 
 ### Source Language
@@ -193,13 +235,7 @@ When exporting the data, translations will be included by default. Using the "Ad
 
 ![Bildschirmfoto 2022-06-02 um 11.16.48.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/fpyzxNInwko)
 
-## Supported Languages
 
-
-
-Caplena supports a range of languages out of the box, check out [this list](https://caplena.com/en/supported-languages/) for details.
-
-Caplena works best on languages for which we have a lot of data, specifically Western European languages. This doesn't mean other languages won't work at all, but such datasets might need a bit more manual fine-tuning from your side.
 
 Language | Google-Translate | DeepL
 ---------|----------|---------
