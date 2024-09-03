@@ -27,6 +27,14 @@ The first row of the data file will be treated as the column header or title. In
 
 ![Screenshot 2024-06-26 at 13.11.44.png](<../assets/images/Screenshot 2024-06-26 at 13.11.44.png>)
 
+**What does the highlighted column represent in the screenshot?**
+
+The column highlighted in green, labeled "Reason for Rating," is the text column designated for AI analysis. This is where Caplena will perform its text analysis.
+
+**What about the other columns?**
+
+The other columns in the screenshot are additional columns. These can be uploaded alongside the text column and used for segmentation and filtering in your analysis, but they are not analyzed by AI. You won´t be billed for them.
+
 
 
 #### Organize your data
