@@ -20,15 +20,18 @@ Below, you'll find advanced settings:
 
 ## Main Language
 
-Main languageis the language in which you create your topic collection. You can choose from the supported languages in the list.
+Main language is the language in which you create your topic collection. You can choose from the supported languages in the list.
+
 ![Screenshot 2024-09-03 at 10.38.33.png](<../assets/images/Screenshot 2024-09-03 at 10.38.33.png>)
 
 
- Caplena supports multilingual topic collections, so your topics can be in any language, and they don't have to match the language of the answers. However, for optimal performance, it's recommended that your topics are in the same language as the majority of the answers in your project. For example, if most answers are in English, the topics should also be in English.
+ - Caplena supports multilingual topic collections, so your topics can be in any language, and they don't have to match the language of the answers.
+ 
+  - However, for optimal performance, it's recommended that your topics are in the same language as the majority of the answers in your project. For example, if most answers are in English, the topics should also be in English.
 
-If your data spans multiple projects, it's best to use the same language for topics across these projects. When translations are enabled, it's advisable to write the topics in the language into which the responses have been translated (e.g., English or German). This approach ensures optimal results and improves the service.
+- If your data spans multiple projects, it's best to use the same language for topics across these projects. When translations are enabled, it's advisable to write the topics in the language into which the responses have been translated (e.g., English or German). This approach ensures optimal results and improves the service.
 
-Finally, the language you choose as the main topic language will also be used for chart labels.
+- Finally, the language you choose as the main topic language will also be used for chart labels.
 
 ## Anonymize Text Comments
 
