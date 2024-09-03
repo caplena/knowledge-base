@@ -130,6 +130,8 @@ You can enable [automatic translation](#auto-translation-in-detail) with the cli
 
 ![Bildschirmfoto 2024-03-11 um 16.41.45.png](<../assets/images/Bildschirmfoto 2024-03-11 um 16.41.45.png>)
 
+Text to analyze will be translated into the main language selected during upload. We strongly recommend to set this to the same language you'll create your topic collection in.
+
 ### When to use it?
 
 We strongly recommend turning on automatic translations in the following cases:
@@ -139,7 +141,6 @@ We strongly recommend turning on automatic translations in the following cases:
 3. You need your topic collection to be in a different language than the text to analyze;
 4. You don't speak the language the texts to analyze are in and thus require translations 🙂.
 
-
 ## Supported Languages
 
 Caplena supports a range of languages out of the box, check out [this list](https://caplena.com/en/supported-languages/) for details.
@@ -147,17 +148,6 @@ Caplena supports a range of languages out of the box, check out [this list](http
 Caplena works best on languages for which we have a lot of data, specifically Western European languages. This doesn't mean other languages won't work at all, but such datasets might need a bit more manual fine-tuning from your side.
 
 
-### Main Language
-
-Text to analyze will be translated into the main language selected during upload. We strongly recommend to set this to the same language you'll create your topic collection in.
-
-### Language Determination
-
-By default, the source language is detected automatically for every answer. The text will be translated only if it is not already in the main language. If you already know the source language of your responses you can supply this information in the upload by adding a column with [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO\_639-1\_codes). We will recognise such columns automatically during upload and utilise the supplied source language instead of the automatic detection.
-
-![Screenshot 2021-06-02 at 10.02.52.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/WurMrFuExtU)
-
-You can also have empty cells in your source language columns, for these rows we will then apply the automatic detection.
 
 ### Does it cost anything?
 
@@ -209,9 +199,14 @@ Language | Google-Translate | DeepL
  ...more  |[Google Language Support](https://cloud.google.com/translate/docs/languages) | 
 
 
-### Source Language
+### Language Determination
 
-The source language can be determined and specified during data upload, see [here](#language-determination) for information on how to upload with source language and its implications. You can of course also supply the source language when uploading via API by populating the `source_language` attribute of your answers.
+By default, the source language is detected automatically for every answer. The text will be translated only if it is not already in the main language. If you already know the source language of your responses you can supply this information in the upload by adding a column with [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO\_639-1\_codes). We will recognise such columns automatically during upload and utilise the supplied source language instead of the automatic detection.
+
+![Screenshot 2021-06-02 at 10.02.52.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/WurMrFuExtU)
+
+You can also have empty cells in your source language columns, for these rows we will then apply the automatic detection.
+
 
 ### Visibility of Translations
 
@@ -240,40 +235,3 @@ When exporting the data, translations will be included by default. Using the "Ad
 
 
 
-Language | Google-Translate | DeepL
----------|----------|---------
- Bulgarian  | ✓ | ✓
- Chinese (Simplified)  | ✓ | ✓
- Chinese (Traditional)  | ✓ | 
- Czech  | ✓ | ✓
- Danish  | ✓ | ✓
- Dutch  | ✓ | ✓
- English | ✓ | ✓
- Estonian  | ✓ | ✓
- Finnish  | ✓ | ✓
- French  | ✓ | ✓
- German  | ✓ | ✓
- Greek  | ✓ | ✓
- Hungarian  | ✓ | ✓
- Indionesean  | ✓ | ✓
- Italian  | ✓ | ✓
- Japanese  | ✓ | ✓
- Latvian  | ✓ | ✓
- Lithuanian  | ✓ | ✓
- Polish  | ✓ | ✓
- Portuguese  | ✓ | ✓
- Romanian  | ✓ | ✓
- Russian  | ✓ | ✓
- Slovak  | ✓ | ✓
- Slovenian  | ✓ | ✓
- Spanish  | ✓ | ✓
- Swedish  | ✓ | ✓
- Turksih  | ✓ | ✓
- Afrikaans  | ✓ | 
- Albanian  | ✓ | 
- Arabic  | ✓ | 
- Malay  | ✓ | 
- Punjabi  | ✓ | 
- Thai  | ✓ | 
- Vietnamese  | ✓ |
- ...more  |[Google Language Support](https://cloud.google.com/translate/docs/languages) | 
