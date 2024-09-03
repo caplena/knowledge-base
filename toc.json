@@ -27,12 +27,7 @@
       "type": "divider",
       "title": "📚 Setting up a new project"
     },
-    
-    {
-      "type": "item",
-      "title": "Main Concepts",
-      "uri": "docs/03-01-Topics.md"
-    },
+  
     {
       "type": "item",
       "title": "Data Import (new Project)",
@@ -51,6 +46,11 @@
     {
       "type": "divider",
       "title": "Topic Assignment"
+    },
+    {
+      "type": "item",
+      "title": "Main Concepts",
+      "uri": "docs/03-01-Topics.md"
     },
     {
       "type": "group",
