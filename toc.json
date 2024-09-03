@@ -27,11 +27,7 @@
       "type": "divider",
       "title": "📚 Setting up a new project"
     },
-    {
-      "type": "item",
-      "title": "Data Structure",
-      "uri": "docs/03-00-Data-Structure.md"
-    },
+    
     {
       "type": "item",
       "title": "Main Concepts",
