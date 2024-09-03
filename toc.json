@@ -56,6 +56,12 @@
       "type": "group",
       "title": "Topic Assignments",
       "items": [
+{
+          "type": "item",
+          "title": "Start Analysis",
+          "uri": "docs/11-Start-the-Analysis.md"
+        },
+
         {
           "type": "item",
           "title": "Fine Tuning View",
