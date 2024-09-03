@@ -27,7 +27,6 @@
       "type": "divider",
       "title": "📚 Setting up a new project"
     },
-  
     {
       "type": "item",
       "title": "Data Import (new Project)",
@@ -53,26 +52,19 @@
       "uri": "docs/03-01-Topics.md"
     },
     {
-      "type": "group",
-      "title": "Topic Assignments",
-      "items": [
-{
-          "type": "item",
-          "title": "Start Analysis",
-          "uri": "docs/11-Start-the-Analysis.md"
-        },
-
-        {
-          "type": "item",
-          "title": "Fine Tuning View",
-          "uri": "docs/06-01-Fine-tuning-view.md"
-        },
-        {
-          "type": "item",
-          "title": "AI Topic Assignments",
-          "uri": "docs/06-02-AI-assignments.md"
-        }
-      ]
+      "type": "item",
+      "title": "Start Analysis",
+      "uri": "docs/11-Start-the-Analysis.md"
+    },
+    {
+      "type": "item",
+      "title": "Fine Tuning View",
+      "uri": "docs/06-01-Fine-tuning-view.md"
+    },
+    {
+      "type": "item",
+      "title": "AI Topic Assignments",
+      "uri": "docs/06-02-AI-assignments.md"
     },
     {
       "type": "group",
@@ -106,10 +98,10 @@
       ]
     },
     {
-          "type": "item",
-          "title": "Data Export",
-          "uri": "docs/04-08-Export.md"
-        },
+      "type": "item",
+      "title": "Data Export",
+      "uri": "docs/04-08-Export.md"
+    },
     {
       "type": "item",
       "title": "Integrations in Detail",
@@ -136,3 +128,4 @@
     }
   ]
 }
+
