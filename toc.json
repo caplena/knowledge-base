@@ -58,13 +58,19 @@
     },
     {
       "type": "item",
-      "title": "Fine Tuning View",
-      "uri": "docs/06-01-Fine-tuning-view.md"
+      "title": "Semi-Open vs Fully Open",
+      "uri": "docs/03-02-Open-Text-vs-Lists.md"
     },
     {
-      "type": "item",
-      "title": "AI Topic Assignments",
-      "uri": "docs/06-02-AI-assignments.md"
+      "type": "group",
+      "title": "Fine Tuning View",
+      "items": [
+        {
+          "type": "item",
+          "title": "AI Topic Assignments",
+          "uri": "docs/06-02-AI-assignments.md"
+        }
+      ]
     },
     {
       "type": "group",
@@ -128,4 +134,3 @@
     }
   ]
 }
-
