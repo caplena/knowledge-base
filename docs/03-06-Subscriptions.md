@@ -48,7 +48,7 @@ Your invoice will always be issued **at the beginning of your subscription cycle
 
 In Caplena's world, **credits are your currency** to use Caplena's services. Check out our [article on credits](03-05-Credits.md) to see how they work.
 
-Each text comment (or cell) in your Excel file costs one credit. Only the columns you choose for text analysis during the upload will use credits. You can include as many oadditional columns as you like, such as numerical data, segments, or demographic info, without extra charges. 
+Each text comment (or cell) in your Excel file costs one credit. Only the columns you choose for text analysis during the upload will use credits. You can include as many additional columns as you like, such as numerical data, segments, or demographic info, without extra charges. 
 
 Our subscriptions come with different levels of credits. Our sales team will be happy to discuss what the right option is for you.
 
