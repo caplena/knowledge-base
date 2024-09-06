@@ -20,6 +20,8 @@ The Topic Assignment view is designed to adjust the AI to better meet your speci
 - Apply filters to focus on specific data segments
 - Export the data for further analysis or reporting
 
+Below, you’ll find some information on how to perform reviews.
+
 ### Reviwing a Row
 The purpose of fine-tuning is to guide the AI in the right direction by providing it with additional training data. This is done through a process called **reviewing**, where you either confirm the AI's topic assignments or adjust them to better align with your expectations for a few rows. Below, you'll find a video that demonstrates how the process works.
 
@@ -71,7 +73,10 @@ Here the text to analyze is displayed, alongside the assigned topics.
 
 #### 1. Text
 
-If translations have been activated for this project and set to be shown in the [view options](#view-options) (enabled by default, if project is translated), the translated text is shown here. To toggle to the source language version, click the *See original* button (element 9 in screenshot above).
+If translations have been activated for this project and set to be shown in the [view options](#view-options) (enabled by default, if project is translated), the translated text is shown here. To toggle to the source language version, click the *See original* button: 
+
+![Screenshot 2024-09-06 at 17.48.25.png](<../assets/images/Screenshot 2024-09-06 at 17.48.25.png>)
+
 
 See [here](09-01-Languages.md) for more information on how translations work.
 
