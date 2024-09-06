@@ -22,7 +22,7 @@ The Topic Assignment view is designed to adjust the AI to better meet your speci
 
 Below, you’ll find some information on how to perform reviews.
 
-### Reviwing a Row
+### Reviwing a Row (Fine-Tuning)
 The purpose of fine-tuning is to guide the AI in the right direction by providing it with additional training data. This is done through a process called **reviewing**, where you either confirm the AI's topic assignments or adjust them to better align with your expectations for a few rows. Below, you'll find a video that demonstrates how the process works.
 
 https://youtu.be/OyQjsKhHZAs
@@ -55,15 +55,6 @@ Please watch this quick walkthrough of the Topic Assignment View: https://www.lo
 
 You can also find the information about the Topic Assignment View below:
 
-![Data view](images/fine-tuning-view.png)
-1. [Rows](#rows)
-2. [Filters](#filters)
-3. [View Options](#view-options)
-4. [Export](#export)
-5. [Topic Editor](#topic-editor)
-6. [AI Score](#ai-score)
-7. [Result Chart](#result-chart)
-8. [Statistics](#statistics)
 
 ### Rows
 
@@ -82,17 +73,22 @@ See [here](09-01-Languages.md) for more information on how translations work.
 
 #### 2. Assigned Topics
 
-Here you see which topics have been assigned to the row. In this example we have the topics:
-* `Rates` with a positive sentiment, belonging to the category `PRICING`
-* `Unlimited Date` without sentiment, belonging to the category `PLAN`
+Here you see which topics have been assigned to the row.
+
+![Screenshot 2024-09-06 at 21.19.37.png](<../assets/images/Screenshot 2024-09-06 at 21.19.37.png>)
+
+ In this example we have the topics:
+* `Price` with positive sentiment, belonging to the category `PRICE`
+* `Overall quality` with positive sentiment, belonging to the category `QUALITY`
 
 Topics are auto-assigned by the AI (see [this article](06-02-AI-assignments.md) on how AI updates work) or can be manually changed by clicking on the row.
 
 #### 3. Other Columns
 
-Other columns of your project can be displayed alongside the text. Click the cogwheel icon or open the [view options](#view-options) to choose which columns to display.
+Other columns of your project can be displayed alongside the text. Click the cogwheel icon to choose which columns to display.
 
-![Screenshot 2024-09-06 at 17.52.34.png](<../assets/images/Screenshot 2024-09-06 at 17.52.34.png>)
+![Screenshot 2024-09-06 at 21.24.39.png](<../assets/images/Screenshot 2024-09-06 at 21.24.39.png>)
+
 
 
 #### 4. Overall Sentiment
@@ -117,23 +113,29 @@ else return 'neutral'
 
 The checkbox indicates this row has been set as reviewed. Reviewed rows are not modified by the AI anymore but are used as training data for the AI when fine-tuning. When analyzing, visualizing or exporting the data, it is not relevant if a row has been reviewed or not.
 
-![Screenshot 2024-09-06 at 17.56.46.png](<../assets/images/Screenshot 2024-09-06 at 17.56.46.png>)
+![Screenshot 2024-09-06 at 21.31.59.png](<../assets/images/Screenshot 2024-09-06 at 21.31.59.png>)
+
 
 
 #### 6. Row Number
 
 This is the index of the row in the project you uploaded / imported into Caplena.
 
+![Screenshot 2024-09-06 at 21.34.35.png](<../assets/images/Screenshot 2024-09-06 at 21.34.35.png>)
+
+
 #### 7. Bulk Select Checkbox
 
-To edit the topics of multiple rows at once, click this checkbox or hold shift and select multiple rows. See also [here](#bulk-assignment).
+To edit the topics of multiple rows at once, click this checkbox or hold shift and select multiple rows. See also [here](#bulk-assignment). To select all rows that match a certain condition, filter for those rows first and then click the Select all rows link on the top right of the row browser.
+
+![Screenshot 2024-09-06 at 21.40.58.png](<../assets/images/Screenshot 2024-09-06 at 21.40.58.png>)
+
 
 #### 8. Duplicates
 
 If this icon is shown, it means the text of this row is identical to one or more other rows. The number besides the icon indicates how many exact duplicates are present in the project. The duplicates are based on the translated text if translations are enabled.
 
-![Screenshot 2024-09-06 at 17.59.43.png](<../assets/images/Screenshot 2024-09-06 at 17.59.43.png>)
-
+![Screenshot 2024-09-06 at 21.46.54.png](<../assets/images/Screenshot 2024-09-06 at 21.46.54.png>)
 
 By default, duplicates are assigned the same topics and are also marked as *reviewed*, when you review one of them. To disable this behavior, adjust the duplicates grouping setting in the [view options](#view-options).
 
