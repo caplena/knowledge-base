@@ -39,8 +39,3 @@ By default we do not count empty rows towards your credits. If you have addition
 ## Tracking Credit Usage
 
 You can track your credit usage on your [account page](https://caplena.com/app/account) (you need to be logged in to view this).
-
-## Credits in Organizations
-
-If you are part of an organization, the root user of your organization is the one that will be billed for the credits that you use.
-
