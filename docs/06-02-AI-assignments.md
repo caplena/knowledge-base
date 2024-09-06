@@ -2,6 +2,81 @@
 stoplight-id: aee4d8f8e8d2f
 ---
 
+
+### When is the AI fine-tuned enough?
+
+You can decide when you are satisfied with fine-tuning. We recommend using a combination of a qualitative check and consulting the AI score to make this decision.
+
+<!-- theme: info -->
+> As a rule of thumb, we often recommend to review about 20% of the rows but not more than 300, whichever is lower.
+
+### AI Score
+
+The AI score indicates how indicates **how confident the AI is in its topic assignments.**
+
+#### What is a good score?
+
+The theoretical maximum score is 100, but this is never reached. A few benchmarks:
+
+* We had the same person (a coding professional) manually assign topics to all rows of a project **twice**. She achieved an overlap of the two iterations of around 90.
+* When two different people manually assign topics to the same survey, they usually achieve an overlap score in the 70s to 80s, but sometimes it drops even to 60 when there are overlapping topics or ambiguity in the rows.
+* When aiming for *"human-level"* performance, it makes sense to aim at a score in the 70s. However, for many applications (such as getting a reliable distribution), a lower score is already sufficient – given there are enough samples.
+* A naive model that just randomly guesses, achieves an AI score of around 4 or 5, **not 50**. 
+
+#### Why is there no score for some topics?
+
+If a topic appears only in very few samples, we might not be able to compute a score for this topic. It could also mean the AI didn't understand the topic at all, although this is not very common.
+
+#### Why don't you state the accuracy measure?
+
+For text classification, accuracy is often not a very good measure. If datasets are unbalanced, which is almost always the case when assigning topics to texts (topics usually are *not present* at a much higher rate than *being* present), the accuracy would almost always be ridiculously high (above 98%), but not meaningful.
+
+#### How do you measure the score?
+
+Under the hood, the model does not only assign topics to the rows, but it also forcast a certainty measure for those predictions. We can estimate the AI score starting from such certainty measures.
+
+Technically speaking the score represents the weighted F1 over all topics.
+
+
+#### How do I get to a higher score?
+
+Before focusing purely on the score, be sure to also check the topic assignments for a few rows qualitatively. Sometimes even a low numeric score can still lead to qualitatively good results. To improve the score, there are a few strategies:
+
+* **Streamline your topic collection:** A very large number of topics is more difficult to assign than when having fewer. As humans would, the AI will also make more mistakes distinguishing between similar / not well differentiated topics.
+* **Optimize topic labels:** The AI takes the topic & category labels into account. Therefore, make sure the topic labels are meaningful and not too abstract.
+* **Review more rows:** The more examples the AI has to learn from, the better it will become. If you have "historical" data which already has topics assigned but is not uploaded to Caplena yet, contact [support](support@caplena.com) to help you ingest that into your account.
+
+For enterprise customers we are also happy to have one of our language specialists look into your data, just contact [support](support@caplena.com).
+
+#### How is the first score calculated and how can it be calculated without any involvement of a human?
+
+The AI score is an estimate of the model performance on a text to analyze column. To be precise we want to estimate the F1 score. 
+
+To compute the F1 score exactly one would need to have a “ground truth” to which compare the AI prediction. However, this would make the AI prediction useless. Thus the challenge is to make an estimate of the model accuracy without looking at labels.
+
+To make such estimate we exploit the fact that, under the hood, our AI does not output a binary prediction, but rather a certainty measure. Experiments on our data suggest that our model is well [calibrated](https://en.wikipedia.org/wiki/Probabilistic_classification#Probability_calibration), guaranteeing that among all of those predictions where the model has a confidence of `c` roughly the ratio of them which will be picked by a person is `c`. 
+
+A well calibrated model allows to compute the expected value of the number of true positive, false positives and false negatives. Thus allowing us to estimate the weighted F1 score. A more detailed description of the algorithm is at the end of this document.
+
+#### How can one trust that this is correct?
+
+It is impossible to have a guarantee that the F1 score is accurate. People could have a specific way of assigning topics that does not match the confidence of the model. Or the data itself might be so unusual (out of distribution) that the model appears confident even if it is wrong, since it has never seen similar data during the training. However, experiments with data from all our customers show that our prediction is usually spot-on. The cases where we overestimate the AI score by more than 10 points (critical error) are rare; less than 1%.
+
+#### Why and how does reviewing the categorizations lead to changes to the AI Score? 
+
+There are two reasons:
+
+* We consider reviewed rows of text as being correct. For instance, if all rows would be reviewed, you would achieve an AI score of 100. However, if only 1% of the rows are reviewed this would not be very impactful.
+* Through the human reviews the model will be fine-tuned, and predictions will run on this basis, yielding a different, ideally a better and better, AI score. This is particularly the case when the reviews are done correctly and consistently. The model will understand the context better and better, resulting in a higher confidence level in its predictions, thus yielding higher AI score.
+
+#### Why don’t we use the human reviews to compute AI score?
+
+This is what we were doing in the past. While this seems to be the most natural thing to do, there are some important drawbacks.
+* After reviewing we fine-tune the model on the reviewed data. Thus, we would of course see a very high alignment between the humanly reviewed data and the fine-tuned AI data. However, this would not be representative of the real performance. To address this bias, we would need to split the reviewed data in training and validation. However, if the validation set is large, we are wasting a lot of data for training, but if it was too small a set, we would get an imprecise AI score.
+* In “focus mode” you are specifically reviewing rows that are most challenging for the AI. Therefore, after reviewing we will not have a representative sample of the full dataset. In the past we would address this issue making a regression to estimate the F1 score also in the not reviewed rows. Experiments show that our new approach is superior and more precise. Furthermore, this needed a large number of rows to be reviewed to give a first estimate of the AI score, even though, in most instances, it was not needed.
+
+
+
 # AI Topic Assignments
 
 ![Topic Assignments](images/ai-topic-assignments.png)
