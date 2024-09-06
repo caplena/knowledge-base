@@ -58,16 +58,6 @@ Azure OpenAI Service (by Microsoft) is our provider for access to OpenAI’s lan
 
 *Legal Address: Microsoft Corporation, 925 Fourth Avenue, Suite 2900, Seattle, Washington 98104, US*
 
-### Segment
-
-Customer data platform, which we use to route specific pieces of information to the other mentioned subprocessors.
-
-* **Has access to:** Your name, email address, metadata on which pages you have visited and actions you have performed on the platform.
-* **Does not have access to:** Any of the data you process on Caplena.
-
-*Data Processing Location:* Ireland / EU
-
-*Legal Address:* Twilio Germany GmbH, Rosenheimer Str. 143C, 81671 München
 
 ### Customer.io
 
@@ -112,15 +102,6 @@ We use PostHog as our product analytics platform.
 
 *Legal Address:* PostHog Inc, 2261 Market Street #4008, San Francisco, CA 94114
 
-### Logrocket
-
-Enables us to find bugs and support users.
-
-* **Has access to:** Your detailed app usage on Caplena. Metadata about your projects are sent in case you've visited the respective pages, specifically name of projects, questions, charts and dashboards as well as the topics in your projects.
-* **Does not have access to:** Your name, email or the data you upload & process (except for topics).
-
-<!-- theme: info -->
-> You can opt-out from being tracked by logrocket in your account page.
 
 ### Close
 
