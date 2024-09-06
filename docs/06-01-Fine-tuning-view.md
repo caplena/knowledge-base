@@ -51,7 +51,7 @@ This mode does a couple of things:
 
 Please watch this quick walkthrough of the Topic Assignment View: https://www.loom.com/share/c5d42ccac2884111803d7c4946af4465?sid=a0720402-78ed-48e7-bc58-2e248a92e608
 
-You can also find the information about the topic assignment view below:
+You can also find the information about the Topic Assignment View below:
 
 ![Data view](images/fine-tuning-view.png)
 1. [Rows](#rows)
