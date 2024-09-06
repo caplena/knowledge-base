@@ -2,11 +2,37 @@
 stoplight-id: b2f8d57b8eb95
 ---
 
-# Fine-Tuning View
 
-As the name suggests fine-tune the AI towards your specific needs, by reviewing a small portion of your data. The view also allows **modifying topics, filtering and exporting the data**.
+# Fine-Tuning 
 
-* [Fine-Tuning](#fine-tuning)
+* [Fine-Tuning View](#fine-tuning)
+* [Reviewing a Row](#reviewing-a-row)
+* [Focus Mode](#focus-mode)
+
+
+The Fine-Tuning View is designed to adjust the AI to better meet your specific needs. By reviewing a small portion of your data, you can refine how the AI interprets and categorizes information. This view also allows you to:
+
+- Modify topics as needed
+- Apply filters to focus on specific data segments
+- Export the data for further analysis or reporting
+
+In the middle of the screen, you'll see individual responses, while on the right-hand side, you'll find your topic collection
+
+![Screenshot 2024-09-06 at 13.56.48.png](<../assets/images/Screenshot 2024-09-06 at 13.56.48.png>)
+
+Please watch this quick walkthrough of the fine-tuning view: https://www.loom.com/share/c5d42ccac2884111803d7c4946af4465?sid=a0720402-78ed-48e7-bc58-2e248a92e608
+
+### Reviwing a Row
+The purpose of fine-tuning is to guide the AI in the right direction by providing it with additional training data. This is done through a process called **reviewing**, where you either confirm the AI's topic assignments or adjust them to better align with your expectations for a few rows. Below, you'll find a video that demonstrates how the process works.
+
+https://youtu.be/OyQjsKhHZAs
+
+<!-- theme: success -->
+
+> The recommended way to go about this is by using the **Focus Mode 🤓**. Alternatively you can also click on a specific row you want to edit, which will open the sidebar.
+
+
+* [Fine-Tuning View](#fine-tuning)
   * [Reviewing a Row](#reviewing-a-row)
   * [Focus Mode](#focus-mode)
   * [Bulk Assignment](#bulk-assignment)
@@ -24,17 +50,6 @@ As the name suggests fine-tune the AI towards your specific needs, by reviewing 
   * [Statistics & Number of Rows](#statistics-number-of-rows)
 
 
-## Fine-Tuning
-
-The purpose of fine-tuning is to nudge the AI into the right direction, by providing some additional **training data.** This process is called **reviewing** and achieved by either confirming the AIs topic assignments or changing them to match your expectations for a couple of rows.
-
-https://youtu.be/OyQjsKhHZAs
-
-<!-- theme: success -->
-
-> The recommended way to go about this is by using the **Focus Mode 🤓**. Alternatively you can also click on a specific row you want to edit, which will open the sidebar.
-
-See [this article](06-02-AI-assignments.md) to learn more about how the AI assigns topics.
 
 ### Focus Mode
 
@@ -47,20 +62,7 @@ This mode does a couple of things:
 * Only non-reviewed rows will be shown, as you do not want to look at already reviewed rows again.
 * Any potential distractions are hidden, so you can fully focus on the content of the text.
 
-### Reviewing a Row
 
-![Assigning Topics](images/assign-topics-sidebar.png)
-
-In the focus mode or the sidebar you can perform these actions:
-* **Adding topics** from the topic select list. For sentiment topics a specific sentiment must be chosen.
-* **Removing topics** from the already applied topics by clicking their remove icon.
-* **Rearranging topics** by dragging them into the desired order.
-* **Changing the topic sentiment** of already applied topics by clicking their sentiment indicator.
-
-A row is automatically marked as *reviewed* when you change anything on the topics. 
-To mark a row as reviewed without making a change, either press `cmd + enter` (Mac) / `ctrl + enter` (Windows) or click the *Mark as reviewed & next* button.
-
-![Marking as reviewed](images/mark-as-reviewed.png)
 
 <!-- theme: info -->
 
