@@ -92,6 +92,9 @@ Topics are auto-assigned by the AI (see [this article](06-02-AI-assignments.md) 
 
 Other columns of your project can be displayed alongside the text. Click the cogwheel icon or open the [view options](#view-options) to choose which columns to display.
 
+![Screenshot 2024-09-06 at 17.52.34.png](<../assets/images/Screenshot 2024-09-06 at 17.52.34.png>)
+
+
 #### 4. Overall Sentiment
 
 The overall sentiment of the text can be either *positive, neutral or negative*.
@@ -114,6 +117,9 @@ else return 'neutral'
 
 The checkbox indicates this row has been set as reviewed. Reviewed rows are not modified by the AI anymore but are used as training data for the AI when fine-tuning. When analyzing, visualizing or exporting the data, it is not relevant if a row has been reviewed or not.
 
+![Screenshot 2024-09-06 at 17.56.46.png](<../assets/images/Screenshot 2024-09-06 at 17.56.46.png>)
+
+
 #### 6. Row Number
 
 This is the index of the row in the project you uploaded / imported into Caplena.
@@ -125,6 +131,9 @@ To edit the topics of multiple rows at once, click this checkbox or hold shift a
 #### 8. Duplicates
 
 If this icon is shown, it means the text of this row is identical to one or more other rows. The number besides the icon indicates how many exact duplicates are present in the project. The duplicates are based on the translated text if translations are enabled.
+
+![Screenshot 2024-09-06 at 17.59.43.png](<../assets/images/Screenshot 2024-09-06 at 17.59.43.png>)
+
 
 By default, duplicates are assigned the same topics and are also marked as *reviewed*, when you review one of them. To disable this behavior, adjust the duplicates grouping setting in the [view options](#view-options).
 
