@@ -48,6 +48,20 @@ This mode does a couple of things:
 
 > The AI automatically updates the topics assignment every now and then in the background after you have made enough reviews or made changes to the topics. See [this article](#when-is-the-ai-updated) to learn when exactly updates are performed.
 
+### Topic Editor
+
+As the part of the fine-tuning process, you can also:
+* edit topic properties, *by clicking on them*
+* merge or combine them to sentiment topics, *by dragging them onto each other*
+* add new topics or categories
+
+https://youtu.be/j3quiv6lTqE
+
+To learn more about how topics work, see also [Topics.](03-01-Topics.md)
+
+<!-- theme: info -->
+> Whenever topics are changed or added, this triggers an AI update. See also [AI Topic Assignments](#when-is-the-ai-updated).
+
 
 ## Topic Assignment User Interface
 
@@ -57,10 +71,6 @@ You can also find the information about the Topic Assignment View below:
 
 
 ### Rows
-
-Here the text to analyze is displayed, alongside the assigned topics.
-
-![Row](images/fine-tuning-row.png)
 
 #### 1. Text
 
@@ -128,7 +138,8 @@ This is the index of the row in the project you uploaded / imported into Caplena
 
 To edit the topics of multiple rows at once, click this checkbox or hold shift and select multiple rows. See also [here](#bulk-assignment). To select all rows that match a certain condition, filter for those rows first and then click the Select all rows link on the top right of the row browser.
 
-![Screenshot 2024-09-06 at 21.40.58.png](<../assets/images/Screenshot 2024-09-06 at 21.40.58.png>)
+![Screenshot 2024-09-10 at 14.47.22.png](<../assets/images/Screenshot 2024-09-10 at 14.47.22.png>)
+
 
 
 #### 8. Duplicates
@@ -145,11 +156,6 @@ By default, duplicates are assigned the same topics and are also marked as *revi
 <!-- theme: info -->
 > To ensure identical rows are grouped together in your analysis, make sure that all rows have the same status (e.g., all rows should be either reviewed or unreviewed) and have the same topic assigned. 
 
-#### 9. See Original Text
-
-If translations are enabled, you can toggle between the translated text and the original one with this button. To define which text should be shown for all rows, open the [view options](#view-options).
-
-See [here](09-01-Languages.md) for more information on how translations work.
 
 ### Filters
 
@@ -160,14 +166,18 @@ Add filters to only show a subset of all rows. Filters are also applied to expor
 ### View Options
 
 The view options allow you to specify a couple of settings which define the appearance of your data:
-* **Display additional columns:** Which additional data columns from your project to show below the text. See also [Other Columns](#3-other-columns).
-* **Group identical responses:** If enabled (default), duplicate texts are only shown once. [Learn more](#8-duplicates).
-* **Show Translations:** If enabled, the translations are shown instead of the original text. This is the default if translations were enabled for the project when importing the data. See also [here](09-01-Languages.md).
+* **Display additional columns:** Which additional data columns from your project to show below the text. 
+* **Group identical responses:** If enabled (default), duplicate texts are only shown once. [
+* **Show Translations:** If enabled, the translations are shown instead of the original text. This is the default if translations were enabled for the project when importing the data. See also [here](13-LProject-Settings.md).
+
+![Screenshot 2024-09-10 at 14.50.16.png](<../assets/images/Screenshot 2024-09-10 at 14.50.16.png>)
 
 
 ### Export
 
-See [Export](04-08-Export.md).
+With the export options, you can download your results in different formats.
+
+For more information, please see [Export](04-08-Export.md).
 
 
 ### Topic Editor
@@ -212,5 +222,5 @@ See some core statistics of this column / project.
 
 
 
-```
+
 
