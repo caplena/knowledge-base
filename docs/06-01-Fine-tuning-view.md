@@ -73,6 +73,9 @@ You can stop fine-tuning whenever you’re satisfied with the results. We recomm
 
 The AI score measures how confident the AI is in assigning topics to your data.
 
+![Screenshot 2024-09-10 at 18.13.07.png](<../assets/images/Screenshot 2024-09-10 at 18.13.07.png>)
+
+
 #### What is considered a good AI score?
 
 The theoretical maximum score is 100, but this is never reached. A few benchmarks:
