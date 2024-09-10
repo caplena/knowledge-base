@@ -3,29 +3,29 @@ stoplight-id: aee4d8f8e8d2f
 ---
 
 
-### When is the AI fine-tuned enough?
+### When should I stop fine-tuning my model?
 
-You can decide when you are satisfied with fine-tuning. We recommend using a combination of a qualitative check and consulting the AI score to make this decision.
+You can stop fine-tuning whenever you’re satisfied with the results. We recommend using a combination of a **qualitative review** (looking at a sample of rows manually) and checking the **AI score** to make this decision.
 
 <!-- theme: info -->
-> As a rule of thumb, we often recommend to review about 20% of the rows but not more than 300, whichever is lower.
+> Tip: Review about 20% of rows, but not more than 300.
 
 ### AI Score
 
-The AI score indicates how indicates **how confident the AI is in its topic assignments.**
+The AI score measures how confident the AI is in assigning topics to your data.
 
-#### What is a good score?
+#### What is considered a good AI score?
 
 The theoretical maximum score is 100, but this is never reached. A few benchmarks:
 
-* We had the same person (a coding professional) manually assign topics to all rows of a project **twice**. She achieved an overlap of the two iterations of around 90.
-* When two different people manually assign topics to the same survey, they usually achieve an overlap score in the 70s to 80s, but sometimes it drops even to 60 when there are overlapping topics or ambiguity in the rows.
-* When aiming for *"human-level"* performance, it makes sense to aim at a score in the 70s. However, for many applications (such as getting a reliable distribution), a lower score is already sufficient – given there are enough samples.
-* A naive model that just randomly guesses, achieves an AI score of around 4 or 5, **not 50**. 
+- The theoretical maximum score is 100, but this is never reached.
+- A single person reassigning topics twice typically achieves a score of 90.
+- Two different people assigning topics get scores in the 70s to 80s.
+- Aim for 70s for human-level performance. Even lower scores can be sufficient if there’s enough data.
 
 #### Why is there no score for some topics?
 
-If a topic appears only in very few samples, we might not be able to compute a score for this topic. It could also mean the AI didn't understand the topic at all, although this is not very common.
+If a topic is assigned to very few rows, the AI may not be able to calculate a score. It’s also possible that the AI didn’t understand the topic, though this is rare.
 
 #### Why don't you state the accuracy measure?
 
@@ -38,7 +38,7 @@ Under the hood, the model does not only assign topics to the rows, but it also f
 Technically speaking the score represents the weighted F1 over all topics.
 
 
-#### How do I get to a higher score?
+#### How to improve the AI score:
 
 Before focusing purely on the score, be sure to also check the topic assignments for a few rows qualitatively. Sometimes even a low numeric score can still lead to qualitatively good results. To improve the score, there are a few strategies:
 
@@ -48,7 +48,7 @@ Before focusing purely on the score, be sure to also check the topic assignments
 
 For enterprise customers we are also happy to have one of our language specialists look into your data, just contact [support](support@caplena.com).
 
-#### How is the first score calculated and how can it be calculated without any involvement of a human?
+#### How is the initial AI score calculated without human input?
 
 The AI score is an estimate of the model performance on a text to analyze column. To be precise we want to estimate the F1 score. 
 
