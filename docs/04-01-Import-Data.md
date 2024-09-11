@@ -8,7 +8,7 @@ stoplight-id: 85eh1l8jcavy0
 * [Direct Input](#direct-input)
 * [Integrations](#integrations)
 * [Projects with multiple Text Columns](#multiple-text-columns)
-* [Leverage Additional Columnsa](#leverage-additional-columns)
+* [Leverage Additional Columns](#leverage-additional-columns)
 * [Date Support](#date-support)
 
 ## Data Import
