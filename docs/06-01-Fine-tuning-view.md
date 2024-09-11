@@ -9,6 +9,7 @@ stoplight-id: b2f8d57b8eb95
 * [Focus Mode](#focus-mode)
 * [Topic Editor](#topic-editor)
 * [When should I stop fine-tuning my model?](#when-should-i-stop-fine-tuning-my-model)
+* [Topic Assignment User Interface](#topic-eassignment-user-interface)
 
 
 
@@ -223,20 +224,6 @@ With the export options, you can download your results in different formats.
 
 For more information, please see [Export](04-08-Export.md).
 
-
-### Topic Editor
-
-In the topic editor you can
-* edit topic properties, *by clicking on them*
-* merge or combine them to sentiment topics, *by dragging them onto each other*
-* add new topics or categories
-
-https://youtu.be/j3quiv6lTqE
-
-To learn more about how topics work, see also [Topics.](03-01-Topics.md)
-
-<!-- theme: info -->
-> Whenever topics are changed or added, this triggers an AI update. See also [AI Topic Assignments](#when-is-the-ai-updated).
 
 ### AI Score
 
