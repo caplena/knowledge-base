@@ -4,11 +4,11 @@ stoplight-id: 85eh1l8jcavy0
 
 # Creating New Project
 
-* [Upload a File](#upload-file)
+* [Upload a File](#upload-a-file)
 * [Direct Input](#direct-input)
 * [Integrations](#integrations)
 * [Projects with multiple Text Columns](#multiple-text-columns)
-* [Leverage and visualize Non-Text-Data](#leverage-non-text-data)
+* [Leverage and visualize Non-Text-Data](#leverage-and-visualize-non-text-data)
 * [Date Support](#date-support)
 
 ## Data Import
