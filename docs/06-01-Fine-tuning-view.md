@@ -5,7 +5,7 @@ stoplight-id: b2f8d57b8eb95
 
 # Fine-Tuning 
 
-* [Reviwing a Row](#reviewing-a-row)
+* [Reviewing a Row](#reviewing-a-row)
 * [Focus Mode](#focus-mode)
 * [Topic Editor](#topic-editor)
 * [When should I stop fine-tuning my model?](#when-should-i-stop-fine-tuning-my-model)
@@ -25,7 +25,7 @@ The Topic Assignment view is designed to adjust the AI to better meet your speci
 
 Below, you’ll find some information on how to perform reviews.
 
-### Reviwing a Row 
+### Reviewing a Row 
 The purpose of fine-tuning is to guide the AI in the right direction by providing it with additional training data. This is done through a process called **reviewing**, where you either confirm the AI's topic assignments or adjust them to better align with your expectations for a few rows. Below, you'll find a video that demonstrates how the process works.
 
 https://youtu.be/OyQjsKhHZAs
