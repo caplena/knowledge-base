@@ -5,8 +5,7 @@ stoplight-id: b2f8d57b8eb95
 
 # Fine-Tuning 
 
-* [Fine-Tuning View](#fine-tuning)
-* [Reviewing a Row](#reviewing-a-row)
+* [Reviwing a Row (Fine-Tuning)](#reviewing-a-row)
 * [Focus Mode](#focus-mode)
 * [Topic Editor](#topic-editor)
 * [When should I stop fine-tuning my model?](#focus-mode)
