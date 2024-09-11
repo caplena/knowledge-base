@@ -9,9 +9,7 @@ stoplight-id: b2f8d57b8eb95
 * [Focus Mode](#focus-mode)
 * [Topic Editor](#topic-editor)
 * [When should I stop fine-tuning my model?](#when-should-i-stop-fine-tuning-my-model)
-* [Topic Assignment User Interface](#topic-eassignment-user-interface)
-
-
+* [Topic Assignment User Interface](#topic-assignment-user-interface)
 
 
 The Topic Assignment view is designed to adjust the AI to better meet your specific needs.
