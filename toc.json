@@ -70,7 +70,6 @@
           "title": "Fine Tuning",
           "uri": "docs/06-01-Fine-tuning-view.md"
         },
-
         {
           "type": "item",
           "title": "AI Topic Assignments",
@@ -80,10 +79,10 @@
     },
     {
       "type": "group",
-      "title": " Insights & Reports",
+      "title": "Insights & Reports",
       "items": [
-      {
-        "type": "item",
+        {
+          "type": "item",
           "title": "Creating Charts",
           "uri": "docs/07-01-Creating-Charts.md"
         },
