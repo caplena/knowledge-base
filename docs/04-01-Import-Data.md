@@ -119,7 +119,7 @@ Follow these steps:
 By consolidating information before uploading it to Caplena, you'll streamline the analysis process, making it more effective across all your fully open projects.
 
 
-## Leverage Additonal Columns
+### Leverage Additonal Columns
 When uploading a project to Caplena, all columns you do not select to be processed as text, will be treated as additional columns and uploaded to the platform nevertheless.
 
 This data could be metadata of the respondent (age, gender, customer segment, country, etc.), an ID column for later identification in the export file, or responses to closed-questions such as a likelihood to recommend question (NPS score).
