@@ -8,7 +8,7 @@ stoplight-id: 85eh1l8jcavy0
 * [Direct Input](#direct-input)
 * [Integrations](#integrations)
 * [Projects with multiple Text Columns](#multiple-text-columns)
-* [Leverage and visualize Non-Text-Data](#leverage-and-visualize-non-text-data)
+* [Leverage Additional Columnsa](#leverage-additional-columns)
 * [Date Support](#date-support)
 
 ## Data Import
@@ -119,7 +119,7 @@ Follow these steps:
 By consolidating information before uploading it to Caplena, you'll streamline the analysis process, making it more effective across all your fully open projects.
 
 
-## Leverage Additonal Columns / Non-Text Data
+## Leverage Additonal Columns
 When uploading a project to Caplena, all columns you do not select to be processed as text, will be treated as additional columns and uploaded to the platform nevertheless.
 
 This data could be metadata of the respondent (age, gender, customer segment, country, etc.), an ID column for later identification in the export file, or responses to closed-questions such as a likelihood to recommend question (NPS score).
