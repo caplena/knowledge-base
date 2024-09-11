@@ -143,12 +143,7 @@
 
     {
       "type": "divider",
-      "title": "📁 Legacy & Archive"
-    },
-    {
-      "type": "item",
-      "title": "Caplena v2 (Migration Guide)",
-      "uri": "docs/02-00-V2-changes.md"
+      "title": "📁 News & Product Updates"
     }
   ]
 }
