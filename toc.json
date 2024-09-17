@@ -44,7 +44,7 @@
     },
     {
       "type": "divider",
-      "title": "Topic Assignment"
+      "title": "🕹 Topic Assignment"
     },
     {
       "type": "item",
@@ -127,7 +127,7 @@
     
     {
       "type": "divider",
-      "title": " Settings & Administration "
+      "title": "📁 Settings & Administration "
     },
 
      {
@@ -143,7 +143,7 @@
 
     {
       "type": "divider",
-      "title": "📁 News & Product Updates"
+      "title": "📺 News & Product Updates"
     }
   ]
 }
