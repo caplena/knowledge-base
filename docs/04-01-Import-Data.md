@@ -88,7 +88,7 @@ Currently available sources for customer reviews / integrations are as follows:
 
 For each external data source you will find a guideline on how to identify the reviews that you would like to analyze. In most cases it is as simple as copying the URL, just click on any of the logos in your [Upload](https://caplena.com/app/upload) section and follow the steps behind it.
 
-Please also have a look at our more detailed article on our integrations feature: [**Integrations in Detail**](04-09-Integrations-in-Detail.md)
+Please also have a look at our more detailed article on our integrations feature: [Integrations in Detail](04-09-Integrations-in-Detail.md)
 
 The following tutorials show the Integrations features in practice:
 - A case study comparing two meditation apps - [Click here](https://blog.caplena.com/2021/08/25/headspace-vs-calm-a-comparative-analysis-of-customer-reviews/)
