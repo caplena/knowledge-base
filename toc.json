@@ -16,12 +16,7 @@
     },
     {
       "type": "divider",
-      "title": "📺 News"
-    },
-    {
-      "type": "item",
-      "title": "Changelog",
-      "uri": "docs/02-00-Changelog.md"
+      "title": "📺 News & Product Updates"
     },
     {
       "type": "divider",
@@ -118,34 +113,27 @@
       "title": "Integrations in Detail",
       "uri": "docs/04-09-Integrations-in-Detail.md"
     },
-   
     {
       "type": "item",
       "title": "Third Party Services",
       "uri": "docs/10-Third-Party-Services.md"
     },
-    
     {
       "type": "divider",
-      "title": "📁 Settings & Administration "
+      "title": "📁 Settings & Administration"
     },
-
-     {
+    {
       "type": "item",
       "title": "Users & Team Management",
       "uri": "docs/08-01-Teams-and-Users.md"
     },
-     {
+    {
       "type": "item",
       "title": "Credits",
       "uri": "docs/03-05-Credits.md"
-    },
-
-    {
-      "type": "divider",
-      "title": "📺 News & Product Updates"
     }
   ]
 }
+
 
 
