@@ -33,9 +33,25 @@
       "uri": "docs/12-Data-Manipulations.md"
     },
     {
-      "type": "item",
+      "type": "group",
       "title": "Project Settings",
-      "uri": "docs/13-Project-Settings.md"
+      "items": [
+        {
+          "type": "item",
+          "title": "General Settings",
+          "uri": "docs/13-Project-Settings.md"
+        },
+        {
+          "type": "item",
+          "title": "Anonymization",
+          "uri": "docs/04-07-Anonymize-text-comments.md"
+        },
+        {
+          "type": "item",
+          "title": "Translation",
+          "uri": "docs/09-01-Languages.md"
+        }
+      ]
     },
     {
       "type": "divider",
@@ -134,6 +150,5 @@
     }
   ]
 }
-
 
 
