@@ -33,6 +33,11 @@
       "uri": "docs/12-Data-Manipulations.md"
     },
     {
+      "type": "item",
+      "title": "Integrations in Detail",
+      "uri": "docs/04-09-Integrations-in-Detail.md"
+    },
+    {
       "type": "group",
       "title": "Project Settings",
       "items": [
@@ -89,50 +94,38 @@
       ]
     },
     {
-      "type": "group",
-      "title": "Insights & Reports",
-      "items": [
-        {
-          "type": "item",
-          "title": "Creating Charts",
-          "uri": "docs/07-01-Creating-Charts.md"
-        },
-        {
-          "type": "item",
-          "title": "Creating Dashboards",
-          "uri": "docs/07-02-Creating-Dashboards.md"
-        },
-        {
-          "type": "item",
-          "title": "Chart Values Explained",
-          "uri": "docs/07-03-Chart-Values-Explained.md"
-        },
-        {
-          "type": "item",
-          "title": "Correlation Metrics",
-          "uri": "docs/07-04-Correlation-Metrics.md"
-        },
-        {
-          "type": "item",
-          "title": "ChatGPT-based Summary",
-          "uri": "docs/07-05-ChatGPT-Summary-Feature.md"
-        }
-      ]
+      "type": "divider",
+      "title": "Insights & Reports"
+    },
+    {
+      "type": "item",
+      "title": "Creating Charts",
+      "uri": "docs/07-01-Creating-Charts.md"
+    },
+    {
+      "type": "item",
+      "title": "Creating Dashboards",
+      "uri": "docs/07-02-Creating-Dashboards.md"
+    },
+    {
+      "type": "item",
+      "title": "Chart Values Explained",
+      "uri": "docs/07-03-Chart-Values-Explained.md"
+    },
+    {
+      "type": "item",
+      "title": "Correlation Metrics",
+      "uri": "docs/07-04-Correlation-Metrics.md"
+    },
+    {
+      "type": "item",
+      "title": "ChatGPT-based Summary",
+      "uri": "docs/07-05-ChatGPT-Summary-Feature.md"
     },
     {
       "type": "item",
       "title": "Data Export",
       "uri": "docs/04-08-Export.md"
-    },
-    {
-      "type": "item",
-      "title": "Integrations in Detail",
-      "uri": "docs/04-09-Integrations-in-Detail.md"
-    },
-    {
-      "type": "item",
-      "title": "Third Party Services",
-      "uri": "docs/10-Third-Party-Services.md"
     },
     {
       "type": "divider",
@@ -145,10 +138,16 @@
     },
     {
       "type": "item",
+      "title": "Third Party Services",
+      "uri": "docs/10-Third-Party-Services.md"
+    },
+    {
+      "type": "item",
       "title": "Credits",
       "uri": "docs/03-05-Credits.md"
     }
   ]
 }
+
 
 
