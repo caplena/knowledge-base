@@ -11,7 +11,7 @@ Once you've imported and organized your data, click on "Continue to Settings" to
 Here, you can:
 
 - Assign a name to your project.
-- Add tags for easy project sorting in the future.
+- Add tags for easy project sorting in the future. (optional)
 - Set the language for your topic collection.
 Below, you'll find advanced settings:
 
