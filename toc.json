@@ -23,19 +23,30 @@
       "title": "📚 Setting up a new project"
     },
     {
-      "type": "item",
-      "title": "File Upload",
-      "uri": "docs/04-01-Import-Data.md"
+      "type": "group",
+      "title": "Import Options",
+      "items": [
+        {
+          "type": "item",
+          "title": "File Upload",
+          "uri": "docs/04-01-Import-Data.md"
+        },
+        {
+          "type": "item",
+          "title": "Integrations in Detail",
+          "uri": "docs/04-09-Integrations-in-Detail.md"
+        },
+        {
+          "type": "item",
+          "title": "Direct Input",
+          "uri": "docs/Direct-Input.md"
+        }
+      ]
     },
     {
       "type": "item",
       "title": "Data Manipulations",
       "uri": "docs/12-Data-Manipulations.md"
-    },
-    {
-      "type": "item",
-      "title": "Integrations in Detail",
-      "uri": "docs/04-09-Integrations-in-Detail.md"
     },
     {
       "type": "group",
