@@ -4,9 +4,23 @@ stoplight-id: 2784zjo1mosah
 
 # Integrations in Detail
 
-## What are Integrations?
+Another option to import data to analyse with Caplena is the direct integration of external data sources, which are mainly customer reviews from various customer review websites, such as Amazon, Trustpilot, Google Maps etc.
 
-Integrations can be used to import answers from third-party platforms and analyze them directly within Caplena. There are multiple integrations to choose from, and currently, a broad range of review platforms (for an overview of all integrations, click here) is supported. For every integration that the user adds, exactly one Caplena project is created, which contains the imported answers from the third-party platform. Thus, an integration acts as a data source for a single project.
+Here you can select reviews for one or several products, services, locations (shops, restaurants, hotels, etc.) or software applications by copying the URL or a similar unique identifier to start with the data import.
+
+Currently available sources for customer reviews / integrations are as follows:
+
+![Bildschirmfoto 2022-07-01 um 20.10.23.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/AHcDoFsiVgg)
+
+
+For each external data source you will find a guideline on how to identify the reviews that you would like to analyze. In most cases it is as simple as copying the URL, just click on any of the logos in your [Upload](https://caplena.com/app/upload) section and follow the steps behind it.
+
+
+The following tutorials show the Integrations features in practice:
+- A case study comparing two meditation apps - [Click here](https://blog.caplena.com/2021/08/25/headspace-vs-calm-a-comparative-analysis-of-customer-reviews/)
+- Tutorial walk-through taking the Netflix app as an example - [Click here](https://blog.caplena.com/2020/05/06/walk-through-analyzing-open-ended-feedback-a-3-step-video-tutorial-on-netflix-app-reviews/)
+
+
 
 ### Integration Items
 An integration item is a resource that contains answers to be analyzed (e.g. reviews for an app in the Google Play Store). Every integration can consist of multiple integration items from which the answers are fetched from. 
