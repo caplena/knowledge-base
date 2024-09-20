@@ -4,6 +4,11 @@ stoplight-id: to53li67b63pf
 
 # Direct Input
 
+Importing data into the Caplena platform is the first step to start a new project. After clicking on the *New Project* or *Import Data* button you will be able to choose between three data import options.
+
+![Bildschirmfoto 2022-07-01 um 20.09.55.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/XPVSgepPBtE)
+
+
 You can easily enter or copy your data directly into the upload window. Here’s how:
 
 - **Enter Data Manually:** Type your data directly into the upload window. Each line of data should be separated by pressing the Enter key.
