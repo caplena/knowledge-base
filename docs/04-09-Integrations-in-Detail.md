@@ -4,6 +4,8 @@ stoplight-id: 2784zjo1mosah
 
 # Integrations in Detail
 
+
+
 Another option to import data to analyse with Caplena is the direct integration of external data sources, which are mainly customer reviews from various customer review websites, such as Amazon, Trustpilot, Google Maps etc.
 
 Here you can select reviews for one or several products, services, locations (shops, restaurants, hotels, etc.) or software applications by copying the URL or a similar unique identifier to start with the data import.
