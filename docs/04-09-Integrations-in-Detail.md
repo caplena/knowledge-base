@@ -59,6 +59,9 @@ As of right now, our integrations feature allows you to import and synchronize r
 
 ### Google Maps
 
+![Screenshot 2024-09-20 at 11.11.26.png](<../assets/images/Screenshot 2024-09-20 at 11.11.26.png>)
+
+
 Input Format: `<name>, <address>, <country>`
 
 In general, you should try to specify the address to the venue as detailed as possible by combining the name, address and country. For example, let us consider the *WERK 8* restaurant as shown in the image. We should end up with the following input: 
@@ -75,6 +78,9 @@ In general, you should try to specify the address to the venue as detailed as po
 
 ### Trustpilot
 
+![Screenshot 2024-09-20 at 11.12.32.png](<../assets/images/Screenshot 2024-09-20 at 11.12.32.png>)
+
+
 Input Format: `https://www.trustpilot.com/review/<domain>`
 
 **Examples:**
@@ -84,6 +90,8 @@ Input Format: `https://www.trustpilot.com/review/<domain>`
 `https://www.trustpilot.com/review/cyberghostvpn.com`
 
 ### Apple App Store
+
+![Screenshot 2024-09-20 at 11.13.40.png](<../assets/images/Screenshot 2024-09-20 at 11.13.40.png>)
 
 Input Format: 
 
@@ -99,6 +107,9 @@ Input Format:
 `https://apps.apple.com/de/app/fifa-soccer/id1094930513`  
 
 ### Google Play Store
+
+![Screenshot 2024-09-20 at 11.15.04.png](<../assets/images/Screenshot 2024-09-20 at 11.15.04.png>)
+
 
 Our integration for Google Play Store support fetching reviews for apps, books and even movies. Depending on what type of resource you want to fetch, a different input format is being used. Google Play Store displays different reviews depending on the language set in the URL.
 
@@ -129,6 +140,9 @@ The `hl` parameter defines the language of the reviews. If you do not set this p
 
 ### Amazon
 
+![Screenshot 2024-09-20 at 11.16.14.png](<../assets/images/Screenshot 2024-09-20 at 11.16.14.png>)
+
+
 As of right now, we support five different Amazon stores, namely `amazon.com`, `amazon.fr`, `amazon.de`, `amazon.it` and `amazon.co.uk`. In addition, we support two different URL formats, one with and one without name.
 
 Country Identifiers: `com`, `fr`, `de`, `it`, `co.uk`, `es`, `ca`, `com.au`, `in`, and `co.jp`
@@ -158,6 +172,9 @@ The Amazon Standard Identification Number or [ASIN](https://en.wikipedia.org/wik
 
 ### G2
 
+![Screenshot 2024-09-20 at 11.17.14.png](<../assets/images/Screenshot 2024-09-20 at 11.17.14.png>)
+
+
 Input Format: `https://www.g2.com/products/<name>/reviews`
 
 **Examples:**
@@ -169,6 +186,9 @@ Input Format: `https://www.g2.com/products/<name>/reviews`
 
 ### Capterra
 
+![Screenshot 2024-09-20 at 11.18.51.png](<../assets/images/Screenshot 2024-09-20 at 11.18.51.png>)
+
+
 Input Format: `https://www.capterra.com/p/<identifier>/<name>/`
 
 **Examples:**
@@ -179,6 +199,9 @@ Input Format: `https://www.capterra.com/p/<identifier>/<name>/`
 
 
 ### Yelp
+
+![Screenshot 2024-09-20 at 11.19.48.png](<../assets/images/Screenshot 2024-09-20 at 11.19.48.png>)
+
 
 Input Format: `https://www.yelp.com/biz/<name>`
 
