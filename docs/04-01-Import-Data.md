@@ -23,7 +23,13 @@ The column highlighted in green, labeled "Reason for Rating," is the text column
 
 **What about the other columns?**
 
-The other columns in the screenshot are additional columns. These can be uploaded alongside the text column and used for segmentation and filtering in your analysis, but they are not analyzed by AI. You won´t be billed for them.
+The other columns in the screenshot are additional columns. When uploading a project to Caplena, any columns you don’t select for text processing will be treated as additional columns. These can be uploaded alongside the text column and used for segmentation and filtering in your analysis, but they won’t be analyzed by AI. Examples of this data include respondent metadata (age, gender, customer segment, country), an ID column for identification in the export file, or responses to closed questions, such as NPS scores. You won’t be billed for these columns.
+
+Non-text data will be displayed and can be used at various stages of the analysis process. For example, they can be shown with the text data during fine-tuning, viewed in the row browser when examining text behind specific topics, or used in charts and dashboards for segmenting and filtering results.
+
+<!-- theme: info -->
+
+> To benefit most from Caplena, we recommend adding as many relevant additional columns as possible.
 
 ### Multiple Text Columns
 When setting up a project, you may have either a single text column or multiple text columns to analyze, especially common in survey data with several open-ended questions.
@@ -57,17 +63,6 @@ Follow these steps:
 
 By consolidating information before uploading it to Caplena, you'll streamline the analysis process, making it more effective across all your fully open projects.
 
-
-### Additonal Columns
-When uploading a project to Caplena, all columns you do not select to be processed as text, will be treated as additional columns and uploaded to the platform nevertheless.
-
-This data could be metadata of the respondent (age, gender, customer segment, country, etc.), an ID column for later identification in the export file, or responses to closed-questions such as a likelihood to recommend question (NPS score).
-
-Non-Text data will be displayed and can be used at different stages of the analysis process, e.g., to be shown together with the text data during fine-tuning, in the row browser when reading the text behind specific topics and of course for your charts and dashboards to segment and filter the results.
-
-<!-- theme: info -->
-
-> To benefit most from Caplena, we recommend adding as many relevant additional columns as possible.
 
 ### Date Support
 
