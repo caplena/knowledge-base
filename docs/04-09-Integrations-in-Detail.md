@@ -5,7 +5,7 @@ stoplight-id: 2784zjo1mosah
 # Integrations in Detail
 
 * [Google Maps](#google-maps)
-* [Focus Mode](#focus-mode)
+* [Focus Mode](#trustpilot)
 * [Topic Editor](#topic-editor)
 * [When should I stop fine-tuning my model?](#when-should-i-stop-fine-tuning-my-model)
 * [Topic Assignment User Interface](#topic-assignment-user-interface)
