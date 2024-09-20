@@ -4,7 +4,11 @@ stoplight-id: 2784zjo1mosah
 
 # Integrations in Detail
 
-
+* [Google Maps](#google-maps)
+* [Focus Mode](#focus-mode)
+* [Topic Editor](#topic-editor)
+* [When should I stop fine-tuning my model?](#when-should-i-stop-fine-tuning-my-model)
+* [Topic Assignment User Interface](#topic-assignment-user-interface)
 
 Another option to import data to analyse with Caplena is the direct integration of external data sources, which are mainly customer reviews from various customer review websites, such as Amazon, Trustpilot, Google Maps etc.
 
