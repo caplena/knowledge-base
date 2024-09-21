@@ -16,7 +16,12 @@
     },
     {
       "type": "divider",
-      "title": "📺 News & Product Updates"
+      "title": "❓ FAQ"
+    },
+    {
+      "type": "item",
+      "title": "Answers to frequently asked questions",
+      "uri": "docs/FAQ.md"
     },
     {
       "type": "divider",
@@ -84,11 +89,6 @@
       "uri": "docs/11-Start-the-Analysis.md"
     },
     {
-      "type": "item",
-      "title": "Semi-Open vs Fully Open",
-      "uri": "docs/03-02-Open-Text-vs-Lists.md"
-    },
-    {
       "type": "group",
       "title": "Fine Tuning View",
       "items": [
@@ -101,12 +101,17 @@
           "type": "item",
           "title": "AI Topic Assignments",
           "uri": "docs/06-02-AI-assignments.md"
+        },
+        {
+          "type": "item",
+          "title": "Semi-Open vs Fully Open",
+          "uri": "docs/03-02-Open-Text-vs-Lists.md"
         }
       ]
     },
     {
       "type": "divider",
-      "title": "Insights & Reports"
+      "title": "📊 Insights & Reports"
     },
     {
       "type": "item",
@@ -140,7 +145,7 @@
     },
     {
       "type": "divider",
-      "title": "📁 Settings & Administration"
+      "title": " 📋 Settings & Administration"
     },
     {
       "type": "item",
@@ -156,9 +161,24 @@
       "type": "item",
       "title": "Credits",
       "uri": "docs/03-05-Credits.md"
+    },
+    {
+      "type": "item",
+      "title": "Limits and Warnings",
+      "uri": "docs/03-04-Limits-and-Warnings.md"
+    },
+    {
+      "type": "item",
+      "title": "Subscriptions",
+      "uri": "docs/03-06-Subscriptions.md"
+    },
+    {
+      "type": "divider",
+      "title": "📺 News & Product Updates"
     }
   ]
 }
+
 
 
 
