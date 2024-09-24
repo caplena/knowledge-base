@@ -2,21 +2,26 @@
 stoplight-id: arvuzpx6y2gm3
 ---
 
-# Find solutions for common questions
+## Find solutions for common questions
 
-## What Language Should I Use for Topic Collections in Caplena?
+### What Language Should I Use for Topic Collections in Caplena?
 
-### Can I use different languages for topics and answers?
-Yes, Caplena is multilingual and can handle topic collections in any language. However, for the best performance, it’s recommended that the topics match the language of most of the answers in your project.
+Caplena is multilingual and can handle topic collections in any language, but for optimal performance, it's recommended that topics match the language of most answers in your project. 
 
-### What if most of my answers are in English?
-If most of your answers are in English, your topics should also be in English. This helps optimize the analysis and improves overall performance.
+If most of your responses are in English, the topics should also be in English for better analysis. In cases where your project involves multiple languages, we suggest aligning the topic language with the majority of responses. 
 
-### What about projects with multiple languages?
-For projects spanning multiple languages, we recommend using the same language for topics as the majority of your answers.
+The chosen topic language will also be used for chart labels when creating visualizations.
 
-### Should I match the language when translations are enabled?
-Yes, when translations are enabled, it’s best to write your topics in the language that the responses have been translated into (e.g., English or German). This ensures the best results and helps improve the service.
 
-### How does the topic language affect chart labels?
-The language you select as the main topic language will be used for labels when creating charts.
+### Can I analyze data from multiple markets/countries in a single project?
+Yes, we recommend analyzing all markets within a single project rather than setting up multiple projects. It simplifies the process and allows for more efficient management of data.
+
+If your responses are in different languages, you can enable automatic translation. This allows you to create a single topic collection and analyze everything in one language, streamlining the process across all markets.
+
+By using automatic translation and keeping everything in one language, you can apply the same topic collection across all markets.
+
+You can create a dashboard to view and compare data by market/country, which provides deeper insights into each region.
+
+### What if I forgot to enable translations in Settings?
+
+If you forgot to enable translations, you won’t be able to activate it on your end after setting up the project. However, you can contact the Caplena Support Team, and we’ll enable the translation feature for you. Once it’s turned on, the system will translate the responses, allowing you to analyze everything in a single language.
