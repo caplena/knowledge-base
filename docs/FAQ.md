@@ -31,3 +31,7 @@ If you forgot to enable translations, you won’t be able to activate it on your
 This error usually occurs when the order of the columns in the file you're uploading doesn’t match the data already on the platform. The columns need to be in the exact same order. You can check the data structure by looking under "Add Filter" in the "Additional Columns" section, or export your existing data to compare and see if anything is missing.
 
 If you're still unable to upload the additional data, feel free to send the data file to our support team for a quick review.
+
+
+### I need to restart analysis. Will my credits be charged again?
+If you need to restart the analysis, your credits will not be charged again for the same data. Caplena only charges credits when you first upload and analyze the data. Once the data is in the system, you can rerun the analysis, change topics, or make adjustments without being charged additional credits.
