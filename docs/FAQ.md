@@ -35,3 +35,30 @@ If you're still unable to upload the additional data, feel free to send the data
 
 ### I need to restart analysis. Will my credits be charged again?
 If you need to restart the analysis, your credits will not be charged again for the same data. Caplena only charges credits when you first upload and analyze the data. Once the data is in the system, you can rerun the analysis, change topics, or make adjustments without being charged additional credits.
+
+### How can I share a dashboard with a colleague or client?
+
+There are two ways to share dashboards in Caplena:
+
+**Sharing Internally (Collaboration)**
+
+**Ideal for cases when your colleagues need to collaborate on the dashboard.**
+
+To share a dashboard internally:
+- Go to Dashboards.
+- Select the dashboard you want to share.
+- In the top-right corner, click the two-person icon to modify permissions and share with your team.
+
+![Screenshot 2024-09-25 at 17.00.27.png](<../assets/images/Screenshot 2024-09-25 at 17.00.27.png>)
+
+
+**Sharing Externally (View-Only)**
+
+**Best for cases when recipients only need to review results without the ability to make changes.**
+
+To share a dashboard externally:
+
+- Open the dashboard.
+- In the top-right corner, enable the shareable link option.
+- Copy the link (with or without predefined filters) and share it with the intended recipient.
+![Screenshot 2024-09-25 at 16.58.34.png](<../assets/images/Screenshot 2024-09-25 at 16.58.34.png>)
