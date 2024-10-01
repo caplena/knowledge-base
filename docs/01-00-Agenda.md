@@ -4,7 +4,7 @@ stoplight-id: wktwlwivyiz40
 
 # How can we help you?
 
-At Caplena, we’re here to make sure you get the most out of our platform, whether you’re just starting or an experienced user. Here’s how we can assist you:
+At Caplena, we are here to make sure you get the most out of our platform, whether yo are just starting or an experienced user. Here is how we can assist you:
 
 ## [❓ FAQ](FAQ.md) 
 👉 Got questions? Check out our FAQ section for quick answers to the most common inquiries about Caplena's features, subscriptions, and more.
