@@ -4,38 +4,28 @@ stoplight-id: wktwlwivyiz40
 
 # How can we help you?
 
+At Caplena, we’re here to make sure you get the most out of our platform, whether you’re just starting or an experienced user. Here’s how we can assist you:
+
 ## [📚 FAQ](FAQ.md) 
-👉 Frequently asked questions & answers
-
-## [📺 News](02-00-Changelog.md) 
-
-👉 Find out what has changed recently.
+👉 Got questions? Check out our FAQ section for quick answers to the most common inquiries about Caplena's features, subscriptions, and more.
 
 
-## [📚 Getting Started ](03-00-Data-Structure.md)
+## [🕹 Setting up a new project](04-01-Import-Data.md)
 
-👉 Learn about our concepts.
-
-* [Data Structure](03-00-Data-Structure.md)
-* [Main Concepts](03-01-Topics.md)
-
-
-## [🕹 Project Data](04-01-Import-Data.md)
-
-👉 Discover how Caplena works and what features we offer.
-
-* [Data Import (new Project) ](04-01-Import-Data.md)
-* [Data Manipulations](12-Data-Manipulations.md)
-* [Project Settings](13-Project-Settings.md)
-* [Data Export](04-08-Export.md)
+👉 Ready to start a new analysis? Head over to our Project Creation Guide to see how you can easily import your data, set up your project, and begin extracting insights in just a few steps.
 
 ## [📁 Topic Assignment](11-Start-the-Analysis.md)
 
-* [Initial Setup](11-Start-the-Analysis.md)
+👉 Ready to dive into your data? Follow our guides to help you analyze customer feedback, reviews, surveys, and more with ease.
 
+## [📁 Insights & Reports](07-01-Creating-Charts.md)
+👉 Looking to generate reports and gain actionable insights? Our Insights & Reports Guide covers everything from filtering data, creating visualizations, exporting results, and automating reports to make data-driven decisions simple.
 
-## [📁 Legacy & Archive](02-00-V2-changes.md)
+## [📁 Settings & Administration](08-01-Teams-and-Users.md)
 
-👉 Go back into the past.
+👉 If you’re an admin or managing team permissions, check out our Settings & Administration Guide. Learn how to configure your account, manage user roles, and customize platform settings to meet your needs.
 
+## [📺 News](02-00-Changelog.md) 
+
+👉 Stay up-to-date with the latest features and improvements by checking out our Product Updates page. 
 
