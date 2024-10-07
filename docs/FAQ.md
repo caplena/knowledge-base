@@ -6,11 +6,11 @@ stoplight-id: arvuzpx6y2gm3
 
 ### What Language Should I Use for Topic Collections in Caplena?
 
-Caplena is multilingual and can handle topic collections in any language, but for optimal performance, it's recommended that topics match the language of most answers in your project. 
+Caplena is multilingual and can handle topic collections in any language we support. Essentially, the topic collection language should be the language in which you want to analyze your data.
 
-If most of your responses are in English, the topics should also be in English for better analysis. In cases where your project involves multiple languages, we suggest aligning the topic language with the majority of responses. 
+If your project contains responses in different languages, we recommend enabling translation. This ensures all responses will be translated into the language set for your topic collection, providing consistency in analysis.
 
-The chosen topic language will also be used for chart labels when creating visualizations.
+The selected topic language will also be used for chart labels when creating visualizations. For more information about languages and translation, please see [here].
 
 
 ### Can I analyze data from multiple markets/countries in a single project?
