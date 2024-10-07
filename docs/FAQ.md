@@ -10,7 +10,9 @@ Caplena is multilingual and can handle topic collections in any language we supp
 
 If your project contains responses in different languages, we recommend enabling translation. This ensures all responses will be translated into the language set for your topic collection, providing consistency in analysis.
 
-The selected topic language will also be used for chart labels when creating visualizations. For more information about languages and translation, please see [here].
+The selected topic language will also be used for chart labels when creating visualizations. 
+
+For more information about languages and translation, please see [**this article**](09-01-Languages.md).
 
 
 ### Can I analyze data from multiple markets/countries in a single project?
@@ -22,9 +24,13 @@ By using automatic translation and keeping everything in one language, you can a
 
 You can create a dashboard to view and compare data by market/country, which provides deeper insights into each region.
 
+For more information about languages and translation, please see [**this article**](09-01-Languages.md).
+
 ### What if I forgot to enable translations in Settings?
 
 If you forgot to enable translations, you won’t be able to activate it on your end after setting up the project. However, you can contact the Caplena Support Team, and we’ll enable the translation feature for you. Once it’s turned on, the system will translate the responses, allowing you to analyze everything in a single language.
+
+For additional information on languages and translation, check [**this article**](09-01-Languages.md).
 
 ### Why am I getting an error saying "unable to cast column to number" when trying to upload additional data?
 
@@ -32,9 +38,13 @@ This error usually occurs when the order of the columns in the file you're uploa
 
 If you're still unable to upload the additional data, feel free to send the data file to our support team for a quick review.
 
+For additional information on how to upload additional columns, check [**here**](12-Data-Manipulations.md).
+
 
 ### I need to restart analysis. Will my credits be charged again?
 If you need to restart the analysis, your credits will not be charged again for the same data. Caplena only charges credits when you first upload and analyze the data. Once the data is in the system, you can rerun the analysis, change topics, or make adjustments without being charged additional credits.
+
+To learn more about credits, click [**here**](03-05-Credits.md).
 
 ### How can I share a dashboard with a colleague or client?
 
@@ -62,3 +72,5 @@ To share a dashboard externally:
 - In the top-right corner, enable the shareable link option.
 - Copy the link (with or without predefined filters) and share it with the intended recipient.
 ![Screenshot 2024-09-25 at 16.58.34.png](<../assets/images/Screenshot 2024-09-25 at 16.58.34.png>)
+
+For more insights into dashboards, please follow [**this link**](07-02-Creating-Dasboards.md).
