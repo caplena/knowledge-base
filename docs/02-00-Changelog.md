@@ -3,6 +3,12 @@ stoplight-id: 7d800a323b890
 ---
 # Changelog
 ---
+
+## 2024-10-08
+* Improved information on mismatching columns when appending rows
+* Fixed bug with dashboard editing permissions when switching verbatim element from "Show Rows" to "Show Summary"
+* Fixed issues when adding multiple verbatim elements with the summary on
+
 ## 2023-09-08
 
 ### Upload
