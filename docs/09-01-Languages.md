@@ -1,5 +1,5 @@
 ---
-stoplight-id: 8l4bcrf260ng2
+stoplight-id: 8l4bcrf260ng2 
 ---
 
 # Languages and Translations
