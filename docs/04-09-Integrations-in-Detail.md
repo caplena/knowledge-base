@@ -10,7 +10,8 @@ Here you can select reviews for one or several products, services, locations (sh
 
 Currently available sources for customer reviews / integrations are as follows:
 
-![Bildschirmfoto 2022-07-01 um 20.10.23.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/AHcDoFsiVgg)
+![Screenshot 2024-10-09 at 16.22.26.png](<../assets/images/Screenshot 2024-10-09 at 16.22.26.png>)
+
 
 
 For each external data source you will find a guideline on how to identify the reviews that you would like to analyze. In most cases it is as simple as copying the URL, just click on any of the logos in your [Upload](https://caplena.com/app/upload) section and follow the steps behind it.
