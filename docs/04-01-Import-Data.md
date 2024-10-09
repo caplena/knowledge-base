@@ -2,15 +2,10 @@
 stoplight-id: 85eh1l8jcavy0
 ---
 
-Importing data into the Caplena platform is the first step to start a new project. After clicking on the *New Project* or *Import Data* button you will be able to choose between three data import options.
-
-![Bildschirmfoto 2022-07-01 um 20.09.55.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/XPVSgepPBtE)
-
-
-## Upload a File
+# Upload a File
 Using this option, you can simply drag and drop your data file into the import box or browse to the location of your file. The currently supported data formats for this import option are: .xls, .xlsx, .csv, .txt, .spss and .sav.
 
-### Data Structure
+## Data Structure
 The data should be arranged in columns and rows, where the rows include the indiviudal records such as respondends, reviews or social media feedback.
 
 The first row of the data file will be treated as the column header or title. In case you have the description of your data columns across several rows, e.g., the variable name in the first row and a description the second, you should delete one of these rows or merge them into a single row.
@@ -31,13 +26,13 @@ Non-text data will be displayed and can be used at various stages of the analysi
 
 > To benefit most from Caplena, we recommend adding as many relevant additional columns as possible.
 
-### Multiple Text Columns
+## Multiple Text Columns
 When setting up a project, you may have either a single text column or multiple text columns to analyze, especially common in survey data with several open-ended questions.
 
-### A Single Column
+## A Single Column
 If you are working with responses to a single open-ended question (such as in surveys, customer reviews, or social media feedback), you’ll have a project with just one text column. You can upload this text data alongside auxiliary data columns (e.g., ID, ratings, demographics, dates, or countries) to use in your analysis for filtering and segmentation.
 
-### Multiple Columns
+## Multiple Columns
 If your survey includes multiple open-ended questions, there’s no need to create separate projects for each. Instead, you can upload all your text columns in one file, as long as your data is organized with each row representing a single respondent.
 
 For example, here’s a data structure with two open-ended questions and additional auxiliary variables:
@@ -47,7 +42,7 @@ For example, here’s a data structure with two open-ended questions and additio
 
 This setup is ideal when you want to analyze multiple open-ended questions from a single project. Each text column (or question) will be displayed separately within the project, allowing for individual text-level analysis.
 
-### Merging Columns
+## Merging Columns
 
 In situations where you need to analyze text across several data cells (e.g., when several columns relate to the same answer), we recommend merging those answers in your data file before uploading them to Caplena.
 
@@ -64,7 +59,7 @@ Follow these steps:
 By consolidating information before uploading it to Caplena, you'll streamline the analysis process, making it more effective across all your fully open projects.
 
 
-### Date Support
+## Date Support
 
 Including date columns in your uploads enables you to use Caplena for trend analysis and date filtering. 
 

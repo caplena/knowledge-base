@@ -211,6 +211,8 @@ Input Format: `https://www.yelp.com/biz/<name>`
 `https://www.yelp.com/biz/tibits-basel`  
 `https://www.yelp.com/biz/brandenburger-tor-berlin`
 
+## Connected Accounts
+
 ### Brandwatch
 
 Our Brandwatch integration simplifies the process of importing social media query results directly into Caplena for analysis. Here's how you can set it up:

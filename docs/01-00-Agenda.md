@@ -10,7 +10,7 @@ At Caplena, we are here to make sure you get the most out of our platform, wheth
 👉 Got questions? Check out our FAQ section for quick answers to the most common inquiries about Caplena's features, subscriptions, and more.
 
 
-## [📚 Setting up a new project](Import-options.md)
+## [📚 Setting up a New Project](Import-options.md)
 
 👉 Ready to start a new analysis? Head over to our Project Creation Guide to see how you can easily import your data, set up your project, and begin extracting insights in just a few steps.
 
