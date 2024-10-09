@@ -108,7 +108,8 @@ If a topic is assigned to very few rows, the AI may not be able to calculate a s
 
 ## Topic Assignment User Interface
 
-Please watch this quick walkthrough of the Topic Assignment View: https://www.loom.com/share/c5d42ccac2884111803d7c4946af4465?sid=a0720402-78ed-48e7-bc58-2e248a92e608
+Please watch this quick walkthrough of the Topic Assignment View: [**Watch the video**](https://www.loom.com/share/c5d42ccac2884111803d7c4946af4465?sid=a0720402-78ed-48e7-bc58-2e248a92e608)
+
 
 You can also find the information about the Topic Assignment View below:
 
