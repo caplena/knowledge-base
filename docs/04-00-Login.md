@@ -16,4 +16,4 @@ In case you cannot login
 - In case you cannot remember your password, please click on *Forget Password* and a new temporary password will be send to your email account. Please check your spam folder if you do not receive it within a few minutes.
 - Ensure that you have an existing account, if not, please have a look at [our subscription plans](https://caplena.com/en/pricing/).
 
-In case you experience any other issues, please get in touch with our [support](mailto:support@caplena.com).
+In case you experience any other issues, please get in touch with our [support](mailto:support@caplena.com). 
