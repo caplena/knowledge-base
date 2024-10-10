@@ -4,9 +4,24 @@ stoplight-id: 2784zjo1mosah
 
 # Integrations in Detail
 
-## What are Integrations?
+Another option to import data to analyse with Caplena is the direct integration of external data sources, which are mainly customer reviews from various customer review websites, such as Amazon, Trustpilot, Google Maps etc.
 
-Integrations can be used to import answers from third-party platforms and analyze them directly within Caplena. There are multiple integrations to choose from, and currently, a broad range of review platforms (for an overview of all integrations, click here) is supported. For every integration that the user adds, exactly one Caplena project is created, which contains the imported answers from the third-party platform. Thus, an integration acts as a data source for a single project.
+Here you can select reviews for one or several products, services, locations (shops, restaurants, hotels, etc.) or software applications by copying the URL or a similar unique identifier to start with the data import.
+
+Currently available sources for customer reviews / integrations are as follows:
+
+![Screenshot 2024-10-09 at 16.22.26.png](<../assets/images/Screenshot 2024-10-09 at 16.22.26.png>)
+
+
+
+For each external data source you will find a guideline on how to identify the reviews that you would like to analyze. In most cases it is as simple as copying the URL, just click on any of the logos in your [Upload](https://caplena.com/app/upload) section and follow the steps behind it.
+
+
+The following tutorials show the Integrations features in practice:
+- A case study comparing two meditation apps - [Click here](https://blog.caplena.com/2021/08/25/headspace-vs-calm-a-comparative-analysis-of-customer-reviews/)
+- Tutorial walk-through taking the Netflix app as an example - [Click here](https://blog.caplena.com/2020/05/06/walk-through-analyzing-open-ended-feedback-a-3-step-video-tutorial-on-netflix-app-reviews/)
+
+
 
 ### Integration Items
 An integration item is a resource that contains answers to be analyzed (e.g. reviews for an app in the Google Play Store). Every integration can consist of multiple integration items from which the answers are fetched from. 
@@ -45,6 +60,9 @@ As of right now, our integrations feature allows you to import and synchronize r
 
 ### Google Maps
 
+![Screenshot 2024-09-20 at 11.11.26.png](<../assets/images/Screenshot 2024-09-20 at 11.11.26.png>)
+
+
 Input Format: `<name>, <address>, <country>`
 
 In general, you should try to specify the address to the venue as detailed as possible by combining the name, address and country. For example, let us consider the *WERK 8* restaurant as shown in the image. We should end up with the following input: 
@@ -61,6 +79,9 @@ In general, you should try to specify the address to the venue as detailed as po
 
 ### Trustpilot
 
+![Screenshot 2024-09-20 at 11.12.32.png](<../assets/images/Screenshot 2024-09-20 at 11.12.32.png>)
+
+
 Input Format: `https://www.trustpilot.com/review/<domain>`
 
 **Examples:**
@@ -70,6 +91,8 @@ Input Format: `https://www.trustpilot.com/review/<domain>`
 `https://www.trustpilot.com/review/cyberghostvpn.com`
 
 ### Apple App Store
+
+![Screenshot 2024-09-20 at 11.13.40.png](<../assets/images/Screenshot 2024-09-20 at 11.13.40.png>)
 
 Input Format: 
 
@@ -85,6 +108,9 @@ Input Format:
 `https://apps.apple.com/de/app/fifa-soccer/id1094930513`  
 
 ### Google Play Store
+
+![Screenshot 2024-09-20 at 11.15.04.png](<../assets/images/Screenshot 2024-09-20 at 11.15.04.png>)
+
 
 Our integration for Google Play Store support fetching reviews for apps, books and even movies. Depending on what type of resource you want to fetch, a different input format is being used. Google Play Store displays different reviews depending on the language set in the URL.
 
@@ -115,6 +141,9 @@ The `hl` parameter defines the language of the reviews. If you do not set this p
 
 ### Amazon
 
+![Screenshot 2024-09-20 at 11.16.14.png](<../assets/images/Screenshot 2024-09-20 at 11.16.14.png>)
+
+
 As of right now, we support five different Amazon stores, namely `amazon.com`, `amazon.fr`, `amazon.de`, `amazon.it` and `amazon.co.uk`. In addition, we support two different URL formats, one with and one without name.
 
 Country Identifiers: `com`, `fr`, `de`, `it`, `co.uk`, `es`, `ca`, `com.au`, `in`, and `co.jp`
@@ -144,6 +173,9 @@ The Amazon Standard Identification Number or [ASIN](https://en.wikipedia.org/wik
 
 ### G2
 
+![Screenshot 2024-09-20 at 11.17.14.png](<../assets/images/Screenshot 2024-09-20 at 11.17.14.png>)
+
+
 Input Format: `https://www.g2.com/products/<name>/reviews`
 
 **Examples:**
@@ -154,6 +186,9 @@ Input Format: `https://www.g2.com/products/<name>/reviews`
 
 
 ### Capterra
+
+![Screenshot 2024-09-20 at 11.18.51.png](<../assets/images/Screenshot 2024-09-20 at 11.18.51.png>)
+
 
 Input Format: `https://www.capterra.com/p/<identifier>/<name>/`
 
@@ -166,6 +201,9 @@ Input Format: `https://www.capterra.com/p/<identifier>/<name>/`
 
 ### Yelp
 
+![Screenshot 2024-09-20 at 11.19.48.png](<../assets/images/Screenshot 2024-09-20 at 11.19.48.png>)
+
+
 Input Format: `https://www.yelp.com/biz/<name>`
 
 **Examples:**
@@ -173,6 +211,8 @@ Input Format: `https://www.yelp.com/biz/<name>`
 `https://www.yelp.com/biz/franchia-vegan-cafe-new-york`  
 `https://www.yelp.com/biz/tibits-basel`  
 `https://www.yelp.com/biz/brandenburger-tor-berlin`
+
+## Connected Accounts
 
 ### Brandwatch
 

@@ -53,8 +53,8 @@ This means you must only create **one** topic for all three sentiment attitudes 
 <div>Codes without sentiment don't have any indicator:</div>
 <img src="https://raw.github.com/caplena/knowledge-base/master/docs/images/topic_no_code.png" style="width:100px;"/>
 </div>
-
 <!-- theme: warning -->
+
 > #### Enabling topic sentiment
 >
 > The sentiment can only be enabled for topics **without any reviewed rows**. 
@@ -112,6 +112,7 @@ An additional feature of keywords are *regular expressions* (or regexes): You ma
 > Example: The keyword `/[0-9 ]{6,10}/` would match rows that contain a consecutive sequence of 6-10 digits or whitespaces and could be a primitive template for finding phone numbers.
 >
 > *Note: This would also match a row with only 6 consecutive whitespaces.*
+
 
 
 

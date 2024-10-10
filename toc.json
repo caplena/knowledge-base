@@ -16,138 +16,137 @@
     },
     {
       "type": "divider",
-      "title": "📺 News"
+      "title": "❓ FAQ"
     },
     {
       "type": "item",
-      "title": "Changelog",
-      "uri": "docs/02-00-Changelog.md"
+      "title": "Answers to frequently asked questions",
+      "uri": "docs/FAQ.md"
     },
     {
       "type": "divider",
-      "title": "📚 Concepts"
-    },
-    {
-      "type": "item",
-      "title": "Data Structure",
-      "uri": "docs/03-00-Data-Structure.md"
-    },
-    {
-      "type": "item",
-      "title": "Topics",
-      "uri": "docs/03-01-Topics.md"
-    },
-    {
-      "type": "item",
-      "title": "Limits / Warnings",
-      "uri": "docs/03-04-Limits-and-Warnings.md"
-    },
-    {
-      "type": "item",
-      "title": "Credits",
-      "uri": "docs/03-05-Credits.md"
-    },
-    {
-      "type": "item",
-      "title": "Trial & Subscriptions",
-      "uri": "docs/03-06-Subscriptions.md"
-    },
-    {
-      "type": "divider",
-      "title": "🕹 Features"
-    },
-    {
-      "type": "item",
-      "title": "Login",
-      "uri": "docs/04-00-Login.md"
+      "title": "📚 Setting up a new project"
     },
     {
       "type": "group",
-      "title": "Data Import & Export",
+      "title": "Import Options",
+      "uri": "docs/Import-options.md",
       "items": [
         {
           "type": "item",
-          "title": "Data Import",
+          "title": "File Upload",
           "uri": "docs/04-01-Import-Data.md"
         },
         {
           "type": "item",
-          "title": "Integrations in Detail",
+          "title": "Integrations",
           "uri": "docs/04-09-Integrations-in-Detail.md"
         },
         {
           "type": "item",
-          "title": "Anonymization Feature",
-          "uri": "docs/04-07-Anonymize-text-comments.md"
-        },
-        {
-          "type": "item",
-          "title": "Export Data",
-          "uri": "docs/04-08-Export.md"
-        },
-        {
-          "type": "item",
-          "title": "Deletion of Data Rows",
-          "uri": "docs/04-10-Delete-Rows.md"
+          "title": "Direct Input",
+          "uri": "docs/Direct-Input.md"
         }
       ]
     },
     {
       "type": "item",
-      "title": "Languages & Translations",
-      "uri": "docs/09-01-Languages.md"
+      "title": "Data Manipulations",
+      "uri": "docs/12-Data-Manipulations.md"
+    },
+    {
+      "type": "group",
+      "title": "Project Settings",
+      "items": [
+        {
+          "type": "item",
+          "title": "General Settings",
+          "uri": "docs/13-Project-Settings.md"
+        },
+        {
+          "type": "item",
+          "title": "Anonymization",
+          "uri": "docs/04-07-Anonymize-text-comments.md"
+        },
+        {
+          "type": "item",
+          "title": "Translation",
+          "uri": "docs/09-01-Languages.md"
+        }
+      ]
+    },
+    {
+      "type": "divider",
+      "title": "🕹 Topic Assignment"
     },
     {
       "type": "item",
-      "title": "Start Analysis / Topic Generation",
+      "title": "Main Concepts",
+      "uri": "docs/03-01-Topics.md"
+    },
+    {
+      "type": "item",
+      "title": "Start Analysis",
       "uri": "docs/11-Start-the-Analysis.md"
     },
     {
       "type": "group",
-      "title": "Topic Assignments",
+      "title": "Fine Tuning View",
       "items": [
         {
           "type": "item",
-          "title": "Fine Tuning View",
+          "title": "Fine Tuning",
           "uri": "docs/06-01-Fine-tuning-view.md"
         },
         {
           "type": "item",
           "title": "AI Topic Assignments",
           "uri": "docs/06-02-AI-assignments.md"
+        },
+        {
+          "type": "item",
+          "title": "Semi-Open vs Fully Open",
+          "uri": "docs/03-02-Open-Text-vs-Lists.md"
         }
       ]
     },
-        {
-      "type": "group",
-      "title": "Visualization: Charts and Dashboards",
-      "items": [
-        {
-          "type": "item",
-          "title": "Creating Charts",
-          "uri": "docs/07-01-Creating-Charts.md"
-        },
-        {
-          "type": "item",
-          "title": "Creating Dashboards",
-          "uri": "docs/07-02-Creating-Dashboards.md"
-        },
-        {
-          "type": "item",
-          "title": "Chart Values Explained",
-          "uri": "docs/07-03-Chart-Values-Explained.md"
-        },
-        {
-          "type": "item",
-          "title": "Correlation Metrics",
-          "uri": "docs/07-04-Correlation-Metrics.md"
-        },
-        {
-          "type": "item",
-          "title": "ChatGPT-based Summary",
-          "uri": "docs/07-05-ChatGPT-Summary-Feature.md"
-        }
-      ]
+    {
+      "type": "divider",
+      "title": "📊 Insights & Reports"
+    },
+    {
+      "type": "item",
+      "title": "Creating Charts",
+      "uri": "docs/07-01-Creating-Charts.md"
+    },
+    {
+      "type": "item",
+      "title": "Creating Dashboards",
+      "uri": "docs/07-02-Creating-Dashboards.md"
+    },
+    {
+      "type": "item",
+      "title": "Chart Values Explained",
+      "uri": "docs/07-03-Chart-Values-Explained.md"
+    },
+    {
+      "type": "item",
+      "title": "Correlation Metrics",
+      "uri": "docs/07-04-Correlation-Metrics.md"
+    },
+    {
+      "type": "item",
+      "title": "ChatGPT-based Summary",
+      "uri": "docs/07-05-ChatGPT-Summary-Feature.md"
+    },
+    {
+      "type": "item",
+      "title": "Data Export",
+      "uri": "docs/04-08-Export.md"
+    },
+    {
+      "type": "divider",
+      "title": " 📋 Settings & Administration"
     },
     {
       "type": "item",
@@ -160,13 +159,27 @@
       "uri": "docs/10-Third-Party-Services.md"
     },
     {
-      "type": "divider",
-      "title": "📁 Legacy & Archive"
+      "type": "item",
+      "title": "Credits",
+      "uri": "docs/03-05-Credits.md"
     },
     {
       "type": "item",
-      "title": "Caplena v2 (Migration Guide)",
-      "uri": "docs/02-00-V2-changes.md"
+      "title": "Limits and Warnings",
+      "uri": "docs/03-04-Limits-and-Warnings.md"
+    },
+    {
+      "type": "item",
+      "title": "Subscriptions",
+      "uri": "docs/03-06-Subscriptions.md"
+    },
+    {
+      "type": "divider",
+      "title": "📺 News & Product Updates"
     }
   ]
 }
+
+
+
+

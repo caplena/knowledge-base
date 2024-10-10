@@ -39,7 +39,6 @@ Our AI is trained in a three-step process:
 <!-- theme: success -->
 > The recommended way to go about this is by using the **Focus Mode 🤓**. Alternatively you can also click on a specific row you want to edit, which will open the sidebar.
 
-See [this article](06-02-AI-assignments.md) to learn more about how the AI assigns topics.
 
 <!-- theme: info -->
 
