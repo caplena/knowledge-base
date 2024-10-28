@@ -280,8 +280,20 @@ Choose the account and survey from which you'd like to import your data.
 
 ![Screenshot (28).png](<../assets/images/Screenshot (28).png>)
 
+### Zapier
+
+![Screenshot 2024-10-28 at 10.24.07.png](<../assets/images/Screenshot 2024-10-28 at 10.24.07.png>)
 
 
+Zapier connects Caplena to thousands of other apps, allowing you to automate tasks and create custom workflows without any coding. With Zapier, you can set up "Zaps" that automatically send data to or from Caplena. For example:
+
+- **Import Data:** Automatically upload new survey responses, support tickets, or reviews from apps like Google Forms, Typeform, or Intercom to Caplena for immediate analysis.
+- **Export Results**: Send analyzed results or insights from Caplena to platforms like Google Sheets, Slack, or email for easy reporting and sharing.
+- **Trigger Notifications:** Set up notifications to alert your team via Slack or email when new analysis results are available.
+
+For more detailes guide, please watch this video:
+
+https://youtu.be/5DVt7I0C2hA?si=MTfOi0kMg3dMHcs0
 
 
 
