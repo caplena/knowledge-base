@@ -77,13 +77,16 @@ Sentiment refers to whether responses in your project are positive, negative, or
 
 If you´re not familiar with your data, click "View Rows" on the right side of the sentiment screen to preview your responses. 
 
-![Screenshot 2024-08-20 at 16.04.48.png](<../assets/images/Screenshot 2024-08-20 at 16.04.48.png>)
+![Screenshot 2024-10-29 at 12.08.59.png](<../assets/images/Screenshot 2024-10-29 at 12.08.59.png>)
+
+
 
 ## Topic Generation
 
 After the AI generates the initial analysis structure for your project, you'll be taken to a screen where you can review and refine it.
 
-![Screenshot 2024-08-20 at 16.47.34.png](<../assets/images/Screenshot 2024-08-20 at 16.47.34.png>)
+![Screenshot 2024-10-29 at 12.12.53.png](<../assets/images/Screenshot 2024-10-29 at 12.12.53.png>)
+
 
  This structure is organized into two levels: categories and topics. Here’s what to do next:
 
@@ -101,20 +104,23 @@ After the AI generates the initial analysis structure for your project, you'll b
 
 - **Use AI Suggestions:** Look at the AI-generated suggestions on the right to remove potentially similar topics.
 
-![Screenshot 2024-08-20 at 17.07.56.png](<../assets/images/Screenshot 2024-08-20 at 17.07.56.png>)
+![Screenshot 2024-10-29 at 12.14.47.png](<../assets/images/Screenshot 2024-10-29 at 12.14.47.png>)
+
 
  **Step 3: Finalize and Refine**
 
 - **Make final adjustments** to the structure if needed
  - **Generate More Topics:** Click "Generate More Topics" to add more topics for specific categories or the entire project.
 
- ![Screenshot 2024-08-20 at 17.42.18.png](<../assets/images/Screenshot 2024-08-20 at 17.42.18.png>)
+![Screenshot 2024-10-29 at 12.16.02.png](<../assets/images/Screenshot 2024-10-29 at 12.16.02.png>)
+
 
  <!-- theme: info -->
 
 > During each of the three stages, you'll see the Row Browser on the right-hand side. This tool is useful if you want to review the actual data in your project as you refine the structure.
 
-![Screenshot 2024-08-21 at 10.01.59.png](<../assets/images/Screenshot 2024-08-21 at 10.01.59.png>)
+![Screenshot 2024-10-29 at 12.16.51.png](<../assets/images/Screenshot 2024-10-29 at 12.16.51.png>)
+
 
 
 
