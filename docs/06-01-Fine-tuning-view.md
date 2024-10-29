@@ -48,7 +48,7 @@ This mode does a couple of things:
 
 <!-- theme: info -->
 
-> The AI automatically updates the topics assignment every now and then in the background after you have made enough reviews or made changes to the topics. See [this article](#when-is-the-ai-updated) to learn when exactly updates are performed.
+> The AI automatically updates the topics assignment every now and then in the background after you have made enough reviews or made changes to the topics. 
 
 ### Topic Editor
 
