@@ -176,6 +176,11 @@
     {
       "type": "divider",
       "title": "📺 News & Product Updates"
+    },
+{
+      "type": "item",
+      "title": "Caplena 3.0 Beta ",
+      "uri": "docs/31-Caplena30-Beta.md"
     }
   ]
 }
