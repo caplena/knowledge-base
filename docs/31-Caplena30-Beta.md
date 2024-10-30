@@ -1,11 +1,10 @@
 ---
 stoplight-id: mmvhw1ztcw2id
-internal: true
 ---
 
 # Caplena 3.0 Beta
 
-\#TODO: Link video once finished
+<!--TODO: Link video once finished-->
 
 ## Feature highlights
 
@@ -49,4 +48,4 @@ While we are working on the new interface, the current interface will remain as 
 
 ## Feedback
 
-We'd love to hear your throughts on the new platform. Fill in the in-app survey or drop us a note at <support@caplena.com>.
+We'd love to hear your throughts on the new platform. Complete the in-app survey or drop us a note at <support@caplena.com>.
