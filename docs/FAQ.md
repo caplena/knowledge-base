@@ -74,3 +74,13 @@ To share a dashboard externally:
 ![Screenshot 2024-09-25 at 16.58.34.png](<../assets/images/Screenshot 2024-09-25 at 16.58.34.png>)
 
 For more insights into dashboards, please follow [**this link**](07-02-Creating-Dasboards.md).
+
+### What if my data file has cells marked as "N/A" or other placeholder values instead of being empty?
+ If cells contain placeholder text like “N/A” or “-99,” they will be recognized as responses and will be billed. To prevent this, you can either delete these values or set them as Dummy Values in your account settings.
+
+ In your **Account Settings**, go to the **Dummy Value section**, where you can enter up to three dummy values (e.g., “N/A,” “-99”). Caplena will ignore these values during analysis, so they won’t count toward billing.
+
+ ![Screenshot 2024-11-04 at 16.52.13.png](<../assets/images/Screenshot 2024-11-04 at 16.52.13.png>)
+
+
+By following these steps, you can ensure that only meaningful responses are billed while avoiding charges for placeholders or empty cells.
