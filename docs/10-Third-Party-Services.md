@@ -103,7 +103,7 @@ We use PostHog as our product analytics platform.
 *Legal Address:* PostHog Inc, 2261 Market Street #4008, San Francisco, CA 94114
 
 
-### Close
+### Hubspot
 
 Our CRM tool.
 
