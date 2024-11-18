@@ -52,6 +52,9 @@ This action will enable you to seamlessly transfer the topic collection from the
 ### Upload File
 And finally, if you click on **upload file**, you will be able to bring your external topic collection) into the platform. Below you will find examples for the required format, depending on whether you will apply our topic sentiment or not.
 
+![Screenshot 2024-11-18 at 11.54.33.png](<../assets/images/Screenshot 2024-11-18 at 11.54.33.png>)
+
+
 
 
 Please change the format of your external topic collection into the format shown below before importing it.
