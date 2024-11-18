@@ -7,29 +7,34 @@ Once your data is in the project, you can start the analysis. Here we will expla
 
 Starting the analysis will be always the same process, no matter whether you imported a data file or whether you used an automatic import process such as review scraping (Google, Amazon, etc.), a connected account (Qualtrics, Zapier, etc.), or our API.
 
-When you open your project, you will see the text columns for the analysis. In the example below, you see two text columns, "Reason" and "Improvement". The button underneath the name of the text column will either say
-* **Cockpit** - the inital analysis process / topic generation was done, and you can go straight into the project to keep working on it, add charts, or export data etc. This is the case for the first text column (Reason) in the example below.
-* **Start Analysis** - in this case, you will enter the inital topic generation process. This is the case for the second text column (Improvement) in the example below.
+When you open your project, you will be directed to the Overview panel. Here, you will find the question designated for analysis, such as “Why did you give this rating?” in my case.
 
-![Bildschirmfoto 2024-08-16 um 09.35.46.png](<../assets/images/Bildschirmfoto 2024-08-16 um 09.35.46.png>)
+In this panel, you will also see an overview of potential topics identified in the dataset and an AI-generated summary. This summary offers insights into the main concepts mentioned, helping you quickly understand key points and trends within your data.
 
-Lets follow the "Start Analysis" option.
+![Screenshot 2024-11-18 at 10.13.39.png](<../assets/images/Screenshot 2024-11-18 at 10.13.39.png>)
+
+
+Once you're ready, you can click on the **Begin Analysis** button to create your topic collection.
+
+![Screenshot 2024-11-18 at 10.58.17.png](<../assets/images/Screenshot 2024-11-18 at 10.58.17.png>)
+
+
 
 ## From Scratch or not?
 
-On the first screen, you can choose whether you would like to start fresh or not. You will start fresh in case you analyze this type of open text for the first time, and the AI will go through your text data and generates the first categories and topics.
+**Starting Fresh**: Choose this option if you are analyzing this type of open text for the first time. The AI will review your text data and generate the initial categories and topics. To proceed, click on the Generate Topics button.
 
-In case you worked on similar text data within Caplena in another project or you have a topic collection from previous work as an external file, or you would like to check the templates we have, you should select "No".
+![Screenshot 2024-11-18 at 11.28.45.png](<../assets/images/Screenshot 2024-11-18 at 11.28.45.png>)
 
- ![Screenshot 2024-03-28 at 11.23.15.png](<../assets/images/Screenshot 2024-03-28 at 11.23.15.png>)
 
-In case you will not start from scratch, you will have the following three choices.
+**Importing Existing Topic**s: If you already have a topic collection from previous work saved as an external file or from a prior Caplena project, select the Import Topics option. This will allow you to bring those topics into your current project seamlessly.
 
-- **Other projcet** If you have previously worked with similar text data in Caplena, you can utilize any suitable project as a basis for your new project. This can help you leverage existing structures and settings to expedite your current analysis process. Even if the data is not 100% the same, but you expect a very similar structure and topics, this would be recommended.
-- **Template:** Caplena offers a variety of pre-made templates tailored for different types of analyses, including basic templates for industry sectors (Insurance, travel, retail, etc.) and types of analysis (employee feedback, product tests, apps, etc.). Applying one of these templates can save you time and effort while ensuring consistency in your analysis approach.
+![Screenshot 2024-11-18 at 11.46.55.png](<../assets/images/Screenshot 2024-11-18 at 11.46.55.png>)
+
+
+- **Other project** If you have previously worked with similar text data in Caplena, you can utilize any suitable project as a basis for your new project. This can help you leverage existing structures and settings to expedite your current analysis process. Even if the data is not 100% the same, but you expect a very similar structure and topics, this would be recommended.
 - **File upload:** Here you can choose to import your topic collection directly into Caplena. This will help you to make use of existing topic collection created outside Caplena in the past. The file should be in Excel format and requires a certain structure, which you can see further below.
 
- ![Screenshot 2024-03-28 at 11.24.59.png](<../assets/images/Screenshot 2024-03-28 at 11-2.24.59.png>)
 
 Following some more detail about each option.
 
@@ -40,17 +45,14 @@ Once you've identified the appropriate project and the text column within it (pr
 
 This action will enable you to seamlessly transfer the topic collection from the selected project to your current one, ensuring consistency and efficiency in your analysis process.
 
-![Screenshot 2024-03-28 at 11.53.16.png](<../assets/images/Screenshot 2024-03-28 at 11-2.53.16.png>)
+![Screenshot 2024-11-18 at 11.51.08.png](<../assets/images/Screenshot 2024-11-18 at 11.51.08.png>)
 
-### Template
-By selecting the **"Template"** option, you'll be presented with a range of pre-made templates designed to cover common use cases such as NPS studies, employee feedback, and more. 
 
-These templates are available in both English and German languages. Simply choose the template that best fits your requirements, and remember, this is just the base for the analysis, the AI can (if you wish) create additional topics additionally.
-
-![Screenshot 2024-03-28 at 12.59.27.png](<../assets/images/Screenshot 2024-03-28 at 12.59.27.png>)
 
 ### Upload File
 And finally, if you click on **upload file**, you will be able to bring your external topic collection) into the platform. Below you will find examples for the required format, depending on whether you will apply our topic sentiment or not.
+
+
 
 Please change the format of your external topic collection into the format shown below before importing it.
 
