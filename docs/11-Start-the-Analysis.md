@@ -69,63 +69,42 @@ Please change the format of your external topic collection into the format shown
 
 By choosing the most suitable option based on your needs, you can optimize your workflow and enhance the efficiency of your analysis in Caplena.
 
-
-## Topic Sentiment
-
-When the system asks if your project contains sentiment, it’s important to understand what this means for your analysis.
-
-Sentiment refers to whether responses in your project are positive, negative, or neutral. This is often used in projects like NPS  studies or any other survey where feedback can range from positive to negative.
-
-- If your project involves responses that can express emotions, opinions, or feedback (such as customer or employee surveys where people might express satisfaction or dissatisfaction), you should select "Yes." 
-
-- If the responses are purely factual (such as improvement questions) and don’t express positive or negative feelings, you should select "No."
-
-If you´re not familiar with your data, click "View Rows" on the right side of the sentiment screen to preview your responses. 
-
-![Screenshot 2024-10-29 at 12.08.59.png](<../assets/images/Screenshot 2024-10-29 at 12.08.59.png>)
-
-
-
 ## Topic Generation
 
 After the AI generates the initial analysis structure for your project, you'll be taken to a screen where you can review and refine it.
 
-![Screenshot 2024-10-29 at 12.12.53.png](<../assets/images/Screenshot 2024-10-29 at 12.12.53.png>)
+![Screenshot 2024-11-18 at 15.38.30.png](<../assets/images/Screenshot 2024-11-18 at 15.38.30.png>)
+
+**Step 1: Decide if you want to use Sentiment**
+
+Sentiment analysis is an important feature that helps determine whether responses in your project are positive, negative, or neutral. This can be especially valuable for projects like NPS studies or surveys where feedback ranges from positive to negative.
+
+**When to Enable Sentiment Analysis:**
+
+**Emotive Responses:** If your project includes responses that can express emotions, opinions, or feedback (e.g., customer or employee surveys where respondents might express satisfaction or dissatisfaction), it’s beneficial to enable sentiment analysis.
+
+**When Not to Enable Sentiment Analysis:**
+
+**Factual Responses:** If the responses in your project are purely factual (e.g., questions asking for improvements) and do not express positive or negative feelings, enabling sentiment analysis is not recommended.
+
+![Screenshot 2024-11-18 at 15.58.09.png](<../assets/images/Screenshot 2024-11-18 at 15.58.09.png>)
 
 
- This structure is organized into two levels: categories and topics. Here’s what to do next:
+**Step 2: Review Categories**
 
-**Step 1: Review Categories**
-
-- **Rename:** If a category name doesn’t quite fit, feel free to rename it to something more suitable.
-- **Remove:** If a category doesn’t apply to your data, you can remove it entirely.
-- **Add:** If you think of another important category that the AI didn’t include, go ahead and add it manually.
+- Rename: If a category name doesn’t quite fit, feel free to rename it to something more suitable.
+- Remove: If a category doesn’t apply to your data, you can remove it entirely.
+- Add: If you think of another important category that the AI didn’t include, go ahead and add it manually.
 
 **Step 2: Check Topics**
 
-- **Apply the MECE Principle:** Ensure that topics are Mutually Exclusive, Collectively Exhaustive (MECE):
+**Apply the MECE Principle**: Ensure that topics are Mutually Exclusive, Collectively Exhaustive (MECE):
 1. **Mutually Exclusive:** Topics should not overlap. Each topic should represent a unique idea or theme.
 2. **Collectively Exhaustive:** Together, all topics should cover all possible aspects of the category, leaving no gaps
 
-- **Use AI Suggestions:** Look at the AI-generated suggestions on the right to remove potentially similar topics.
-
-![Screenshot 2024-10-29 at 12.14.47.png](<../assets/images/Screenshot 2024-10-29 at 12.14.47.png>)
-
-
- **Step 3: Finalize and Refine**
-
-- **Make final adjustments** to the structure if needed
- - **Generate More Topics:** Click "Generate More Topics" to add more topics for specific categories or the entire project.
-
-![Screenshot 2024-10-29 at 12.16.02.png](<../assets/images/Screenshot 2024-10-29 at 12.16.02.png>)
-
-
  <!-- theme: info -->
 
-> During each of the three stages, you'll see the Row Browser on the right-hand side. This tool is useful if you want to review the actual data in your project as you refine the structure.
-
-![Screenshot 2024-10-29 at 12.16.51.png](<../assets/images/Screenshot 2024-10-29 at 12.16.51.png>)
-
+>Use AI Suggestions: Look at the AI-generated suggestions on the right to remove potentially similar topics.
 
 
 
