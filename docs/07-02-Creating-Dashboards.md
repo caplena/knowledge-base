@@ -55,4 +55,6 @@ To select a template, click the Use button beneath the desired option.
 
 3. **Date Column (Optional):** Specify the date column to enable time-based analysis. If left blank, the report will not include time-based visualizations.
 
-Click Generate Report to create your customized analysis.
+**Click Generate Report to create your customized analysis.**
+
+
