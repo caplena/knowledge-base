@@ -2,7 +2,7 @@
 stoplight-id: ogxai4lh0mb7e
 ---
 
-# NPS Report Explained
+# NPS Over Time Report Explained
 
  The NPS report is designed to provide an in-depth analysis of customer feedback. It helps you track NPS trends, understand key drivers behind the scores, and identify areas for improvement. This guide will walk you through every aspect of the NPS report
 
