@@ -95,3 +95,21 @@ Switch to Preview Mode to review the layout, structure, and readability of the r
 How to Switch Between Modes:
 
 Use the toggle at the top-right corner of the screen to move seamlessly between Edit Mode and Preview Mode.
+
+### 3. Sections
+Sections help you divide your report into meaningful, structured parts. Each section can focus on a specific aspect of your analysis, such as NPS results, key drivers, or feedback summaries.
+
+![Screenshot 2024-11-27 at 15.35.07.png](<../assets/images/Screenshot 2024-11-27 at 15.35.07.png>)
+
+
+**How to Add Sections:**
+
+- In Edit Mode, click + Add New Section to create a new part of your report.
+- Provide a descriptive name for the section (e.g., "NPS Overview," "Feedback Analysis").
+- Add relevant insights, such as charts, visualizations, or text summaries.
+- If you need to rearrange the sections in your report, simply drag and drop them in the section menu on the left-hand side
+
+**Benefits of Sections:**
+
+- **Enhanced Organization:** Keeps your report structured and easy to navigate.
+- **Improved Readability:** Ensures stakeholders can easily locate and focus on specific areas of analysis.
