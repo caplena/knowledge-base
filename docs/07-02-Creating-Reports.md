@@ -57,4 +57,41 @@ To select a template, click the Use button beneath the desired option.
 
 **Click Generate Report to create your customized analysis.**
 
+## Customizing Reports in Caplena
 
+No matter what type of report you select, the following elements—**Edit Mode**, **Preview Mode**, and **Sections**—will help you customize your reports and ensure you generate maximum insights.
+
+![Screenshot 2024-11-27 at 13.48.17.png](<../assets/images/Screenshot 2024-11-27 at 13.48.17.png>)
+
+### 1. Edit Mode
+
+Edit Mode is where you can modify and customize your report. It gives you complete control over the structure and content, enabling you to add or adjust insights.
+
+**Key Features of Edit Mode:**
+
+- **Add New Sectio**n: Allows you to create distinct sections for your report, such as summaries, data visualizations, or custom insights.
+- **Add New Insight Here:** Enables you to insert specific charts, graphs, or other visualizations within a section.
+- **Automatic Saving:** Any changes you make are saved automatically, ensuring no progress is lost.
+
+![Screenshot 2024-11-27 at 13.53.45.png](<../assets/images/Screenshot 2024-11-27 at 13.53.45.png>)
+
+
+**When to Use Edit Mode:**
+
+Use Edit Mode while setting up your report or making updates to ensure all essential insights and visualizations are included.
+
+### 2. Preview Mode
+
+Preview Mode provides a clean, read-only view of your report, showing how it will appear to others once shared or exported.
+
+**Key Features of Preview Mode:**
+
+- **Distraction-Free View:** Hides all editing tools, ensuring a polished, presentation-ready view of the report.
+- **Final Presentation Format:** Displays the report exactly as it will appear to stakeholders or clients.
+
+**When to Use Preview Mode:**
+
+Switch to Preview Mode to review the layout, structure, and readability of the report before sharing or exporting it.
+How to Switch Between Modes:
+
+Use the toggle at the top-right corner of the screen to move seamlessly between Edit Mode and Preview Mode.
