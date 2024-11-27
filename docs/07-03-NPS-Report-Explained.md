@@ -1,5 +1,5 @@
 ---
-stoplight-id: 9jt98mwlpcfy9
+stoplight-id: ogxai4lh0mb7e
 ---
 
 # NPS Report Explained
