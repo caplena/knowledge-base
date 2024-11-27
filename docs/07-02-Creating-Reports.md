@@ -2,7 +2,7 @@
 stoplight-id: 4pfyu4yr0gois
 ---
 
-# Reports & Insights
+## Creating Reports
 
 Caplena's reporting feature enables users to analyze qualitative and quantitative data effectively. With customizable templates and powerful analytics tools, you can generate insights to drive data-driven decisions. This article will guide you through creating, configuring, and utilizing reports in Caplena.
 
@@ -138,5 +138,21 @@ Insight Elements in Caplena help you visualize and analyze your data effectively
 
 ![Screenshot 2024-11-27 at 15.55.15.png](<../assets/images/Screenshot 2024-11-27 at 15.55.15.png>)
 
+## Sharing Reports 
+
+The "Share" feature allows you to easily share your reports with others. By default, anyone with the link can view the report. However, for added security, you can customize access by:
+
+![Screenshot 2024-11-27 at 16.05.21.png](<../assets/images/Screenshot 2024-11-27 at 16.05.21.png>)
+
+
+**Setting a Password (Optional):**
+Add a password to restrict access. Only users with the password will be able to open the report.
+
+**Adding an Expiry Date (Optional):**
+Set an expiration date for the link, after which the report will no longer be accessible.
+
+**Copying the Link:**
+Use the "Copy Link" button to quickly share the report with stakeholders via email, chat, or other platforms.
+ 
 
 
