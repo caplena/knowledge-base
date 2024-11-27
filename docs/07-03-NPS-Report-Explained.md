@@ -34,3 +34,9 @@ Quickly assess the distribution of scores and identify key patterns.
 
 Tracks how your NPS changes over weeks, months, or quarters.
 Highlights trends, spikes, or dips in customer satisfaction.
+
+### Topics Overview and Summary
+
+![Screenshot 2024-11-27 at 17.12.19.png](<../assets/images/Screenshot 2024-11-27 at 17.12.19.png>)
+
+
