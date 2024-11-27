@@ -113,3 +113,30 @@ Sections help you divide your report into meaningful, structured parts. Each sec
 
 - **Enhanced Organization:** Keeps your report structured and easy to navigate.
 - **Improved Readability:** Ensures stakeholders can easily locate and focus on specific areas of analysis.
+
+### 4. Insight Elements
+
+Insight Elements in Caplena help you visualize and analyze your data effectively. These elements cover key areas such as:
+
+1. **NPS and Ratings:** Display your Net Promoter Score, star ratings, and related trends.
+
+2. **Trends and Drivers:** Highlight key drivers and topic trends over time.
+
+3. **Sentiment Analysis:** Analyze the overall sentiment or sentiment tied to specific topics.
+
+4. **Topic Insights**: Break down feedback into topics and categories for clearer understanding.
+
+5. **Custom Visualizations:** Include tables, charts, and even custom text to add context and structure to your report.
+
+![Screenshot 2024-11-27 at 15.49.53.png](<../assets/images/Screenshot 2024-11-27 at 15.49.53.png>)
+
+**How to Add Insight Elements**
+- Select the insight element you want from the left panel.
+- Review its preview and description on the right.
+- Click Select Columns to choose the relevant data.
+- Once configured, the insight will be added to your report in the selected section.
+
+![Screenshot 2024-11-27 at 15.55.15.png](<../assets/images/Screenshot 2024-11-27 at 15.55.15.png>)
+
+
+
