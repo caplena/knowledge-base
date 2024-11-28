@@ -39,6 +39,7 @@ Highlights trends, spikes, or dips in customer satisfaction.
 
 ![Screenshot 2024-11-27 at 17.12.19.png](<../assets/images/Screenshot 2024-11-27 at 17.12.19.png>)
 
+
 The Topics Overview insight provides a visual breakdown of key themes in your feedback, paired with the Topics Summary, which delivers a concise textual analysis. Together, they help you understand why respondents gave specific ratings.
 
 **1. Topics Overview (Left Panel)**
@@ -79,3 +80,19 @@ Highlights topics with the most positive sentiment over a specific time period. 
 - **Net Sentiment Score:** Indicates the overall sentiment for each topic. Higher scores reflect stronger positive feedback.
 - **Sentiment Trend:** A line graph shows how sentiment for each topic has changed over time.
 - **Responses and Response Trends:** Displays the total number of responses and their trends for each topic.
+
+Dropdown menu (top-right) allows filtering by:
+- Top 3, 5, or 10 categories/topics.
+- All categories/topics.
+
+**3. Trending Negative Topics**
+
+Highlights topics with the most negative sentiment over a specific time period.Perfect for identifying problem areas or issues that require immediate attention to improve customer satisfaction.
+
+![Screenshot 2024-11-28 at 13.14.21.png](<../assets/images/Screenshot 2024-11-28 at 13.14.21.png>)
+
+Net Sentiment Score: Indicates the overall sentiment for each topic. Lower scores reflect stronger negative feedback.
+
+Sentiment Trend: A line graph shows how sentiment for each topic has changed over time.
+
+Responses and Response Trends: Displays the total number of responses and their trends for each topic.
