@@ -39,4 +39,43 @@ Highlights trends, spikes, or dips in customer satisfaction.
 
 ![Screenshot 2024-11-27 at 17.12.19.png](<../assets/images/Screenshot 2024-11-27 at 17.12.19.png>)
 
+The Topics Overview insight provides a visual breakdown of key themes in your feedback, paired with the Topics Summary, which delivers a concise textual analysis. Together, they help you understand why respondents gave specific ratings.
 
+**1. Topics Overview (Left Panel)**
+
+- Categorizes feedback into topics, with box sizes indicating frequency or relevance. You can switch between Treemap and Bar chart here:
+
+![Screenshot 2024-11-28 at 12.50.50.png](<../assets/images/Screenshot 2024-11-28 at 12.50.50.png>)
+
+- Filter Options: Focus on specific levels of detail, such as: All topics or the top 3, 5, or 10 topics/categories.
+
+
+
+**2. Topics Summary (Right Panel)**
+ - Highlights key feedback themes (e.g., product features, brand reputation) and mentions of gaps or concerns (e.g., missing services like HBO).
+- Custom Filters: Refine the summary to focus on specific topics or categories.
+
+![Screenshot 2024-11-28 at 12.53.24.png](<../assets/images/Screenshot 2024-11-28 at 12.53.24.png>)
+
+### Sentiment per Topic and Trending Topics
+
+**1.  Sentiment per Topic**
+
+Displays the sentiment distribution (positive, neutral, or negative) across topics or categories in your feedback. Ideal for identifying which topics elicit positive or negative feedback, helping you prioritize areas for improvement or celebration.
+
+![Screenshot 2024-11-28 at 13.03.00.png](<../assets/images/Screenshot 2024-11-28 at 13.03.00.png>)
+
+Dropdown menu (top-right) allows filtering by:
+- Top 3, 5, or 10 categories/topics.
+- All categories/topics.
+
+**2.  Trending Positive Topics**
+
+Highlights topics with the most positive sentiment over a specific time period. Useful for identifying strengths or successful initiatives that resonate well with respondents.
+
+![Screenshot 2024-11-28 at 13.07.12.png](<../assets/images/Screenshot 2024-11-28 at 13.07.12.png>)
+
+
+- **Net Sentiment Score:** Indicates the overall sentiment for each topic. Higher scores reflect stronger positive feedback.
+- **Sentiment Trend:** A line graph shows how sentiment for each topic has changed over time.
+- **Responses and Response Trends:** Displays the total number of responses and their trends for each topic.
