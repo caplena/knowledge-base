@@ -91,8 +91,30 @@ Highlights topics with the most negative sentiment over a specific time period.P
 
 ![Screenshot 2024-11-28 at 13.14.21.png](<../assets/images/Screenshot 2024-11-28 at 13.14.21.png>)
 
-Net Sentiment Score: Indicates the overall sentiment for each topic. Lower scores reflect stronger negative feedback.
+- **Net Sentiment Score:** Indicates the overall sentiment for each topic. Lower scores reflect stronger negative feedback.
 
-Sentiment Trend: A line graph shows how sentiment for each topic has changed over time.
+- **Sentiment Trend:** A line graph shows how sentiment for each topic has changed over time.
 
-Responses and Response Trends: Displays the total number of responses and their trends for each topic.
+- **Responses and Response Trends:** Displays the total number of responses and their trends for each topic.
+
+Dropdown menu (top-right) allows filtering by:
+- Top 3, 5, or 10 categories/topics.
+- All categories/topics.
+
+**4. Overall Trending Topics**
+
+This insight element provides an overview of the most prominent topics and their associated sentiment trends. It helps you track customer sentiment and identify patterns across key topics over time.
+
+![Screenshot 2024-11-28 at 15.46.53.png](<../assets/images/Screenshot 2024-11-28 at 15.46.53.png>)
+
+
+- **Topics:** Lists trending topics like "Customer Service" or "Product Satisfaction."
+- **Net Sentiment Score:** Measures overall sentiment (positive or negative) for each topic.
+- **Responses Trend:** Visualizes how the volume of feedback changes over time.
+- **Sentiment Distribution** (Right Panel):
+
+1. **Color-Coded Bar:** Quickly shows the balance of positive (green), neutral (gray), and negative (red) sentiment.
+
+2. **Timeline Chart (Bottom Right)**:Tracks how sentiment for a specific topic evolves over time, highlighting long-term trends.
+
+
