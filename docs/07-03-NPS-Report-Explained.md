@@ -161,5 +161,13 @@ A horizontal bar chart showing the sentiment distribution (positive, neutral, ne
 - Quickly assess the proportion of feedback sentiment for each topic (e.g., features, quality, brand, price).
 - Identify topics with high negative sentiment and take action to improve them.
 
+Underneath you will see a breakdown of customer feedback based on their NPS, grouping it into Promoters, Passives, and Detractors. It helps identify key drivers of satisfaction and dissatisfaction.
+
+![Screenshot 2024-11-29 at 11.21.12.png](<../assets/images/Screenshot 2024-11-29 at 11.21.12.png>)
+
+You can switch between individual responses and the summary view to get a clearer understanding of each group.
+
+![Screenshot 2024-11-29 at 11.30.29.png](<../assets/images/Screenshot 2024-11-29 at 11.30.29.png>)
+
 
 
