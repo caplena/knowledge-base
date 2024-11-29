@@ -149,3 +149,17 @@ The aggregated impact of each topic on the overall NPS. Longer green bars indica
 - Pinpoint which topics have the greatest influence on overall satisfaction.
 - Use this to prioritize efforts, focusing on impactful areas.
 
+### NPS Score Breakdown
+
+A horizontal bar chart showing the sentiment distribution (positive, neutral, negative) for each topic.
+
+![Screenshot 2024-11-29 at 11.18.09.png](<../assets/images/Screenshot 2024-11-29 at 11.18.09.png>)
+
+
+**How to use it:**
+
+- Quickly assess the proportion of feedback sentiment for each topic (e.g., features, quality, brand, price).
+- Identify topics with high negative sentiment and take action to improve them.
+
+
+
