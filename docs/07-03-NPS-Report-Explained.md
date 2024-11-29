@@ -115,6 +115,37 @@ This insight element provides an overview of the most prominent topics and their
 
 1. **Color-Coded Bar:** Quickly shows the balance of positive (green), neutral (gray), and negative (red) sentiment.
 
-2. **Timeline Chart (Bottom Right)**:Tracks how sentiment for a specific topic evolves over time, highlighting long-term trends.
+2. **Timeline Chart (Bottom Right)**:Tracks how sentiment for a specific topic evolves over time, highlighting long-term trends. 
 
+### NPS Drivers
+
+The "NPS Drivers" insight helps you identify the key factors impacting your Net Promoter Score (NPS). It provides an overview of how different topics influence NPS, helping you focus on areas to improve or sustain customer satisfaction.
+
+![Screenshot 2024-11-29 at 10.28.05.png](<../assets/images/Screenshot 2024-11-29 at 10.28.05.png>)
+
+**1. Driver Summary (Top-Left Section):**
+
+A text-based summary of the most impactful topics driving your NPS.
+
+**How to use it:**
+
+- Identify areas for improvement or focus, such as product quality, customer service, or pricing.
+- Each topic includes actionable insights (e.g., “Improve overall quality by addressing glitches and inconsistencies”).
+
+**2. Coefficients (Impact per Row) (Top-Middle Chart):**
+
+The effect of each topic on individual responses, broken down by sentiment
+
+**How to use it:**
+
+- Evaluate how much influence a specific topic has on individual responses.
+- Focus on reducing negative impact areas and leveraging positive contributors.
+
+**3. Overall Net Impact (Top-Right Chart):**
+
+The aggregated impact of each topic on the overall NPS. Longer green bars indicate higher positive contributions. Shorter bars (or red bars, if applicable) indicate minimal or negative contributions.
+**How to use it:**
+
+- Pinpoint which topics have the greatest influence on overall satisfaction.
+- Use this to prioritize efforts, focusing on impactful areas.
 
