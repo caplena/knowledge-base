@@ -1,5 +1,5 @@
 ---
-stoplight-id: yeahnapfw5cqq
+stoplight-id: b8yglz42n4bdo
 ---
 
 # Insight Chat
