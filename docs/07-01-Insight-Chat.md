@@ -90,7 +90,19 @@ This calculates how removing a topic would affect your Net Promoter Score (NPS).
 
 **What Does This Insight Tell Me?**
 
-- Address Negative Drivers: Focus on improving customer perception, service quality, and transparency around fees.
-- Leverage Positive Drivers: Highlight strengths like friendly staff and comfortable seating in your communications.
+- **Address Negative Drivers:** Focus on improving customer perception, service quality, and transparency around fees.
+- **Leverage Positive Drivers:** Highlight strengths like friendly staff and comfortable seating in your communications.
+
+### Option 2 - Your Own Insight
+
+You can also ask the system specific questions about your data that interest you. Here's how it works:
+
+In this example, I want to know what passengers think about sandwiches on board. Since this data hasn’t been explicitly coded as a specific topic, the system will analyze the data to find relevant insights.
+
+![Screenshot 2024-12-02 at 14.35.18.png](<../assets/images/Screenshot 2024-12-02 at 14.35.18.png>)
+
+
+
+
 
 
