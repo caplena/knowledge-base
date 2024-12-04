@@ -4,7 +4,8 @@ stoplight-id: aee4d8f8e8d2f
 
 # AI Topic Assignments
 
-![Topic Assignments](images/ai-topic-assignments.png)
+![Screenshot 2024-12-04 at 17.21.11.png](<../assets/images/Screenshot 2024-12-04 at 17.21.11.png>)
+
 
 Caplena's AI automatically assigns the appropriate topics from your topic-tree to your texts 🪄.
 
