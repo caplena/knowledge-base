@@ -62,3 +62,120 @@
           "type": "item",
           "title": "General Settings",
           "uri": "docs/13-Project-Settings.md"
+        },
+        {
+          "type": "item",
+          "title": "Anonymization",
+          "uri": "docs/04-07-Anonymize-text-comments.md"
+        },
+        {
+          "type": "item",
+          "title": "Translation",
+          "uri": "docs/09-01-Languages.md"
+        }
+      ]
+    },
+    {
+      "type": "divider",
+      "title": "🕹 Topic Assignment"
+    },
+    {
+      "type": "item",
+      "title": "Main Concepts",
+      "uri": "docs/03-01-Topics.md"
+    },
+    {
+      "type": "item",
+      "title": "Start Analysis",
+      "uri": "docs/11-Start-the-Analysis.md"
+    },
+    {
+      "type": "group",
+      "title": "Fine Tuning View",
+      "items": [
+        {
+          "type": "item",
+          "title": "Fine Tuning",
+          "uri": "docs/06-01-Fine-tuning-view.md"
+        },
+        {
+          "type": "item",
+          "title": "AI Topic Assignments",
+          "uri": "docs/06-02-AI-assignments.md"
+        }
+      ]
+    },
+    {
+      "type": "divider",
+      "title": "📊 Insights & Reports"
+    },
+    {
+      "type": "item",
+      "title": "Creating Reports",
+      "uri": "docs/07-02-Creating-Reports.md"
+    },
+    {
+      "type": "item",
+      "title": "NPS Report Explained",
+      "uri": "docs/07-03-NPS-Report-Explained.md"
+    },
+    {
+      "type": "item",
+      "title": "Insight Chat",
+      "uri": "docs/07-01-Insight-Chat.md"
+    },
+    {
+      "type": "item",
+      "title": "Correlation Metrics",
+      "uri": "docs/07-04-Correlation-Metrics.md"
+    },
+    {
+      "type": "item",
+      "title": "ChatGPT-based Summary",
+      "uri": "docs/07-05-ChatGPT-Summary-Feature.md"
+    },
+    {
+      "type": "item",
+      "title": "Data Export",
+      "uri": "docs/04-08-Export.md"
+    },
+    {
+      "type": "divider",
+      "title": "📋 Settings & Administration"
+    },
+    {
+      "type": "item",
+      "title": "Users & Team Management",
+      "uri": "docs/08-01-Teams-and-Users.md"
+    },
+    {
+      "type": "item",
+      "title": "Third Party Services",
+      "uri": "docs/10-Third-Party-Services.md"
+    },
+    {
+      "type": "item",
+      "title": "Credits",
+      "uri": "docs/03-05-Credits.md"
+    },
+    {
+      "type": "item",
+      "title": "Limits and Warnings",
+      "uri": "docs/03-04-Limits-and-Warnings.md"
+    },
+    {
+      "type": "item",
+      "title": "Subscriptions",
+      "uri": "docs/03-06-Subscriptions.md"
+    },
+    {
+      "type": "divider",
+      "title": "📺 News & Product Updates"
+    },
+    {
+      "type": "item",
+      "title": "Caplena 3.0 Beta",
+      "uri": "docs/31-Caplena30-Beta.md"
+    }
+  ]
+}
