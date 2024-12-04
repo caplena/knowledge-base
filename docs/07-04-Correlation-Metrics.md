@@ -2,51 +2,28 @@
 stoplight-id: 6abgdel2j5c3p
 ---
 
-# Correlation Metrics
+# Using the Alerts Feature
 
-In our Relationship chart, we offer different metrics which measure the correlation between topics. The conceptually simplest measure is the co-occurrence but the other metrics we offer are more indicative and less dependent on the topic distribution.
+The Alerts feature in Caplena helps you stay updated on your data by notifying you about important changes, occurrences, or trends. You can configure alerts to track specific topics, metrics, or events, ensuring you never miss significant developments in your project.
 
-## 1. Co-occurrences
-Co-occurrence enable you to discover and group concepts that are strongly related within the set of documents or records
-More concretly, it is the number of time the topics appear together. This does not take into account the overall frequency of the topic and is thus biased on frequent topics.
+### Setting Up Alerts
 
-## 2. Jaccard Index
+1. Navigate to the Alerts section in your project.
+2. Click the "New Alert" button.
+3. Fill in the required details:
 
-The Jaccard value is a measure of similarity between two topics, with a range between 0 and 1.0. A high value indicates a high similarity.
-It is computed by dividing the intersection of the co-occurrences toics by their union.
-This measure is more robust towards the topic distribution than co-occurrence.
-
-### **Example :**
-
-Imagine we have only two topics : Design, and Product.
-Design and Product are mentioned together 12 times, and are mentioned in total 20 times (either together or independently of each other).
-
-The Jaccard index would then be : 12/20 = **0.6**
+![Screenshot 2024-12-04 at 17.53.32.png](<../assets/images/Screenshot 2024-12-04 at 17.53.32.png>)
 
 
-## 3. Kulczinsky measure (recommended)
+- **Alert Name:** Give your alert a clear and descriptive name.
+- **Alert for Column:** Select the column (e.g., topics, categories) you want to monitor.
+- **Date Column:** Choose the date column to define the time range for the alert.
 
-The Kulczinsky measure ranges from 0 to 1 and indicates the average conditional probability of co-occurrences. A higher value indicates a higher similarity. This is the measure that deals most effectively with imbalance in the topic distribution.
+### Types of Alerts You Can Configure
 
-The Formula is the following:
+**1. Auto Digest Alerts**
+**What it Does:** Periodically sends you summaries of interesting developments in your data.
 
-  0.5 * (A/(A+B)+ A/(A+C))
+**Settings: **Select the frequency (e.g., Weekly).****
 
-
- with
- 
-- A = co-occurrence of both topics.
-- B = number of times only the topic 1 is assigned. 
-- C = number of times only the topic 2 is assigned.  
-
-### **Example :**
-
-We want to calculate the Kulczinsky value between Design and Product. 
-
-- Design and Product have been mentioned together 55 time, so **A =100**
-- Design has been mentioned 20 times (without Product), so **B = 20**
-- Product has been mentioned 80 times (without Design), so  **C = 80**
-
-The Kulczinsky value would be calculated the following way :
-
-0.5 * ( 100/120 + 100/180) = 0.7
+Adjust the Significance Slider to set how sensitive the alert should be (e.g., notify for highly significant changes).
