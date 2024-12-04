@@ -187,7 +187,8 @@ This is the index of the row in the project you uploaded / imported into Caplena
 
 To edit the topics of multiple rows at once, click this checkbox or hold shift and select multiple rows. See also [here](#bulk-assignment). To select all rows that match a certain condition, filter for those rows first and then click the Select all rows link on the top right of the row browser.
 
-![Screenshot 2024-09-10 at 14.47.22.png](<../assets/images/Screenshot 2024-09-10 at 14.47.22.png>)
+![Screenshot 2024-12-04 at 14.40.35.png](<../assets/images/Screenshot 2024-12-04 at 14.40.35.png>)
+
 
 
 
