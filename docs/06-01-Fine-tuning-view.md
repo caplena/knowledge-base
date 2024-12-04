@@ -225,16 +225,6 @@ The view options allow you to specify a couple of settings which define the appe
 ![Screenshot 2024-12-04 at 16.41.58.png](<../assets/images/Screenshot 2024-12-04 at 16.41.58.png>)
 
 
-### Export
-
-With the export options, you can download your results in different formats.
-
-For more information, please see [Export](04-08-Export.md).
-
-
-### AI Score
-
-See [AI Score](#ai-score).
 
 ### Result Chart
 
