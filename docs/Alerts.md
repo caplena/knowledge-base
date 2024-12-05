@@ -33,6 +33,10 @@ The Alerts feature in Caplena helps you stay updated on your data by notifying y
 
 - Adjust the Significance Slider to set how sensitive the alert should be (e.g., notify for highly significant changes).
 
+**Alert Preview:**
+
+Use the preview feature to see how the alert will look before finalizing.
+
 **2. Change Alerts**
 
 ![Screenshot 2024-12-05 at 10.19.25.png](<../assets/images/Screenshot 2024-12-05 at 10.19.25.png>)
@@ -41,9 +45,19 @@ The Alerts feature in Caplena helps you stay updated on your data by notifying y
 
 **Settings:**
 
-- Specify a topic to track (e.g., number of mentions for "customer service").
+- Specify a topic to track (e.g., number of mentions for "customer service"). You can monitor changes in the total number of mentions for a topic or track changes in sentiment distribution (positive, negative, neutral).
 - Threshold: Define how much the metric needs to change (e.g., 95 mentions).
 - Define the comparison period (e.g., changes vs. last week).
+
+**Alert Preview:**
+
+Use the preview feature to see how the alert will look before finalizing.
+
+**Example Use Case:**
+
+- Be alerted if the number of mentions for "Customer Service" increases by more than 20 compared to last week.
+
+- Get notified if negative sentiment for "Product Quality" increases by over 10% versus the previous month.
 
 **3. Occurrence Alerts**
 
