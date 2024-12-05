@@ -22,8 +22,42 @@ The Alerts feature in Caplena helps you stay updated on your data by notifying y
 ### Types of Alerts You Can Configure
 
 **1. Auto Digest Alerts**
+
+![Screenshot 2024-12-04 at 21.51.08.png](<../assets/images/Screenshot 2024-12-04 at 21.51.08.png>)
+
 **What it Does:** Periodically sends you summaries of interesting developments in your data.
 
-**Settings: **Select the frequency (e.g., Weekly).****
+**Settings:** 
 
-Adjust the Significance Slider to set how sensitive the alert should be (e.g., notify for highly significant changes).
+- Select the frequency (e.g., Weekly)
+
+- Adjust the Significance Slider to set how sensitive the alert should be (e.g., notify for highly significant changes).
+
+**2. Change Alerts**
+
+![Screenshot 2024-12-05 at 10.19.25.png](<../assets/images/Screenshot 2024-12-05 at 10.19.25.png>)
+
+**What it Does:** Notifies you when a selected metric changes significantly over a defined period.
+
+**Settings:**
+
+- Specify a topic to track (e.g., number of mentions for "customer service").
+- Threshold: Define how much the metric needs to change (e.g., 95 mentions).
+- Define the comparison period (e.g., changes vs. last week).
+
+**3. Occurrence Alerts**
+
+![Screenshot 2024-12-05 at 10.31.57.png](<../assets/images/Screenshot 2024-12-05 at 10.31.57.png>)
+
+
+**What it Does:**
+Alerts you when a specific metric surpasses a defined threshold of occurrences.
+
+**Settings:**
+
+- Select how frequently you want to receive alerts (e.g., Weekly).
+- Choose what to monitor. You can track all topics collectively or select a specific topic or metric (e.g., "Customer Service").
+- Define metric to track: You can either track the total count of mentions or monitor the proportion of positive, negative, or neutral sentiment for the selected topic.
+- Set the condition for the alert: Enter a numeric value (e.g., more than 95 mentions) or percentage.
+
+
