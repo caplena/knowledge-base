@@ -2,7 +2,65 @@
 stoplight-id: ghwl4n1vzazqu
 ---
 
-# Data Manipulations
+# Data Access / Manipulations
+
+The Data Tab offers a centralized location for managing and preparing your dataset for insights.  By leveraging the Data Tab effectively, you can:
+
+- Customize Data Views: Tailor the display to focus on relevant information.
+- Clean and Organize Data: Prepare the dataset for analysis or reporting.
+
+To access it, navigate to the Data Tab from the sidebar:
+
+![Screenshot 2024-12-05 at 17.10.38.png](<../assets/images/Screenshot 2024-12-05 at 17.10.38.png>)
+
+The Data Tab consists of:
+
+**Toolbar:** Tools for filtering, customizing, and editing the dataset.
+
+**Interactive Table:** A detailed view of your uploaded data, broken into rows (individual entries) and columns (data attributes).
+
+**Selection Checkboxes:** Checkboxes next to each row for selecting specific entries.
+
+## Editing Data
+In this view, you can easily review and edit your data without the need to reupload it. Here’s how:
+
+**Edit Verbatim Text:**
+
+- Locate the row or column you want to edit (e.g., the "Skytrax Reviews")
+- Click directly on the text field.
+- Make the necessary changes.
+- Press Enter or click outside the field to save your changes.
+![Screenshot 2024-12-05 at 17.24.07.png](<../assets/images/Screenshot 2024-12-05 at 17.24.07.png>)
+
+
+This feature allows for quick corrections, such as fixing typos or updating incorrect information, saving time compared to reprocessing the entire dataset.
+
+**Removing Rows and Columns Permanently**
+
+If you find certain rows or columns irrelevant or erroneous, you can remove them directly:
+
+**Remove Rows:**
+
+- Select rows you want to delete by ticking the checkboxes on the left.
+- Click the "Delete Rows" button in the toolbar.
+- Confirm the action to remove the rows permanently.
+
+![Screenshot 2024-12-05 at 17.26.32.png](<../assets/images/Screenshot 2024-12-05 at 17.26.32.png>)
+
+**Remove Columns:**
+
+- Identify the column you wish to delete (e.g., "Territory" or "Airline Type").
+- Click the "Delete Columns" button in the toolbar.
+- Confirm the deletion to remove the column permanently.
+
+
+Key Tips for Editing and Managing Data
+Avoid Over-Editing: Keep backups or logs of significant changes, especially when modifying critical fields like ratings or review content.
+Batch Deletions: Use the checkboxes for bulk deletions, saving time when dealing with large datasets.
+Preview Before Confirming: Double-check selected rows or columns before confirming deletions to avoid accidental data loss.
+
+
+
 
 * [Append Rows to existing project ](#append-rows)
 * [Add, remove, and edit columns ](#add-remove-edit-columns)
