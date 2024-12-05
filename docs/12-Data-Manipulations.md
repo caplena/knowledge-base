@@ -62,7 +62,41 @@ If you find certain rows or columns irrelevant or erroneous, you can remove them
 1. **Batch Deletions:** Use the checkboxes for bulk deletions, saving time when dealing with large datasets.
 2. **Preview Before Confirming:** Double-check selected rows or columns before confirming deletions to avoid accidental data loss.
 
+## Customizing the view
 
+There are cases where your dataset may contain many additional variables that you don’t want to delete permanently but don’t need for your current analysis. Instead of removing them, you can hide irrelevant columns to simplify the table and focus on specific metrics or data fields.
+
+**How to Show/Hide Columns**
+
+
+Navigate to the toolbar at the top of the Data Tab.
+Click on the "Show/Hide Columns" button.
+Hide Irrelevant Columns.
+
+A menu will appear with a list of all columns in your dataset.
+Uncheck the columns that you find unnecessary for your current analysis.
+Example: If “Territory” or “Airline Type” is not relevant, uncheck them.
+
+![Screenshot 2024-12-05 at 17.43.43.png](<../assets/images/Screenshot 2024-12-05 at 17.43.43.png>)
+
+After adjusting your selection, the table will automatically refresh, displaying only the selected columns.
+
+**Add Hidden Columns Back:**
+
+To re-add any column you previously hid, check the box next to the column name.
+
+**Pinning Columns for Better Navigation**
+
+When working with large datasets, it’s helpful to keep specific columns visible while scrolling through the rest of the table. The Pin Column feature ensures that critical information stays in place for easy reference.
+
+
+1. At the top right corner of each column header, you’ll find a small pin icon.
+
+2. Click the pin icon on the column you want to keep visible. The pinned column will move to the far left of the table and stay fixed as you scroll horizontally.
+
+3. To unpin a column, click the pin icon again, and the column will return to its original position in the table.
+
+![Screenshot 2024-12-05 at 17.43.43.png](<../assets/images/Screenshot 2024-12-05 at 17-2.43.43.png>)
 
 
 
