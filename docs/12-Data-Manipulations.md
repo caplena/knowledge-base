@@ -62,7 +62,7 @@ If you find certain rows or columns irrelevant or erroneous, you can remove them
 1. **Batch Deletions:** Use the checkboxes for bulk deletions, saving time when dealing with large datasets.
 2. **Preview Before Confirming:** Double-check selected rows or columns before confirming deletions to avoid accidental data loss.
 
-## Customizing the view
+## Customizing the View
 
 There are cases where your dataset may contain many additional variables that you don’t want to delete permanently but don’t need for your current analysis. Instead of removing them, you can hide irrelevant columns to simplify the table and focus on specific metrics or data fields.
 
@@ -98,11 +98,22 @@ When working with large datasets, it’s helpful to keep specific columns visibl
 
 ![Screenshot 2024-12-05 at 17.43.43.png](<../assets/images/Screenshot 2024-12-05 at 17-2.43.43.png>)
 
+## Filtering Data
 
+Filters are a powerful tool that help you narrow down your dataset to focus on specific subsets of data, such as identifying positive feedback, recent reviews, or other criteria relevant to your analysis.
 
+- Click the "Filters" button in the toolbar.
 
-* [Append Rows to existing project ](#append-rows)
-* [Add, remove, and edit columns ](#add-remove-edit-columns)
+- Choose a column to filter (e.g., "Overall Rating" or "Territory").
+
+- Set conditions you need.
+
+![Screenshot 2024-12-05 at 18.01.01.png](<../assets/images/Screenshot 2024-12-05 at 18.01.01.png>)
+
+<!-- theme: info -->
+
+> Note: If you need to expand your project by adding new data or including additional columns, follow the steps outlined below. Currently, this action should be performed in the older version of Caplena. However, these features are expected to be available in the new version soon.
+
 
 ## Append Rows to existing project
 You may have already started or finished the analysis for your project, but you would like to add more data, be it from a new or previous wave or from an additional market and the like.
