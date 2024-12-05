@@ -4,6 +4,22 @@ stoplight-id: 7d800a323b890
 # Changelog
 ---
 
+
+## 2024-12-05
+
+### Features
+
+* Report date comparison implementation
+* Rows/text widget on Topics Overview take sentiment into account
+* Show all selected topics when Top N Topics selected
+* Topic breakout colors per sentiment
+
+### Bugfixes
+
+* Do not remove placeholder filters on deselect
+* Do not allow empty widget names
+
+
 ## 2024-11-27
 
 ### Features
@@ -14,3 +30,4 @@ stoplight-id: 7d800a323b890
 ### Bugfixes
 
 Various improvements
+
