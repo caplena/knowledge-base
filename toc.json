@@ -126,8 +126,8 @@
     },
     {
       "type": "item",
-      "title": "Correlation Metrics",
-      "uri": "docs/07-04-Correlation-Metrics.md"
+      "title": "Alerts",
+      "uri": "docs/Alerts.md"
     },
     {
       "type": "item",
