@@ -53,11 +53,16 @@ If you find certain rows or columns irrelevant or erroneous, you can remove them
 - Click the "Delete Columns" button in the toolbar.
 - Confirm the deletion to remove the column permanently.
 
+![Screenshot 2024-12-05 at 17.32.18.png](<../assets/images/Screenshot 2024-12-05 at 17.32.18.png>)
 
-Key Tips for Editing and Managing Data
-Avoid Over-Editing: Keep backups or logs of significant changes, especially when modifying critical fields like ratings or review content.
-Batch Deletions: Use the checkboxes for bulk deletions, saving time when dealing with large datasets.
-Preview Before Confirming: Double-check selected rows or columns before confirming deletions to avoid accidental data loss.
+
+
+**Key Tips for Editing and Managing Data**
+
+1. **Batch Deletions:** Use the checkboxes for bulk deletions, saving time when dealing with large datasets.
+2. **Preview Before Confirming:** Double-check selected rows or columns before confirming deletions to avoid accidental data loss.
+
+
 
 
 
