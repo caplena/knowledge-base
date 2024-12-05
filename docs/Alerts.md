@@ -60,4 +60,12 @@ Alerts you when a specific metric surpasses a defined threshold of occurrences.
 - Define metric to track: You can either track the total count of mentions or monitor the proportion of positive, negative, or neutral sentiment for the selected topic.
 - Set the condition for the alert: Enter a numeric value (e.g., more than 95 mentions) or percentage.
 
+**Alert Preview:**
+
+Use the preview feature to see how the alert will behave before saving.
+
+**Example Use Case:**
+
+Be notified weekly when mentions of "Delivery Issues" exceed 20 or when negative sentiment for "Pricing Complaints" reaches more than 30%.
+
 
