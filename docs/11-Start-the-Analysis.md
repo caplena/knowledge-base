@@ -9,16 +9,15 @@ Starting the analysis will be always the same process, no matter whether you imp
 
 When you open your project, you will be directed to the Overview panel. Here, you will find the question designated for analysis, such as “Why did you give this rating?” in my case.
 
-In this panel, you will also see an overview of potential topics identified in the dataset and an AI-generated summary. This summary offers insights into the main concepts mentioned, helping you quickly understand key points and trends within your data.
+In this panel, you will also see an AI-generated summary. This summary offers insights into the main concepts mentioned, helping you quickly understand key points and trends within your data.
 
 
-![Screenshot 2024-11-18 at 10.13.39.png](<../assets/images/Screenshot 2024-11-18 at 10-2.13.39.png>)
+![Screenshot 2024-12-06 at 14.11.12.png](<../assets/images/Screenshot 2024-12-06 at 14.11.12.png>)
 
 
 
-Once you're ready, you can click on the **Begin Analysis** button to create your topic collection.
 
-![Screenshot 2024-11-18 at 10.58.17.png](<../assets/images/Screenshot 2024-11-18 at 10.58.17.png>)
+Once you're ready, you can click on the **Start Analysis now** button to create your topic collection.
 
 
 ## From Scratch or not?
