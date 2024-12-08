@@ -131,11 +131,6 @@
     },
     {
       "type": "item",
-      "title": "ChatGPT-based Summary",
-      "uri": "docs/07-05-ChatGPT-Summary-Feature.md"
-    },
-    {
-      "type": "item",
       "title": "Data Export",
       "uri": "docs/04-08-Export.md"
     },
