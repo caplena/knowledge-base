@@ -6,6 +6,9 @@ stoplight-id: b8yglz42n4bdo
 
 The Insight Chat is an AI-powered feature in Caplena that allows you to interact with your data using natural language. It simplifies analysis by providing instant responses, visualizations, and summaries, making it easy to uncover actionable insights.
 
+### Why Use Insight Chat?
+It streamlines data analysis, enabling faster decisions and more customer-focused strategies to improve satisfaction and efficiency.
+
 ### How to Access Insight Chat
 1. Navigate to a project with **NPS or satisfaction scores**.*Currently, Insight Chat works only with projects that have a score column (e.g., NPS or similar satisfaction metrics).*
 
@@ -100,6 +103,28 @@ You can also ask the system specific questions about your data that interest you
 In this example, I want to know what passengers think about sandwiches on board. Since this data hasn’t been explicitly coded as a specific topic, the system will analyze the data to find relevant insights.
 
 ![Screenshot 2024-12-02 at 14.35.18.png](<../assets/images/Screenshot 2024-12-02 at 14.35.18.png>)
+
+To find out which country's passengers are most dissatisfied with flight cancellations in Caplena, we use the following prompt and focus on negative comments:
+
+![Screenshot 2024-12-09 at 17.23.57.png](<../assets/images/Screenshot 2024-12-09 at 17.23.57.png>)
+
+Here is the result we get from the system:
+
+![Screenshot 2024-12-09 at 17.25.25.png](<../assets/images/Screenshot 2024-12-09 at 17.25.25.png>)
+
+### Tips for Maximizing Success with Insight Chat
+
+1. **Start with Specific Prompts**: Frame your questions precisely, such as “Which country has the highest dissatisfaction with flight cancellations?” Specificity helps the system deliver focused insights.
+
+3. **Iterate on Queries:** If initial insights are broad, refine your prompts (e.g., “What are the top complaints about customer service in North America?”) for more granular data.
+
+5. **Compare Regions or Segments**: Use Insight Chat to compare regions, demographics, or customer segments for a clearer understanding of trends and differences.
+
+
+
+
+
+
 
 
 
