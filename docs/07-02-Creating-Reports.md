@@ -4,7 +4,12 @@ stoplight-id: 4pfyu4yr0gois
 
 ## Creating Reports
 
-Caplena's reporting feature enables users to analyze qualitative and quantitative data effectively. With customizable templates and powerful analytics tools, you can generate insights to drive data-driven decisions. This article will guide you through creating, configuring, and utilizing reports in Caplena.
+Once your data is analyzed, navigate to the Reports section to bring your insights to life. This feature allows you to:
+
+- Transform your findings into easy-to-read visual elements, such as charts and graphs.
+- Quickly identify key trends and share insights with your team in a visually engaging format.
+
+This article will guide you through creating, configuring, and utilizing reports in Caplena.
 
 
 ![Screenshot 2024-11-26 at 15.33.55.png](<../assets/images/Screenshot 2024-11-26 at 15.33.55.png>)
@@ -36,6 +41,8 @@ Caplena's reporting feature enables users to analyze qualitative and quantitativ
 9. **Review Over Time** - Examines customer review trends over time to highlight evolving feedback.
 
 To select a template, click the Use button beneath the desired option.
+
+The availability of visual elements depends on the report type you select. Some report types may offer specific charts or graphs, while others might not.
 
 **Step 3: Configuring the Report (Example: NPS Over Time)**
 
