@@ -42,7 +42,9 @@ This article will guide you through creating, configuring, and utilizing reports
 
 To select a template, click the Use button beneath the desired option.
 
-The availability of visual elements depends on the report type you select. Some report types may offer specific charts or graphs, while others might not.
+<!-- theme: info -->
+
+> The availability of visual elements depends on the report type you select. Some report types may offer specific charts or graphs, while others might not.
 
 **Step 3: Configuring the Report (Example: NPS Over Time)**
 
@@ -62,7 +64,11 @@ The availability of visual elements depends on the report type you select. Some 
 
 3. **Date Column (Optional):** Specify the date column to enable time-based analysis. If left blank, the report will not include time-based visualizations.
 
-**Click Generate Report to create your customized analysis.**
+<!-- theme: info -->
+
+>Depending on the template you choose, the system might prompt you to configure specific columns required to generate the visual element. This step ensures that the report is tailored to your needs, providing accurate and relevant visualizations. Simply follow the system's guidance to select the appropriate columns for your chosen template.
+
+Click Generate Report to create your customized analysis.
 
 ## Customizing Reports in Caplena
 
@@ -144,6 +150,12 @@ Insight Elements in Caplena help you visualize and analyze your data effectively
 - Once configured, the insight will be added to your report in the selected section.
 
 ![Screenshot 2024-11-27 at 15.55.15.png](<../assets/images/Screenshot 2024-11-27 at 15.55.15.png>)
+
+All insight elements in this visualization have filtering options, allowing you to refine the displayed data based on specific topics, categories, or other conditions.
+
+![Screenshot 2024-12-09 at 18.06.23.png](<../assets/images/Screenshot 2024-12-09 at 18.06.23.png>)
+
+
 
 ## Sharing Reports 
 
