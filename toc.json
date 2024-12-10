@@ -21,7 +21,6 @@
     {
       "type": "group",
       "title": "Import Options - Coming soon! For now, please refer to the old version of the app using the links below.",
-      "uri": "docs/Import-options.md",
       "items": [
         {
           "type": "item",
@@ -46,9 +45,25 @@
       "uri": "docs/12-Data-Manipulations.md"
     },
     {
-      "type": "item",
-      "title": "Project Settings - Coming soon! For now, please use the old version of the app.",
-      "uri": "docs/13-Project-Settings.md"
+      "type": "group",
+      "title": "Project Settings - Coming soon! For now, please use the old version of the app using the links below.",
+      "items": [
+        {
+          "type": "item",
+          "title": "General Settings",
+          "uri": "docs/13-Project-Settings.md"
+        },
+        {
+          "type": "item",
+          "title": "Anonymization",
+          "uri": "docs/04-07-Anonymize-text-comments.md"
+        },
+        {
+          "type": "item",
+          "title": "Translation",
+          "uri": "docs/09-01-Languages.md"
+        }
+      ]
     },
     {
       "type": "divider",
@@ -144,3 +159,4 @@
     }
   ]
 }
+
