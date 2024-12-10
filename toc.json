@@ -16,15 +16,6 @@
     },
     {
       "type": "divider",
-      "title": "❓ FAQ"
-    },
-    {
-      "type": "item",
-      "title": "Answers to frequently asked questions",
-      "uri": "docs/FAQ.md"
-    },
-    {
-      "type": "divider",
       "title": "📚 Setting up a new project"
     },
     {
