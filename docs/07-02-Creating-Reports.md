@@ -155,7 +155,23 @@ All insight elements in this visualization have filtering options, allowing you 
 
 ![Screenshot 2024-12-09 at 18.06.23.png](<../assets/images/Screenshot 2024-12-09 at 18.06.23.png>)
 
+## Filtering Options
 
+This section allows you to customize and refine your data analysis, ensuring that you can view the insights most relevant to your needs. Below is a quick guide to the key options available on the left side of the interface:
+
+![Screenshot 2024-12-09 at 18.13.42.png](<../assets/images/Screenshot 2024-12-09 at 18.13.42.png>)
+
+
+**Segments:**
+Choose how you want to segment the data. For example, you can view the analysis for "Overall" data or break it down by specific segments relevant to your study, such as demographics, product types, or regions.
+
+**Filters:**
+Apply filters to focus on specific data points or exclude irrelevant ones. This option helps narrow down your insights based on conditions like sentiment, topics, or other criteria.
+
+**Date Range:**
+Adjust the timeframe for your analysis by selecting predefined options like "All time" or setting custom dates. Additionally, compare your data to a previous period to identify trends and changes over time.
+
+These tools provide flexibility and depth to your analysis, making it easier to derive actionable insights tailored to your goals.
 
 ## Sharing Reports 
 
