@@ -6,8 +6,6 @@ stoplight-id: wktwlwivyiz40
 
 At Caplena, we are here to make sure you get the most out of our platform, whether yo are just starting or an experienced user. Here is how we can assist you:
 
-## [❓ FAQ](FAQ.md) 
-👉 Got questions? Check out our FAQ section for quick answers to the most common inquiries about Caplena's features, subscriptions, and more.
 
 
 ## [📚 Setting up a New Project](Import-options.md)
