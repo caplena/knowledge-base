@@ -34,8 +34,13 @@ Every row will **only be billed once**. You can change, visualize, or  download 
 
 ## Dummy Variables
 
-By default we do not count empty rows towards your credits. If you have additional dummy data in your files (e.g. -99 representing empty responses), you can define up to three dummy-values on your [account page](https://caplena.com/app/account), which will not be counted in subsequent uploads.
+By default we do not count empty rows towards your credits. If you have additional dummy data in your files (e.g. -99 representing empty responses), you can define up to three dummy-values on your account page, which will not be counted in subsequent uploads.
+
+![Screenshot 2024-12-10 at 15.47.41.png](<../assets/images/Screenshot 2024-12-10 at 15.47.41.png>)
+
 
 ## Tracking Credit Usage
 
-You can track your credit usage on your [account page](https://caplena.com/app/account) (you need to be logged in to view this).
+You can track your credit usage in the Billing section (you need to be logged in to view this).
+![Screenshot 2024-12-10 at 15.51.23.png](<../assets/images/Screenshot 2024-12-10 at 15.51.23.png>)
+
