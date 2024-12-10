@@ -28,26 +28,9 @@
       "title": "📚 Setting up a new project"
     },
     {
-      "type": "group",
-      "title": "Import Options",
-      "uri": "docs/Import-options.md",
-      "items": [
-        {
-          "type": "item",
-          "title": "File Upload",
-          "uri": "docs/04-01-Import-Data.md"
-        },
-        {
-          "type": "item",
-          "title": "Integrations",
-          "uri": "docs/04-09-Integrations-in-Detail.md"
-        },
-        {
-          "type": "item",
-          "title": "Direct Input",
-          "uri": "docs/Direct-Input.md"
-        }
-      ]
+      "type": "item",
+      "title": "Import Options - Coming soon! For now, please use the old version of the app.",
+      "uri": "docs/Import-options.md"
     },
     {
       "type": "item",
@@ -55,25 +38,9 @@
       "uri": "docs/12-Data-Manipulations.md"
     },
     {
-      "type": "group",
-      "title": "Project Settings",
-      "items": [
-        {
-          "type": "item",
-          "title": "General Settings",
-          "uri": "docs/13-Project-Settings.md"
-        },
-        {
-          "type": "item",
-          "title": "Anonymization",
-          "uri": "docs/04-07-Anonymize-text-comments.md"
-        },
-        {
-          "type": "item",
-          "title": "Translation",
-          "uri": "docs/09-01-Languages.md"
-        }
-      ]
+      "type": "item",
+      "title": "Project Settings - Coming soon! For now, please use the old version of the app.",
+      "uri": "docs/13-Project-Settings.md"
     },
     {
       "type": "divider",
@@ -166,11 +133,8 @@
     {
       "type": "divider",
       "title": "📺 News & Product Updates"
-    },
-    {
-      "type": "item",
-      "title": "Caplena 3.0 Beta",
-      "uri": "docs/31-Caplena30-Beta.md"
     }
   ]
 }
+
+
