@@ -24,8 +24,18 @@
       "items": [
         {
           "type": "item",
-          "title": "Please refer to the old version of the app using this link.",
-          "uri": "docs/Import-options.md"
+          "title": "File Upload",
+          "uri": "docs/04-01-Import-Data.md"
+        },
+        {
+          "type": "item",
+          "title": "Integrations",
+          "uri": "docs/04-09-Integrations-in-Detail.md"
+        },
+        {
+          "type": "item",
+          "title": "Direct Input",
+          "uri": "docs/Direct-Input.md"
         }
       ]
     },
@@ -36,12 +46,22 @@
     },
     {
       "type": "group",
-      "title": "Project Settings - Coming soon!",
+      "title": "Project Settings - Coming soon! ",
       "items": [
         {
           "type": "item",
-          "title": "Please refer to the old version of the app using this link.",
+          "title": "General Settings",
           "uri": "docs/13-Project-Settings.md"
+        },
+        {
+          "type": "item",
+          "title": "Anonymization",
+          "uri": "docs/04-07-Anonymize-text-comments.md"
+        },
+        {
+          "type": "item",
+          "title": "Translation",
+          "uri": "docs/09-01-Languages.md"
         }
       ]
     },
@@ -139,4 +159,6 @@
     }
   ]
 }
+
+
 
