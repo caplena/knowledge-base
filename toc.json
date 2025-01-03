@@ -114,6 +114,12 @@
       "title": "NPS Report Explained",
       "uri": "docs/07-03-NPS-Report-Explained.md"
     },
+
+    {
+      "type": "item",
+      "title": "Net Sentiment Score",
+      "uri": "docs/Net-Sentiment-Score.md"
+    },
     {
       "type": "item",
       "title": "Insight Chat",
