@@ -95,3 +95,19 @@ Apply filters to focus on specific data points or exclude irrelevant ones. This 
 Adjust the timeframe for your analysis by selecting predefined options like "All time" or setting custom dates. Additionally, compare your data to a previous period to identify trends and changes over time.
 
 These tools provide flexibility and depth to your analysis, making it easier to derive actionable insights tailored to your goals.
+
+## Sharing Reports 
+
+The "Share" feature allows you to easily share your reports with others. By default, anyone with the link can view the report. However, for added security, you can customize access by:
+
+![Screenshot 2024-11-27 at 16.05.21.png](<../assets/images/Screenshot 2024-11-27 at 16.05.21.png>)
+
+
+**Setting a Password (Optional):**
+Add a password to restrict access. Only users with the password will be able to open the report.
+
+**Adding an Expiry Date (Optional):**
+Set an expiration date for the link, after which the report will no longer be accessible.
+
+**Copying the Link:**
+Use the "Copy Link" button to quickly share the report with stakeholders via email, chat, or other platforms.
