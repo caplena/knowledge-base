@@ -84,3 +84,36 @@ For more insights into dashboards, please follow [**this link**](07-02-Creating-
 
 
 By following these steps, you can ensure that only meaningful responses are billed while avoiding charges for placeholders or empty cells.
+
+### What to do if I cannot upload a file or keep getting network error
+
+ **Why can't I upload files or keep getting network errors?**
+This may be due to network restrictions, browser issues, or firewall settings.
+
+**What domains should I whitelist?**
+
+Whitelist the following to ensure access:
+
+1. caplena.com
+2. *.caplena.com (all subdomains)
+
+
+**Could my browser be causing the issue?**
+
+Yes, try:
+
+- Clearing cache and cookies
+- Using a different browser (Chrome, Firefox)
+- Disabling browser extensions
+
+**Can VPNs or proxies cause problems?**
+
+Yes, they might interfere. Disable them temporarily and try again.
+
+**How do I check if my firewall is blocking uploads?**
+
+Consult your IT team to whitelist Caplena and test by temporarily disabling security software.
+
+**What if the issue persists?**
+
+Contact Caplena support with details of the error and troubleshooting steps take
