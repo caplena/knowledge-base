@@ -117,3 +117,14 @@ Consult your IT team to whitelist Caplena and test by temporarily disabling secu
 **What if the issue persists?**
 
 Contact Caplena support with details of the error and troubleshooting steps taken
+
+
+
+
+
+### Why do the percentages in the charts exceed 100%?
+The percentages can add up to more than 100% because a single feedback entry can belong to multiple categories. For example, if a user mentions both "Communication & Information" and "Processes" in their response, that feedback is counted in both categories. This approach allows for a more detailed and accurate analysis of feedback across various topics.
+
+ **Should I be concerned about totals exceeding 100%?**
+
+No, this is expected behavior. It reflects the overlapping nature of feedback distribution and provides a comprehensive view of how user comments are categorized. Rather than focusing on the total percentages, it’s better to interpret the data category by category to understand how frequently each topic is mentioned.
