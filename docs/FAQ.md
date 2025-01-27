@@ -116,4 +116,4 @@ Consult your IT team to whitelist Caplena and test by temporarily disabling secu
 
 **What if the issue persists?**
 
-Contact Caplena support with details of the error and troubleshooting steps take
+Contact Caplena support with details of the error and troubleshooting steps taken
