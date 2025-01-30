@@ -52,3 +52,40 @@ Each topic in these sections is evaluated based on its sentiment, with visual re
 - **Track sentiment trends:** By observing the Sentiment Trend over time, you can determine if issues or positive feedback are growing, stabilizing, or resolving.
 
 - **Evaluate response growth:** The Responses Trend indicates whether certain topics are generating more attention, which could either reflect growing dissatisfaction or increasing interest in a positive aspect.
+
+## Markdown Block
+
+### What is Mardown Block?
+
+![Screenshot 2025-01-30 at 12.40.54.png](<../assets/images/Screenshot 2025-01-30 at 12.40.54.png>)
+
+
+**The Markdown block** allows you to add formatted text, images, and tables to your reports. It supports standard Markdown syntax, making it easy to structure content efficiently. This element is useful for adding insights, combining visuals with explanations, and improving report readability.
+
+**Key features of the Markdown block:**
+
+- Supports text formatting (bold, italics, headers, etc.).
+
+- Allows the inclusion of images using Markdown syntax.
+
+- Enables structured layouts using tables and columns.
+
+- Works with both internal and external image URLs.
+
+
+ Now, let's explore how to add and manipulate text and images effectively.
+
+ ### Multicolumn Layout
+
+ Markdown allows you to organize your content into multiple columns, making reports more structured and visually engaging.
+
+ ![Screenshot 2025-01-30 at 12.52.17.png](<../assets/images/Screenshot 2025-01-30 at 12.52.17.png>)
+
+
+- Choose how many columns you need (one, two, or three).
+
+- Use Markdown tables to arrange content.
+
+- Add text and images inside each column.
+
+
