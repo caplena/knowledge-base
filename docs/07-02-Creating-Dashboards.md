@@ -99,3 +99,14 @@ Once the shareable link is enabled, you can copy the URL of the dashboard by cli
 ![Bildschirmfoto 2022-02-04 um 12.20.28.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/RB8xmseMvOw)
 
 The recipient will have access to the dashboard with its full interactivity, which means they can zoom into the categories and read the open-ended comments behind each chart element and they can use the overall dashboard filters to drill into particular segments. However, they will not be able to edit, add or replace any of the dashboard elements.
+
+## Dashboard Case Limits
+In case you would like to avoid results to be shown when a unit or segment drops below a certain number of cases, we can apply a case limit per project and any associated dashboard. This might be the case for employee surveys, when smaller business units should not be reported separately to avoid the possibility to trace individual answers.
+
+Once the case limit is reached, the results chart would remain blank.
+
+![Bildschirmfoto 2025-02-03 um 10.45.25.png](<../assets/images/Bildschirmfoto 2025-02-03 um 10.45.25.png>)
+
+
+In case you would like to use this option, please reach out to support@caplena.com. Let’s know the project and the case limit required.
+
