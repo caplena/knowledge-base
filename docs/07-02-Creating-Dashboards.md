@@ -105,4 +105,7 @@ In case you would like to avoid results to be shown when a unit or segment drops
 
 Once the case limit is reached, the results chart would remain blank.
 
+![Bildschirmfoto 2025-02-03 um 10.45.25.png](<../assets/images/Bildschirmfoto 2025-02-03 um 10-2.45.25.png>)
+
+
 In case you would like to use this option, please reach out to support@caplena.com. Let’s know the project and the case limit required.
