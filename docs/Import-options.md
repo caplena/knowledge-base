@@ -5,9 +5,42 @@ stoplight-id: ukhs92l9cpk9e
 # Importing data into Caplena
 
 
-Importing data into the Caplena platform is the first step to start a new project. After clicking the New Project or Import Data button, you’ll be able to choose between three different data import options:
 
-![Bildschirmfoto 2022-07-01 um 20.09.55.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/XPVSgepPBtE)
+**Step 1: Start a New Project**
+
+- Navigate to the "Projects" tab and click "New Project" in the top right corner.
+
+![Screenshot 2025-02-06 at 14.33.41.png](<../assets/images/Screenshot 2025-02-06 at 14.33.41.png>)
+
+
+**Step 2: Enter Project Details**
+
+- **Project Name & Description:** Give your project a clear name and optional description to help provide context.
+
+- **Main Language:** Select the primary language of your text data. If needed, you can enable Automatic Translation later.
+
+![Screenshot 2025-02-06 at 15.43.26.png](<../assets/images/Screenshot 2025-02-06 at 15.43.26.png>)
+
+
+
+**Step 3: Configure Settings (Optional)**
+
+- **Anonymization:** Enable this if you want Caplena to remove personal information from text data.
+
+- **Automatic Translation:** Toggle this on if your dataset contains multiple languages.
+
+![Screenshot 2025-02-06 at 15.44.39.png](<../assets/images/Screenshot 2025-02-06 at 15.44.39.png>)
+
+
+**Step 4: Click "Continue"**
+
+Once you've configured everything, click "Continue" to proceed to data import.
+
+![Screenshot 2025-02-06 at 16.38.42.png](<../assets/images/Screenshot 2025-02-06 at 16.38.42.png>)
+
+
+Here you can select one of the options to import your data:
+
 
 **1) Upload a File**
 
@@ -16,8 +49,8 @@ You can directly upload your data file in one of the following supported formats
 
 **2) Use One of Our Integrations**
 
-Caplena offers seamless integration with various platforms, allowing you to import data directly from the systems you use. Check out [this article](04-09-Integrations-in-Detail.md) for additional information
+Coming soon!
 
 **3) Copy and Paste Your Data**
 
-For a quick start, you can also simply copy your data from any spreadsheet or document and paste it directly into Caplena’s import field. For more information, refer to [this article]()
+Coming Soon!
