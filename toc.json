@@ -20,7 +20,8 @@
     },
     {
       "type": "group",
-      "title": "Import Options - Coming soon!",
+      "title": "Import Options",
+      "uri": "docs/Import-options.md",
       "items": [
         {
           "type": "item",
@@ -46,7 +47,7 @@
     },
     {
       "type": "group",
-      "title": "Project Settings - Coming soon! ",
+      "title": "Project Settings - Coming soon!",
       "items": [
         {
           "type": "item",
@@ -114,7 +115,6 @@
       "title": "NPS Report Explained",
       "uri": "docs/07-03-NPS-Report-Explained.md"
     },
-
     {
       "type": "item",
       "title": "Understanding Insight Elements",
@@ -170,6 +170,7 @@
     }
   ]
 }
+
 
 
 
