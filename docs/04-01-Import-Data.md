@@ -1,6 +1,5 @@
 ---
 stoplight-id: 85eh1l8jcavy0
-internal: true
 ---
 
 # Upload a File
@@ -141,28 +140,12 @@ Once your data is organized, the Finalize Your Upload step provides an overview 
 
 Once you click on a text in the [_Fine-Tuning View_](06-01-Fine-tuning-view.md) you will see your uploaded non-text data on the right.
 
-![Bildschirmfoto 2022-08-01 um 17.55.10.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/WR9GdzgJeH0)
-
-You can also use the little cog wheel at the top right of the text display and select any of these variables to be shown underneath the text.
-
-![Bildschirmfoto 2022-08-01 um 18.02.50.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/r98kKwQhPCQ)
+![Screenshot 2025-02-07 at 10.37.04.png](<../assets/images/Screenshot 2025-02-07 at 10.37.04.png>)
 
 ### Filters
 
-You will find filters in the Fine-Tuning View, on Charts and Dashboards. You will find your imported non-text data under "Additional Columns" and they can be used to filter text or results.
+You will find filters in the Fine-Tuning View, and in Reports. You will find your imported non-text data under "Auxiliary filters" and they can be used to filter text or results.
 
-![Bildschirmfoto 2022-08-01 um 18.11.51.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/wzCdysw9cnQ)
+![Screenshot 2025-02-07 at 10.39.59.png](<../assets/images/Screenshot 2025-02-07 at 10.39.59.png>)
 
-The "Standard Fields" at the top of the filter menu are filters that are based on the coding, i.e., allowing you to filter by categories, text, review status etc. These will always be available, even though you did not import any additional variables together with your text data.
-
-### Segments
-
-Additionally uploaded data can be used to create segments to analyze specific types of respondents based on the variables available. In the example below, the results are shown by smart phone brand.
-
-![Bildschirmfoto 2022-08-01 um 18.23.30.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/AsT34EriE4M)
-
-The example above **shows the usage of the "standard segments" available in the "Chart setup"** which include the segmentation by sentiment, numerical and categorial values and the NPS score.
-
-In the **main menu, "Chart settings", you can create and build any individual segment with the help of filters**. Individual segments can be edited and duplicated in any which way.
-
-![Bildschirmfoto 2022-08-01 um 18.36.00.png](https://stoplight.io/api/v1/projects/cHJqOjEyNDcxMw/images/iXEyaXPCh8E)
+The "Standard filters" at the top of the filter menu are filters that are based on the coding, i.e., allowing you to filter by categories, text, review status etc. These will always be available, even though you did not import any additional variables together with your text data.
