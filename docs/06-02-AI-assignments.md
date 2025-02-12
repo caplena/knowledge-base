@@ -49,6 +49,36 @@ Our AI is trained in a three-step process:
 >
 > We use the *tagged data* on our platform to train our machine learning model. This will not in any way share your data with other users: What the AI learns is the **association of topics with text**, e.g. that `The package arrived late` matches the tag `Slow delivery`. Learning on millions of text comments from our hundreds of customers, the AI gathers these *relations* from the data. These learnings are stored in such an abstracted fashion (not as text, but as matrices of weights in a neural network), that no inference can be made whatsoever on the input data which was used to train this model, even if the model was public. Which it is not, customers only get the *result* of the topic assignments. 
 
+## Managing AI Updates 
+
+Caplena now offers a toggle in the Topics view to control AI updates. This allows you to pause AI learning while still letting the system assign topics automatically when new data is uploaded. It ensures consistency in topic assignments without unexpected AI-driven changes.
+
+### How to Enable or Disable AI Updates:
+
+1️⃣ Navigate to the Topics view in your project.
+
+2️⃣ Click the three-dot menu in the top-right corner.
+
+3️⃣ In the Settings pop-up, find the "AI Updates" toggle (highlighted in the image below).
+
+4️⃣ Turn OFF to pause AI training.
+
+5️⃣ Turn ON to let AI learn from manual reviews again.
+
+
+![Screenshot 2025-02-12 at 10.55.41.png](<../assets/images/Screenshot 2025-02-12 at 10.55.41.png>)
+
+### What Does This Setting Do?
+
+**AI Updates Disabled:**
+
+❌ Caplena stops learning from manual reviews and topic edits.
+
+✔️ Inference remains active—new data will still get topics assigned based on the existing AI model.
+
+✔️ AI scores remain unchanged, keeping the model stable.
+
+
 ## Fine-Tuning
 
 To fine-tune the AI on your specific data, simply review a sample of your data. Reviewing means going over the rows and either confirming the AI's assignments or changing them to meet your preference. See [this article](06-01-Fine-tuning-view.md#fine-tuning) on how this works in detail.
