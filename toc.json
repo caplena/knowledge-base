@@ -139,6 +139,11 @@
       "type": "divider",
       "title": "📋 Settings & Administration"
     },
+     {
+      "type": "item",
+      "title": "General Settings",
+      "uri": "docs/General-Settings.md"
+    },
     {
       "type": "item",
       "title": "Users & Team Management",
