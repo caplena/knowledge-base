@@ -79,13 +79,60 @@ Customize how your organization handles data:
 
 C**ustomize your platform's color scheme:**
 
-- Global Colors: Set the Primary Color for your brand.
-- Gradient Colors: Choose from 7 gradient options to style reports and dashboards.
-- Sentiment Colors: Define colors for sentiment analysis
+- **Global Colors:** Set the Primary Color for your brand.
+- **Gradient Colors:** Choose from 7 gradient options to style reports and dashboards.
+- **Sentiment Colors:** Define colors for sentiment analysis
 
 ✅ After adjusting colors, click Save to apply changes.
 
-💡 Need to start fresh? Click Reset to revert to default colors.
+💡 ***Need to start fresh? Click Reset to revert to default colors.***
+
+⚠️ **Feature Not Included in Your Plan**
+
+If you see the message "Not included in your plan", this means Theme Settings are only available for Enterprise and Agency plans.
+
+👉 To upgrade and unlock this feature, contact sales@caplena.com.
+
+### 🔑 4. API Settings 
+
+![Screenshot 2025-02-20 at 12.28.05.png](<../assets/images/Screenshot 2025-02-20 at 12.28.05.png>)
+
+The API Settings section allows you to generate and manage API keys for integrating Caplena with other platforms.
+
+🚀 How to Generate an API Key
+
+- Go to Settings → API Tab.
+- Click Generate New API Key.
+- Copy and securely store the key, as it won’t be visible again.
+
+### 🔒 5. Security Settings 
+
+![Screenshot 2025-02-20 at 12.33.41.png](<../assets/images/Screenshot 2025-02-20 at 12-3.33.41.png>)
+
+
+The Security tab allows you to manage your account's password and two-factor authentication (2FA) for enhanced protection.
+
+**Change Password**
+
+Update your password by entering your current password, setting a new password, and clicking Save.
+
+**Two-Factor Authentication (2FA)**
+
+Add an extra layer of security by enabling 2FA with an authenticator app, phone number, or backup codes. You can set up to 3 methods for account protection.
+
+### 🔗 6.Integrations
+![Screenshot 2025-02-20 at 13.25.46.png](<../assets/images/Screenshot 2025-02-20 at 13.25.46.png>)
+
+
+
+The Integrations tab allows you to connect external platforms for seamless data import into Caplena.
+
+**Connected Accounts**
+
+View and manage active integrations, such as:
+
+- **Qualtrics:** Connect multiple accounts for direct survey imports.
+- **Zapier:** Automate workflows between Caplena and other apps.
 
 
 
