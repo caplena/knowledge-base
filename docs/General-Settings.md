@@ -17,14 +17,14 @@ To access the Settings, click on your profile icon located on the right-hand sid
 
 The Account tab is where you manage your personal information.
 
-**Basic Settings**
+**Basic Settings**:
 
 Here, you can update your personal details:
 
 - **First Name & Last Name:** Edit your name as it appears in the platform.
 - **E-mail:** This is the email associated with your account. All notifications, password resets, and communication will be sent here.
 
-**General Information**
+**General Information**:
 
 This section displays key account details:
 
@@ -33,35 +33,31 @@ This section displays key account details:
 - **Last Login:** Shows the last time you accessed your account, helping you monitor login activity.
 
 
-**Application Settings**
+**Application Settings**:
 
 Customize how the platform looks and feels to you:
 
 1. **Language:** Set your preferred interface language. You cam choose between English and German
 2. **Theme:** Choose between Light or Dark Mode to match your visual preference.
 
-**Global Settings**
-
-Default Logo: Upload your company logo in JPG, PNG, or WEBP format.
-✅ Click Upload to apply the logo across your account.
 
 ### 🛠️ 2.  Organization Settings
 
 ![Screenshot 2025-02-19 at 11.07.33.png](<../assets/images/Screenshot 2025-02-19 at 11.07.33.png>)
 
-**Billing Information**
+**Billing Information**:
 
 Add or update your company details for accurate invoicing:
 
 - **Company Name, Address, City, ZIP/Postal Code, Country**
 - This information will be reflected on all generated invoices. Once updated, click Save to apply changes.
 
-**Organization Preferences**
+**Organization Preferences**:
 
 Customize how your organization handles data:
 
 - **Dummy Values:** Define up to 3 non-billable values (e.g., -99, NULL) to exclude missing data from billable credits.
-- Tracking: Check the box to opt out of behavior tracking for debugging and support purposes.
+- **Tracking:** Check the box to opt out of behavior tracking for debugging and support purposes.
 
 💡 ***Note: Dummy value changes only apply to newly uploaded data.***
 
@@ -71,19 +67,18 @@ Customize how your organization handles data:
 
 **The Theme Settings** section allows you to customize your account's visual identity, including logos and colors. This feature is available exclusively for **Enterprise and Agency plans**.
 
-**Global Settings**
+**Global Settings**:
 
 - **Default Logo:** Upload your company logo in JPG, PNG, or WEBP format.
-- ✅ Click Upload to apply the logo across your account.
 
 
-C**ustomize your platform's color scheme:**
+C**ustomize your platform's color scheme:**:
 
 - **Global Colors:** Set the Primary Color for your brand.
 - **Gradient Colors:** Choose from 7 gradient options to style reports and dashboards.
 - **Sentiment Colors:** Define colors for sentiment analysis
 
-✅ After adjusting colors, click Save to apply changes.
+
 
 💡 ***Need to start fresh? Click Reset to revert to default colors.***
 
@@ -99,7 +94,7 @@ If you see the message "Not included in your plan", this means Theme Settings ar
 
 The API Settings section allows you to generate and manage API keys for integrating Caplena with other platforms.
 
-🚀 How to Generate an API Key
+**How to Generate an API Key:**
 
 - Go to Settings → API Tab.
 - Click Generate New API Key.
@@ -112,11 +107,11 @@ The API Settings section allows you to generate and manage API keys for integrat
 
 The Security tab allows you to manage your account's password and two-factor authentication (2FA) for enhanced protection.
 
-**Change Password**
+**Change Password**:
 
 Update your password by entering your current password, setting a new password, and clicking Save.
 
-**Two-Factor Authentication (2FA)**
+**Two-Factor Authentication (2FA)**:
 
 Add an extra layer of security by enabling 2FA with an authenticator app, phone number, or backup codes. You can set up to 3 methods for account protection.
 
@@ -127,7 +122,7 @@ Add an extra layer of security by enabling 2FA with an authenticator app, phone 
 
 The Integrations tab allows you to connect external platforms for seamless data import into Caplena.
 
-**Connected Accounts**
+**Connected Accounts**:
 
 View and manage active integrations, such as:
 
