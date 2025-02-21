@@ -102,6 +102,15 @@ Our CRM tool.
 * **Has access to:** Your name, email address and conversations you have had with our team.
 * **Does not have access to:** Any of the data you process on Caplena.
 
+### Stripe
+
+Stripe is our payments processor. They are one of the most respected and well known players in this industry, enabling us to be PCI DSS compliant.
+
+* **Has access to:** Your payment information (including credit card details, to which we do not have access and which we do not store on Caplena), address, name, invoice items and partially browsing behaviour on Caplena.
+* **Does not have access to:** Any of the data you process on Caplena.
+
+*Legal Address*: Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland
+
 ## Service without access to PII
 
 ### Userpilot
@@ -125,13 +134,6 @@ Enables us to understand how our ads from Linkedin perform. The insights tag is 
 * **Has access to:** Metadata on your which public pages you have visited.
 * **Does not have access to:** Pages you visit in the app, your name, email or any other data.
 
-### Stripe
 
-Stripe is our payments processor. They are one of the most respected and well known players in this industry, enabling us to be PCI DSS compliant.
-
-* **Has access to:** Your payment information (including credit card details, to which we do not have access and which we do not store on Caplena), address, name, invoice items and partially browsing behaviour on Caplena.
-* **Does not have access to:** Any of the data you process on Caplena.
-
-*Legal Address*: Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland
 
 
