@@ -31,7 +31,7 @@ Application performance & security monitoring.
 * **Has access to:** The raw requests, SQL queries and application traces. All data on Datadog is ephemeral.
 * **Does not have access to:** The stored data in structured form.
 
-*Data Processing Location:* EU
+*Data Processing Location:* Germany
 
 *Legal Address:* 620 8th Ave, 45th Fl, New York, NY 10018 USA.
 
@@ -54,7 +54,7 @@ Azure OpenAI Service (by Microsoft) is our provider for access to OpenAI’s lan
 
 * **Does not have access to:** Your name, email, and user data. The data will NOT be available to OpenAI and will NOT be used to improve OpenAI or Microsoft products and models.  
 
-*Data Processing Location: European Union*
+*Data Processing Location: Sweden, France, Germany (depending on availability)
 
 *Legal Address: Microsoft Corporation, 925 Fourth Avenue, Suite 2900, Seattle, Washington 98104, US*
 
@@ -66,7 +66,7 @@ Automated messaging & email platform.
 * **Has access to:** Your name, email address, metadata on which pages you have visited and actions you have performed on the platform.
 * **Does not have access to:** Any of the data you process on Caplena.
 
-*Data Processing Location*: European Union
+*Data Processing Location*: Belgium
 
 *Legal Address:* 921 SW Washington St No 820, Portland, Oregon, 97205, United States
 
@@ -81,14 +81,6 @@ Powers our chat and the help center.
 
 *Legal Address:* Intercom, 55 2nd Street, 4th Floor, San Francisco, CA 94105
 
-### Stripe
-
-Stripe is our payments processor. They are one of the most respected and well known players in this industry, enabling us to be PCI DSS compliant.
-
-* **Has access to:** Your payment information (including credit card details, to which we do not have access and which we do not store on Caplena), address, name, invoice items and partially browsing behaviour on Caplena.
-* **Does not have access to:** Any of the data you process on Caplena.
-
-*Legal Address*: Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland
 
 ### PostHog 
 
@@ -133,4 +125,12 @@ Enables us to understand how our ads from Linkedin perform. The insights tag is 
 * **Has access to:** Metadata on your which public pages you have visited.
 * **Does not have access to:** Pages you visit in the app, your name, email or any other data.
 
+### Stripe
+
+Stripe is our payments processor. They are one of the most respected and well known players in this industry, enabling us to be PCI DSS compliant.
+
+* **Has access to:** Your payment information (including credit card details, to which we do not have access and which we do not store on Caplena), address, name, invoice items and partially browsing behaviour on Caplena.
+* **Does not have access to:** Any of the data you process on Caplena.
+
+*Legal Address*: Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland
 
