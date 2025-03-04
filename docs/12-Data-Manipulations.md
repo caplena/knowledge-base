@@ -92,3 +92,5 @@ Move your mouse overt the information icon next to each of the three items and t
 
 When the proposed changes match your expectation click on **Replace & Save**, the blue button on the bottom right. Your data file will be imported, and the changes will be applied. You will be able to see and use the changed set of additional columns as filter and for segmentation.
 
+<!-- theme: warning -->
+>When adding columns to an existing project, you can only add additional columns for segmentation, not new open-ended columns for analysis. If you need to analyze a new column, it’s better to create a new project.
