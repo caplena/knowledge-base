@@ -184,5 +184,8 @@ You can also use Heatmap together with Sentiment. You can switch between positiv
 
 Germany has a high percentage of mentions (12%) for Customer Service with negative sentiment, indicating potential service-related complaints.
 
+The heatmap allows users to filter by top 3, top 5, or top 10 values or manually select regions to compare specific segments.
+
+![Screenshot 2025-03-06 at 12.23.49.png](<../assets/images/Screenshot 2025-03-06 at 12.23.49.png>)
 
 
