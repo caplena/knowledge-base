@@ -98,16 +98,31 @@ These tools provide flexibility and depth to your analysis, making it easier to 
 
 ## Sharing Reports 
 
-The "Share" feature allows you to easily share your reports with others. By default, anyone with the link can view the report. However, for added security, you can customize access by:
+Sharing reports allows you to collaborate with your team or external stakeholders while maintaining control over access levels. Follow these steps to share reports effectively.
 
-![Screenshot 2024-11-27 at 16.05.21.png](<../assets/images/Screenshot 2024-11-27 at 16.05.21.png>)
+**Access the Sharing Options**
+
+- Open the report you want to share.
+- Click on the "Share" button in the top-right corner.
+- A pop-up window will appear, displaying sharing options.
+
+![Screenshot 2025-03-12 at 09.39.48.png](<../assets/images/Screenshot 2025-03-12 at 09.39.48.png>)
+
+**Share with Team Members (Internal Sharing)**
+
+Caplena allows you to share reports with specific team members by adding their email addresses.
+
+- In the "People with access" section, enter the email addresses of colleagues you want to invite.
+- Assign permissions (Edit/View) to control their level of access.
+- Click "Done" to save the changes.
+
+**Share Externally (Public Sharing)**
+
+For users outside your organization, Caplena provides a shareable link:
+
+- In the "Access outside of your organization" section, toggle Shareable Link.
+- Copy the generated link and share it with external users.
+- (Optional) Set a password for additional security.
+- (Optional) Add an expiration date to limit access over time.
 
 
-**Setting a Password (Optional):**
-Add a password to restrict access. Only users with the password will be able to open the report.
-
-**Adding an Expiry Date (Optional):**
-Set an expiration date for the link, after which the report will no longer be accessible.
-
-**Copying the Link:**
-Use the "Copy Link" button to quickly share the report with stakeholders via email, chat, or other platforms.
