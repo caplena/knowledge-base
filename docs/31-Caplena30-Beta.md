@@ -12,7 +12,8 @@ stoplight-id: mmvhw1ztcw2id
 
 Fully rebuilt reports with support for quantitative variables, segmentation, trend detection, NPS driver simulation and advanced filtering.
 
-![Screenshot 2025-03-13 at 17.58.18.png](<../assets/images/Screenshot 2025-03-13 at 17.58.18.png>)
+![Screenshot 2025-03-14 at 13.04.00.png](<../assets/images/Screenshot 2025-03-14 at 13.04.00.png>)
+
 
 
 
@@ -20,21 +21,23 @@ Fully rebuilt reports with support for quantitative variables, segmentation, tre
 
 Discover new topics after the initial setup and continue to monitor upcoming themes in your tracking surveys and online reviews.
 
-![Screenshot 2025-03-13 at 17.59.36.png](<../assets/images/Screenshot 2025-03-13 at 17.59.36.png>)
+![Screenshot 2025-03-14 at 13.04.17.png](<../assets/images/Screenshot 2025-03-14 at 13.04.17.png>)
+
 
 
 ### Alerting
 
 Configure alerts on changes or occurences of specific topics or get a regular digest with the most important developments.
 
-![Screenshot 2025-03-13 at 18.01.18.png](<../assets/images/Screenshot 2025-03-13 at 18.01.18.png>)
+![Screenshot 2025-03-14 at 13.04.25.png](<../assets/images/Screenshot 2025-03-14 at 13.04.25.png>)
+
 
 
 ### InsightChat
 
 Dig into the data with a conversational interface, now integrated in the app. Want to pick up a past conversation? Jump back in with the new history feature.
 
-![Screenshot 2025-03-13 at 18.03.16.png](<../assets/images/Screenshot 2025-03-13 at 18.03.16.png>)
+![Screenshot 2025-03-14 at 13.04.08.png](<../assets/images/Screenshot 2025-03-14 at 13.04.08.png>)
 
 
 
@@ -46,7 +49,9 @@ Got questions about Caplena V3? We’ve got answers!
 Switching to V3 is easy! You can seamlessly switch between the current version and V3 directly within the app at the top right.
 
 📌 Check out how to do this:
-![Caplena_How_To_access_V3.gif](../assets/images/Caplena_How_To_access_V3.gif)
+
+![Caplena_How_To_access_V31-ezgif.com-crop.gif](../assets/images/Caplena_How_To_access_V31-ezgif.com-crop.gif)
+
 
 
 ### What will happen to my projects?
