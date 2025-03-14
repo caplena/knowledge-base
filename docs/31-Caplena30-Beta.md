@@ -43,9 +43,11 @@ Dig into the data with a conversational interface, now integrated in the app. Wa
 Got questions about Caplena V3? We’ve got answers! 
 
 ### How do I access V3?
-Switching to V3 is easy! You can seamlessly toggle between the current version and V3 directly within the app.
+Switching to V3 is easy! You can seamlessly switch between the current version and V3 directly within the app.
 
 📌 Check out how to do this:
+![Caplena_How_To_access_V3.gif](../assets/images/Caplena_How_To_access_V3.gif)
+
 
 
 ### What will happen to my projects?
