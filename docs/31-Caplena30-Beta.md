@@ -51,7 +51,9 @@ Got questions about Caplena V3? We’ve got answers!
 Switching to V3 is easy! You can seamlessly switch between the current version and V3 directly within the app at the top right.
 
 📌 Check out how to do this:
-![Caplena_How_To_access_V3.gif](../assets/images/Caplena_How_To_access_V3.gif)
+
+![Caplena_How_To_access_V31-ezgif.com-crop.gif](../assets/images/Caplena_How_To_access_V31-ezgif.com-crop.gif)
+
 
 
 
