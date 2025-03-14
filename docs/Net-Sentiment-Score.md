@@ -4,36 +4,35 @@ stoplight-id: 9zbbwxxhpa1ie
 
 ## Insight Elements Explained
 
+Insight Elements in Caplena are powerful visualization tools that help you analyze, interpret, and present your text data in a clear and meaningful way. They allow you to quickly identify key themes, trends, and sentiments across your dataset. Below, you’ll find information on some of the key Insight Elements.
 
-### What is the Net Sentiment Score?
+
+### Net Sentiment Score
 
 The Net Sentiment Score is a key metric used to measure the overall sentiment of your text data. Each comment is classified as positive, negative, or neutral based on its content and the topics assigned to it. This classification follows the same principles as the Net Promoter Score (NPS), providing a simple and effective way to understand the general sentiment of your feedback.
 
-### How is the Net Sentiment Score Calculated?
+ **How is the Net Sentiment Score Calculated?**
 
 The score is calculated by subtracting the percentage of negative texts from the percentage of positive texts. This gives us a Net Sentiment Score that ranges from -100 (representing 100% negative texts) to 100 (representing 100% positive texts).
 
 A higher score indicates more positive sentiment, while a lower score suggests a predominance of negative sentiment.
 
-### How Can I Use the Net Sentiment Score?
+**How Can I Use the Net Sentiment Score?**
 
 The Net Sentiment Score can be used as a KPI to be tracked over time. It can be a great supplement in addition to the NPS or any other satisfaction measure. However, it can be used as a score in its own right, and is specifically powerful when no rating-based score is available, e.g. for social media tracking or any other purely text-based project.
 
-### Visualizing the Net Sentiment Score
+**Visualizing the Net Sentiment Score**
 
 ![Screenshot 2025-01-03 at 13.54.51.png](<../assets/images/Screenshot 2025-01-03 at 13.54.51.png>)
 
 
 The Insight Element above shows the current Net Sentiment Score on the left and the sentiment trend over time on the right. In this example, 78.2% of the total text feedback is positive, and 7.9% is negative, resulting in a Net Sentiment Score of 70.3.
 
-## Trending Positive and Negative Topics
+### Trending Positive and Negative Topics
 
 
-### What are Trending Positive an Negative Topics?
 
 ![Screenshot 2025-01-03 at 16.13.02.png](<../assets/images/Screenshot 2025-01-03 at 16.13.02.png>)
-
-
 
 
 
@@ -46,7 +45,7 @@ Each topic in these sections is evaluated based on its sentiment, with visual re
 - **Responses:** The number of responses related to each topic.
 - **Responses Trend:** The fluctuation or growth of responses over time.
 
-### How can I use these scores?
+**How can I use these scores?**
 
 - **Identify areas of success (Positive Topics):** Use the Trending Positive Topics section to monitor which aspects of your service or product are performing well and generating positive sentiment. This can help you focus on your strengths.
 
@@ -56,7 +55,7 @@ Each topic in these sections is evaluated based on its sentiment, with visual re
 
 - **Evaluate response growth:** The Responses Trend indicates whether certain topics are generating more attention, which could either reflect growing dissatisfaction or increasing interest in a positive aspect.
 
-## Markdown Block
+### Markdown Block
 
 
 ![Screenshot 2025-01-30 at 12.40.54.png](<../assets/images/Screenshot 2025-01-30 at 12.40.54.png>)
@@ -77,7 +76,7 @@ Each topic in these sections is evaluated based on its sentiment, with visual re
 
  Now, let's explore how to add and manipulate text and images effectively.
 
- ### Multicolumn Layout
+**Multicolumn Layout**
 
  Markdown allows you to organize your content into multiple columns, making reports more structured and visually engaging.
 
@@ -105,7 +104,7 @@ For users who prefer a more visual editing experience, the Rich Text Editor prov
 
 - **Live Preview:** Instantly see how your formatted content will appear.
 
-### Using Markdown for Image Control
+ **Using Markdown for Image Control**
 
 If you need greater flexibility with image placement and sizing, Markdown provides an easy way to adjust image width.
 
