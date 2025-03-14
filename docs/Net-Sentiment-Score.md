@@ -147,9 +147,9 @@ If you need greater flexibility with image placement and sizing, Markdown provid
 
 ![Screenshot 2025-01-30 at 17.34.23.png](<../assets/images/Screenshot 2025-01-30 at 17.34.23.png>)
 
-## Heatmap
+### Topic Breakdown / Heatmap
 
-The Heatmap in Caplena is a powerful tool designed to help users compare different brands, segments, or geographies based on key topics. This visualization allows for quick identification of trends by using color-coded intensity levels, making it easier to understand large datasets at a glance.
+This insight element in Caplena is a powerful tool designed to help users compare different brands, segments, or geographies based on key topics. This visualization allows for quick identification of trends by using color-coded intensity levels, making it easier to understand large datasets at a glance.
 
 ![Screenshot 2025-03-06 at 10.49.13.png](<../assets/images/Screenshot 2025-03-06 at 10.49.13.png>)
 
@@ -168,6 +168,12 @@ One of the most valuable aspects of the heatmap is the yellow-highlighted boxes,
 A difference is considered meaningful when it is large enough that it’s unlikely to have happened by chance. In Caplena, a difference is highlighted when the probability of the difference occurring randomly (p-value) is below 5% (0.05).
 
 For example, if Customer Service is mentioned 40% of the time in Brazil and 81% in the USA, this difference is meaningful.
+
+In addition to the traditional heatmap view, you can now switch to a bar chart layout to make comparisons even more intuitive. The bar chart allows for an easier side-by-side comparison of topics across different segments.
+
+![Screenshot 2025-03-14 at 12.51.11.png](<../assets/images/Screenshot 2025-03-14 at 12.51.11.png>)
+
+Key differences are now marked with **a star (*)**, helping you quickly identify significant variations in the data.
 
 You can also use Heatmap together with Sentiment. You can switch between positive, neutral and  negative comments.
 
