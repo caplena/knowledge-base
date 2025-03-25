@@ -193,4 +193,8 @@ The heatmap allows users to filter by top 3, top 5, or top 10 values or manually
 
 ![Screenshot 2025-03-06 at 12.23.49.png](<../assets/images/Screenshot 2025-03-06 at 12.23.49.png>)
 
+Check out the video guide below for a quick walkthrough:
+
+https://youtu.be/X6foyU3NC18
+
 
