@@ -41,9 +41,16 @@
       ]
     },
     {
-      "type": "item",
+      "type": "group",
       "title": "Data Access / Manipulations",
-      "uri": "docs/12-Data-Manipulations.md"
+      "uri": "docs/12-Data-Manipulations.md",
+      "items": [
+        {
+          "type": "item",
+          "title": "Appending Data to Existing Project",
+          "uri": "docs/Appending-Data.md"
+        }
+      ]
     },
     {
       "type": "group",
