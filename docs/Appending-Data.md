@@ -22,6 +22,8 @@ Then, in the top right corner, click “Add new rows”.
 In the import screen:
 
 - Drag and drop your file or browse to upload
+
+>Please note that your data file no longer needs to have the same column order or number of columns as before.
 - (Optional) Give your data source a name to help you keep track
 - Make sure your file includes column headers as the first row
 - Click Continue to proceed
