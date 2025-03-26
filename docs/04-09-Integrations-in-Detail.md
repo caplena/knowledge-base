@@ -217,27 +217,20 @@ Input Format: `https://www.tripadvisor.com/Attraction_Review-<location>/<place-i
 
 ### Brandwatch
 
-Our Brandwatch integration simplifies the process of importing social media query results directly into Caplena for analysis. Here's how you can set it up:
+Caplena allows you to seamlessly import data from Brandwatch, so you can analyze your social listening insights in just a few clicks. This guide walks you through how to connect your Brandwatch queries and set up a new Caplena project.
 
-1. **Accessing Account Settings:** Start by accessing your Caplena account settings. Navigate to "Integrations" and select Brandwatch.
+![Screenshot 2025-03-26 at 14.05.39.png](<../assets/images/Screenshot 2025-03-26 at 14.05.39.png>)
 
-![Screenshot 2024-04-10 at 16.39.06.png](<../assets/images/Screenshot 2024-04-10 at 16.39.06.png>)
+**Step 1:** **Prepare Your Brandwatch Project**
 
-2. **Adding Brandwatch Account:** Click on the "Add Account" button. Fill in the required details including the connection name, username, password, and your project name. **Please note** that you can find the project name in your Brandwatch account.
+In Brandwatch, data is organized under Projects and Queries. A query is essentially a saved search, which pulls in relevant mentions or posts.
 
-![Screenshot 2024-04-10 at 16.43.13.png](<../assets/images/Screenshot 2024-04-10 at 16.43.13.png>)
+**Make sure:**
 
-3. **Connecting Account:** Once you've filled in the details, click on "Connect Account" to finalize the setup.
+1. You have selected the right Project in Brandwatch (see example below).
+2. You’ve created or selected the Query you want to import.
 
-![Screenshot 2024-04-10 at 16.26.38.png](<../assets/images/Screenshot 2024-04-10 at 16.26.38.png>)
 
-4. **Importing Data:** With the setup complete, you can now import your data. Navigate to "Projects" in Caplena, click on "Import Data", and select Brandwatch from the integration list. Choose the account and query from which you'd like to import your data.
-
-![Screenshot 2024-04-10 at 16.51.57.png](<../assets/images/Screenshot 2024-04-10 at 16.51.57.png>)
-
-Here's a quick video demonstrating all the steps mentioned above:
-
-<https://youtu.be/qEtocKmrBbY>
 
 ### Qualtrics
 
