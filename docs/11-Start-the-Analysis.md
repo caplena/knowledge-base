@@ -111,3 +111,44 @@ Sentiment analysis is an important feature that helps determine whether response
 
 >Use AI Suggestions: Look at the AI-generated suggestions on the right to remove potentially similar topics.
 
+## Topic Assistant
+
+The Topic Assistant in Caplena helps you uncover and organize potential new topics based on your dataset. It intelligently suggests themes that haven’t yet been assigned, speeding up your analysis and revealing hidden patterns.
+
+**🔍 Where to Find It**
+
+![Screenshot 2025-04-08 at 11.41.56.png](<../assets/images/Screenshot 2025-04-08 at 11.41.56.png>)
+
+Once your data has been uploaded and analyzed, go to the Topics View. You’ll see a “Topic Assistant” tab, which includes:
+
+- **New Topics:** Suggestions for completely new topics.
+- **Similar Topics:** Suggestions to merge or relate similar existing topics.
+- **Discarded Topics:** Suggestions you previously removed but can revisit.
+
+![Screenshot 2025-04-08 at 11.46.01.png](<../assets/images/Screenshot 2025-04-08 at 11.46.01.png>)
+
+**✨ How to Use It**
+
+**1. Review Suggested Topics**
+
+Each suggestion contains:
+- A category (e.g., USAGE)
+- A topic (e.g., Satisfaction)
+
+These are detected automatically from patterns in your dataset that haven’t been covered by existing topics.
+
+**2. Add or Discard Suggestions**
+
+- Click “Add topic” to incorporate the suggestion into your topic model.
+- Click “Discard suggestion” if it's not relevant (you can always check it again in the Discarded tab).
+
+You can always rename or regroup added topics later to better fit your structure.
+
+Topic Assistant is especially helpful when adding new waves of data to an existing project. It automatically scans the new entries for emerging topics or shifts in focus — allowing you to quickly spot and include them without manually reviewing all the new responses.
+
+This is ideal for:
+
+- Tracking trends over time
+- Capturing campaign-specific themes
+- Maintaining a clean and up-to-date topic structure
+
