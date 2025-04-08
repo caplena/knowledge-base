@@ -142,7 +142,7 @@ These are detected automatically from patterns in your dataset that haven’t be
 - Click “Add topic” to incorporate the suggestion into your topic model.
 - Click “Discard suggestion” if it's not relevant (you can always check it again in the Discarded tab).
 
-You can always rename or regroup added topics later to better fit your structure.
+>You can always rename or regroup added topics later to better fit your structure.
 
 Topic Assistant is especially helpful when adding new waves of data to an existing project. It automatically scans the new entries for emerging topics or shifts in focus — allowing you to quickly spot and include them without manually reviewing all the new responses.
 
