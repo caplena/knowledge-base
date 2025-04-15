@@ -49,6 +49,11 @@
           "type": "item",
           "title": "Appending Data to Existing Project",
           "uri": "docs/Appending-Data.md"
+        },
+        {
+          "type": "item",
+          "title": "Replace Rows",
+          "uri": "docs/Replace-Rows.md"
         }
       ]
     },
