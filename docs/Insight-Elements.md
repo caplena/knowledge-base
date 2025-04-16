@@ -236,6 +236,8 @@ Taking `BRAND PERCEPTION / Overall perception` as an example. This topic has the
 -	The topic is mentioned often (n = 191, see under mentions in the screenshot), but other topics are mentioned at a higher frequency. However, driver strength and the number of positive mentions of the topic eventually determine the net impact.
 The net impact shows the current impact or current contribution to a score or rating. In the case of the NPS and the above example, the net impact of `BRAND PERCEPTION / Overall perception` is 9.1, which means that this topic contributes 9.1 points to the NPS, whereas 3.8 are lost by the negative impact of `DEALS & PRICING / Price`.
 
+>Note that now the driver chart supports NPS and 5 Star Raing as dependent variable. Other performance metrics will be added shortly.
+
 ###### Suggestions for improvement
 For each topic we show AI-generated suggestions based on the open text data as well as the driver calculations. In the example above, the three suggestions take up several aspects of the chosen topic `NETWORK QUALITY / Connectivity & coverage`, but also takes and angel beyond the topic when relations are being discovered such as the pricing.
 
