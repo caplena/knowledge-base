@@ -225,7 +225,7 @@ The impact or the driver strength can be very different for each individual topi
 * Taking `DEALS & PRICING / Price` as another example. A negative price perception has a very strong negative impact on the likelihood to recommend. At the same time, a positive perception does not impact / drive the likelihood to recommend very much. On this topic, one can only avoid punishment, but there is not much to gain on the positive side. Following the Kano model, this could indicate a so called “hygiene driver”, meaning that customers expect attractive prices, but react strongly when perceived otherwise.
 
 ##### Net impact
-The impact per row is an interpretation on a case basis. Any given topic might be a very strong driver with a very high impact on a customer’s likelihood to recommend, but **to measure the overall impact on a KPI over the total sample we need to consider the frequency*** in which that topic was mentioned.
+The impact per row is an interpretation on a case basis. Any given topic might be a very strong driver with a very high impact on a customer’s likelihood to recommend, but **to measure the overall impact on a KPI over the total sample we need to consider the frequency** in which that topic was mentioned.
 
 For the net impact calculation we **multiply the driver strength with the frequency of a topic mentioned** allowing us to determine to what extend the NPS (in our example) is influenced overall.
 
