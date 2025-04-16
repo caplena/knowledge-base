@@ -219,7 +219,7 @@ Add filters to only show a subset of all rows. Filters are also applied to expor
 
 The view options allow you to specify a couple of settings which define the appearance of your data:
 * **Display additional columns:** Which additional data columns from your project to show below the text. 
-* **Group identical responses:** If enabled (default), duplicate texts are only shown once. [
+* **Group identical responses:** If enabled (default), duplicate texts are only shown once.
 * **Show Translations:** If enabled, the translations are shown instead of the original text. This is the default if translations were enabled for the project when importing the data. See also [here](13-LProject-Settings.md).
 
 ![Screenshot 2024-12-04 at 16.41.58.png](<../assets/images/Screenshot 2024-12-04 at 16.41.58.png>)
