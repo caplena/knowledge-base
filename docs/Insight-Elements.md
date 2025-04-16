@@ -1,5 +1,5 @@
 ---
-stoplight-id: 9zbbwxxhpa1ie
+stoplight-id: uzng7su8iu1pq
 ---
 
 ## Insight Elements Explained
