@@ -199,16 +199,18 @@ https://youtu.be/X6foyU3NC18
 
 ### Driver Table
 
+Key driver analysis is a powerful way of measuring the relative impact of topics on a KPI. The following explains in detail how we utilize this in Caplena combining the categorization of the open ended text comments together with ratings and performance measures.
+
 The driver table is based on a driver analysis aiming to help you to **understand the impact of a topic mentioned on a performance metric**, such as the likelihood to recommend, overall satisfaction, star rating, etc.
 
 The driver table includes four key elements 👇
 
 | Chart Section                   | Details                |
 | ------------------------------- | ---------------------- |
-| **Impact per row**                  | Measuring the impact on the perfromance metric on an individual basis. <br> Based on a multiple regression analysis.     |
+| **Impact per row**                  | Measuring the impact on the performance metric on an individual basis. <br> Based on a multiple regression analysis.     |
 | **Net impact**                      | Showing the current impact on the performance metric. <br> Based on the driver strength (impact per row) and the frequency of the topic mentioned.     |
 | **Suggestions for improvement**     | AI-generated suggestions and recommendations on how to improve key topics, helping you to take the right actions to boost satisfaction.   |
-| **Driver Impact vs. Mentions**                          | A scatter plot to visualize strength & weaknesses by visualiy combining driver strength and frequency. <br> *See second screenshot, the visualization can be switched on.*|
+| **Driver Impact vs. Mentions**                          | A scatter plot to visualize strength & weaknesses by visually combining driver strength and frequency. <br> *See second screenshot, the visualization can be switched on.*|
 
 The following screenshot shows an example with the likelihood to recommend (NPS) as dependent variable.
 
@@ -239,7 +241,7 @@ The net impact shows the current impact or current contribution to a score or ra
 >Note that now the driver chart supports NPS and 5 Star Raing as dependent variable. Other performance metrics will be added shortly.
 
 ###### Suggestions for improvement
-For each topic we show AI-generated suggestions based on the open text data as well as the driver calculations. In the example above, the three suggestions take up several aspects of the chosen topic `NETWORK QUALITY / Connectivity & coverage`, but also takes and angel beyond the topic when relations are being discovered such as the pricing.
+For each topic we show AI-generated suggestions based on the open text data as well as the driver calculations. In the example above, the three suggestions take up several aspects of the chosen topic `NETWORK QUALITY / Connectivity & coverage`, but also takes and angle beyond the topic when relations are being discovered such as the pricing.
 
 ###### Driver Impact vs. Mentions
 A click on the icon at the top left of this section will switch from the suggestion to the scatter plot showing the relative impact of a topic by the extension to the right (positive impact) and to the left (negative impact). The vertical axis gives an indication of the frequency.
