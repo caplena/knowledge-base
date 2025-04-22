@@ -197,13 +197,13 @@ Check out the video guide below for a quick walkthrough:
 
 https://youtu.be/X6foyU3NC18
 
-### Driver Table
+### Driver Analysis
 
 Key driver analysis is a powerful way of measuring the relative impact of topics on a KPI. The following explains in detail how we utilize this in Caplena combining the categorization of the open ended text comments together with ratings and performance measures.
 
-The driver table is based on a driver analysis aiming to help you to **understand the impact of a topic mentioned on a performance metric**, such as the likelihood to recommend, overall satisfaction, star rating, etc.
+The driver analysis is aiming to help you to **understand the impact of a topic mentioned on a performance metric**, such as the likelihood to recommend, overall satisfaction, star rating, etc.
 
-The driver table includes four key elements 👇
+The driver analysis includes four key elements 👇
 
 | Chart Section                   | Details                |
 | ------------------------------- | ---------------------- |
@@ -248,5 +248,7 @@ A click on the icon at the top left of this section will switch from the suggest
 
 ![Bildschirmfoto 2025-04-16 um 16.55.49.png](<../assets/images/Bildschirmfoto 2025-04-16 um 16.55.49.png>)
 
+Check out the video guide below for a quick walkthrough:
 
+https://www.youtube.com/watch?v=eqvRyJ8EiHY
 
