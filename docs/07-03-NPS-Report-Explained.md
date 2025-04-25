@@ -119,35 +119,16 @@ This insight element provides an overview of the most prominent topics and their
 
 ### NPS Drivers
 
-The "NPS Drivers" insight helps you identify the key factors impacting your Net Promoter Score (NPS). It provides an overview of how different topics influence NPS, helping you focus on areas to improve or sustain customer satisfaction.
+Driver analysis is a powerful tool in Caplena that helps you understand which topics have the biggest influence on key performance metrics — such as likelihood to recommend (NPS), overall satisfaction, star rating, and more.
 
-![Screenshot 2024-11-29 at 10.28.05.png](<../assets/images/Screenshot 2024-11-29 at 10.28.05.png>)
+By combining open-ended responses with quantitative ratings, Caplena calculates the relative impact of each topic on your selected KPI. This allows you to identify which areas are truly driving performance — and which ones may be holding it back.
 
-**1. Driver Summary (Top-Left Section):**
+For example, if "Product quality" is consistently mentioned alongside low satisfaction ratings, the analysis will highlight this as a potential negative driver. On the other hand, if "Customer service" frequently appears in highly rated feedback, it may surface as a strong positive driver.
 
-A text-based summary of the most impactful topics driving your NPS.
+Driver analysis gives you clear, data-backed insights to guide strategic decisions and prioritize improvements.
 
-**How to use it:**
-
-- Identify areas for improvement or focus, such as product quality, customer service, or pricing.
-- Each topic includes actionable insights (e.g., “Improve overall quality by addressing glitches and inconsistencies”).
-
-**2. Coefficients (Impact per Row) (Top-Middle Chart):**
-
-The effect of each topic on individual responses, broken down by sentiment
-
-**How to use it:**
-
-- Evaluate how much influence a specific topic has on individual responses.
-- Focus on reducing negative impact areas and leveraging positive contributors.
-
-**3. Overall Net Impact (Top-Right Chart):**
-
-The aggregated impact of each topic on the overall NPS. Longer green bars indicate higher positive contributions. Shorter bars (or red bars, if applicable) indicate minimal or negative contributions.
-**How to use it:**
-
-- Pinpoint which topics have the greatest influence on overall satisfaction.
-- Use this to prioritize efforts, focusing on impactful areas.
+👉 For more details on how it works and how to interpret the results, check out this article:
+[Driver Analysis in Caplena](https://caplena.stoplight.io/studio/knowledge-base:v3?)
 
 ### NPS Score Breakdown
 
