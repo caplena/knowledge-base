@@ -128,7 +128,7 @@ For example, if "Product quality" is consistently mentioned alongside low satisf
 Driver analysis gives you clear, data-backed insights to guide strategic decisions and prioritize improvements.
 
 👉 For more details on how it works and how to interpret the results, check out this article:
-[Driver Analysis in Caplena](https://caplena.stoplight.io/studio/knowledge-base:v3?)
+[Driver Analysis in Caplena](https://caplena.com/docs/knowledge-base/branches/v3/vq49kyqjngzva-driver-analysis)
 
 ### NPS Score Breakdown
 
