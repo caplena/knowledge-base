@@ -128,9 +128,31 @@
       "uri": "docs/07-03-NPS-Report-Explained.md"
     },
     {
-      "type": "item",
+      "type": "group",
       "title": "Understanding Insight Elements",
-      "uri": "docs/Insight-Elements.md"
+      "uri": "docs/Insight-Elements.md",
+      "items": [
+        {
+          "type": "item",
+          "title": "Net Sentiment",
+          "uri": "docs/Insight-Elements-Net-Sentiment.md"
+        },
+        {
+          "type": "item",
+          "title": "Markdown",
+          "uri": "docs/Markdown-Block.md"
+        },
+        {
+          "type": "item",
+          "title": "Topic Breakdown",
+          "uri": "docs/Heatmap.md"
+        },
+        {
+          "type": "item",
+          "title": "Driver Analysis",
+          "uri": "docs/Driver-Analysis.md"
+        }
+      ]
     },
     {
       "type": "item",
@@ -151,47 +173,6 @@
       "type": "divider",
       "title": "📋 Settings & Administration"
     },
-    {
-      "type": "item",
-      "title": "General Settings",
-      "uri": "docs/General-Settings.md"
-    },
-    {
-      "type": "item",
-      "title": "Users & Team Management",
-      "uri": "docs/08-01-Teams-and-Users.md"
-    },
-    {
-      "type": "item",
-      "title": "Third Party Services",
-      "uri": "docs/10-Third-Party-Services.md"
-    },
-    {
-      "type": "item",
-      "title": "Credits",
-      "uri": "docs/03-05-Credits.md"
-    },
-    {
-      "type": "item",
-      "title": "Limits and Warnings",
-      "uri": "docs/03-04-Limits-and-Warnings.md"
-    },
-    {
-      "type": "item",
-      "title": "Subscriptions",
-      "uri": "docs/03-06-Subscriptions.md"
-    },
-    {
-      "type": "divider",
-      "title": "📺 News & Product Updates"
-    },
-    {
-      "type": "item",
-      "title": "Caplena 3.0 Beta",
-      "uri": "docs/31-Caplena30-Beta.md"
-    }
-  ]
-}
 
 
 
