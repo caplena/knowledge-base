@@ -1,6 +1,5 @@
 ---
 stoplight-id: 2784zjo1mosah
-internal: true
 ---
 
 # Integrations in Detail
@@ -140,7 +139,6 @@ The `hl` parameter defines the language of the reviews. If you do not set this p
 
 As of right now, we support different Amazon stores: US, UK, DE, ES, IT, CA, IN, JP, AU, FR, BR, TR, AE, SA, MX, NL, SG, PL, SE, EG, BE. In addition, we support two different URL formats, one with and one without name.
 
-
 Input Format:
 
 - with name: `https://www.amazon.<country>/<name>/dp/<ASIN>`
@@ -211,64 +209,3 @@ Input Format: `https://www.tripadvisor.com/Attraction_Review-<location>/<place-i
 `https://www.tripadvisor.com/Attraction_Review-g187497-d190146-Reviews-Basílica_de_la_Sagrada_Família-Barcelona_Catalonia.html`\
 `https://www.tripadvisor.com/Attraction_Review-g60763-d105127-Reviews-Central_Park-New_York_City_New_York.html`\
 `https://www.tripadvisor.com/Attraction_Review-g294265-d324542-Reviews-Gardens_by_the_Bay-Singapore.html`
-
-## Connected Accounts
-
-### Brandwatch
-
-Caplena allows you to seamlessly import data from Brandwatch, so you can analyze your social listening insights in just a few clicks. This guide walks you through how to connect your Brandwatch queries and set up a new Caplena project.
-
-![Screenshot 2025-03-26 at 14.05.39.png](<../assets/images/Screenshot 2025-03-26 at 14.05.39.png>)
-
-**Step 1:** **Prepare Your Brandwatch Project**
-
-In Brandwatch, data is organized under Projects and Queries. A query is essentially a saved search, which pulls in relevant mentions or posts.
-
-**Make sure:**
-
-1. You have selected the right Project in Brandwatch (see example below).
-2. You’ve created or selected the Query you want to import.
-
-
-
-### Qualtrics
-
-Integrating Qualtrics with Caplena enables efficient analysis of qualitative data collected through Qualtrics surveys. This integration streamlines the entire process from data collection to insights generation, offering a comprehensive view of survey results.
-
-To connect Qualtrics with Caplena, follow these steps:
-
-1. **Access Account Settings**
-2. **Select Integrations** (at the bottom of the menu list)
-3. **Select Qualtrics** (from the list showing at the top right)
-
-![Screenshot 2024-05-13 at 17.16.25.png](<../assets/images/Screenshot 2024-05-13 at 17.16.25.png>)
-
-The next step would be to fill in the following fields:
-
-![Screenshot 2024-05-14 at 11.11.18.png](<../assets/images/Screenshot 2024-05-14 at 11.11.18.png>)
-
-- **Connection name** - The "Connection Name" is a label you assign to your integration setup for easy identification. Choose a name that makes sense to you and helps distinguish this specific integration from others you may have set up.
-
-- To locate **the API Key** for your Qualtrics account, follow these steps:
-
-1. Log in to your Qualtrics account.
-2. Navigate to Account Settings.
-3. Select "Qualtrics IDs"
-4. Look for the API section, where you will find your API Key.
-
-- To find **the Datacenter information** for your Qualtrics account, follow these steps:
-
-1. Log in to your Qualtrics account.
-2. Go to Account Settings.
-3. Look for the "Qualtrics IDs"
-4. You'll find the Datacenter under the User section
-
-![Screenshot 2024-05-14 at 12.10.57.png](<../assets/images/Screenshot 2024-05-14 at 12.10.57.png>)
-
-You are all set now and you can create your project. Click on [Import Data / New Project](https://caplena.com/app/upload), and select Qualtrics from the list of integrations under "Connected Accounts".
-
-![Screenshot 2024-05-14 at 13.22.38.png](<../assets/images/Screenshot 2024-05-14 at 13.22.38.png>)
-
-Choose the account and survey from which you'd like to import your data.
-
-![Screenshot (28).png](<../assets/images/Screenshot (28).png>)
