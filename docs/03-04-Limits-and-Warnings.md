@@ -9,11 +9,11 @@ We enforce some reasonable limits on the data to ensure smooth processing on our
 ## Data Limits
 
 ### Project Limits
-- 20,000 characters maximum per text value (fixed limit).
-- 25 "Text to Analyze" columns allowed per project. (If you need more, contact Caplena Support.)
-- 200 columns total for file uploads.
-- 50 MB maximum file size for uploads (no strict size limit for CSV files).
-- 500 links maximum when importing via integrations.
+- **20,000** characters maximum per text value (fixed limit).
+- **25** "Text to Analyze" columns allowed per project. (If you need more, contact Caplena Support.)
+- **200** columns total for file uploads.
+- **50** MB maximum file size for uploads (no strict size limit for CSV files).
+- **500** links maximum when importing via integrations.
 
 
 
