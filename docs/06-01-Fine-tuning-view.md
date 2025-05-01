@@ -181,6 +181,8 @@ This is the index of the row in the project you uploaded / imported into Caplena
 
 ![Screenshot 2024-12-04 at 14.30.32.png](<../assets/images/Screenshot 2024-12-04 at 14.30.32.png>)
 
+> When you upload data to a project in Caplena, each row gets assigned a number called an upload index. These numbers start at 1 and go up as you add more data — kind of like row numbers that show the order in which data was added. However, you might notice that the numbers aren't always perfectly sequential (for example, you might see rows numbered 105, 106, then suddenly 350). This is normal and can happen for a few reasons: Duplicate rows may be hidden by default, so it looks like some numbers are missing. If a data upload fails or is canceled, the system skips those “reserved” numbers. If you delete rows, their numbers aren't reused — they simply disappear from the visible list. So while upload indices are a helpful way to reference data manually, they shouldn't be used in any automated process or code that assumes they’ll always be clean and consecutive.
+
 
 
 #### 7. Bulk Select Checkbox
