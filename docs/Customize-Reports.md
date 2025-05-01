@@ -106,7 +106,8 @@ Sharing reports allows you to collaborate with your team or external stakeholder
 - Click on the "Share" button in the top-right corner.
 - A pop-up window will appear, displaying sharing options.
 
-![Screenshot 2025-03-12 at 09.39.48.png](<../assets/images/Screenshot 2025-03-12 at 09.39.48.png>)
+![Screenshot 2025-05-01 at 15.56.31.png](<../assets/images/Screenshot 2025-05-01 at 15.56.31.png>)
+
 
 **Share with Team Members (Internal Sharing)**
 
@@ -124,5 +125,17 @@ For users outside your organization, Caplena provides a shareable link:
 - Copy the generated link and share it with external users.
 - (Optional) Set a password for additional security.
 - (Optional) Add an expiration date to limit access over time.
+
+**Embed a Report in Other Platforms**
+
+You can also embed a Caplena report directly into a website, or any other tool.
+
+- After enabling the Shareable Link, click “Copy embed code”.
+
+- Paste the code into any tool that supports HTML or iframe embedding 
+
+- The embedded report will update automatically as you make changes in Caplena.
+
+🔒 External users viewing the embedded report do not need a Caplena account.
 
 
