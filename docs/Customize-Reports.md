@@ -138,4 +138,8 @@ You can also embed a Caplena report directly into a website, or any other tool.
 
 🔒 External users viewing the embedded report do not need a Caplena account.
 
+For more information, please watch the video:
+
+https://youtu.be/N0pJQw0VDUU
+
 
