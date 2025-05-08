@@ -80,21 +80,46 @@ Insight Elements in Caplena help you visualize and analyze your data effectively
 
 ## Filtering Options
 
-This section allows you to customize and refine your data analysis, ensuring that you can view the insights most relevant to your needs. Below is a quick guide to the key options available on the left side of the interface:
+Caplena’s Filters and Segments are powerful tools that let you zoom in on the data that’s most relevant to your analysis. Whether you're comparing brands, analyzing different markets, or focusing on a specific time period, these features help you extract truly meaningful insights.
 
 ![Screenshot 2024-12-09 at 18.13.42.png](<../assets/images/Screenshot 2024-12-09 at 18.13.42.png>)
 
 
-**Segments:**
-Choose how you want to segment the data. For example, you can view the analysis for "Overall" data or break it down by specific segments relevant to your study, such as demographics, product types, or regions.
-
 **Filters:**
-Apply filters to focus on specific data points or exclude irrelevant ones. This option helps narrow down your insights based on conditions like sentiment, topics, or other criteria.
+
+Filters let you refine your data to only include responses that meet certain conditions.
+Select criteria like Brand, Country, Rating. Combine multiple filters for more targeted insights — e.g., 1/2-star reviews for Brand One in Germany.
+
+![Screenshot 2025-05-08 at 15.03.56.png](<../assets/images/Screenshot 2025-05-08 at 15.03.56.png>)
+
+
+
+Filtered data updates the report instantly, helping you stay focused on what really matters.
+
+> Filters are useful if you want to spot trends quickly, for example, seeing what’s driving negative feedback for a specific brand, region, or time period.
+
+**Save Filters as Segment**
+
+After setting your filters, you can save them as a segment for quick reuse:
+
+- Click “Save selected filters as segment” at the bottom of the filter panel.
+
+- It will appear in your Segments menu, ready to apply anytime.
+
+![Screenshot 2025-05-08 at 15.11.38.png](<../assets/images/Screenshot 2025-05-08 at 15.11.38.png>)
+
+> Segments are especially powerful for side-by-side comparisons. For example: compare Brand One vs. Brand Two, or see how feedback differs between Germany and France.
+
+![Screenshot 2025-05-08 at 15.18.50.png](<../assets/images/Screenshot 2025-05-08 at 15.18.50.png>)
+
+
 
 **Date Range:**
-Adjust the timeframe for your analysis by selecting predefined options like "All time" or setting custom dates. Additionally, compare your data to a previous period to identify trends and changes over time.
 
-These tools provide flexibility and depth to your analysis, making it easier to derive actionable insights tailored to your goals.
+Time-based filters help track trends and shifts. Use presets like “Last 30 days” or set a custom date range.Compare current results with a previous period to see changes over time.
+
+![Screenshot 2025-05-08 at 15.28.26.png](<../assets/images/Screenshot 2025-05-08 at 15.28.26.png>)
+
 
 ## Sharing Reports 
 
