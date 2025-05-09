@@ -57,4 +57,4 @@ Coming Soon!
 
  **Bring in your Data using API**
 
-If you want to automate your workflow or connect Caplena directly to your systems, you can import data using our API. View [API documentation]() for details on how to get started.
+If you want to automate your workflow or connect Caplena directly to your systems, you can import data using our API. View [API documentation](https://caplena.com/docs/developers/b41b5a3efb0a9-introduction) for details on how to get started.
