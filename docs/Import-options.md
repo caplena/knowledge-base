@@ -15,11 +15,11 @@ stoplight-id: ukhs92l9cpk9e
 
 **Step 2: Enter Project Details**
 
-- **Project Name & Description:** Give your project a clear name and optional description to help provide context.
+- **Project Name & Context:** Give your project a clear name and, optionally, add some context, like your target audience or the goal of the analysis, to help the AI generate more accurate and relevant insights.
 
 - **Main Language:** Select the primary language of your text data. If needed, you can enable Automatic Translation later.
 
-![Screenshot 2025-02-06 at 15.43.26.png](<../assets/images/Screenshot 2025-02-06 at 15.43.26.png>)
+![Screenshot 2025-05-09 at 14.52.27.png](<../assets/images/Screenshot 2025-05-09 at 14.52.27.png>)
 
 
 
@@ -49,7 +49,7 @@ You can directly upload your data file in one of the following supported formats
 
 **2) Use One of Our Integrations**
 
-You can streamline your setup process using one of our integrations. Please find more info [here] (04-09-Integrations-in-Detail.md)
+You can streamline your setup process using one of our integrations. Please find more info [here](04-09-Integrations-in-Detail.md)
 
 
 **3) Copy and Paste Your Data**
