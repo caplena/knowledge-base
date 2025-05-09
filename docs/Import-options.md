@@ -49,7 +49,8 @@ You can directly upload your data file in one of the following supported formats
 
 **2) Use One of Our Integrations**
 
-Coming soon!
+You can streamline your setup process using one of our integrations. Please find more info [here) (04-09-Integrations-in-Detail.md)
+
 
 **3) Copy and Paste Your Data**
 
