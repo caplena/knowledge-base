@@ -42,16 +42,19 @@ Once you've configured everything, click "Continue" to proceed to data import.
 Here you can select one of the options to import your data:
 
 
-**1) Upload a File**
+ **Upload a File**
 
 You can directly upload your data file in one of the following supported formats:
 .xls, .xlsx, .csv, .txt, .spss, or .sav. Please see [this article](04-01-Import-Data.md) for more detailed information.
 
-**2) Use One of Our Integrations**
+**Use One of Our Integrations**
 
 You can streamline your setup process using one of our integrations. Please find more info [here](04-09-Integrations-in-Detail.md)
 
-
-**3) Copy and Paste Your Data**
+**Copy and Paste Your Data**
 
 Coming Soon!
+
+ **Bring in your Data using API**
+
+If you want to automate your workflow or connect Caplena directly to your systems, you can import data using our API. View [API documentation]() for details on how to get started.
