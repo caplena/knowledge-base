@@ -20,7 +20,7 @@
     },
     {
       "type": "group",
-      "title": "Import Options",
+      "title": "Initial Setup",
       "uri": "docs/Import-options.md",
       "items": [
         {
@@ -59,7 +59,7 @@
     },
     {
       "type": "group",
-      "title": "Project Settings",
+      "title": "Advanced Settings",
       "items": [
         {
           "type": "item",
