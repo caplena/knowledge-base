@@ -2,7 +2,7 @@
 stoplight-id: ukhs92l9cpk9e
 ---
 
-# Importing data into Caplena
+# Setting up a project
 
 
 
