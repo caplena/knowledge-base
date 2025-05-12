@@ -2,36 +2,38 @@
 stoplight-id: n3cuant6i94ec
 ---
 
-# Project Settings
+# Advanced Project Settings
 
-When you click "New Project", a settings window will appear allowing you to configure your project before importing data. 
+When setting up a new project in Caplena, you’ll notice a few optional settings that can significantly improve your analysis, especially when working with multilingual or sensitive data. Two of the most useful are Translation and Anonymization. Here's a quick overview of what they do and when to use them.
 
-![Screenshot 2025-03-26 at 19.28.43.png](<../assets/images/Screenshot 2025-03-26 at 19.28.43.png>)
-
-
-
-- ***Project Name***
-This is the title that will appear in your project list. Choose something clear and descriptive so you can easily find it later.
-
-- ***Project Context (optional)***
-This is a helpful section where you can briefly describe what the project is about, who the respondents are, and what your overall goals are. This information helps the AI generate more relevant insights.
+![Screenshot 2025-05-12 at 17.14.11.png](<../assets/images/Screenshot 2025-05-12 at 17.14.11.png>)
 
 
-- ***Tags (optional)***
-Tags help you organize your projects, especially if you have many. For example: “Customer Survey 2025” or “Social Media Feedback”.
+ ## 🌍 Translation
 
-- ***Main Language (Topics Language)***
- Main language is the language in which you create your topic collection ana analyze your data. You can choose from the supported languages in the list.
+Caplena allows you to analyze data in many different languages. If your dataset contains responses in multiple languages, you can enable the Translation option during project setup. Caplena will then automatically translate responses into your selected main project language before analyzing them.
 
- 
+**Use it when:**
 
-💡 If your dataset includes responses in multiple languages, no worries! You can enable automatic translation.
+- Your file contains responses in multiple languages
 
-- ***Automatic Translation***
-Toggle this on if you want Caplena to translate incoming responses into your main language before analysis. Then, choose your preferred translation engine.
+- You want unified topic and sentiment analysis in one language
 
- - ***Anonymize Text Comments (optional)***
-Enable this if you want Caplena to automatically hide personal details like names or email addresses in your responses. Great for privacy-sensitive datasets.
+ **Bonus:** You’ll still be able to view the original text alongside the translated version.
+
+ **Read more about Translation [here](09-01-Languages.md)**
+
+ ## 🕵️‍♂️ Anonymization
+
+To help protect respondent privacy, Caplena can automatically anonymize personal information in your dataset. When you enable Anonymization, names, email addresses, and other identifiable information will be detected and masked automatically.
+
+**Use it when:**
+
+- Your data includes personal information you want to remove
+
+- You're working with GDPR-sensitive responses
+
+**Read more about Anonymization [here](04-07-Anonymize-text-comments.md)**
 
 
 
