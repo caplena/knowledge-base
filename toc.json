@@ -60,12 +60,9 @@
     {
       "type": "group",
       "title": "Advanced Settings",
+      "uri": "docs/13-Project-Settings.md",
       "items": [
-        {
-          "type": "item",
-          "title": "General Settings",
-          "uri": "docs/13-Project-Settings.md"
-        },
+  
         {
           "type": "item",
           "title": "Anonymization",
