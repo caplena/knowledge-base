@@ -133,6 +133,29 @@ Filters are a powerful tool that help you narrow down your dataset to focus on s
 
 ![Screenshot 2024-12-05 at 18.01.01.png](<../assets/images/Screenshot 2024-12-05 at 18.01.01.png>)
 
+## Adding or Replacing Data
+
+Need to update your dataset? You can easily add new rows or replace existing ones directly from the data panel.
+
+![Screenshot 2025-05-12 at 11.42.51.png](<../assets/images/Screenshot 2025-05-12 at 11.42.51.png>)
+
+
+**Add Rows:** Append new entries without removing what's already there. Useful for continuous data collection.
+
+Learn how to add rows [here](Appending-Data.md).
+
+
+**Replace Rows:**  Overwrite your current dataset with a new file, ideal for correcting or refreshing the dataset. You can use this feature to fully or partially update variables in additional columns, or even modify responses in the open-ended text column.
+
+Learn how to replace rows [here](Replace-Rows.md).
+
+## Exporting Data
+
+In this view, you can export your data either in full or based on specific filters you've applied, allowing you to download exactly the subset of responses you need for further analysis or reporting.
+
+![Screenshot 2025-05-12 at 11.56.59.png](<../assets/images/Screenshot 2025-05-12 at 11.56.59.png>)
+
+
 
 
 
