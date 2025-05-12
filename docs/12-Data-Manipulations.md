@@ -11,7 +11,8 @@ The Data Tab offers a centralized location for managing and preparing your datas
 
 To access it, navigate to the Data Tab from the sidebar:
 
-![Screenshot 2024-12-05 at 17.10.38.png](<../assets/images/Screenshot 2024-12-05 at 17.10.38.png>)
+![Screenshot 2025-05-12 at 10.40.37.png](<../assets/images/Screenshot 2025-05-12 at 10.40.37.png>)
+
 
 The Data Tab consists of:
 
@@ -97,6 +98,28 @@ When working with large datasets, it’s helpful to keep specific columns visibl
 3. To unpin a column, click the pin icon again, and the column will return to its original position in the table.
 
 ![Screenshot 2024-12-05 at 17.43.43.png](<../assets/images/Screenshot 2024-12-05 at 17-2.43.43.png>)
+
+**Favorite Columns**
+
+Favorite Columns let you quickly access your most-used fcolumns when working with data in Caplena. This feature is especially helpful when you’re dealing with many columns and want to streamline your view and filtering options.
+
+
+**How to Mark a Column as Favorite:**
+
+1. Hover over any column header in your dataset.
+
+2. Click the ⭐️ icon next to the column name.
+
+3. The star will turn blue, this means it’s now saved as a favorite.
+
+![Screenshot 2025-05-12 at 10.53.50.png](<../assets/images/Screenshot 2025-05-12 at 10.53.50.png>)
+
+You can mark multiple columns as favorites, and they will all appear at the top of relevant selection lists.
+
+When you mark a column as a favorite, it will appear at the top of dropdown menus (e.g., when selecting filters), making it quicker to find and use.
+
+![Screenshot 2025-05-12 at 10.57.03.png](<../assets/images/Screenshot 2025-05-12 at 10.57.03.png>)
+
 
 ## Filtering Data
 
