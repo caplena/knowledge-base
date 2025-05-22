@@ -2,7 +2,61 @@
 stoplight-id: c7crk1hsev913
 ---
 
-# Teams and Users - User Management
+# User Roles & Permissions in Caplena
+
+Caplena supports different user types and flexible permission settings to fit various collaboration needs. Here's how access works, what roles are available, and how to manage permissions.
+
+## Core vs. Reporting-Only Users
+
+## 👨‍💼 Core Users
+
+Core users have full platform access (depending on level of permission) and can:
+
+- View, create, and edit projects and reports
+
+- Tag, filter, and analyze data
+
+- Use and manage integrations
+
+- Set up alerts, manage teams, and configure permissions
+
+>Use Core roles for team members who need full functionality in Caplena.
+
+## 📊 Reporting-Only Users
+
+Reporting-only users have view-only access to reports shared with them.
+
+They cannot:
+
+- Access or edit projects
+
+- Create or edit reports
+
+- Interact with alerts, or integrations
+
+>Best for stakeholders or clients who only need to view live reports.
+
+## How to Add Users
+
+**To add users to your Caplena workspace:**
+
+1. Go to your Account > Team section
+
+2. Click the red "Invite" button in the top-right corner
+
+3. Choose between Single user or Multiple 'Reports-only' users
+
+4. Enter the user’s email address and assign a role
+
+5. Click "Invite" or "Bulk Invite" to confirm
+
+![Screenshot 2025-05-22 at 11.38.05.png](<../assets/images/Screenshot 2025-05-22 at 11-2.38.05.png>)
+
+You can invite Reporting-only users in bulk by pasting a list of email addresses and names (one per line).
+
+![Screenshot 2025-05-22 at 11.55.54.png](<../assets/images/Screenshot 2025-05-22 at 11.55.54.png>)
+
+> You have unlimited Reporting-only user slots. Core users are limited based on your subscription.
 
 ## How Permissions Work
 
