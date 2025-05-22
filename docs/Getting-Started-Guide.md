@@ -50,18 +50,20 @@ If **sentiment detection** is enabled, Caplena will classify comments as positiv
 ▶ For More information, please follow this link 
 
 ### STEP 4: Review AI Assignments
-1. Go to Topics view
-2. Review a few responses and confirm or correct AI topic assignments
-3. This helps fine-tune your results and improve quality
-4. You can also restructure your topic collection as needed
+1. Go to **Topics view**
+2. **Review** a few responses and confirm or correct AI topic assignments
+3. This helps fine-tune your results and **improve quality**
+4. You can also **restructure** your topic collection as needed
 ▶ For More information, please follow this link 
 
 ### STEP 5: Visualize & Share Your Insights
-Head over to Reports and create a new report using a template or from scratch
-Customize charts by filtering or changing the layout in Edit mode
-Create a couple of segments to compare results
-Share your report with your colleagues internally or with other stakeholders externally
+1. Head over to **Reports** and create a new report using a **template** or **from scratch**
+2. **Customize** charts by filtering or changing the layout in Edit mode
+3. Create a couple of **segments** to compare results
+4. **Share** your report with your colleagues internally or with other stakeholders externally
 ▶ For More information, please follow this link 
-STEP 6:  Ask Questions with Insight Chat
-Insight Chat lets you explore your data using natural language to get instant answers, uncover trends, and save hours of manual review. Simply type your question to get an instant answer.
+
+### STEP 6:  Ask Questions with Insight Chat
+**Insight Chat** lets you explore your data using natural language to get instant answers, uncover trends, and save hours of manual review. Simply type your question to get an instant answer.
+
 ▶ For More information, please follow this link 
