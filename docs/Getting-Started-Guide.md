@@ -23,7 +23,7 @@ Caplena helps you quickly turn open-ended survey responses, reviews, and other u
 
 - **Anonymization:** To automatically mask personal information.
 
-▶ For More information, please follow this link
+▶ For More information, [please follow this link](https://caplena.com/docs/knowledge-base/branches/v3/ukhs92l9cpk9e-setting-up-a-project)
 
 ### Step 2: Upload and Validate Your Data
 1. Upload your file (**Excel, CSV**, etc.) or connect an integration
@@ -31,7 +31,7 @@ Caplena helps you quickly turn open-ended survey responses, reviews, and other u
 3. Use **additional columns** (age, gender, etc.) for later filtering/segmentation
 4. Click **"Validate"** and then **"Continue"** to start uploading
 
-▶ For More information, please follow this link
+▶ For More information, [please follow this link](https://caplena.com/docs/knowledge-base/branches/v3/85eh1l8jcavy0-upload-a-file)
 
 ### STEP 3: Generate Topics with AI
 1. Click **"Start Analysis"** to let Caplena identify key themes in your data
@@ -47,23 +47,24 @@ You can:
 
 If **sentiment detection** is enabled, Caplena will classify comments as positive, neutral, or negative, helping you understand tone at a glance
 
-▶ For More information, please follow this link 
+▶ For More information, [please follow this link](https://caplena.com/docs/knowledge-base/branches/v3/5ykfg42sjns9x-start-the-analysis-initial-topic-generation)
 
 ### STEP 4: Review AI Assignments
 1. Go to **Topics view**
 2. **Review** a few responses and confirm or correct AI topic assignments
 3. This helps fine-tune your results and **improve quality**
 4. You can also **restructure** your topic collection as needed
-▶ For More information, please follow this link 
+
+▶ For More information, [please follow this link](https://caplena.com/docs/knowledge-base/branches/v3/b2f8d57b8eb95-fine-tuning) 
 
 ### STEP 5: Visualize & Share Your Insights
 1. Head over to **Reports** and create a new report using a **template** or **from scratch**
 2. **Customize** charts by filtering or changing the layout in Edit mode
 3. Create a couple of **segments** to compare results
 4. **Share** your report with your colleagues internally or with other stakeholders externally
-▶ For More information, please follow this link 
+▶ For More information, [please follow this link](https://caplena.com/docs/knowledge-base/branches/v3/4pfyu4yr0gois-creating-reports)
 
 ### STEP 6:  Ask Questions with Insight Chat
 **Insight Chat** lets you explore your data using natural language to get instant answers, uncover trends, and save hours of manual review. Simply type your question to get an instant answer.
 
-▶ For More information, please follow this link 
+▶ For More information, [please follow this link](https://caplena.com/docs/knowledge-base/branches/v3/b8yglz42n4bdo-insight-chat) 
