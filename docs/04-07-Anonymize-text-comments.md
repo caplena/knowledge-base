@@ -10,7 +10,7 @@ If your plan includes anonymization, you can toggle it in the Project settings:
 
 ![Screenshot 2025-03-27 at 11.43.51.png](<../assets/images/Screenshot 2025-03-27 at 11.43.51.png>)
 
-When you you click Continue, you can select which types of information you'd like to anonymize—such as email addresses, phone numbers, or usernames. Simply check the relevant boxes in the Anonymization Settings panel.
+When you you click Continue, you can select which types of information you'd like to anonymize,such as email addresses, phone numbers, or usernames. Simply check the relevant boxes in the Anonymization Settings panel.
 
 For more granular control, expand the Advanced Settings section. This allows you to:
 

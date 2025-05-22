@@ -36,6 +36,20 @@ In this view, you can easily review and edit your data without the need to reupl
 
 This feature allows for quick corrections, such as fixing typos or updating incorrect information, saving time compared to reprocessing the entire dataset.
 
+> Each time you edit a verbatim on the Data page, 1 credit is used, no matter how small the change.
+
+**This includes:**
+
+- Fixing typos
+
+- Changing punctuation
+
+- Rewording part of a sentence
+
+- Any adjustment that alters the text content
+
+Why? Because Caplena reprocesses each edited entry to ensure your insights stay consistent across sentiment, topics, and reports.
+
 **Removing Rows and Columns Permanently**
 
 If you find certain rows or columns irrelevant or erroneous, you can remove them directly:
