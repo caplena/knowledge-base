@@ -16,6 +16,15 @@
     },
     {
       "type": "divider",
+      "title": "📘 Getting Started"
+    },
+    {
+      "type": "item",
+      "title": "Getting Started Guide",
+      "uri": "docs/Getting-Started-Guide.md"
+    },
+    {
+      "type": "divider",
       "title": "📚 Setting up a new project"
     },
     {
@@ -62,7 +71,6 @@
       "title": "Advanced Settings",
       "uri": "docs/13-Project-Settings.md",
       "items": [
-  
         {
           "type": "item",
           "title": "Anonymization",
