@@ -20,13 +20,46 @@ For more granular control, expand the Advanced Settings section. This allows you
 
 ![Screenshot 2025-03-27 at 11.47.59.png](<../assets/images/Screenshot 2025-03-27 at 11.47.59.png>)
 
-📝 **Allow-List**
+## Allow-list and Block-list
 
-Need to retain specific terms (like brand names or product models)? Use the Allow-list to exclude them from anonymization.
+You now have control over block-lists and allow-lists directly in the platform. These lists let you define which words should always be anonymized and which should never be anonymized.
+
+![Screenshot 2025-05-27 at 17.02.53.png](<../assets/images/Screenshot 2025-05-27 at 17-2.02.53.png>)
+
+
 
 - Click “Add term”
 - Paste a list from Excel to bulk-add
 - Matching is case-insensitive
+
+**🛠 How It Works**
+
+- Case insensitive – “Smith” and “smith” are treated the same.
+
+- Exact matches only – Only full matches will be considered.
+
+- Whole word match – A match must be a complete word or phrase, not part of a longer one.
+
+**✅ Allow-list examples:**
+
+Names or terms that should NOT be anonymized.
+
+- Smith
+- John Doe
+
+![Screenshot 2025-05-27 at 17.11.09.png](<../assets/images/Screenshot 2025-05-27 at 17.11.09.png>)
+
+**⛔ Block-list examples:**
+
+Words or phrases that should always be anonymized, even if they are not names.
+
+- is
+- very curious
+
+Words or phrases that should always be anonymized, even if they are not names.
+
+![Screenshot 2025-05-27 at 17.15.27.png](<../assets/images/Screenshot 2025-05-27 at 17.15.27.png>)
+
 
 Once you've selected the settings that match your needs, click Continue to move forward with your data import or processing.
 
@@ -40,7 +73,7 @@ The PII is replaced by placeholders indicating what kind of PII has been removed
 
 The anonymization process takes place right after the upload onto the Caplena server. The original data - the data that includes the PII information – will not be visible at any time. For technical reasons, the original data that includes the PII information will remain on the Caplena server for a short period of time, before it will be automatically and permanently deleted from the server and its backup system.
 
-### Anonymization Tips
+## Anonymization Tips
 
 📍 **Address vs. Location**
 
@@ -82,7 +115,7 @@ If you make a mistake, just reach out to us — we’re happy to help and will r
 
 
 
-### Anonymization and Translations
+## Anonymization and Translations
 
 Anonymization operates on the source text and is performed **before** translation. This means that if the source text was anonymized, the translated text will be anonymized too. However, not all languages are supported for anonymization. Here's a list of supported languages:
 
