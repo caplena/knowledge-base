@@ -32,16 +32,23 @@ The impact or the driver strength can be very different for each individual topi
 * Taking `DEALS & PRICING / Price` as another example. A negative price perception has a very strong negative impact on the likelihood to recommend. At the same time, a positive perception does not impact / drive the likelihood to recommend very much. On this topic, one can only avoid punishment, but there is not much to gain on the positive side. Following the Kano model, this could indicate a so called “hygiene driver”, meaning that customers expect attractive prices, but react strongly when perceived otherwise.
 
 ##### Net impact
-The impact per row is an interpretation on a case basis. Any given topic might be a very strong driver with a very high impact on a customer’s likelihood to recommend, but **to measure the overall impact on a KPI over the total sample we need to consider the frequency** in which that topic was mentioned.
+The impact of each row is interpreted on a case-by-case basis. A given topic may be a strong driver with significant influence on customer satisfaction or likelihood to recommend. However,** to assess the overall impact on a KPI across the entire sample, we must also consider how frequently the topic is mentioned**.
 
-For the net impact calculation we **multiply the driver strength with the frequency of a topic mentioned** allowing us to determine to what extend the NPS (in our example) is influenced overall.
+To calculate net impact, **we combine the strength of the driver with the frequency of mentions**, enabling us to determine the extent to which the topic influences the KPI at a broader level.
 
-The impact shown for each row reflects the case-specific interpretation. While a particular topic might be a strong driver of a customer’s likelihood to recommend—indicating high individual impact—it’s important to also consider how frequently that topic is mentioned across the entire sample to understand its overall influence on a KPI.
-To calculate net impact, we multiply the driver strength by the frequency of the topic. This gives us a clearer picture of the topic’s total contribution to the KPI (such as NPS) across the full dataset.
-Taking `BRAND PERCEPTION / Overall perception` as an example. This topic has the highest net impact based on the combination of driver strength and frequency.
--	Even though the negative impact of that topic is very high, when happening for individual customers, in most cases the experience is positive, which is the cause of the strong net contribution.
--	The topic is mentioned often (n = 191, see under mentions in the screenshot), but other topics are mentioned at a higher frequency. However, driver strength and the number of positive mentions of the topic eventually determine the net impact.
-The net impact shows the current impact or current contribution to a score or rating. In the case of the NPS and the above example, the net impact of `BRAND PERCEPTION / Overall perception` is 9.1, which means that this topic contributes 9.1 points to the NPS, whereas 3.8 are lost by the negative impact of `DEALS & PRICING / Price`.
+To calculate the net impact on metrics like CSAT, star rating, or any other average-based KPI, we can multiply a topic’s driver strength by its frequency of mentions. However, this straightforward multiplication does not apply to NPS, as changes in NPS are governed by a non-linear step function—for example, shifting from a score of 2 to 6 does not affect the classification; the respondent remains a detractor.
+
+To address this, we use more **advanced probabilistic modeling to estimate the true net impact on NPS**. This approach accounts for the discontinuities in the scoring system and helps eliminate the “randomness” introduced by the step function, resulting in a more accurate representation of impact.
+
+This provides a clearer understanding of each topic’s overall contribution to the KPI across the entire dataset.
+
+Let’s take `BRAND PERCEPTION / Overall perception` as an example. This topic has the highest net impact due to the combination of its strong driver strength and relatively high frequency of mentions.
+
+- While the negative impact of this topic can be substantial at the individual level, the majority of mentions are positive. This positive skew is what drives its strong overall contribution.
+
+- Although it appears frequently (n = 191, as shown under Mentions in the screenshot), several other topics are mentioned even more often. However, the net impact is ultimately driven by both the strength of the topic as a driver and the volume of positive mentions.
+
+The net impact represents a topic’s current contribution to a score or rating. In the case of NPS, for instance, `BRAND PERCEPTION / Overall perception` contributes +9.1 points, while the negative impact of `DEALS & PRICING / Price results` in a -3.8 point loss.
 
 >Note that now the driver chart supports NPS and 5 Star Rating as dependent variable. Other performance metrics will be added shortly.
 
