@@ -64,7 +64,7 @@ If **sentiment detection** is enabled, Caplena will classify comments as positiv
 4. **Share** your report with your colleagues internally or with other stakeholders externally
 ▶ For More information, [please follow this link](https://caplena.com/docs/knowledge-base/branches/v3/4pfyu4yr0gois-creating-reports)
 
-### STEP 6:  Ask Questions with Insight Chat
-**Insight Chat** lets you explore your data using natural language to get instant answers, uncover trends, and save hours of manual review. Simply type your question to get an instant answer.
+### STEP 6:  Ask Questions with Insight Agent
+**Insight Agent** lets you explore your data using natural language to get instant answers, uncover trends, and save hours of manual review. Simply type your question to get an instant answer.
 
 ▶ For More information, [please follow this link](https://caplena.com/docs/knowledge-base/branches/v3/b8yglz42n4bdo-insight-chat) 
