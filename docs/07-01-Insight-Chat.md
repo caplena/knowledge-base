@@ -2,22 +2,22 @@
 stoplight-id: b8yglz42n4bdo
 ---
 
-# Insight Chat
+# Insight Agent
 
-The Insight Chat is an AI-powered feature in Caplena that allows you to interact with your data using natural language. It simplifies analysis by providing instant responses, visualizations, and summaries, making it easy to uncover actionable insights.
+The Insight Agent is an AI-powered feature in Caplena that allows you to interact with your data using natural language. It simplifies analysis by providing instant responses, visualizations, and summaries, making it easy to uncover actionable insights.
 
-### Why Use Insight Chat?
+### Why Use Insight Agent?
 It streamlines data analysis, enabling faster decisions and more customer-focused strategies to improve satisfaction and efficiency.
 
-### How to Access Insight Chat
-1. Navigate to a project with **NPS or satisfaction scores**.*Currently, Insight Chat works only with projects that have a score column (e.g., NPS or similar satisfaction metrics).*
+### How to Access Insight Agent
+1. Navigate to a project with **NPS or satisfaction scores**.*Currently, Insight Agent works only with projects that have a score column (e.g., NPS or similar satisfaction metrics).*
 
-2. Click on Insight Chat in the project menu on the left.
+2. Click on Insight Agent in the project menu on the left.
 
 3. If prompted, select the column representing your score (e.g., NPS).
 
+![CleanShot 2025-12-05 at 10.56.41.gif](<../assets/images/CleanShot 2025-12-05 at 10.56.41.gif>)
 
-![Screenshot 2024-11-29 at 15.40.07.png](<../assets/images/Screenshot 2024-11-29 at 15.40.07.png>)
 
 Once you select the column, the system will generate a project summary that includes:
 
@@ -112,13 +112,13 @@ Here is the result we get from the system:
 
 ![Screenshot 2024-12-09 at 17.25.25.png](<../assets/images/Screenshot 2024-12-09 at 17.25.25.png>)
 
-### Tips for Maximizing Success with Insight Chat
+### Tips for Maximizing Success with Insight Agent
 
 1. **Start with Specific Prompts**: Frame your questions precisely, such as “Which country has the highest dissatisfaction with flight cancellations?” Specificity helps the system deliver focused insights.
 
 3. **Iterate on Queries:** If initial insights are broad, refine your prompts (e.g., “What are the top complaints about customer service in North America?”) for more granular data.
 
-5. **Compare Regions or Segments**: Use Insight Chat to compare regions, demographics, or customer segments for a clearer understanding of trends and differences.
+5. **Compare Regions or Segments**: Use Insight Agent to compare regions, demographics, or customer segments for a clearer understanding of trends and differences.
 
 
 
